@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/st_sB_8.jpg"  ]
+[preload  storage="./data/bgimage/room5_n.jpg"  ]
+[preload  storage="./data/bgimage/hand2.jpg"  ]
+[preload  storage="./data/bgimage/penag.jpg"  ]
+[preload  storage="./data/bgimage/sinen.png"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[preload  storage="./data/bgimage/hand.jpg"  ]
+[return]

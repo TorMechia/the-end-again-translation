@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/st_sB_2.jpg"  ]
+[preload  storage="./data/bgimage/isiroom_2.jpg"  ]
+[preload  storage="./data/bgimage/sinen.png"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[return]

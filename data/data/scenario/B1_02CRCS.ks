@@ -1,0 +1,151 @@
+[_tb_system_call storage=system/_B1_02CRCS.ks]
+
+[stopbgm  time="1500"  fadeout="true"  ]
+[cm  ]
+[tb_hide_message_window  ]
+[bg  time="2000"  method="crossfade"  storage="st_sB_2.jpg"  ]
+[wait  time="2000"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="m2_piano.ogg"  ]
+[bg  time="1500"  method="crossfade"  storage="isiroom_2.jpg"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=3 ]
+"...Are you okay?" [l][r]
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+"Well, it's not like I'm hurting my body or anything. I'm sleeping soundly now." [l][r]
+"It's not about Chito. It's about you, Yuri." [l][r]
+"...Me?" [l][r]
+
+[r]The voice on the other end of the phone said that it was surprising [r]
+vinegar. There was nothing particularly strange about his voice, but since he didn't reply right away, it didn't seem like his worries were completely unfounded. [l][r]
+"That's right. I think you should worry about yourself a little."[r]
+"Is that so...?" [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Yuri said, paying attention to the sleeping Chito, in a slightly subdued tone, with a hint of self-confidence. I can't see her face, but I can imagine her tilting her head and rolling her blue eyes. [l][r]
+[r] "It may be hard for you to understand since we've been together all this time, but since we only see each other occasionally, I can somehow tell. [l]... Ever since he touched the Kettenkrad and collapsed, I think that Tito has changed little by little. On the other hand, you..." [l][r]
+“I’m fine.[r]
+Nothing has changed.” [l][r]
+"...That's it. That's why I'm worried," I say with a slight sigh. [l][r]
+"Huh?" [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"How many years do you think have passed since then? Two years... three years? It's only natural for people your age to change a lot in that amount of time. But you haven't changed. [l] No, you refuse to change. It even looks like it's coming out.''[r]
+I mean it.[l][r]
+"...Both Tito and you won't tell us what they said or did in the 'other world' back then...I can only imagine."[l][r]
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+[r] "You're saying... it wasn't anything. It's just that I ran out of food and died a normal death over there, and then came here safely." [l][r]
+"I'm sorry... it's not that I don't believe you." [l][r]
+[cm] "It's okay. I'm sorry too. ... Ishii is so kind." [l][r]
+"..." [l][r]
+
+[r]...I think I understand. Who is truly kind? [l][r]
+
+[r]Yuri's story of ``her final moments in the other world'' is, of course, known to be a lie. Me and Kanazawa-kun too. [l][r]
+Even if I don't know exactly what Tito said or what Yuri chose, I can imagine it. It sticks to me. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+...Yuri had chosen to come and see Chito even though he had put such a burden on himself. [l][r]
+
+[r] And he is smiling like nothing has changed. [l][r]
+Even though I lived there for only a short time, my heart still trembles when I think of Yuri's courage and kindness. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Then what about Tito? [l][r]
+Having made such a choice, what is Chito's intention in tying Yuri in front of him now? [l][r]
+
+Normally... [l] No, no one can prescribe the appearance and behavior of a human being, but if I had to say it, [l] Chito stood by Yuri's side to heal her hurt heart. There's nothing wrong with doing it. However, it is actually the opposite. [l][r]
+[r]The one who was more hurt was Chito, and Yuri seemed to be desperately trying to comfort him. [l][r]
+[r]Like wings...[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"Ishii. Hey, are you listening?" [l][r]
+A voice with a dull inflection drew my attention back to the call. [l][r]
+
+[r] “Oh, sorry. What?” [r]
+"This is Kanazawa. I haven't been able to contact you lately. Do you know anything?" [l][r]
+"Oh, it's probably just temporary. Don't worry about it."[l][r]
+“Is that so?” [r]
+"Oh." [l][r]
+
+[r]This was true. Although it is a somewhat delicate matter. [l][r]
+Apparently Kanazawa's wife is pregnant. However, since she is not stable yet, they have asked us to keep her a secret from them for a while. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+``...That's right, I'm arrogant that I understand more about you two than him [r]
+However, when it comes to marital relations, he and his wife would be better counselors than me, who has been single for a long time.''[l][r]
+“Ah, that’s right.…So, we’re not a couple!” [l][r]
+Yuri denies it, looking unusually shy. I guess that's the only thing I'm denying...well, it's okay, the reactions are cute. [l][r]
+
+[r] "As soon as I can contact Kanazawa-kun, I will tell him to contact you as soon as possible." [l][r]
+"...Thank you" [l][r]
+Yuri says that honestly. He doesn't feel guilty about the fact he's keeping it a secret, but his heart still hurts a little. [l][r]
+
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"...There's only one thing I can say for now. Yuri, please don't push yourself too hard." [l][r]
+"Is that impossible?" [r]
+"It means you can run away from something you think you can't do. Just in case Tito thinks you can't handle it..." [l][r]
+
+
+[_tb_end_text]
+
+[cm  ]
+[stopbgm  time="1000"  ]
+[tb_start_text mode=3 ]
+"Wait" [l][r]
+[r]...Yuri cut off my words and threw them away without asking me whether I wanted to or not. For some reason I can't continue speaking. [l][r]
+I felt like I was being followed at gunpoint. It seemed like those blue eyes were silently staring at her right in front of her. But [l][r]
+
+[r] "Wait a minute... I'm sorry. Chi-chan seems to have woken up. I'll contact you again." [l][r]
+However, his voice was calm. It was warm. ``Don't say anything more than that,'' the voice said, threatening but at the same time caring. [l][r]
+
+[r] "...Ah, I understand. Well then" [l][r]
+[_tb_end_text]
+
+[playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  ]
+[tb_start_text mode=3 ]
+With that, I ended the call. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+It felt strange. [l][r]
+It looks scary, but it's warm and loving...and sad. [l][r]
+When those indescribable emotions subsided, the Yuri in my head finally lowered his muzzle and smiled a little sadly. [l][r]
+
+[r]I look for the continuation of the words that crossed my mind a while ago. Yes, those kids...[l][r]
+[_tb_end_text]
+
+[cm  ]
+[bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
+[tb_start_text mode=3 ]
+...It's like clinging to a plane with a broken wing. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[bg  time="2000"  method="crossfade"  storage="black.png"  ]
+[tb_hide_message_window  ]
+[jump  storage="B1_03CRCS.ks"  target=""  ]
+[s  ]
+[cm  ]
+[cm  ]
+[cm  ]
+[cm  ]

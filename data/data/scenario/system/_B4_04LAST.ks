@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/EU2.jpg"  ]
+[preload  storage="./data/bgimage/LT.jpg"  ]
+[preload  storage="./data/bgimage/EU1.jpg"  ]
+[preload  storage="./data/bgimage/white.png"  ]
+[preload  storage="./data/bgimage/bon.png"  ]
+[return]

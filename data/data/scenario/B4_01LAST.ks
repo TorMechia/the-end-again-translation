@@ -1,0 +1,107 @@
+[_tb_system_call storage=system/_B4_01LAST.ks]
+
+[showmenubutton]
+
+[stopbgm  time="1000"  ]
+[cm  ]
+[tb_hide_message_window  ]
+[stopbgm  time="1000"  fadeout="true"  ]
+[bg  time="2000"  method="crossfade"  storage="white.png"  ]
+[bg  time="2500"  method="crossfade"  storage="st_sB_B1.jpg"  ]
+[wait  time="2000"  ]
+[bg  time="1500"  method="crossfade"  storage="town3.jpg"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="car-door-close1.ogg"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=3 ]
+I handed the 10,000 banknotes I rarely carry with me to the driver, told him I didn't need to go fishing, and jumped out of the taxi. [l][r]
+
+[_tb_end_text]
+
+[bg  time="1000"  method="crossfade"  storage="town4.jpg"  ]
+[tb_start_text mode=3 ]
+After checking the nameplate of the apartment, I run up the stairs and stab the key, which I had been forced to take from the real estate agent, into the door of the apartment I was aiming for. [l][r]
+
+[_tb_end_text]
+
+[playse  volume="100"  time="1000"  buf="0"  storage="lockopen.ogg"  ]
+[tb_start_text mode=3 ]
+[r] Turn it to the right intuitively, make sure there is no response, and immediately return it to the left. I felt a click, turned the key around, and pulled it out, getting in the way many times.[r]
+Then he pulled down the door lever. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[bg  time="1500"  method="crossfade"  storage="room7_n.jpg"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="door-close1.ogg"  ]
+[tb_start_text mode=3 ]
+The room was silent. [l][r]
+
+[r] I press the light switch, but the light does not come on. I don't know if the breaker was tripped or if the electricity was turned off. [l][r]
+However, the sun hasn't set yet. When I entered the back of the room and opened the curtains, sunlight poured in and exposed the room. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="curtain-open1.ogg"  ]
+[bg  time="1500"  method="crossfade"  storage="room5_asa.jpg"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="m2_piano.ogg"  ]
+[tb_start_text mode=3 ]
+It's all wild. [l][r]
+
+[r]I don't think this is that meticulous Tito's room, and I don't want to think so. [l][r]
+But you can't be wrong. The address and room number were exactly as I had heard from Yuri. She also has some of Tito's clothes and bags that she had seen lying around. [l][r]
+In the corner of the room, on the desk were books and notebooks that appeared to be university textbooks with names written on them. Minase Chito. ……no doubt. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-vibration2.ogg"  ]
+[tb_start_text mode=3 ]
+The device vibrated in my pocket. [l][r]
+
+[_tb_end_text]
+
+[playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  ]
+[tb_start_text mode=3 ]
+[r] "...Kanazawa, how was it?" [l][r]
+"One thing's for sure... but it seems I'm late. I'm sorry...!" [l][r]
+"No, it's fine. What about the parents?" [l][r]
+"I'm telling them. It seems that Yuri's parents are heading to Japan soon, but as for Chito..." [l][r]
+"I heard that they were estranged after they started dating when she went to university. ...If they're still complaining about my daughter's disappearance, then I can leave them alone."[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+I exhaled and inhaled lightly after exploding an expletive in my stomach. [l][r]
+As if he had been waiting for that, Kanazawa paused for a moment before speaking his next words. [l][r]
+
+[r] “How was Ishii-san?” [l][r]
+"Of course, we still haven't found anything that could be a clue, let alone the two of us. We're currently in Tito's apartment. ... Too much time has passed." [l][r]
+
+[r]I walked around the room while explaining the situation to Kanazawa. It was difficult to find a place to stand, but I didn't want to disturb it any more than I could. [l][r]
+Watching my step carefully, I walk through the room filled with their remains. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[bg  time="1500"  method="crossfade"  storage="bath2.jpg"  ]
+[tb_start_text mode=3 ]
+A very dirty mirror reflected the light dully above the sink in the room, where towels and underwear were scattered. When I looked closely, the stains were letters. [l][r]
+[r] Text written roughly with lip balm or something. ...I followed the clumsy string of letters, thinking that it was an old popular song or an imitation of something. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+“I’m sorry if I upset you. But thank you” [l][r]
+
+[r] “…No, I think you did a good job.[r]
+Yuri.... It's vivid.''[l][r]
+[r] The corner of my mouth, reflected on the other side of the letter, was slightly slack. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[stopbgm  time="2000"  fadeout="true"  ]
+[bg  time="3000"  method="crossfade"  storage="black.png"  ]
+[tb_hide_message_window  ]
+[jump  storage="B4_02LAST.ks"  target=""  ]
+[s  ]
+[cm  ]
+[cm  ]
+[cm  ]
+[cm  ]

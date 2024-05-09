@@ -1,0 +1,133 @@
+[_tb_system_call storage=system/_B1_05CRCS.ks]
+
+[cm  ]
+[tb_hide_message_window  ]
+[bg  time="2000"  method="crossfade"  storage="st_sB_5.jpg"  ]
+[wait  time="2000"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="m4_musicbox.ogg"  ]
+[bg  time="2000"  method="crossfade"  storage="room5_asa.jpg"  ]
+[bg  time="2000"  method="crossfade"  storage="room5.jpg"  ]
+[bg  time="2000"  method="crossfade"  storage="room5_y.jpg"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="curtain-open1.ogg"  ]
+[bg  time="1500"  method="crossfade"  storage="moon.jpg"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=3 ]
+The full moon is looking down on me. [l]I gulp down my beer while staring blankly at it. I don't know how many times this bitter taste and gulp is poured into my stomach, and I feel alive. [l][r]
+That's it. alive. Me and you are both alive. [l][r]
+...Can you say that you're alive? [l][r]
+
+[_tb_end_text]
+
+[playse  volume="100"  time="1000"  buf="0"  storage="CanPeki.ogg"  ]
+[tb_start_text mode=3 ]
+I squeezed the empty can. [l][r]
+[r] Why is it so painful? Why does my heart hurt so much? [l][r]
+[r]My heart wears down every day. I should be happy, but my heart is screaming like a child. [l][r]
+
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+This is already the world where you live. Yuri hugs me no matter how much I cry. I should be happy that that happened. We should be happy that we can be together. [l][r]
+
+[r] But why...? [l][r]
+Tears overflow again. I wipe it off and open the beer pull tab. [l][r]
+[_tb_end_text]
+
+[playse  volume="100"  time="1000"  buf="0"  storage="opening-drinking-can-1.ogg"  ]
+[tb_start_text mode=3 ]
+There were already about four of them lying on the floor. [l][r]
+I drink it. I taste it. But I can't taste it. It's not as bitter as before, and nothing cold is entering my stomach. Why? [l][r]
+[r]Oh shit, shit, shit!　Why so much! ! [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+You really know that, right? [l][r]
+
+[r] Is it you again? Shut up and leave me alone. [l][r]
+
+[r]You're alone. Because we have become one. [l][r]
+
+[r]Don't talk. Get out of my sight. [l][r]
+
+[r]You can't do that. [r]
+I told you so. We are "Tito". What you think about, what you look away from, what you desire. [l][r]
+Do you know everything? [l][r]
+[r] “Noisy!” [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+I can't help but raise my voice. I couldn't hear a voice answering. [l][r]
+I'm out of breath. I'm sweating. A feeling of discomfort envelopes her whole body. To forget about it, I gulp down a beer. [l][r]
+
+[r] Shit, more, lukewarm, I don't feel anything, shit, shit, shit! ! [l][r]
+[r] "Damn..." [l][r]
+[r]Tears flow down my cheeks. [r]
+Why, why? I don't understand why. [l][r]
+
+[cm]I don't know. No matter how much I try to know or understand, I don't understand. [l][r]
+[r]I don't know...no matter how much I think and think, I can't find an answer... [l][r]
+I don't want to think about it anymore... [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"Chi-chan?" [l][r]
+I heard a voice. I slowly turn around. [r]
+Yu is looking at me worriedly [r]
+Ta. [l][r]
+After what happened yesterday, I thought you wouldn't come today. [l][r]
+But before I knew it, it was just a given that they were there. [l][r]
+
+[r] "...Y-you..." [l][r]
+The moment I saw you, something inside me burst [r]
+Ru. The emotions overflowing from within turn into a debris flow and attack me. I can't stop, I can't stop, I don't want to be seen. [l][r]
+but. I'm fed up. That's the limit. [l][r]
+What? I don't even know that. [l][r]
+It's just painful. [r]
+It's just painful! [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"Hig... Yuu... Yuuu!" [l][r]
+"Chi-chan..." [l][r]
+Yu didn't ask me anything. Instead, she approached me and hugged me gently. [l][r]
+That kindness is so great that I start to feel miserable. What's wrong with lying? Hate me, hate me when you see me get so moody so easily. [l][r]
+
+[r]No. It's all a lie. I don't want you to hate me. But it's painful. But I'm happy. What is this. [l][r]
+
+[r] I don't know, I don't know, I don't know. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"I don't understand...I don't understand anything!!" [l][r]
+"Yeah" [l][r]
+"Why are you so kind?
+...You should hate me even more! ”[l][r]
+"It won't happen." [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Yu hugs me tightly. He gently puts his hand on her head and strokes it gently. His actions clearly show that he is not lying. [l][r]
+I must be panicking when I receive it. Happiness, anger, sadness, confusion, joy, despair. Not only that, but I was filled with many more incomprehensible emotions. [l][r]
+You are the one who made me so crazy. And you are the only one who can heal me. [l][r]
+[r]It's just for me. My only you. [l][r]
+It's like a drug. [l][r]
+
+[r]All I could do was keep on searching for you. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[bg  time="2000"  method="crossfade"  storage="black.png"  ]
+[stopbgm  time="1000"  fadeout="true"  ]
+[jump  storage="B1_06CRCS.ks"  target=""  ]
+[s  ]
+[cm  ]
+[cm  ]
+[cm  ]
+[cm  ]
