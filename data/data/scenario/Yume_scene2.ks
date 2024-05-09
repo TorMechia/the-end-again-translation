@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/SYume_scene2.ks]
+[_tb_system_call storage=system/_Yume_scene2.ks]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m3.ogg"  ]
@@ -8,90 +8,138 @@
 [bg  time="1500"  method="crossfade"  storage="cafffe2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-“…because none of us committed suicide [r]
-The cause of death was either exhaustion or natural causes. It would be a problem if there was a rule that said, ``If you commit suicide, you will be sent to another world.'' [l][r]
-"That's true, but..." [l][r]
+"Because ...... none of us have killed ourselves[r].
+
+And the cause of death was either fatigue freezing or natural causes. I don't want there to be a rule that says, 'If you commit suicide, you'll be sent to a different world.'"[l][r] "I don't want to be sent to a different world.
+
+"That's true, too. ......"[l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] Drinking coffee in the airport lounge [r]
-We were still talking about the day Tito collapsed. [l][r]
-[cm] "Maybe I was wrong...?" Tito muttered, looking unusually unsure of himself. [l][r]
-"No, I'm not blaming you. I'm just surprised that you were able to make such a choice." [l][r]
-"Really?" [r]
-"Oh, I think it's amazing." [l][r]
-"I'll be happy if..." [r]
-When I honestly praised him, Tito gave me a girlish smile befitting his age. [l][r]
+[r]sipping coffee in an airport lounge[/r].
+
+We were still talking about that day when Tito collapsed. [l][r]
+
+[cm]"Did I get it wrong ......?"  [l][r]
+
+I'm not accusing you of anything. I'm just surprised you made that choice."[l][r].
+
+[r] "Yeah?" [r]
+
+Yeah, I think it's great."[l][r].
+
+I'd be happy to ......."[r]
+
+When I gave her an honest compliment, Tito gave me a girlish smile that was appropriate for her age. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="bigwall_k.jpg"  ]
 [tb_start_text mode=3 ]
-In the end, it seems that Tito didn't try to force Yuri to come here. [l][r]
-[r]There is no way that Chito would kill Yuri based on an uncertain hypothesis, but even so, it was impressive that she managed to endure it. [l][r]
-I wouldn't say directly, ``Please die,'' but if I were in the same position, I would probably hint at it a little, or leave it up to the other person's decision by saying, ``It's just a hypothesis.'' [l][r]
+In the end, Chito did not try to force Yuri over here, he said. [l][r]
+
+[r]There is no way that Tito would do something like killing Yuri according to an uncertain hypothesis, but even so, he endured it well. [l][r]
+
+I wouldn't directly ask them to die, but if I were in the same position, I would likely hint at it a bit, or decline to say "it's just a theory" and leave it up to their judgment. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sun.jpg"  ]
 [tb_start_text mode=3 ]
-Tito says, ``If you come to a world that is not here [r]
-Look for me in a city called Tokyo,'' he said. [l][r]
-When I asked if they had no address or phone number, [r]
-"Do you think you can remember?" he asked in return. Well, that's right. [l][r]
-[r]Women named Tito are rare and may be enough. [l][r]
-If Yuri is going to look for me, then I'm going to look for him too, which will be much easier than finding the old man. [l][r]
+Tito said, "If I came to a world that is not here [r].
+
+He told them only, "You will find me in a city called Tokyo. [l][r]
+
+I asked him if he had no address or phone number, [r].
+
+Do you think YOU can remember?" I asked back. Well, you're right. [l][r]
+
+A woman named [r]tito is rare and may be sufficient. [l][r]
+
+If Yuri is looking for us, we are looking for him, and it will be much easier than finding Grandpa. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="cafffe2.jpg"  ]
 [tb_start_text mode=3 ]
-"Isn't it about time?" [l][r]
-"...It's still okay." [l][r]
-It's actually quite close, but I also regret saying goodbye. I wanted to see Tito's face a little more. [l][r]
+Isn't it about time?" [l][r]
+
+"...... still okay."[l][r].
+
+The truth is, it was pretty last minute, but I didn't want to say goodbye either. I wanted to see Tito's face a little more. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] Since then, Tito has successfully passed the university entrance exam [r]
-I've been going there for two years already. [l][r]
-After parting ways with ``Moya,'' he was healthy both physically and mentally, and after his grandfather's investigation ended, he rarely saw him. [l][r]
+[r]Tito has successfully passed the college entrance exam[r] since then.
 
-[cm]It seems like college life is fun and busy, and I was also in love with my boyfriend. [l][r]
-[r]Yes, this will be my first honeymoon. [l][r]
-The period is six months, and the delivery time is also six months. [l][r]
-[r]Of course, the lover's name is ``Job.'' [l][r]
+I have been going to the school for two years already. [l][r]
+
+Since parting with the "moya" of the example, he has been in good physical and mental health, and we have seen each other less and less since the investigation of his grandfather was completed. [l][r]
+
+
+[cm]College life seemed fun and busy, and I was in love with my girlfriend. [l][r]
+
+[r][r]Yes, this is the first honeymoon of many that I'm about to fly. [l][r]
+
+The term is six months and the delivery time is six months. [l][r]
+
+[r][r]Of course, the lover's name is "work." [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"What are you going to do now?" [l][r]
-"I probably won't go for a master's degree. I'll start job hunting normally." [l][r]
-"No, it's right after this. Are you going to stop somewhere and go home?" [l][r]
-"Hmm. I'll just watch Ishii's plane fly and then go home." [l][r]
-[r] “I wish you didn’t have to go out of your way to see me off.” [r]
-I said that without being able to hide my happiness, but [l][r]
-"Well, I might fall. I'm worried," Chito replied with a laugh. This guy... [l][r]
+What are you going to do now?" [l][r]
+
+I probably won't go through the master's process. I'll just start job hunting like normal."[l][r].
+
+'Not really, just right after this. Are you going to stop off somewhere and go home?" [l][r]
+
+'Hmm. For now, I'll watch Ishii's plane fly and then go home."[l][r].
+
+[r]"You didn't have to go out of your way to see me off."[r]
+
+I said this without hiding my happiness, but [l][r].
+
+I'm worried about you," Tito says with a laugh. I'm worried about you," Tito replies with a laugh. Koi tsume ....... [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2500"  method="crossfade"  storage="white.png"  ]
 [bg  time="2000"  method="crossfade"  storage="ap2.jpg"  ]
 [tb_start_text mode=3 ]
-I had very little time to go through immigration procedures. After exchanging goodbye with Tito, I hurried off. [l][r]
-[r]Um, which one? To the right? Is it on the left?　[l][r]
-This airport is too big. There are a lot of people and the guides are not friendly. [l][r]
+I was just in time for the departure formalities. After exchanging parting words with Tito, I run in a great hurry. [l][r]
+
+[r]um, which way?　Right?　Left?　[l][r]
+
+This airport is too big. There are too many people and the directions are unfriendly. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Ah. Maybe" [l][r]
-I look at the information board and look for where I should go. [l][r]
-[r] "Hey. Do you remember me?" [l][r]
-A voice with a strange intonation interrupts my thoughts [r]
-Ru. Yeah. It's noisy. [l][r]
-[r] "Hey, Ishii, right? It's me. [r]
-I-ta-shi” [l][r]
-A familiar voice certainly said that. I turned my gaze towards it. [l][r]
+'Ah. Maybe."[l][r].
+
+I look over the information boards and look for where I should be heading. [l][r]
+
+[r]oo] "Hey. Remember me?" [l][r]
+
+Some strange inflection in the voice interrupts my thoughts [r].
+
+I'll be there. Shut up. Shut up. [l][r]
+
+[r]-[r]-"Hey, isn't that ish? It's me. [r]
+
+We..."[l][r].
+
+A familiar voice said sure. I turned my gaze in that direction. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -132,75 +180,105 @@ A familiar voice certainly said that. I turned my gaze towards it. [l][r]
 
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-There was a girl with blue eyes, her long blonde hair tied back, and a strange T-shirt. [l][r]
+There was a blue-eyed girl with long blond hair tied back and wearing a T-shirt with a strange sense of style. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Ah, it's Ishii after all. Yaho" [l][r]
-"Yu... Yuri...?!" [r]
-"That's right. Good, you remembered." [l][r]
-"What the hell are you doing...?! Why and how are you here?!" [l][r]
-"Eh? Just by plane" [l][r]
-"No, that's not it" [r]
-"Hmm? Then what? That's right, where are you going from now on, Ishii?" [l][r]
-Yuri said casually, as if they had met at a convenience store or somewhere. Oh already! ! [l][r]
+'Oh, it's Ishii after all. Yay!"[l][r].
 
-[r]I later realized that this was probably the first time in my two lives that I had been so confused.[r]
-Ta. However, no matter how confused you are, you must avoid missing your flight. [l][r]
+"YU....... Yuri......?!" [r]
+
+'Yes, I did. Good - you remembered."[l][r].
+
+What the hell are you ...... doing here?　Why, how, and how did you get here? [l][r]
+
+What?"[l][r]"What?　Usually by plane."[l][r].
+
+No, not that."[r]
+
+Hmm?"　Then what?　Yes, issii going somewhere from now on too?" [l][r]
+
+Yuri says with such casualness that I wonder if we met at a convenience store or somewhere else. Oh God! [l][r]
+
+
+[r]I thought later that I had probably never been so confused in two lifetimes[r].
+
+I had to get to the airport. But no matter how confused we are, we must avoid just missing the plane. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Okay. That's enough! Sorry, but I'm in a hurry. [r]
-That's another story! Anyway, go to the observation deck over here! ! ”[l][r]
-"Eh, why?" [l][r]
-"Tito is here" [l][r]
-"What!!!" [l][r]
+Enough! I'm sorry, I'm in a hurry!　Sorry, I'm in a hurry. [r]
+
+We'll talk later!　You, anyway, go to the observation deck just over here!" [l][r]
+
+[l][r]"Yeah, why?" [l][r]
+
+Tito is here."[l][r].
+
+Eh!!!!" [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Yuri's blue eyes flashed the same glint that had appeared when he had told her that he had two potatoes for his meal. [l][r]
-“Hurry!” I yell. [l][r]
+[r][r]Yuri's azure eyes flashed the same glint I saw when I told him there were two potatoes in the meal. [l][r]
+
+Hurry!" I shout. [l][r]
+
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="dash-in-room1.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="ap2.jpg"  ]
 [tb_start_text mode=3 ]
-"Understood!" Yuri runs. [l][r]
+Roger!" Yuri running. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-A few seconds after I turned away, I realized [r]
-Ta. As a guide board to where you should go. [l][r]
-I also run at full speed. [l][r]
-[r]Eventually, the procedure was completed successfully and I became the person on the plane. [l][r]
+A few seconds after I saw his back off, I realized [r].
+
+The first time I saw it, it was on a sign. On the signboard to the place where you should go. [l][r]
+
+I run as fast as I can. [l][r]
+
+[r]Eventually the procedure is completed successfully with paper-thin timing and I am on the plane. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="airport-apron-1.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="ap5.jpg"  ]
 [tb_start_text mode=3 ]
-I cursed the idea of ​​going on a business trip at this timing, but then I thought about it again. He's the one who won't get into the water. [l] Oh, isn't that a word only used for couples or parents and children? [l][r]
-Either way, this airport will now be filled with the smiles and tears of two of the happiest people in the world. [l][r]
-Just thinking about it makes me feel warm in my chest like the spring sun.
-[l][r]
+I sincerely cursed the timing of the business trip, but then I reconsidered, well, that's okay. It's called being in the water. [l][l]Oh, is that a word only used for married couples or parents and children? [l][r]
+
+Either way, this airport will now be filled with smiles and tears from the two happiest people in the world. [l][r]
+
+Just imagining it, I felt my heart warm like the spring sun [r].
+
+ [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="fgd.png"  ]
 [tb_start_text mode=3 ]
-"Welcome back...Yuri" [l][r]
-I closed my eyes and mumbled that, and decided to cover the corners of my eyes with a handkerchief so I wouldn't have to touch up my makeup again. [l][r]
+"Welcome Back ...... Yuri" [l][r].
+
+I closed my eyes and muttered to myself, and decided to hold my eyes with a handkerchief beforehand so I wouldn't have to fix my makeup anymore. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="black.png"  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-...The plane flew safely. Don't worry. [l][r]
+...... In addition, the plane flew safely. Rest assured. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

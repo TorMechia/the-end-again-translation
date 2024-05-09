@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/SYume_scene3.ks]
+[_tb_system_call storage=system/_Yume_scene3.ks]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m2.ogg"  ]
@@ -8,34 +8,49 @@
 [bg  time="3000"  method="crossfade"  storage="camp.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"So, how did he really die?
-is? ”[l][r]
-"So I'm not dead." [l][r]
-Chito asked and Yuri answered. The flames flickered across their faces. [l][r]
+So?"　How did he really die [r]?
+
+[l][r][l][r]" [l][r]
+
+I told you, I'm not dead."[l][r].
+
+Tito asks and Yuri answers. The fire glints off their faces. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]This is Nagano. It's on a certain mountain in the Northern Alps. As soon as Ishii-san returned home, we made our travel plans, which had been postponed due to various reasons, come true. [l][r]
-The members are myself, my wife, Ishii-san, and of course Chito and Yuri. If anyone heard that there was one man and four beautiful women camping, they'd probably be stabbed, but it was tough for us. [l][r]
+[r]This is Nagano. This is Nagano, on top of a mountain in the Northern Alps. As soon as Mr. Ishii returned to Japan, we made plans for a trip that had been postponed for a number of reasons. [l][r][l][r].
+
+The group consisted of myself, my wife, Ishii-san, and of course Tito and Yuri. I know it sounds like I'm going to get stabbed if anyone asks me why four beautiful women are camping with one man, but it was a lot of work this way. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="camp1.jpg"  ]
 [tb_start_text mode=3 ]
-Only Yuri and I were physically strong enough to climb the mountain. But Yuri was playing around with Chito the whole time and didn't help out at all. Well, I guess that can't be helped. [l][r]
-[r]I desperately dragged the luggage of nearly three people to the top of the mountain and collapsed, wondering if this was heaven or hell. It would have been better to stay in a mountain hut, but for some reason everyone except me insisted on camping in tents. [l][r]
+Yuri and I were the only two who had the physical strength to climb the mountain properly. Yuri, however, was always playing with Tito and didn't help us with anything. Well, I guess it can't be helped. [l][r]
+
+[I pulled nearly three people's worth of gear to the top of the mountain and collapsed, turning my eyes to wonder if I was in heaven or hell. It was also painful that everyone but me insisted on camping in tents, even though we could have stayed in a mountain lodge. [l][r]
+
 [r]Why? [r]
-Is camping popular for women? [r]
-The equipment is too heavy! [l][r]
+
+Is there a women's camping craze? [r]
+
+You're too heavily equipped! [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="camp.jpg"  ]
 [tb_start_text mode=3 ]
-“I think it would be better if I could come without dying, but then how [r]
-Did you come “this way”? ” Ishii asks, holding a cup of coffee. [l][r]
-"Hmm. I don't know," Yuri said. [l][r]
-“Hey,” Ishii said. [l][r]
+"If you could have come here without dying, that would have been the best thing to do, but then how could you [r]?
+
+You came 'over here'?" Mr. Ishii asks, coffee in hand. [l][r]
+
+I don't know," Yuri said. I don't know," Yuri said. [l][r]
+
+Hey," said Ishii. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -50,83 +65,116 @@ Did you come “this way”? ” Ishii asks, holding a cup of coffee. [l][r]
 *CampEnd
 
 [tb_start_text mode=3 ]
-We managed to make it to the tent site just before sunset, set up the tent, and ate some food. [l][r]
-The climate is mild, and the scenery and air are nice. What's more, there are only beautiful women around. [l][r]
+We managed to reach our tent site before nightfall, set up, and ate dinner. [l][r]
+
+The climate is mild and the scenery and air are nice. On top of that, you are surrounded by beautiful women. [l][r]
+
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="camp2.jpg"  ]
 [tb_start_text mode=3 ]
-It was a very delicious meal, but my wife was just talking to Ishii-san, Tito was just talking to Yuri, and I was mostly alone. Well, I'm used to it. [l][r]
+It was a very nice meal, but my wife kept talking with Mr. Ishii and Tito kept talking with Yuri, and I was mostly alone. Well, I'm used to it. [l][r]
+
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="camp.jpg"  ]
 [tb_start_text mode=3 ]
-[r]And now, we're sitting around a bonfire talking about ``that world.'' Especially the story about how Yuri lived and how he came here. [l][r]
+[r]And now we're sitting around the campfire talking about 'that world'. Especially the story of how Yuri lived and how he came this way. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-“Anyway, I found a lot of canned goods. So I put them in my backpack and decided to go back, and when I opened the door... it was my room. [r]
-Hungarian' [l][r]
+Anyway, I found a bunch of canned goods. So I put them in my backpack, and then I decided to go back, and I opened the door and ...... it was my room. [r]
 
-[r]Yes, Yuri in this world was the child of a Japanese-Hungarian father and a Japanese mother. [l][r]
-His nationality is Japanese. She lives in Japan and Hungary. By the way, his name is "Yuri Kuboy". [l][r]
+Hungarian" [l][r].
+
+
+[r][r]Yes, Yuri in this world was the child of a Japanese-Hungarian father and a Japanese mother. [l][r]
+
+His nationality is Japanese. He lives in Japan and Hungary respectively. By the way, his name is "Yuri Kubo. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-``So, I was wearing my regular T-shirt, I was out of canned food, and I was hungry, so I didn't know what to do, so I ate the snacks I had in my room and booked a flight online.''[l][r ]
-“I think you have the power to take action.” [l][r]
-``Ah, did I just get praised?'' Yuri burst out laughing in joy. [l][r]
-"Oh, I praised you. That's great. That's great." [l][r]
-"Nihehehe" [l][r]
-[r]Yuri is happy like a puppy when Chito pats her on the head. What a peaceful head. [l][r]
+The first thing you need to do is to make sure that you are wearing the right clothes and that you are wearing a T-shirt.
+
+I think you're the man of action."[l][r].
+
+Oh, did I just get a compliment?" Yuri is pleased with a quick smile. [l][r]
+
+I praised him. Good, good. Great, great."[l][r].
+
+Ni-hee-hee-hee."[l][r].
+
+Yuri is happy like a puppy after being patted on the head by [r]tito. It's a peaceful head. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-In other words, if Yuri's story was true, then Chito's hypothesis was wrong. The condition for coming to this world is not necessarily based on "death". [l][r]
-[r] Furthermore, Yuri clearly remembered the time when he met Tito at the location of the vehicle. In other words, there seems to be at least a way to send information from one side to the other. [l][r]
+In other words, if Yuri's story is true, then Tito's hypothesis was wrong. The condition for coming to this world does not necessarily depend on "death." [l][r]
+
+[r]Moreover, Yuri remembered exactly what happened when he and Chito met at the place where the vehicle was located. So it seems there is at least some way to send information from here to there. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"So I decided I had to go to Tokyo, so I told my mom, 'I'm heading to Tokyo for a bit,' and then I biked to the airport, got on a plane, and when I got to Tokyo, Chi-chan was waiting for me!" [l][r]
-[r] Yuri shouts with joy from the bottom of her heart, hugging Chito and rubbing his cheek. [l][r]
-“Stop it, don’t stick around,” Tito protested, hating it from the bottom of his heart. [l][r]
+So anyway, I had to go to Tokyo, so I told my mom, 'I'm going to Tokyo for a while,' and I rode my bike to the airport, got on the plane, and when I arrived in Tokyo, Chi-chan was waiting for me!" [l][r].
+
+[r][r]Yuri exclaims with heartfelt happiness, hugging Tito and rubbing his cheek. [l][r]
+
+[l]"Don't, don't stick together," Tito resists, looking heartily displeased. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]...We all thought it would be too casual, even though our parents' home was in Japan and we were used to traveling back and forth, but we ignored that. [l][r]
-After all, if I continued to listen to what Yuri said, the conversation would never end. [l][r]
+[r]...... We all thought it would be too casual, no matter how much my parents' home is in Japan and I'm used to coming and going, but we went through with it. [l][r]
 
-[cm] Eventually, Yuri reunited with Tito and moved away from his parents' home to stay in Tito's room, who lived near the university. [l][r]
-[r]Although I attended university in Hungary, I went through various procedures and even managed to transfer to the university that Tito attended in Japan. [l][r]
-Apparently, she is a highly promising rifle athlete on a scholarship.[l][r]
+Because if I had to go through every single thing Yuri says, I wouldn't be able to finish the story. [l][r]
+
+
+[cm] Eventually Yuri reunited with Chito and stayed in Chito's room, which was located near the university, away from his parents' home. [l][r]
+
+ [l][r]
+
+She is, after all, quite a promising athlete as a special sports student in rifle competition. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] “You should try a little harder in the department as well.” [l][r]
-"No. Ahaha" [l][r]
-``Most of all, why do you take Russian?
-Yo” [l][r]
-“Because Russian is kind of cool.” [l][r]
+[r]"And the department, you're going to have to work a little harder."[l][r].
+
+No."[l][r]"No. Haha."[l][r].
+
+"In general, why would you take Russian [r]?
+
+Yo" [l][r].
+
+Because there's something cool about Russian."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="yamahosi.jpg"  ]
 [tb_start_text mode=3 ]
-This conversation continued for several hours. Eventually, my wife and Yuri got sleepy and went into their tents. [l][r]
-……picture? Allotment of tent rooms? My wife and Ishii. Chito and Yuri. I'm alone. This is what it is? [l][r]
+We continued this conversation for several hours. Eventually, my wife and Yuri got sleepy and went into their respective tents. [l][r]
+
+...... What?　Tent room assignment?　My wife and Ishii. Tito and Yuri. I'm alone. Like this, what is it? [l][r]
+
 
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-[r]The number of people decreased, and the number of people speaking suddenly decreased. So I was able to ask Tito what he thought after hearing Yuri's story. [l][r]
-Mr. Ishii also said he was interested, so Tito, a little embarrassed, dismissed his previous theory and told me this fairy tale instead. [l][r]
+[r]ith fewer people, there was instantly less talk. So I could ask Tito what he thought of Yuri's story. [l][r]
+
+When Mr. Ishii also expressed interest, Tito, a little embarrassed, dismissed his former hypothesis and instead told me this fairy tale. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -135,78 +183,102 @@ Mr. Ishii also said he was interested, so Tito, a little embarrassed, dismissed 
 [bg  time="2000"  method="crossfade"  storage="isilast.jpg"  ]
 [tb_start_text mode=3 ]
 That city was a symbol of human despair. [l][r]
+
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="lastwall.jpg"  ]
 [tb_start_text mode=3 ]
-[r]Over a long period of time, despair has come to have a mind of its own. [l][r]
+[r]Over a long, long time, despair has become, in itself, like a will. [l][r]
+
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-Despair was very lonely, and wanted to spend a long time enjoying himself with the few people left alive. [l][r]
-Uprooting Kanazawa's precious things, [r]
-He casually broke Ishii's wings. [l][r]
-[r]And approached Tito and Yuri. [l][r]
+Despair was very lonely and wanted to enjoy a long, slow time with the few humans who had survived. [l][r]
+
+Rooting out what Kanazawa holds dear, [r].
+
+The wings of the ishii were split without a hitch. [l][r]
+
+[r][r]Then he approached Tito and Yuri. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="lastwall2.jpg"  ]
 [tb_start_text mode=3 ]
-The timid Chito continues to refuse despair, while the kind Yuri plays along with despair. [l][r]
-[r]I think these two particularly liked Despair. [l][r]
+The timid Chito continued to reject despair, while the gentle Yuri played nice with it. [l][r]
+
+I think [r]despair especially liked these two. [l][r]
+
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="saijousou_non.jpg"  ]
 [tb_start_text mode=3 ]
 
-[r]Then, they used a faint hope as bait to lure them to the top layer, and the three of them tried to fly to the next world together. [l][r]
+[r]Then, using the faintest hope as bait, he lured them to the top level, and the three of them tried to fly to the next world together. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="snow.jpg"  ]
 [tb_start_text mode=3 ]
 But Yuri became one with Tito. [l][r]
-[r]Only Yuri, who no longer plays with me, if not rejects me, remains, [r]
+
+[r]Only Yuri, who stopped playing with me, if not rejecting me, [r]remained.
+
 Only Tito left for the next world. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_start_text mode=3 ]
-Despair must have been very frightening. [l][r]
-And I waited for a once-in-a-lifetime chance. [l][r]
-[r]However, that chance was also crushed by Chito and Yuri. [l][r]
-Desperate, Despair spent time with Yuri who remained. [l][r]
+Despair must have been very impatient. [l][r]
+
+Then he waited for the thousandth chance. [l][r]
+
+[r]But that chance was also squashed by Tito and Yuri. [l][r]
+
+Despairing despair spent time with Yuri, who remained intact. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_start_text mode=3 ]
-And I'm sure he was satisfied. [l][r]
+And I'm sure they were satisfied. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="black.png"  ]
 [bg  time="2500"  method="crossfade"  storage="sky.jpg"  ]
 [tb_start_text mode=3 ]
-The city where despair has disappeared no longer needs Yuri, [l][r]
-It took me on a journey to the next world... [l][r]
+The city where despair has disappeared no longer needs Yuri, [l][r].
+
+To the next world, let me take you on a journey. ...... [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="camp.jpg"  ]
 [tb_start_text mode=3 ]
-...Of course, this is just a fairy tale. There is no basis or probability. [l][r]
-In the end, I don't know anything about the truth, and I doubt whether such a thing even exists in the first place.[r]
-stomach. [l][r]
-So we're going to make this the truth for now. [l][r]
+...... Of course, this is just a fairy tale. There is no argument or probability whatsoever. [l][r]
+
+In the end, we don't know anything about the truth, and I doubt if there is even such a thing in the first place[r].
+
+ [l][r]
+
+So we are going to make this the truth for now. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]We will always accept objections and counter-evidence. Because the wise Tito will reflect it into a new truth. [l][r]
+[r]ecept objections and rebuttals at any time. For the wise Tito will reflect it in the new truth. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -221,63 +293,88 @@ So we're going to make this the truth for now. [l][r]
 [cm  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-After putting out the bonfire, we looked at the starry sky. [l][r]
+We took care of the bonfire and we looked at the stars. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-Kanazawa seemed tired and went to his tent, saying he was going to bed early tomorrow. [l][r]
-[_tb_end_text]
+Kanazawa was tired and said he was going to bed early tomorrow and went into his tent. [l][r]
 
-[cm  ]
-[tb_start_text mode=3 ]
-Ishii said thank you for coming with me. [l][r]
-I said thank you to Ishii for bringing me here. [l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...Are you still awake?" [l][r]
-"Yeah. Just a little more." [l][r]
-"Don't let your body get cold" [l][r]
-[r] After Ishii said that, he went back to his tent. [l][r]
+Ishii thanked me for coming with him. [l][r]
+
+I said to Ishii, thank you for bringing me. [l][r]
+
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+[l][r]"...... still awake?" [l][r]
+
+[l][r]"Yeah. Just a little more."[l][r].
+
+Don't let your body get cold."[l][r].
+
+[r]ishii told me this and then went back to his tent. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="hosi.jpg"  ]
 [tb_start_text mode=3 ]
 Look up at the sky. [r]
-Only stars can be seen in my field of vision. [l][r]
-After watching for a while, I heard footsteps.[l][r]
+
+The only stars in sight. [l][r]
+
+After watching for a while, the sound of footsteps echoed in my ears. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] "Aren't you asleep yet?" [l][r]
-It was you. [r]
-I don't reply with words, but beckon him to come over. [l][r]
+[r]"Aren't you going to bed yet?" [l][r]
+
+It was u. [r]
+
+I don't answer with words, but beckon them to come this way. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] “Hey, hey,” Yu says, looking bothered. [l][r]
-"Hey, it's only once." [l][r]
-“Hey,” Yu comes up next to me with a smile on his face. [l][r]
+[r]"Hey hey hey," Yu says, annoyed. [l][r]
+
+Hay is one time, right?"[l][r].
+
+Heeeeey," and with a smile, Yu comes over to stand next to me. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-And we both looked at the sky again[r]
-Ta. [l] We thought we would never see the starry sky again, just the two of us. [l][r]
+And we both looked at the sky again [r].
+
+I thought I would never be able to see the starry sky again. [l]I thought I would never be able to see again, the starry sky that we would see alone. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]The air is forever clear, and the light shines down on us, transcending tens of thousands of eons. [l][r]
-[r]I looked at Yu. Yu noticed it [r]
+[r][r]The air is clear to all and the light falls on us over thousands and thousands of times. [l][r]
+
+[r]I looked at Yoo. Yoo noticed that [r].
+
 Ku. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Yu had the same smile as usual, but he spread his arms out a little shyly, [l][r]
-[r] "...Come on." [r]
-That's all I said. [l][r]
+
+
+[r]"Come to ......" [r].
+
+I just said. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -287,12 +384,18 @@ That's all I said. [l][r]
 [tb_show_message_window  ]
 [stopbgm  time="3000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-Without saying anything, I jumped into his chest. [l][r]
-Yu didn't say anything and just hugged me tightly. [l][r]
-[r]It was soft. It was warm. [l][r]
-I could hear the heartbeat. [l][r]
+I said nothing and jumped into his chest. [l][r]
+
+Yoo didn't say anything and hugged me tightly. [l][r]
+
+[r]Soft. It was warm. [l][r]
+
+I heard a heartbeat. [l][r]
+
 It was the music of happiness. [l][r]
-[cm]...If everything in the world is what you can see, touch, and feel...[l][r]
+
+[cm]......If seeing, touching and feeling is all there is to the world......[l][r]
+
 [_tb_end_text]
 
 [tb_start_tyrano_code]

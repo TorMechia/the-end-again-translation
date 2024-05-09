@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/SST_scene5.ks]
+[_tb_system_call storage=system/_ST_scene5.ks]
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [bg  time="2000"  method="crossfade"  storage="black.png"  ]
@@ -10,9 +10,12 @@
 [bg  time="2000"  method="crossfade"  storage="sinen.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-...It's a warm breeze. [l][r]
-There don't seem to be many clouds today. [r]
-That's it. Who was that person on that plane? [l]...That's right, Ishii. It's definitely the warm season that person was talking about. [l][r]
+...... It's a warm breeze! [l][r]
+
+Clouds, too, don't seem to be much today. [r]
+
+That's it, isn't it? Who was that guy on the plane? [l]...... Yes, that's Ishii, right? It's the warm period he was talking about. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -20,60 +23,84 @@ That's it. Who was that person on that plane? [l]...That's right, Ishii. It's de
 [playse  volume="100"  time="1000"  buf="0"  storage="sei_ge_jaba01.ogg"  ]
 [bg  time="2000"  method="crossfade"  storage="fact.jpg"  ]
 [tb_start_text mode=3 ]
-I rolled the tank out of the "room" [r]
-The water flowing from the pipe is stored there. [l][r]
-[r]How long will this tank last?[r]
-Na. Well, it's mostly fine. [l] Use the water while it's flowing, and when it stops, use the water from the tank. When it's gone, I'll go look for it again. [l][r]
+I rolled the tank out of the "room" [r].
+
+and let the water flowing from the pipe be stored there. [l][r]
+
+[r]How long will this one tank last[/r]?
+
+Nah. Well, just about. As long as it [l]flows, we use it, and when it stops, we use the water from the tank. When it runs out, we'll go looking for it again. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Now, let's eat rice. [r]
-I think there were about 30 potatoes hanging around. [l][r]
-There weren't as many facilities left as there were on the lower level, but they're running low now... but it's okay! [l][r]
-[r]...I never thought that you could eat the rope the potatoes were hanging from. Even the leaves. [l][r]
-I ate it knowing that it might contain poison that would cause me a lot of pain, but when it turned out to be okay, I danced! [l] You danced! [l] I danced and laughed and cried. [l][r]
+Now the next step is food. [r]
+
+Imo, there were about 30 more, the hanging ones, I think. [l][r]
+
+It's not much more left than the facility that was on the lower level, but it's getting less and less. ...... But it's ok! [l][r]
+
+[r]...... I never thought I'd be able to eat something like the rope these potatoes were hanging from. And the leaves. [l][r]
+
+I was prepared to eat it, thinking that there might be some kind of poison that would make me suffer a lot, but when it was surprisingly okay, I danced! [l]You danced! [l] I danced and laughed and cried. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-You never know that a facility like this exists just below the top layer. [l][r]
-However, as that girl said, even if you don't understand it, you have no choice but to move on. [l]That's what I was taught. that's why. [l][r]
+You never know that there is an institution like this at the end of the stream down from the top level, life. [l][r]
+
+But I knew she was right, you have to go on even if you don't know. [That's what I was taught. So. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-I stopped waking up, but [r]
-It was getting cold, but [l][r]
-I don't know where it went, but [l][r]
-...He was dead...but [l][r]
-[r] Chi-chan... Chi-chan has been with me forever. [l][r]
+I stopped waking up, but [r].
+
+I was getting cold feet, but [l][r].
+
+I don't know where it got washed away, but [l][r].
+
+...... though ...... was dead, [l][r][r][l][r].
+
+[r]Chi-chan is ...... Chi-chan is with me, all the way. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="fgd.png"  ]
 [tb_start_text mode=3 ]
-That's why I live. [r]
-That's why I can survive. [l][r]
+So I'm going to live. [r]
+
+So we can live. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Living together was the best. [l][r]
-But even if I'm alone, everything that Chi-chan gave me will keep me alive. [l][r]
-There are still wonderful things like this. [l][r]
+[r]It was great to live together. [l][r]
+
+But even if I'm alone, everything Chi-chan gave me will keep me alive. [l][r]
+
+Such a neat thing still exists, doesn't it? [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I'm Yuri. That kid is Tito. The two of us together...[l]...What is it? whatever. [l][r]
-[r]Well then, let's go find some tools that we can use again after eating and drinking. [l][r]
+I am Yuri. That girl is Tito. The two of us together ~[l]...... what was it? Oh well. [l][r]
+
+[r]Then after we eat and drink, let's go look for some tools that we can use again. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Hey, Chi-chan. [l][r]
+Hey, chi-chan. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/SOF_scene3.ks]
+[_tb_system_call storage=system/_OF_scene3.ks]
 
 *ok
 
@@ -6,17 +6,24 @@
 [bg  time="2000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"...Interesting" [r]
-"Don't play..." [l][r]
-[r]Yu waved his hand faintly in my head. What should I do if it suddenly starts happening... [l][r]
+"...... interesting."[r]
+
+"Don't Play ......" [l][r].
+
+[r]u waved your hand in my head as if you were skulking around. What if it suddenly starts to hit you, ......? [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-we were able to meet again. But that was it. They can't touch each other. [l][r]
-Yu fell down dramatically as he tried to hug both of them. His nose is still red. [l][r]
-My legs don't move either. ...Maybe I'm not here. At first, I thought for no reason that he had died over there and had come here again, but that seems not to be the case. [l][r]
-[r] Only consciousness, voice, and form seemed to be here, like the artificial intelligence of that core tower. [l][r]
+We were reunited. But that was it. We can't touch each other. [l][r]
+
+They tried to hug each other, and Yoo fell down hard. His nose is still red. [l][r]
+
+My legs don't move either. ...... maybe I'm not here. At first I had no reason to think that I died over there and came back here again, but apparently not. [l][r]
+
+[r]Only consciousness, voice and figure seemed to be here, like the artificial intelligence in that backbone tower. [l][r]
+
 [_tb_end_text]
 
 [jump  storage="OF_scene3.ks"  target="*ret"  ]
@@ -26,16 +33,22 @@ My legs don't move either. ...Maybe I'm not here. At first, I thought for no rea
 [bg  time="2000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"...I think this is interesting." [l][r]
-"Okay, you don't have to forcefully comfort me...or rather, just stop." [l][r]
-[r]Yu is waving his hand faintly in my head. What would she do if she suddenly started getting angry... [l][r]
+"...... I think this is interesting."[l][r].
+
+"Yea, you don't have to comfort me ......, I mean, just stop it."[l][r]
+
+[r]u are waving your hand in my head, scoffing. What if it suddenly starts to hit you, ....... [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-we were able to meet again. But that was it. They can't touch each other. [l][r]
-My legs don't move either. ...Maybe I'm not here. At first, I thought for no reason that he had died over there and had come here again, but that seems not to be the case. [l][r]
-[r] Only consciousness, voice, and form seemed to be here, like the artificial intelligence of that core tower. [l][r]
+We were reunited. But that was it. We can't touch each other. [l][r]
+
+My legs don't move either. ...... maybe I'm not here. At first I had no reason to think that I died over there and came back here again, but apparently not. [l][r]
+
+[r]Only consciousness, voice and figure seemed to be here, like the artificial intelligence in that backbone tower. [l][r]
+
 [_tb_end_text]
 
 *ret
@@ -45,14 +58,18 @@ My legs don't move either. ...Maybe I'm not here. At first, I thought for no rea
 [bg  time="1000"  method="crossfade"  storage="tenji3.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-No matter how you look at it, the trigger is the replica of that vehicle and the key. [l][r]
+The trigger, in all likelihood, is a replica of that vehicle and the key. [l][r]
+
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="key.jpg"  ]
 [tb_start_text mode=3 ]
-I took another look at the rotten vehicle in front of me. The ignition key with the fish still stuck in it. [l][r]
-that? Did you leave it there? Didn't you bring it with you? I can't remember well... [l][r]
-But for some reason, I had a feeling that if I touched that key again and pressed the ignition button, I would return to the other world.[l][r]
+I looked again at the rotting vehicle in front of me. The ignition key with the fish on it was still stuck in it. [l][r]
+
+Huh?　Did I leave it there?　Did I not take it with me?　I can't quite remember. ....... [l][r]
+
+But for some reason my intuition told me that if I touched this key again and pressed the ignition button, I would be back in that world again. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -60,37 +77,55 @@ But for some reason, I had a feeling that if I touched that key again and presse
 [bg  time="1000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"I can't hit you with this" [r]
-"To each other" [l][r]
-Yu smiles fearlessly, saying he doesn't have to worry about getting hit, and I respond with at least that much strength. [l][r]
-"Well, I'm relieved to see that you're doing well," I said without hiding my true feelings. [r]
-Since I don't know how much time I have, I can't afford to play around. [l][r]
+I can't hit you with this."[r]
+
+"To each other."[l][r].
+
+I respond to You, who smiles wryly at me because I don't have to worry about being hit, with that degree of strength at best. [l][r]
+
+'Well, but I'm relieved to see you're doing well,' I said, not hiding my true feelings." [r]
+
+As long as we don't know how much time is allowed, we can't afford to play. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Hey, how did Chi-chan get here? Where have you been until now?" [l][r]
-"That's..." Yes, that's the information I need. I have to tell you that. [l][r]
-but……. I hesitated. I hadn't expected such a situation, so I didn't have a proper idea of ​​what to say or how to tell him. [l][r]
-Moreover, even if the above hypothesis is correct to some extent, I need to know as accurately as possible what happened to "my corpse" in this world and why Yu was left alone. [l][r]
+Hey, Chi-chan, how did you get here?　Where have you been all this time?" [l][r]
+
+That's ......" Yes, that's the information I need. I have to pass it on to u. [l][r]
+
+But ....... I hesitated. I hadn't anticipated a situation like this, I hadn't properly thought through what and how I should tell Yoo. [l][r]
+
+Besides, assuming that the example hypothesis is somewhat correct, we need to know as accurately as possible what happened to "my corpse" in this world over here, and why YOU are left all alone. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...It's about you first, not me." [l][r]
-“Me?” [r]
-"Yes, it's you. What happened in the top layer after that? Tell me that first." [l][r]
-"Huh?...Um..." [r]
-"You haven't forgotten, have you?" [l][r]
-"Ehehe... I'm just kidding... I remember it well." [r]
-"..." [l][r]
+"...... talk about you first, not me."[l][r].
+
+Me?" [r]
+
+'Yeah, you. What happened at the top level after that?　Tell me that first."[l][r].
+
+What?"[r]"What?　...... uh, ......" [r].
+
+[l]"You didn't forget, did you?" [l][r]
+
+'Ehehe ....... Just kidding. I remember ...... well."[r]
+
+"......" [l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sun.jpg"  ]
 [tb_start_text mode=3 ]
-Yu suddenly stopped laughing and looked at me with a slightly kinder look on his face. [l][r]
-[r] And he spoke. After that, the end of the end between me and you. [l][r]
+Yu suddenly stopped laughing and looked at me with a slightly kinder face. [l][r]
+
+[r]And he told me. After that, the end of the end between me and You. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

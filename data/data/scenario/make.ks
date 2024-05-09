@@ -1,9 +1,13 @@
-;Do not delete this file!
+Do not delete this file!
+
 ;
-;make.ks is a special KS file called when loading data.
-;Fix Please write here any processes you would like to rebuild at the time of loading, such as layer initialization.
+;make.ks is a special KS file called when data is loaded.
+
+Please describe here the processes you wish to rebuild at the time of loading, such as initialization of the Fix layer.
+
 ;
 ;
 ;
-;return required
+;return Required
+
 [return]

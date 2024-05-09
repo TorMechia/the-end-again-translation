@@ -1,46 +1,63 @@
-[_tb_system_call storage=system/SN1_07TRMR.ks]
+[_tb_system_call storage=system/_N1_07TRMR.ks]
 
 [cm  ]
 [tb_show_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="train-station-wickets-1.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="stationjpg.jpg"  ]
 [tb_start_text mode=3 ]
-It was a hot day. [l][r]
-The sun was shining down on the concrete, warming it, and the high humidity made it feel as hot as being inside a steamer.[l][r]
+It was a balmy day. [l][r]
+
+The sun slowly shining warmed the concrete, and the high humidity added to the heat made it feel as if we were in a steamer. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]In a train station in the middle of the city, a woman with her black hair tied in two knots was standing alone with her face on the top of a Buddha. [l][r]
-Apparently, he was meeting someone, so he looked at his smartphone screen for a while, then let out a sigh, crossed his arms, tapped his fingers, and wiped the sweat that was seeping out with a handkerchief. [l][r]
+[r]Inside a train station in such a city, a woman with black hair tied in two knots stood alone with a pouty face. [l][r]
 
-[r]By the way, she has been repeating this action for almost 30 minutes. The person waiting is late. [l][r]
-[_tb_end_text]
+Apparently meeting someone, he looks at his phone screen constantly, sighs, crosses his arms, taps his fingers, and wipes the oozing sweat with his handkerchief. [l][r]
 
-[cm  ]
-[tb_start_text mode=3 ]
-If you have to wait 30 minutes in this heat, you'll probably get angry. If things continue like this, her brain will reach its boiling point and I'm sure she'll spill out her hot anger. [l][r]
-[r], the woman turns her head to the side. It seemed like someone was calling her. A blonde woman runs up to her from the crowd, waving her hand. Apparently she was waiting for her because she was late. [l][r]
-[_tb_end_text]
 
-[tb_start_text mode=3 ]
-[r] A black-haired woman wrinkles her eyebrows and complains. [l][r]
-The woman who was late, on the other hand, smiled and put her hands together in apology. [l][r]
+[r]By the way, it has been almost 30 minutes since she repeated this action. The waiter is running late. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Eventually, I hope I'll be forgiven [r]
-stomach. [l][r]
-The black-haired woman said with a smile. [l][r]
-[r] "It's late." [l][r]
-[r]The blonde woman replied: [l][r]
-[r] "Sorry to keep you waiting" [l][r]
+If she had to wait 30 minutes in this heat, she would be angry. At this rate, the boiling point in her head must be over the limit, and she must be lashing out in a hot rage. [l][r]
+
+[r], a woman turned her face to the side. It was as if someone had called her. From the crowd beyond, a blonde woman runs up to me, waving her hand. Apparently, she was the one who was waiting for him, who had been running late. [l][r]
+
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+[r][r]A dark-haired woman with a wrinkled brow and a nagging complaint. [l][r]
+
+In contrast, the woman on the late side smiles wryly and apologizes, clasping her hands together. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Then, the two disappear together into the crowd. [l][r]
-[r] Hold onto each other's hands tightly so that you won't let go. [l][r]
+Eventually, apparently, he was forgiven [r].
+
+ [l][r]
+
+The dark-haired woman smiled and said. [l][r]
+
+[r]"It's late."[l][r].
+
+[r]The blonde woman replied. [l][r]
+
+[r]"Sorry to keep you waiting."[l][r].
+
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Then they disappear into the crowd together. [l][r]
+
+[r][r]Hold those hands tightly together so that they don't separate. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

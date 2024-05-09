@@ -1,12 +1,14 @@
-[_tb_system_call storage=system/SOF_scene2.ks]
+[_tb_system_call storage=system/_OF_scene2.ks]
 
 [cm  ]
 [playbgm  volume="90"  time="1000"  loop="true"  storage="m1_piano.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-His face looked like he was smiling. [l][r]
-It's like I'm having a pleasant dream. [l][r]
+His face seemed to be smiling. [l][r]
+
+As if in a pleasant dream. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -17,14 +19,19 @@ It's like I'm having a pleasant dream. [l][r]
 [bg  time="2000"  method="crossfade"  storage="sun.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I was wondering. I wonder what I look like now. [l][r]
-I think I've heard that people can't even make a sound when they're so surprised. It was true. [l][r]
+I was thinking. I wondered what I would look like now. [l][r]
+
+I think I once heard that if the surprise is too strong, you can't even speak. That was true. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 [r]I was watching. [l][r]
-With golden hair flowing in the gentle breeze,
-Eyes that seemed to reflect the blue of the sky. [l][r]
+
+With golden hair that flutters in the gentle breeze, [r].
+
+And eyes that seem to reflect the blue of the sky as it is. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -32,34 +39,44 @@ Eyes that seemed to reflect the blue of the sky. [l][r]
 [bg  time="1000"  method="crossfade"  storage="snow2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"Is that so...?" [r]
-she said so. she said in a familiar voice. [l][r]
+[r] "Is that ......?" [r]
+
+She said so. In a familiar voice. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="snow2.ogg"  ]
 [tb_start_text mode=3 ]
-[r] Runs towards you. With familiar soft and agile movements. [l][r]
-Kick the remaining snow and jump over the rubble [r]
-...I can't. [l][r]
+[r]eally comes running up to me. With familiar, soft, agile movements. [l][r]
+
+Kicking through the remaining snow and jumping over debris[r].
+
+Not available at ....... [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="snow3.ogg"  ]
 [quake  time="300"  count="1"  hmax="0"  wait="true"  vmax="10"  ]
 [tb_start_text mode=3 ]
-I scratched my foot a little and fell. [l][r]
-"Ah! I'm saying it...Ehehe" [r]
-In pain, I raised my head, looked at me, and smiled a little shyly. [l][r]
+I scratched my leg a little and fell. [l][r]
+
+Oh, no!　Eeeeeeeeee. ...... ehehe" [r].
+
+He is in pain, he wakes up, looks at me, and smiles a little bit shyly. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="snow1.ogg"  ]
 [tb_start_text mode=3 ]
-and jump up. It's like being freed from gravity. [l][r]
+And then you jump up. Like you're free of gravity. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="snow2.ogg"  ]
 [tb_start_text mode=3 ]
-"Ahahaha... ahahahahaha," she said, laughing as she jumped up and down. [l][r]
+She jumps and runs with laughter, "Ha ha ...... ha ha ha ha ha ha." [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -67,9 +84,12 @@ and jump up. It's like being freed from gravity. [l][r]
 [bg  time="1000"  method="crossfade"  storage="sun.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The sun is bright. Her hair shines as if the light is all her own. [r]
-It's beautiful. I think I once wondered if it was really hair. [l][r]
-When? I can't remember. I can remember the taste for some reason. [l][r]
+The sun is dazzling. Her hair shining as if to say that all that light is hers. [r]
+
+That's beautiful. I think I wondered sometime if that was really hair. [l][r]
+
+When was that?　I can't remember. I don't know why I can remember the taste. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -78,7 +98,8 @@ When? I can't remember. I can remember the taste for some reason. [l][r]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"Chi-chan!!!" [l][r]
+[l]"Choooooooooooooooooooooooooooooooooooooooooo!!!!" [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -87,27 +108,40 @@ When? I can't remember. I can remember the taste for some reason. [l][r]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-“Youuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+[l][r]"Youooooo ！！！！" [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Someone shouted first. [r]
-Either is fine. Because our voices melted into the same sky. [l][r]
-My vision is blurred. [r]
-Oh already! It's a jam! [l][r]
-Tears that don't come out. Laugh at me! [l][r]
-[r]My legs don't move for some reason. It feels like the snow on the ground has frozen solid. [l][r]
-But I don't feel cold. Even though I wasn't wearing military boots or clothes, neither the cold nor the cold reached me. [l][r]
-Yuri runs towards me, unable to move. [r]
-Make me gasp. With tears in her eyes. [l][r]
+One of us shouted first. [r]
+
+It doesn't matter either way. Because our voices melted into the same sky. [l][r]
+
+Blurred vision. [r]
+
+Oh, no!　Jamma! [l][r]
+
+Don't answer, tears. Laugh at me! [l][r]
+
+[r]My feet are not moving for some reason. It's as if the snow on the ground has frozen and hardened. [l][r]
+
+But I didn't feel cold. Neither the cold nor the cold reached me, even though I was not wearing military boots or clothing. [l][r]
+
+Yuri runs toward me, who is unable to move. [r]
+
+Breathless. Tears in your eyes. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-picture? "Yu, that Yuri is crying because he's happy to meet me?" Look, Ishii. [r]
-Hey, Kanazawa and his wife too. [l]Uh, where is everyone? [r]
-Oh, I see. But... no. [l][r]
+What?　You, that Yuri, is crying because he's so happy to see me?　Look, Ishii. [r]
+
+Hey Kanazawa and his wife. [l]Hey, where is everybody? [r]
+
+Oh, okay. But it's ...... good. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -116,75 +150,109 @@ Oh, I see. But... no. [l][r]
 [playse  volume="100"  time="1000"  buf="0"  storage="snow1.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"Haa... haa..." [l][r]
-And finally, Yuri arrives in front of me. [l][r]
-Next to the vehicle, we met again in the sun. [l][r]
+"hah ...... hah ......" [l][r].
+
+Finally, Yuri reaches me. [l][r]
+
+Beside the vehicle, we met again, in the sun. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] "...Hey," Yuri says with a quick breath and a smile. [l][r]
-"...What is it?" [r]
-Unfriendly words that come naturally. [l][r]
-When Yu heard that, his cheeks relaxed as if he had just eaten the most delicious thing in the world. [l][r]
+[r]"...... hey," Yuri says with a smile under his breath. [l][r]
+
+"...... what?"[r]
+
+Unsociable words that naturally return. [l][r]
+
+When Yoo heard this, his cheeks relaxed, as if he had just eaten the most delicious thing on earth. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...Why are you here? A ghost?" [l][r]
-"Is that the first thing you say?" [l][r]
-“Because, Chi-chan. You were dead.
-yeah! ”[l][r]
-“…Oh yeah, I guess he was dead [r]
-ka” [l][r]
-"I knew it. You don't even remember if you were dead or not?" [l][r]
-"That's not true. I didn't know if he was dead or not." [l][r]
-"It was really dead. Like the fish I ate that time!" [l][r]
-"Don't treat people like fish! And don't say 'dead' so much," I said, frowning. [l][r]
-“Chi-chan says it more [r]
-"Hmm," Yu laughs as if he's making fun of you. [l][r]
+"......Why are you here?　A ghost?" [l][r]
+
+That's the first thing you say?"[l][r].
+
+Because, chi-chan. You were dead [r].
+
+Hm!" [l][r]
+
+"...... Oh yeah, I knew he was dead[r].
+
+Ka" [l][r].
+
+I knew it. You don't even remember if you were dead?" [l][r]
+
+'That ain't so. I didn't know if he was dead or not."[l][r].
+
+It was so dead. Like the fish I ate that time!" [l][r]
+
+Don't compare people to fish," I said with a frown!　I mean, don't be so dead dead dead," I say with a frown. [l][r]
+
+"You've said more than me.
+
+Nn" You laugh like a small fool. [l][r]
+
 [_tb_end_text]
 
 *Jump
 
-[bg time="0" method="crossfade" storage="sun.jpg" ]
+[bg time="0" method="crossfade" storage="sun.jpg"]
+
 [cm  ]
 [tb_start_text mode=3 ]
-"You...!" I raise my fist. [l][r]
-"Hyaa!" Yu holds his head. [l][r]
+You ......!" I raise my fist. [l][r]
+
+Hyah!" You holding your head. [l][r]
+
 [_tb_end_text]
 
 [tb_start_tyrano_code]
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink color="black" storage="OF_scene2.ks" size="20" text="Slap You" target="*no" x="24" y="400" width="" height="" _clickable_img="" ]
-[glink color="black" storage="OF_scene2.ks" size="20" text="Don't hit me" target="*yes" x="24" y="450" ​​width="" height=" " _clickable_img="" ]
+[glink color="black" storage="OF_scene2.ks" size="20" text="hit the yoo" target="*no" x="24" y="400" width="" height="" _clickable_img=""]
+
+[glink color="black" storage="OF_scene2.ks" size="20" text="Don't hit yoo" target="*yes" x="24" y="450" width="" height="" _clickable_img=""]
+
 [s  ]
 *yes
 
 [tb_eval  exp="f.CP+=1"  name="CP"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 [tb_start_text mode=3 ]
-I stop the arm and slowly return it to its original position. [l][r]
-My cheeks are warm. I can't stop crying. [l][r]
+I stop the arm with a snap and slowly return it to its original position. [l][r]
+
+My cheeks are warm. I can't stop the tears. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Yuri realizes at the right time that the fists aren't coming down, removes his hand, and looks at him. [l][r]
-Her cheeks were bright red and wet with tears and runny nose. [l][r]
-[r] “…strange face,” I say. [l][r]
-“Chi-chan is the one,” Yu says. [l][r]
+[r]Yuri moves his hand away and looks at me when he realizes at the right moment that his fist is not coming down. [l][r]
+
+His cheeks were bright red and wet, messy with tears and snot. [l][r]
+
+[r]"...... funny face" I say. [l][r]
+
+[l][r]"Chi-chan is the one," Yu says. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-And one of us is the happiest in the world [r]
-Then, one of them laughed, cried, and muttered in the world's most unlucky voice. [l][r]
+And one of us is the happiest in the world [r].
+
+And one of them laughed, cried, and mumbled in the most unhappy voice in the world, [l][l][r]. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...Welcome back. Chi-chan" [l][r]
-"...I'm back. Yu." [l][r]
+"Welcome back to ....... Chi-chan."[l][r].
+
+"...... I'm home. YOU" [l][r].
+
 [_tb_end_text]
 
 [cm  ]
@@ -195,26 +263,44 @@ Then, one of them laughed, cried, and muttered in the world's most unlucky voice
 *no
 
 [tb_start_text mode=3 ]
-I raised my fist and brought it down. I'm barehanded, and Yu isn't wearing a helmet either. [l][r]
-The hand I held touched the soft golden hair, checking the feel... it was supposed to be. [l][r]
-[r]I don't feel anything. [l][r]
+I swung my fist up and I swung down. I was barehanded, and neither u nor I wore a helmet. [l][r]
+
+My gripping hand touched the soft golden hair, and I was supposed to ...... confirm the feeling. [l][r]
+
+[r][r]I don't feel anything. [l][r]
+
 Nothing was touched. [l][r]
-My hand arched back to my chest. [l][r]
 
-[cm] "...huh?" [l][r]
-"...Huh?" [l][r]
-[r]Yu raised his face and looked at me. His cheeks were wet with tears and bright red.
-I looked at his face and at my own hands. Tears seemed to be running down my cheeks, and one fell onto my hand. But, [l][r]
-My hand reaches out again and passes through Yu's cheek, and I am unable to wipe away the tears. [l][r]
-Yu also tries to reach out and touch my face and hair, but his hands slip past me, giving me neither warmth nor softness. [l][r]
+My hand arced back to the front of my chest. [l][r]
 
-[cm] “…I see” [r]
-Yu said this after wiping her own tears with her own hands. [l][r]
-[r] “Did you understand something?” [l][r]
-[cm] "...This is what a ghost is..." [r]
-To Yu who said that with a straight face, [l][r]
-[r] “No, it’s not.” [l][r]
-I was weak and could only deny it with words. [l][r]
+
+[cm]"...... eh?" [l][r]
+
+[l][r]"...... Huh?" [l][r]
+
+[You raised your face and looked at me. His cheeks were wet with tears and bright red. [l][r]
+
+I alternated between his face and my own hand. There seemed to be a tear on my cheek, and one of them fell on my hand. But [l][r].
+
+I reached out again, but my hand went through Yoo's cheek, and I couldn't wipe away those tears, I couldn't. [l][r]
+
+Yoo also reached out to touch my face and hair, but his hand slipped through me, giving me neither warmth nor softness. [l][r]
+
+
+[cm] "...... I see" [r].
+
+Yu said after wiping his own tears with his own hands. [l][r]
+
+[r]"Did you find out anything ......?" [l][r]
+
+[cm]"...... this is what you call a ghost? ......"[r]
+
+[l][r] to Yu, who said that with a straight face.
+
+[r]"No, because it's not."[l][r].
+
+I was powerless to deny so, only with words. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

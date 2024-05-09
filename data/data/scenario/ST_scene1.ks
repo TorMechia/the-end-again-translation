@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/SST_scene1.ks]
+[_tb_system_call storage=system/_ST_scene1.ks]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m4_piano.ogg"  ]
 [showmenubutton]
@@ -8,56 +8,74 @@
 [bg  time="2000"  method="crossfade"  storage="fgd.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I'm happy. [l][r]
-My parents are kind, even though they are a bit nagging, and school is a little boring, but I don't feel uncomfortable. [l][r]
-I think that being a library committee member suits me, and I enjoy talking with friends who love books. [l][r]
+I am happy. [l][r]
+
+My parents are a little nagging but kind, and school is a little boring but not uncomfortable. [l][r]
+
+I think the activities of the library committee are suited to me, and I enjoy talking with my book-loving friends. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] No need to worry about daily meals, no need to melt snow to drink, [l][r]
-I don't have to worry about collapsing buildings, and I don't have to wait for the morning while shivering in the cold. [l][r]
+
+
+No fear of collapsing buildings, no shivering in the cold waiting for morning. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] How lucky I am, how blessed I am, why so much, [l][r]
-...I guess it's lonely. [l][r]
+
+
+You must miss ....... [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-...Because...[l][r]
+Even .........[l][r].
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I know. There's no need to think about this. [l][r]
+[R]eally, I know. I don't need to think about this stuff. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]...but...[l][r]
+[r]...... but...[l][r].
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] Something inside me is crying out. [l][r]
+[r]Something inside me is crying out. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Something like that light gray haze appears in front of my eyes, sometimes periodically and sometimes suddenly. [l][r]
-When it gets too big to ignore, I reach for it because I want to stop thinking about it. [l][r]
+That "misty" something, light gray in color, appears before my eyes, sometimes periodically, sometimes unexpectedly. [l][r]
+
+When it gets so big that I can no longer ignore it, I reach for it, wanting to stop thinking about unnecessary things. [l][r]
+
 [r]It's okay. [r]
+
 I know. [r]
-don't cry. [l][r]
+
+Don't cry. [l][r]
+
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 [r]Hold Moya's head and stroke it. [l][r]
-The mist thickens, changes shape, and eventually reveals itself clearly. [l][r]
+
+The haze thickens, changes shape, and eventually becomes clearly visible. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -65,38 +83,58 @@ The mist thickens, changes shape, and eventually reveals itself clearly. [l][r]
 [bg  time="2500"  method="crossfade"  storage="zetu1.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The appearance of a small child. [r]
-In that world, when I was little, I wore dirty clothes that looked like nothing more than rags. [l][r]
+A small child. [r]
+
+I was a little ...... girl in that world, dressed in dingy clothes that looked like they were just rags. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"What's wrong?" I ask. [l][r]
-"I'm lonely..." I answer. [l][r]
-“It’s okay,” I console. [l][r]
-"It's not okay..." I whined. [l][r]
-"But, I can't help it." [l][r]
-"No..." [l][r]
-[r] Let me hearken to my words.[r]
-I don't even try to stop myself from crying. [l][r]
+What's wrong?" I ask. [l][r]
+
+'I'll miss you ......,' I reply. [l][r]
+
+'It's all right,' I comfort. [l][r]
+
+I'm not fine. ......] [l][r]
+
+But, you know, I don't have a choice."[l][r].
+
+"No. ......" [l][r].
+
+[r]I will not [r]listen to my words.
+
+He does not cry, nor does he try to hold back his tears. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [quake  time="600"  count="10"  hmax="3"  wait="false"  ]
 [tb_start_text mode=3 ]
-“I want to meet you…I want to meet you!…[r]
-You...you! [r]
-……where? ……Where are you! ?　Waaaaaaaaaaaaa! ! ! ”[l][r]
-I hold my head in my arms and try to cover my ears. [l][r]
-Even so, my voice cries unreservedly [r]
-But it vibrates my eardrums and makes me tremble. [l][r]
+Aiitai ......Aiitai yo! ......[r]
+
+You. ...... you! [r]
+
+...... Where are you? ...... Where are you!　 [l][r]
+
+I try to cover my ears as I hold my head. [l][r]
+
+Still my voice crying out unreservedly [r].
+
+shakes my eardrums and makes me tremble. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I feel like my head is going to split open. [l][r]
-My heart feels like it's going to break. [l][r]
+[r]I'm going to crack my head open. [l][r]
+
+It's going to rip my heart out. [l][r]
+
 Stop screaming. Stop crying. [l][r]
-That's all I want, as I continue to hold onto myself as if praying. [l][r]
+
+I continue to hold me as if in prayer, wishing only for that. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -104,15 +142,18 @@ That's all I want, as I continue to hold onto myself as if praying. [l][r]
 [bg  time="2000"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Eventually, perhaps because I was tired of crying, my appearance returned to its original ``haze'' and began to disperse. [l][r]
+Eventually, perhaps tired of crying, my figure fizzles out, returning to its original "moya". [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-...I wonder how many times this has happened. [l][r]
-I cursed and shook my head, wishing I didn't have to come out so late at night before the test, and started trying in vain to go back to sleep. [l][r]
+...... How many times has this happened? [l][r]
+
+Swearing that nothing had to come out late at night before a test, I shook my heavy head and began the futile effort to get back to sleep. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

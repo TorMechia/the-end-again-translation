@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/SOF_scene1.ks]
+[_tb_system_call storage=system/_OF_scene1.ks]
 
 [showmenubutton]
 
@@ -10,17 +10,25 @@
 [bg  time="2000"  method="crossfade"  storage="tenji.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"I suddenly collapsed! The location is..." [r]
-I told myself to stay calm and searched for the words I needed to say. [l][r]
-“Stay strong! Hey Chito! Hey [r]
-Oh! ” Ishii is shouting. No reply. [l][r]
+'I collapsed suddenly!　Located at ......" [r].
+
+I look for the words I need and say them, strongly telling myself to stay calm. [l][r]
+
+"Pull yourself together!　Hey, Tito!　Hey [r]!
+
+!" Mr. Ishii shouts. There is no reply. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r] "Kanazawa! Where's the AED?" [r]
-"My wife is going to pick it up. I've arranged for an emergency." [l][r]
+[r]Kanazawa!　Where's the AED?" [r]
+
+'My wife is going to get it. We've also arranged for emergency services."[l][r].
+
 I answer immediately while continuing the call. [r]
-"I get it!" [l][r]
+
+I get it!" [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -32,15 +40,20 @@ I answer immediately while continuing the call. [r]
 [bg  time="1000"  method="crossfade"  storage="chitdown.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-After saying that, Mr. Ishii opens the chest of Tito's clothes. [l][r]
-The girl was lying on her back on the cold floor, her face completely white and not moving at all. [l][r]
+When Mr. Ishii says that much, he opens the chest of Tito's clothes. [l][r]
+
+The girl, lying on her back on the cold floor, has a blank face and does not twitch. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"1...2...3...4..." [l][r]
-Mr. Ishii calmly and diligently performs the CPR procedures, which I thought I would only have the opportunity to do in license courses or company training. [l][r]
-There was no discrepancy between what I vaguely remembered, and I felt that it was appropriate. [l][r]
+1......2......3......4......" [l][r].
+
+Ishii calmly and diligently performs a CPR procedure that I thought I would only have the opportunity to perform in a driver's license course or company training. [l][r]
+
+It was not at odds with what I vaguely remember and I felt it would be appropriate. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -51,19 +64,28 @@ There was no discrepancy between what I vaguely remembered, and I felt that it w
 
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I told myself to stay calm again and looked around to see if the situation had changed or if there was anything else I should be doing. [l][r]
-I saw my wife running towards me with an AED, so I ran towards her. [r]
-I took it, which looked like a small bag, and rushed to Tito's side. [l][r]
-[r]After giving artificial respiration for the third time, Mr. Ishii's forehead was sweaty and his eyes were wet with tears. [l][r]
-I calmly followed the steps without even trying to wipe my tears. She probably didn't even realize she was crying. [l][r]
+I tell myself to be calm again and look around to see if the situation has changed or if there is anything I still need to do. [l][r]
+
+I see my wife running with an AED and I run up to her. [r]
+
+He takes it like a small bag and runs to Tito's side. [l][r]
+
+[r]After the third artificial respiration, Mr. Ishii has sweat on his forehead and his eyes are messed up with tears. [l][r]
+
+He was following the procedure nonchalantly, not even trying to wipe his tears. He probably didn't even realize he was crying. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Use an AED. Keep the onlookers away[r]
-Re” [r]
-"I understand." [l][r]
-[r]...I do what I have to do. After asking her wife to replace Ishii when she gets tired, she calms down the jeers around her. [l][r]
+'Use an AED. Keep onlookers away [r].
+
+Re" [r].
+
+I understand."[l][r].
+
+[r]......I do what I have to do. I ask my wife to switch places with Mr. Ishii if he gets tired, then I ask the onlookers around me to back off. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -71,7 +93,8 @@ Re” [r]
 [bg  time="2000"  method="crossfade"  storage="chitdown2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-When I looked at the vehicle again, I saw that Ishii had attached electrodes to Tito's half-naked upper body, so I hurriedly looked away. [l] Just before that, I caught sight of Tito's white face for just a moment. [l][r]
+When I looked toward the vehicle again, I hurriedly looked away as Mr. Ishii had just attached electrodes to Chito's half-naked upper body. [l]Just before that, I had caught a glimpse of Chito's white face for a moment. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

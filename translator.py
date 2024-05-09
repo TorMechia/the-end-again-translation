@@ -1,11 +1,15 @@
 import os
 from deep_translator import GoogleTranslator
+from deep_translator import ChatGptTranslator
+from deep_translator import DeeplTranslator
 from queue import Queue
 import logging
 
 logging.basicConfig(level=logging.DEBUG, format="%(levelname)s:\t %(message)s")
 
-TRANSLATOR = "GoogleTranslator"
+# CURRENT_TRANSLATOR = GoogleTranslator(source="ja", target="en")
+# CURRENT_TRANSLATOR = ChatGptTranslator(api_key=input("ChatGPT API Key: "), target='english')
+CURRENT_TRANSLATOR = DeeplTranslator(api_key=input("Deepl API Key: "), source="ja", target="en", use_free_api=True)
 
 
 def translate_ks(relative_directory="data/data/scenario/"):
@@ -52,8 +56,7 @@ def line_contains_ascii_only(line: str):
 
 def translate_line(line):
     logging.debug(f"Translating: \t{line}")
-    if TRANSLATOR == "GoogleTranslator":
-        return (GoogleTranslator(source="ja", target="en").translate(line)) + "\n"
+    return CURRENT_TRANSLATOR.translate(line) + "\n"
 
 
 translate_ks()

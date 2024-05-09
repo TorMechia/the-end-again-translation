@@ -1,155 +1,228 @@
-[_tb_system_call storage=system/SOF_TsceneB1.ks]
+[_tb_system_call storage=system/_OF_TsceneB1.ks]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="zetu5.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-``Can you argue...? Impossible. You can’t do it” [l][r]
-``That guy'' said so in a clear voice. [l][r]
-[r] ``Why don't you try remembering instead? How lonely you were in that world. Why don't you empathize? "To Yuri's loneliness" [l][r]
-``That guy'' who looks like me approaches me [r]
+'Can you refute that ......?　You can't. You can't.'[l][r].
+
+In a clear voice, 'that guy' said. [l][r]
+
+[r]"Better yet, why don't you try to remember　How lonely you were in that other world. Why don't you sympathize with them?　Yuri's loneliness."[l][r]
+
+The "that guy" in my shape [r] quietly approached me.
+
 Ku. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-``What did you think after spending time in that world? [r]
-What did you really think when you saw food thrown away in the alleys, friends who only drank flavored drinks, and people who were picky and left behind meals? ”[l][r]
-[r]He continued speaking with a defiant, yet kindly smile on his face. [l][r]
-``And you can eat a hot meal every day, take a warm bath every day with plenty of clean water, and dry yourself with a soft towel. Hey? Don't you feel sorry for Yuri? ”[l][r]
+'What did you think of your time over there? [r]
 
-[cm] Don't say it, don't come near me! [r]
-That's why I worked so hard until now! You and I have come from the past in order to bring you to the modern times over there! [l][r]
-``What have you done so far? So? [l] Did you find a solution? ”[l][r]
-well well……! [l][r]
+How did you really feel when you saw food dumped in alleys, friends who only drank flavored drinks, and people who left their food because they didn't like it?" [l][r]
+
+[r]That guy smiles a challenging, yet somehow gentle smile and continues to speak. [l][r]
+
+'And you can eat a hot meal every day, take a warm bath every day with plenty of clean water, and wipe yourself with a soft towel. Hey?　Didn't you ever feel sorry for Yuri?" [l][r]
+
+
+[cm] Don't tell me, stay away from me! [r]
+
+That's why I've worked so hard to get here!　I've come all this way in order to bring you and you to the modern world over there! [l][r]
+
+"After all we've been through?　And then what? [l]"Have you found a solution?" [l][r]
+
+It is available at ......! [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="zetu6.jpg"  ]
 [tb_start_text mode=3 ]
-``Look. Nothing comes out.''[l][r]
-``That guy'' grinned...no, ``I'' said, and brought my face closer to him. [l][r]
-“In the end... you are powerless.” [l][r]
-Those words reach my eardrums and reverberate over and over in my head. Oh, that's strange. It should have gone away once it echoed, but it kept getting louder and louder. [l][r]
+'See. Nothing is coming out."[l][r].
+
+With a smirk on his face, "that guy" ...... no, "I" come closer to his face. [l][r]
+
+'After all, ...... you are helpless.'[l][r]
+
+The words reach my eardrums and reverberate in my head many times. Oh, that's strange. When it reverberates, it should disappear, but it gets louder and louder. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Powerless. [l][r]
-Powerless. [l][r]
-waste. [l][r]
-why? [l][r]
+Helpless. [l][r]
+
+Helpless. [l][r]
+
+Futility. [l][r]
+
+Why? [l][r]
+
 Me? [l][r]
+
 Is it my fault? [l][r]
-why? [l][r]
-why? [l][r]
+
+Why? [l][r]
+
+Why? [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="water-bukubuku3.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-...I heard the sound of something overflowing. [l][r]
-[r] "...fuza, fight" [l][r]
-Anger and emptiness flood inside me. I feel like everything I've done up until now has been denied...or maybe it's been. And you can't argue that that's not the case. [l][r]
-It's because I really can't think of anything. [l][r]
+...... heard the sound of something overflowing. [l][r]
+
+[r]"...... f*ck you."[l][r].
+
+An avalanche of anger and emptiness comes crashing down inside me. I feel as if everything I've ever done, everything I've ever done, has been denied ...... No, I guess it has been. And I can't argue that it's not true. [l][r]
+
+Because, really, I can't come up with any moves. [l][r]
+
 
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m4.ogg"  ]
 [tb_start_text mode=3 ]
-“I...I...I've been coming so desperately...why do I have to say things like that?[l][r]
-I sacrificed a lot of things to meet you and for you to come here, but what do you know? ”[l][r]
+"I ...... I've been trying so hard, I've been coming along so ...... why should I be told that? [l][r]
+
+I've sacrificed so many things to see YOU, to get YOU to come over here, and you know what!" [l][r]
+
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="zetu6B.jpg"  ]
 [tb_start_text mode=3 ]
-I just repeat the words that come to mind. [l][r]
-[r] "You were crying all the time. You were just being comforted by me, so what authority do you have to say such a thing!" [r]
-Leave it to your overflowing emotions. Just let out strong words without wrapping them up. [l][r]
+I roll up the words as they come into my head. [l][r]
+
+[r]-"All you did was cry. You were only comforted by me, and on what authority do you say such things!" [r]
+
+Let your emotions overflow. Just release strong words, without wrapping anything up. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=4 ]
-“Then let me ask you, what should I do?
-What should I do?
-do you know?
-I can say that because I know. Say it, say it! ”[l][r]
+'Well, let me ask you. What should I do?
 
-[r] ``I'' stares at me with no expression. [l]
+What do I do?
+
+You know what you're doing?
+
+You can say those things because you know. Say it, say it!" [l][r]
+
+
+[r]"I" stare at me blankly. [l]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="zetu6C.jpg"  ]
 [tb_start_text mode=3 ]
-Just then, he smiled again. [r]
-However, that smile was different from the mocking smile from earlier, and I was confused because it seemed to give me a sense of peace. [l][r]
-[r] “Poor Tito. Yes, you worked really hard. ...But there's nothing we can do about this, and no solution can be found.''[l][r]
-``I'' take a step and walk towards me. [l][r]
+Then he smiled again. [r]
+
+However, his smile is different from the mocking smile he had earlier, and I am puzzled by his somewhat comforting smile. [l][r]
+
+[r]"Poor Tito. Yes, you really did your best. ...... but there's nothing we can do about it, there's no solution."[l][r]"I'm sorry, but I can't help you.
+
+'I' step out and walk over to us. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="zetu6C2.jpg"  ]
 [tb_start_text mode=3 ]
-"But you still stood up. Even though you were just a single person, you tried to do something that was synonymous with overturning the world. [l][r]
-I can understand that you are desperately trying to think even now that you are about to break.''[l][r]
-[r]With each step, ``I'' come closer. A distance from which you should be able to catch or hit. [r]
-But my arms were stuck as if they were paralyzed. I couldn't move. [l][r]
+'And yet you stood your ground. You were one person, but you were willing to do what is synonymous with overthrowing the world. [l][r]
+
+I'm still desperately trying to figure it out, even now that I'm about to break down, I know exactly what you mean."[l][r].
+
+[r]One step more and 'I' come closer. A distance that should be able to catch you or hit you. [r]
+
+But my arms are motionless, as if I were in bondage. I can't move. [l][r]
+
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="zetu6C3.jpg"  ]
 [tb_start_text mode=3 ]
-“But. If you do that, you'll get tired.''[l][r]
-[r] A hand gently touches your cheek. [r]
-It was so warm and so soft that I felt like I was going to fall asleep when I was wrapped around it. [l][r]
-[cm] ``So, huh? It's okay to take a break. Should I look at myself more? [l][r]
-I'm sure Yuu will forgive you for that. She knows Chito better than anyone else.' [l][r]
-[r]Smiled like an angel[r]
-``I'' was there. Or maybe he's more mature than I am now. [l][r]
-[r]...He looked like he understood everything. [l][r]
+'But you know what? If you do that, you'll get tired.'[l][r].
+
+[r]A hand gently touches your cheek. [r]
+
+It was awfully warm and soft, as if I would fall asleep if I were wrapped in it. [l][r]
+
+[cm]"So, you know?　It's okay to take a break. You can look at yourself more, okay? [l][r]
+
+Yu will forgive me for that. She knows Tito better than anyone else."[l][r].
+
+[r]He smiled like an angel[/r].
+
+The "me" was there. Or maybe he is more mature than I am now. [l][r]
+
+[r]...... He looked like he understood everything. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-“Tito. I understand what you want to say. I think it's very painful to say something to you. So, instead, you should fulfill one responsibility.''[l][r]
-Cough... Nin? [l][r]
-``You will watch over Yu's final moments. It's hard to tell you it's over. I'm sure Yu will accept it. [r]
-But it's definitely scary. [r]
-So, all you have to do is witness the moment when Yu's life ends.''[l][r]
-With a straight face as if he had thought about it a little, he said, ``I am.'' As if trying to convince him. [l][r]
-[r] ``Now, let's tell Yuri. You can live with me in a more wonderful world...'' [l][r]
+Tito. I understand what you mean. I know it's very hard to say a few words to you. So, you know, you just have to fulfill one responsibility instead.
+
+Cough ...... responsibility? [l][r]
+
+You'll be watching over me at the end of my life. It's hard to say goodbye to you, isn't it? I'm sure you will accept it. [r]
+
+But I bet you're scared. [r]
+
+So you can be the one to see that moment when Yoo's life ends."[l][r].
+
+With a straight face, a little thoughtful, 'I am,' he says, as if to remind himself. [l][r]
+
+[r]"Come on, I'll tell Yuri. You can live with me in a more wonderful world. ......"[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But, but... it's scary. I can not say. Maybe so, but...[l][r]
-"scared……? Haha...that's weird. what are you scared of? What kind of scarier world could there be than this lonely world where no one understands you? ! ”[l][r]
-[r]…………! ! ! [l][r]
+But, but ...... I'm scared. I can't tell. Maybe, but but ......[l][r]
 
-[r] 『Hey, you guys...well, we need to be together. A world where these two aren't together is wrong. [r]
-I have only one wish. End this wrong world and bring us back.''[l][r]
-We? [l][r]
+'Scary ......?　Haha ...... is weird. What's so scary?　What could be scarier than this world of no one, of being alone, that lonely world where no one understands you? [l][r]
+
+[r]............! [l][r]
+
+
+[r]"Hey, you guys are ...... no, we have to be together, we have to be together. A world where the two of us are not together is wrong. [r]
+
+I have only one wish. End such a wrong world and bring us back."[l][r].
+
+I ...... them? [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="zetu6D.jpg"  ]
 [tb_start_text mode=3 ]
-"Yes, I'll give you Yuri, Yuri you, and I'll... take me back." [l][r]
+'Yes, Yuri for you, Yuri for you, and I'll get ...... me back' [l][r].
+
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]Black eyes, either clear or cloudy, stared straight at me. [l][r]
-I knew that blackness, that darkness. The color of those feelings that I have seen and felt many times. [r]
-I even felt a sense of nostalgia. To be swallowed up by that colorless color, the lightless darkness. [l][r]
+[r]Black, unclouded, clear or murky black eyes looked straight at me. [l][r]
+
+I knew its blackness, its darkness. The color of that feeling I had seen so many times, felt so many times. [r]
+
+Even nostalgia was my feeling. To be swallowed up into that colorless color, that darkness without light. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-And the darkness touched me. Our eyes met, our eyes met, and we even touched our lips. [l][r]
+And the darkness touched me. It looked at me, met my eyes, and even touched my lips. [l][r]
+
 
 [_tb_end_text]
 
@@ -157,74 +230,110 @@ And the darkness touched me. Our eyes met, our eyes met, and we even touched our
 [bg  time="3000"  method="crossfade"  storage="zetuK.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-[r]I heard a voice from somewhere, [r]
---Now, relax. It's okay.--[r]
-and. [l][r]
+[r]I heard a voice from somewhere, [r].
 
-[r]For just a moment, my body sounded a danger signal. Don't touch this guy. Absolutely not. [l][r]
+ It's going to be okay-[r].
+
+And. [l][r]
+
+
+[r]For a moment, my body struck a danger signal. Don't touch this guy. Never. [l][r]
+
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="zetuK2.jpg"  ]
 [tb_start_text mode=3 ]
-I opened my eyes slightly. [l][r]
-I can feel it in my mouth, but there's nothing in front of me. No, all I could see was a faint figure. [l][r]
-The shadow gradually becomes vague. Instead, something lukewarm, like saliva, entered my mouth, as if poured into my mouth. [l][r]
-My half-hearted thoughts ring an alarm that this is not right. Run away, run away... [l][r]
+I opened my eyes thinly. [l][r]
+
+There was a feeling in my mouth, but nothing in front of me. No, only a thin figure could be seen. [l][r]
+
+The shadows gradually diminish. Instead, something raw and warm, like saliva, enters, as if pouring from the mouth. [l][r]
+
+My interrupted thoughts ring alarm bells that it is something that should not be done. Run, run away with ....... [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-At the same time, something else whispers inside my head. In a sweet voice. [l][r]
-You don't have to be scared. You are me. I am you. Just go back. ...Just become one [r]
-……and. [l][r]
+At the same time, something else whispers in my head. A sweet voice. [l][r]
 
-In exchange for my fading senses, I felt like my thoughts were becoming clearer. [l][r]
-[r]My own hypothesis, my own thoughts that I have been thinking about all the way up until this point. [r]
-What I want, and...the future I want. [l][r]
-[r] Is it necessary to choose a means to grasp it? [l][r]
-[_tb_end_text]
+Don't be afraid. You are me. I am you. We'll just get back together. We'll just be one ......[r].
 
-[cm  ]
-[tb_start_text mode=3 ]
-I felt a connection between myself and the city beneath my still feet. [l][r]
-Through much thought, people built this. How many resources did it waste to construct a structure of this size? [l][r]
-They were right to be willing to do that [r]
-Ta? No, perhaps it didn't even matter whether it was correct or not. [l][r]
+With ....... [l][r]
 
-[r]I wanted to. That's why I did it. Even if the end is destruction. [l][r]
 
-If [r]... [l][r]
+In exchange for the fading sensation, I felt that my thoughts were becoming clearer. [l][r]
+
+[r]I have been thinking about it all the way to here, my hypothesis, my thoughts. [r]
+
+What I want, and ...... the future I want. [l][r]
+
+[r][r]Do we need to choose the means to seize it? [l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-No one can deny this feeling of mine. I won't let you. [l][r]
-[r]That's right. There's no need to be afraid of anything more than you are now... [l][r]
-So cute, Tito. My precious, precious me. [l][r]
-[r]My body trembled. [r]
-Tears flowed unconsciously. [l][r]
+I now felt a connection between myself and the city beneath my unmoving feet. [l][r]
+
+At the end of the day, people built this after much thought. How many resources did they needlessly consume to build a structure of this scale? [l][r]
+
+They were willing to do that, and they were right [r].
+
+Was it?　No. Surely it didn't even matter whether it was right or not. [l][r]
+
+
+I wanted to [r]eally do that. So I did. Even if the end of it was destruction. [l][r]
+
+
+[r] would be ....... [l][r]
+
+
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+No one can deny my feelings. I will not let them. [l][r]
+
+[r]That's right. You don't have to be afraid of anything or anyone any more than you are now. ....... [l][r]
+
+You are cute, Tito. My precious, precious me. [l][r]
+
+[r]My body shook. [r]
+
+Unconsciously, tears flowed. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
 Soft. [l][r]
-warm. [l][r]
-It feels good. [l][r]
 
-There's nothing to be afraid of. [l][r]
+Warm. [l][r]
 
-Because I am [l][r]
-We are [l][r]
-For ourselves [l][r]
+ [l][r]
 
-[r]...Yuri...I won't give up. [l][r]
 
-[r]Absolutely, from this wrong world,[l][r]
-Because I'm going to get you back... [l][r]
+Nothing, nothing to be afraid of. [l][r]
+
+
+Because I [l][r][r].
+
+We [l][r].
+
+For Ourselves [l][r].
+
+
+[r]......We won't give up ...... on Yuri. [l][r]
+
+
+
+
+You'll get your u back at ...... because ....... [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -233,52 +342,75 @@ Because I'm going to get you back... [l][r]
 [bg  time="1000"  method="crossfade"  storage="gear.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Before I knew it, the long, long kiss was over. Before I knew it, ``I'' had completely disappeared. ...Was it a dream? [l][r]
-...No, that's not it. The fresh feeling still remains on my lips. That... was not a dream. [l][r]
+I realized that the long, long kiss was over. Before I knew it, "I" had completely disappeared. ...... Was it a dream? [l][r]
+
+...... No, no. There is still a fresh feeling on my lips. It wasn't ...... a dream, it wasn't. [l][r]
+
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_start_text mode=3 ]
-[r] “Chi-chan, are you okay?” [l][r]
-When I woke up, Yuri was looking at me with a worried look on his face. … Couldn't Yuri see me? Then was it just a dream? [l][r]
-I thought about a lot of things, but judging by this guy's reaction, maybe half of it was just an illusion, close to a dream. [l][r]
+[r]"Chi-chan, are you okay?" [l][r]
+
+I noticed that Yuri was looking at me with concern. ......You didn't see me?　Then was it still a dream? [l][r]
+
+I thought about it a lot, but judging from this guy's reaction, it was probably half an illusion, almost a dream. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...Yeah, it's okay" [r]
-In order to disguise the fact that your lips were still slightly damp, you rubbed your lips in a way that Yu wouldn't notice. [l][r]
-"...I was just thinking about all the things I was thinking about..." [r]
-"...I see." [l][r]
-[r]Yu stares at me as if he's about to say something. [l][r]
-...No, it's no good. I have to tell you right away. [l][r]
-[r]...Before your heart becomes dull. [l][r]
+"...... yeah, I'm fine."[r]
+
+To cover up the lips, which are still slightly moist, I lick them without You noticing. [l][r]
+
+"...... just a lot of things, just a lot of things that I was thinking were going to overflow. ......"[r].
+
+I see."[l][r] "...... I see."[l][r]
+
+[r]Yu looks at me, still wanting to say something. [l][r]
+
+...... No, no. I have to tell them right away. [l][r]
+
+[r]...... before your mind gets dull. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m0_piano.ogg"  ]
 [tb_start_text mode=3 ]
-"Yu. Now it's my turn to tell my story." [l][r]
-I turned to Yu and told him about what had happened since I woke up in the other world. A world where there was no shortage of food or drink. A world where many people lived in peace without fear of life-threatening danger.
-Ishii and Kanazawa are there too. [r]
-And the hypothesis that those who die in this world are sent to the other world.
-[r]Unusually, Yuri listened to me until the end without interjecting. The first thing she said when she finished listening was... [l][r]
+[l][r]"You. Now we'll talk about me."[l][r].
+
+I turned to Yu and told him the story of what I had been doing since I woke up in the other world. A world where there is no shortage of food or drink. A world where many people live in peace, without fear for their lives. [l][r]
+
+That both Ishii and Kanazawa are there. [r]
+
+And. Hypothesis that those who die in this world are sent to the other world. [l][r]
+
+[r]rarity, Yuri listened to me without interrupting until the end. Her opening statement after she finished listening was. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sun.jpg"  ]
 [tb_start_text mode=3 ]
-“I really want to go there if I can eat fish” [r]
-“There you are.” [l][r]
-“The potatoes are delicious, but I also want to eat fish” [r]
-“Well, I understand.” [l][r]
-I almost wonder how much of an appetite he has. I wonder if this guy will become a gourmet reporter if he goes to the other world. Then. [l][r]
+If I could eat fish, I'd go super."[r].
+
+There you go."[l][r].
+
+Imo delicious, but I also want to eat fish."[r].
+
+No, well, I understand."[l][r].
+
+How much appetite does he have? I wonder if he will be a gourmet reporter when he goes to the other side of the world. Then. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"And also" [l][r]
+And you know what?"[l][r].
+
 
 [_tb_end_text]
 
@@ -286,109 +418,171 @@ I almost wonder how much of an appetite he has. I wonder if this guy will become
 [wait  time="200"  ]
 [quake  time="300"  count="1"  hmax="0"  wait="true"  vmax="10"  ]
 [tb_start_text mode=3 ]
-Suddenly, Yuri jumped out of the vehicle he was sitting in and spun around to face me. [l][r]
-“I can’t wait to be with Chi-chan again [r]
-I'm happy.''[l][r]
-"...But, you. That's what you want." [l][r]
-"Well, that means I have to die. But that's okay. For Chi-chan's sake, I will." [r]
-Saying that, Yu picks up the gun. [l][r]
-“You can do anything.” [l][r]
+With a stomp, Yuri jumps down from the car he was sitting in and spins around to look back at us. [l][r]
+
+"You and Chi-chan can be together again [r].
+
+I'm happy."[l][r].
+
+"Even at ......, u. That's what you want."[l][r].
+
+I know," he said, "well, it means I have to die. But that's okay. For Chi-chan's sake, I am."[r]
+
+Then Yoo picks up the gun. [l][r]
+
+I can do anything."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
 His eyes were straight. Yu, do you really understand? [l][r]
-[r]I want you...[r]
+
+[r]I'll give you a ......[r]
+
 I'm asking you to die. [l][r]
-“Yeah, I know.[r]
-I'm saying it because I understand." [l][r]
-"...you" [r]
-"So, how should I do it?" [l][r]
-[r]Yu casually answers, as if asking how to maintain a machine. I feel relieved that her eyes are the same as when we were traveling together. [l][r]
-At the same time, my heart feels tight.[l][r]
+
+'Yeah, I know. [r]
+
+I know, I'm telling you."[l][r].
+
+"...... you" [r].
+
+So how do we do it?"[l][r].
+
+[You say it so matter-of-factly, as if you're asking me how to service a machine. His eyes are nothing like they were when we were traveling together, and I feel at ease. [l][r]
+
+On the other hand, it is heartbreaking. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="gear.jpg"  ]
 [tb_start_text mode=3 ]
-Calm down. [r]
-When you decided to say these words, you also swore to fulfill your responsibility to watch over them. [r]
-[l] You accepted. In that case, I'll keep watching over him until the very end so he doesn't get scared... [l][r]
-[r] "...Then let's use the wire over there. The gun is too long, so tie it to the trigger..." [l][r]
-You are working as I say [r]
-Ku. The best way to definitely feel better in an instant. Actually, I think I should be the one to shoot, but since my body can't touch anything, there's nothing I can do about it. [l][r]
-“So, pass the wire over here [r]
-...Yes, that's it, you're ready.''[l][r]
+[r] Calm down. [r]
+
+When I decided to say these words, I would have also sworn to fulfill my responsibility to watch over you. [r]
+
+[l]u accepted me. Then I'm not afraid of that guy, I'm going to keep watching over him until the end of his life. ...... [l][r]
+
+[r]"...... Then we'll use the wire there. The gun is too long, so we're going to have to tie it to the trigger and ......"[l][r].
+
+Yoo is working on what I told him to work on [r].
+
+The best way to ensure that you will be able to do this. Definitely the best way to get instant relief. I should really be the one to shoot, but as long as my body couldn't touch the thing, there was nothing I could do. [l][r]
+
+So, you put the wire through here [r]."
+
+...... yes, and then we're ready to go."[l][r].
+
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Now we just need to hit the weak spot and pull the wire." [l][r]
-"Yeah..." [l][r]
-Yu pulls the wire once to see if the trigger can be pulled. The trigger clicked firmly. [l][r]
-"Okay, I guess I can go." [l][r]
+You just hit the vital point with this and pull the wire, right?"[l][r].
 
-[r] With a satisfied smile, Yu loads the bullet. Each of these movements weighs heavily on my heart, causing me to hesitate. [l][r]
+"Yeah. ......" [l][r].
+
+Yoo pulls the wire once to see if the trigger can be pulled. With a click, the trigger was firmly activated. [l][r]
+
+'Okay, I guess we can go.'[l][r].
+
+
+[r]With a satisfied smile on his face, Yu loads the bullets. Each movement weighs heavily on my heart, causing me to hesitate. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="38B.jpg"  ]
 [tb_start_text mode=3 ]
-"...Yu, as expected" [r]
-"Hmm?" [l][r]
+"...... you, after all."[r]
+
+Hm?" [l][r]
+
 What's wrong? [r]
-Yu's face looked like he was saying that. That expression is so normal that I end up asking the same thing. [l][r]
-[r] “…Is it really okay? [r]
-Aren't you scared? ”[l][r]
-“Hmm, that’s right.[r]
-I don't really know if I'm going to die or not. But it’s better than that.” [l][r]
+
+The look on Yoo's face as if to say, "I'm sorry. The look on his face is so normal that I ask him the same thing. [l][r]
+
+[r]"Are you sure about ......? [r]
+
+Aren't you afraid?" [l][r]
+
+'Hmmm, yes. [r]
+
+I don't really know if I'm going to die or what. But it's more than that."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="cocking.ogg"  ]
 [tb_start_text mode=3 ]
-Yu pulls the lever, loads the bullet, and smiles at me. [l][r]
-"I think what makes me happiest is being able to be with Chi-chan again." [l][r]
-"...you" [l][r]
-[r]I wonder how I received those words. All I could see was tears rolling down my cheeks. [l][r]
-Yuu reaches out to wipe away my tears. [r]
-However, her body was still transparent and she did not accept Yu's hand. [l][r]
-"Chi-chan, wouldn't it be better if you faced away?" [l][r]
+Pulling the lever and loading the bullet, Yu smiles at me. [l][r]
+
+I think I'm happier that I can be with Chi-chan again."[l][r] "I think I'm happier that I can be with Chi-chan again."[l][r
+
+"...... you" [l][r].
+
+[r]How did I take those words? All I knew was that tears were rolling down my cheeks. [l][r]
+
+Yoo reaches out to wipe away my tears. [r]
+
+But the body was still transparent and did not accept Yoo's hand. [l][r]
+
+'Chi-chan, shouldn't you be facing the other way?' [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Yu says while putting the muzzle on his chest. I think it's incredibly painful to see the results. [l][r]
+Yoo says, holding the muzzle of the gun to his chest. I find it tremendously painful to see the result. [l][r]
 
-[r]But. [l][r]
 
-[r] "No, let me watch over you. That's my way of discriminating." [l][r]
-"I see. Then you don't have to worry." [l][r]
-"That's right. When you get there, look for me in the city called Tokyo. I'm using the name Chito to make it easier to find. If you go over there, I think you'll understand what I mean." [l][r]
-"Yeah. As expected of Chi-chan, you're so smart." [l][r]
-"...I just did what I could." [l][r]
+[r] also. [l][r].
+
+
+[r]"No, let me watch over you. That's my way of making a clean break."[l][r].
+
+I see. That's a relief then."[l][r].
+
+That's right. When you get there, look for me in a town called Tokyo. I'm making it easier for you to find me by looking for me under the name Tito. When you get over there, you'll know what I mean."[l][r].
+
+[l][r]"Yeah. You're so smart, that's what I'm talking about."[l][r].
+
+I just did what I could ......."[l][r]
+
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sun.jpg"  ]
 [tb_start_text mode=3 ]
-Yu gives me a carefree smile. I can't help but want to touch that face and body [r]
-I instinctively reached out my hand. Even though Yu knew he couldn't touch her, he reached out and answered her. [l][r]
-[r] "...Well, Chi-chan. I'll be there right away." [l][r]
-"...Ah" [l][r]
-[r]Yu closes his eyes and looks forward. I stare at its profile. His right hand overlaps my left hand. [l][r]
+Yoo gives me a carefree smile. I couldn't resist touching his face and his body [r].
+
+I reached out my hand to him, knowing that I couldn't touch him. Yoo, too, answered by reaching out his hand, even though he knew he couldn't touch it. [l][r]
+
+[r]"............ Okay, chi-chan. I'll be right there."[l][r]
+
+"...... Oh."[l][r]
+
+[r]u close your eyes and look forward. I stare at his profile. His right hand overlaps my left. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-What do you think now? Isn't he really scared and trembling deep inside his chest? Even if you want to know, you can't know it. [l][r]
-[r]The left hand holding the wire moves. That moment will come. [l][r]
-But why? I was so scared just a moment ago, but now I don't feel scared. [l][r]
-[cm] I was fascinated. [l][r]
-[r]Yu's profile in his final moments is [l][r]
-[r]Because it was incredibly beautiful. [l][r]
+I wonder what Yu is thinking now. I wonder if he is really scared and trembling deep in his chest.　Even if I wanted to know, I would never know that. [l][r]
+
+[r]The left hand holding the wire moves. The moment comes. [l][r]
+
+I don't know why though. I was so scared earlier, but now I didn't feel scared. [l][r]
+
+[cm] I was gawking. [l][r]
+
+[r]u's, that profile in his last moments, [l][r].
+
+[r]Because it was tremendous and beautiful. [l][r]
+
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -408,16 +602,21 @@ But why? I was so scared just a moment ago, but now I don't feel scared. [l][r]
 [bg  time="3000"  method="crossfade"  storage="fgd.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I feel like my consciousness is being grabbed. At this moment, every cell in my body complains of discomfort, and I am selfish and say that I don't want to wake up. [l][r]
-However, in this modern society, it is only young children or unemployed people who are allowed to suffer such depravity, and those of us who work hard at school must overcome this discomfort. [l][r]
+The sensation of consciousness being reeled in. At any moment in this moment, every cell in my body complains of discomfort and scatters my selfishness, not wanting to get up. [l][r]
+
+But in this modern society, only young children or unemployed people are allowed such depravity, and those of us who work hard at our schoolwork must inevitably overcome this discomfort. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="room5_asa.jpg"  ]
 [tb_start_text mode=3 ]
-"Y-Yeah..." [l][r]
-"Are you here?" [l][r]
-[r]A voice called out to me right in front of me. When I opened my eyes, which were still hazy, beautiful blue eyes were staring at me. [l][r]
+I'm like, "Yeah, yeah, ......."[l][r].
+
+Did you wake up?" [l][r]
+
+[r]A voice calling me in front of me. I open my still blurry eyes to find beautiful blue eyes staring at me. [l][r]
+
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m5.ogg"  ]
@@ -427,37 +626,57 @@ However, in this modern society, it is only young children or unemployed people 
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"...Yuuu" [l][r]
-"Good morning, Chi-chan" [l][r]
-[r] Saying that, Yu intertwines his fingers with my hand. Ah, this moment is unbearable. How happy I am! Because of this, I can greet the morning. [l][r]
-[r] "...Good morning, Yu" [r]
-I say that and take Yu's hand back. Then, Yu gave me a smile. [l][r]
+"......yu" [l][r].
+
+Good morning, chi-chan."[l][r].
+
+[r]yu intertwine your fingers with my hand as you say that. Oh, I can't get enough of this moment. How happy I am. This is what keeps me going in the morning. [l][r]
+
+[r]"...... good morning, yoo" [r].
+
+Then I shook Yoo's hand back. As I did so, Yoo smiled at me. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Is Yu meeting his end in that world?[r]
-Then, we can meet again [r]
-Ta. Several years have passed since they spent time together again. [l][r]
+I wonder if Yoo is meeting his end on the other side of the world [r].
+
+We were able to meet again [r].
+
+The first time they met, they were both in the same room. And so they were together again, and a few years had passed. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]When I woke up after witnessing Yu's final moments, I was in the hospital. It seemed like Ishii and Kanazawa were worried about him and accompanied him, and I felt sorry for him. [l][r]
-After undergoing tests, there were no particular problems, so I was able to be discharged from the hospital the next day. [r]
-Immediately after returning home, I checked all of my SNS notifications. There is one notification. [l][r]
-[r] When I opened it nervously, it read [r] in romaji.
-The name ``Yuri Kubo'' was written on it. Yes, it's You. [l][r]
+When I woke up after witnessing [r]u's last moments, I was in the hospital. Ishii and Kanazawa were worried about me and were attending to me, and I felt sorry for them. [l][r]
+
+I was examined and found no problems, so I was discharged the next day. [r]
+
+As soon as I got home, I checked my social networking notifications from one end to the other. Among them was one notification. [l][r]
+
+[r] I nervously opened it and found [r] in Roman characters.
+
+The name "Yuri Kubo" was written on it. Yes, it's Yu. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-You had come to this world properly. After we kept in touch, it was discovered that we lived relatively close to each other, and we were soon able to meet again. [l][r]
-The day we met, we embraced each other so tightly
-Ta. We hugged each other and cried a lot. [r]
-Then, we talked about each other's current backgrounds, talked about that hierarchical city, and confirmed each other's existence. Oh, there was no doubt about it. It was the You I knew. [l][r]
-[r]And so we began our modern life together. After school, we met in the city center and played around to make up for the time we had lost. [l][r]
-[cm]The days we spent together were so happy that they passed by in the blink of an eye. [l][r]
-[r] Before we knew it, we were going to university. Since they both started living on their own, they had built an even deeper trust. [l][r]
+Yoo had indeed come to our world. When we got in touch with him, we discovered that he lived rather close to us, and we were soon able to meet again. [l][r]
+
+On the day we met, we embraced each other so strongly [r].
+
+I was so happy to see him. We hugged each other and cried wanly. [r]
+
+Then we told each other our current identities, talked about that hierarchical city, and confirmed each other's existence. Oh, there was no doubt. It was the You I knew. [l][r]
+
+[r]eally so we began our modern life together. After school, we met and played around in the city center to make up for the time we lacked. [l][r]
+
+[cm] Our days together were happy and fleeting. [l][r]
+
+[We went off to college and started living on our own. We both started living on our own and built up an even deeper trust. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -467,10 +686,13 @@ Then, we talked about each other's current backgrounds, talked about that hierar
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink color="black" storage="" size="20" text="SIDE-Chito" target="*TO_Chito" x="24" y="400" width="" height="" _clickable_img=" " ]
-[glink color="black" storage="B1_01CRCS.ks" size="20" text="SIDE-Yuri" target="*" x="24" y="450" ​​width="" height="" _clickable_img =""]
+[glink color="black" storage="" size="20" text="SIDE-Chito" target="*TO_Chito" x="24" y="400" width="" height="" _clickable_img=""]
+
+[glink color="black" storage="B1_01CRCS.ks" size="20" text="SIDE-Yuri" target="*" x="24" y="450" width="" height="" _clickable_img=""]
+
 [jump  storage=""  target="*CS6Stop"  cond="sf.CS1!=1"  ]
-[glink color="black" storage="" size="20" text="Skip to next choice" target="*ToJump" x="24" y="500" width="" height="" _clickable_img =""]
+[glink color="black" storage="" size="20" text="Skip to next option" target="*ToJump" x="24" y="500" width="" height="" _clickable_img=""]
+
 *CS6Stop
 
 [s  ]

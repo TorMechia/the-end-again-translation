@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/SB1_01CRCS.ks]
+[_tb_system_call storage=system/_B1_01CRCS.ks]
 
 [tb_eval  exp="sf.CS6=1"  name="CS6"  cmd="="  op="t"  val="1"  ]
 [cm  ]
@@ -8,106 +8,159 @@
 [bg  time="1500"  method="crossfade"  storage="fgd.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Let's pamper Chi-chan today. [l][r]
+Let's spoil your chi-chan today. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 [r]Let's play a little prank on Chi-chan today. [l][r]
-[r] Let's try not to cause any trouble for Chi-chan today. [l][r]
-[r]Let's go back to my room today...and don't see Chi-chan until tomorrow. [l][r]
+
+[r][r]Let's not embarrass Chi-chan today. [l][r]
+
+[r]I'm going to go back to my room today ...... and not see Chi-chan until tomorrow. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-My mornings are always like that. The first thing I think about is Chi-chan. My day begins with a strategy meeting, deciding what kind of me I should show Chi-chan today, and what kind of me I should not show her. [l][r]
-Of course, I don't think it's particularly difficult. There's no point in thinking about it. Waste of time, waste of calories. Ah, in this world, calories are so plentiful that you can just throw them in the trash. [l]But I don't want to waste it. After all, you want to use the delicious food you eat for something meaningful, right? [l][r]
-[r]What are you talking about? Oh yeah, about Chi-chan. I know. [l][r]
+My mornings are always like that. The first thing I think about is Chi-chan. My day begins with a strategy meeting about what kind of me I should show Chi-chan today, and what kind of me I should not show her. [l][r]
+
+Of course, I don't think about it too hard. It's a waste of time and calories. Waste of time, waste of calories. Oh, in our world, there are so many calories that we can just throw them in the trash without a care in the world. [l]But I don't want to waste them. I want to use the food I've eaten for something meaningful, don't you? 
+
+[r]Oh, what was I talking about? Oh, yeah, you mean Chi-chan. I know. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-When I was able to come to this world and meet Chi-chan, I was more relieved than happy. [l][r]
-[r] ("Thank goodness, Chi-chan was still waiting for me.")... [l][r]
-Why did I think that way? [l][r]
-I'm happy, we'll be together forever. There's plenty of delicious food, and I don't have to worry about housing or clothes, and I have kind family and friends. We can live happily ever after in such a wonderful world. [l][r]
-...Why didn't I think like that? [l][r]
-[cm]Of course, I immediately forgot about that and jumped to my special seat, where I was supposed to be. Next to Chi-chan. Right next to Chi-chan. [l][r]
-Ah, good. Chi-chan isn't going anywhere now. I can protect Gachi-chan. [l][r]
+When I was able to come to this world and meet Chi-chan, I was first of all relieved rather than happy. [l][r]
+
+[r]("Thank God, Chi-chan is still waiting for me.") ....... [l][r]
+
+Why did I think that? [l][r]
+
+I'm glad, now we'll be together forever. There is plenty of good food, a house to live in, clothes to wear, and kind family and friends. We can live happily ever after in this wonderful world. [l][r]
+
+......Why didn't I think of it that way? [l][r]
+
+[cm]Of course I quickly forgot about that and jumped to where I was supposed to be, my special seat. Next to Chi-chan. Right next to Chi-chan. [l][r]
+
+Oh, thank goodness. Now Chi-chan won't go anywhere. I can protect Chi-chan. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-……that? [l][r]
-I was thinking about that again. Why is that? [l][r]
-Me protecting Chi-chan? It's the other way around. I wanted Chi-chan to help me, I wanted to meet her, I couldn't help it. [l][r]
-Isn't that why you came to this world with such fear? [l][r]
-I don't really understand. Hmm... [l][r]
+...... Huh? [l][r]
 
-[cm] It's no use even thinking about it. But I'll think about it. [r]
-Just forget about it and have fun. But I'll think about it again soon. [l][r]
+I was thinking that again. Why is that? [l][r]
+
+I'm going to protect you?　It's the opposite. I wanted to see you, I wanted to be saved by you. [l][r]
+
+Isn't that why you came to this world, even though you were afraid? [l][r]
+
+I'm not sure what it is. Hmmm. ....... [l][r]
+
+
+[cm]It's no use thinking about it. But I think about it. [r]
+
+I quickly forget about it and have a good time. But soon I'll be thinking about it again. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-that's strange. [l][r]
-[r]I have always lived without thinking deeply. After all, it was Chi-chan's job to think. [l][r]
-I can't think too deeply. Chi-chan's opinion is always correct. ...at least for me. [l][r]
-But now, something is different. [l][r]
+That's funny. [l][r]
+
+[r]I have always lived my life without thinking too deeply. Because thinking was the job of smart, chi-chan. [l][r]
+
+I shouldn't think too much. It's always the right idea, chi-chan. ...... At least, for me. [l][r]
+
+And yet, something is different now. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-...That's why my mornings are always like this. [l][r]
-I make decisions quickly and shallowly in my head when I wake up. [l][r]
-Chi-chan's sleeping face, Chi-chan's scent, [r]
-Chi-chan's body temperature, Chi-chan's touch [r]
-the law of nature. [l][r]
-[r]Everything I feel determines my world today. End the strategy meeting immediately without any extraneous thoughts. [l][r]
+...... so my mornings always are. [l][r]
+
+I decide, shallowly and quickly, with my sleepy head. [l][r]
+
+Chi-chan's sleeping face, Chi-chan's smell, [r].
+
+Chi-chan's body temperature, Chi-chan's skin touch [r].
+
+[l][r]. [l][r].
+
+[r]everything I feel will determine my world today. I'll end the strategy meeting immediately, without unnecessary thoughts. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="room5_asa.jpg"  ]
 [tb_start_text mode=3 ]
-Okay, then [l][r]
-[r]Let's be kind to Chi-chan today. [l][r]
+Okay, then [l][r].
+
+[r]Let's be a lot nicer to Chi-chan today. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="white.png"  ]
 [bg  time="1000"  method="crossfade"  storage="tatemono4.jpg"  ]
 [tb_start_text mode=3 ]
-"Hello" [l][r]
-As soon as I entered the university grounds, a friend from the same seminar waved at me. [l][r]
-"Good morning" [l][r]
-I replied as well. Yeah, I have hair like this and I'm tall, so it's easy to find me. [l][r]
-I used to worry a little when I was in junior high and high school, but I'm used to it now. I love my father's home in Hungary, and sometimes I miss it, but I don't want to leave Japan because it's the place where I was born. [l][r]
-[r]More than anything, I want to be by Chi-chan's side right now. [l][r]
-As much as it was painful in that world, it was fun [r]
+"Hi," [l][r].
+
+As soon as I entered the university grounds, a friend from the same seminar waved me over. [l][r]
+
+Good morning."[l][r].
+
+And I'll give it back to you. Yeah, I'm easy to find because I have hair like this and I'm tall. [l][r]
+
+I had a little trouble with it when I was in middle and high school, but now I'm used to it. I like my father's house in Hungary and I miss it sometimes, but Japan is where I was born, so I still don't want to leave. [l][r]
+
+[r]Above all, I want to be near Chi-chan now. [l][r]
+
+I had a lot of fun because I had a hard time in that world [r].
+
 I want to spend time with you. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Hey, there's someone I want to make happy. If you were to do something a little different than usual, what would it be?" [l][r]
-I somehow tried to bring up such a topic. [l][r]
-[r] "...You mean Minase-san?" [l][r]
-“How do you know?!” [l][r]
-I was surprised when Chi-chan's last name was suddenly mentioned. [l][r]
-Hearing the voice, other friends gather. What, are there rumors about me and Chi-chan?! [l] No, no, we're not dating or anything! [r]
-We're like family...we don't even live together! What word does "real yuripurple" come from? ! ! ! [l][r]
+'Hey, I have someone I want to please, what would you do for them that's a little out of the ordinary?' [l][r]
+
+I kind of broached the subject. [l][r]
+
+[r]"...... minase you mean?" [l][r]
+
+How do you know? [l][r]
+
+I am taken aback when he suddenly gives me Chi-chan's last name. [l][r]
+
+Hearing her voice, another friend also gathers around. What, are there rumors like that about me and Chi-chan? [l] No, no, it's not like we're dating or anything! [r]
+
+They're like family and they don't live together ......!　Where's the word "real yuri-puru"? [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Surrounded by my friends and their friends, I can't move. I'm in trouble. [l][r]
-...But, okay? Let's take this opportunity to hear various stories from various people. [l][r]
-I'll try to be a little smarter too. [r]
-Maybe then I'll understand. [l][r]
+My friends and their friends surround me and I'm stuck. I'm in trouble. [l][r]
+
+...... but, well, that's okay. Let's hear all kinds of stories from all kinds of people. [l][r]
+
+I shall be a little wiser too. [r]
+
+Then we might know, right? [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-It's how Chi-chan and I travel in this world. [l][r]
+It's just the way I and Chi-chan travel in this world. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -115,76 +168,112 @@ It's how Chi-chan and I travel in this world. [l][r]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m3.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="class.jpg"  ]
 [tb_start_text mode=3 ]
-At Adako, I was surrounded by friends who taught me many things. [l]Give them a present, cook them a meal, go to a nice restaurant, go on a trip. Everyone excitedly told us what we should do, down to the detailed plans. [l][r]
-Did you never think it would go this far?[r]
-Well, it took a little time. It was a little late from the promised time to eat lunch with Chi-chan. [l][r]
+I was surrounded by friends who taught me many things. [I would give them presents, cook for them, go to a nice restaurant, or go on a trip. Everyone told me how to do each of these things, even down to the detailed plans. [l][r]
+
+You didn't expect them to go this far [r].
+
+I was a little too late for lunch. It was a little past the time I promised to have lunch with Chi-chan. [l][r]
+
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="hikidoopen.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="rouka4.jpg"  ]
 [tb_start_text mode=3 ]
-[r]When I packed up my things and left the classroom, Chi-chan was right next to the door. I was a little surprised because she asked me to meet her in front of the cafeteria. [l][r]
+[r]When I packed my bags and left the classroom, Chi-chan was right next to the door. I was a little surprised because she said she was going to meet me in front of the cafeteria. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Ah, Chi-chan, I'm sorry. I'm a little late." [r]
-"Ah. He's popular." [l][r]
-After saying that, Chi-chan started walking. Something cold runs down my back as I feel some kind of rejection in the movement. However, I call out to her to somehow get things back to normal. [l][r]
-[r] "Oh, were you watching? I wish you would say something to me." [r]
-"Because it looked like fun." [l][r]
-"Well, it's lively, but if too many people come, it'll be a bit of a problem."[r]
-"I see." [l][r]
+'Oh, Chi-chan, I'm sorry. I'm a little late."[r]
+
+[l][r]"Yeah. You're a popular guy."[l][r].
+
+After saying this, Chi-chan started to walk away. I felt a cold sensation running down my back as she moved, somewhat rejecting me. But I call out to her, trying to somehow get her back to her normal routine. [l][r]
+
+[r]"Hey, were you watching?　If you want, you could have called out to me."[r]
+
+'It looked like a lot of fun.'[l][r].
+
+It's a bit of a problem when too many people show up."[r]
+
+I see."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan doesn't look at me. he is one step ahead. a little scary. But don't be afraid. I decided to be really kind to Chi-chan today. [l][r]
-"That's right, Chi-chan. Let's go to a place outside the school for lunch today. I'll buy it for you!" [l][r]
-"...I also say unusual things." [l][r]
-"I owe Chi-chan a lot. I have to repay you once in a while." [l][r]
-"I don't think I'll ever be able to pay it all back in my lifetime." [l][r]
-"Uhi, don't say that." [l][r]
+Chi-chan doesn't look at me. She is walking one step ahead of me. I am a little scared. But I shouldn't be scared. I've decided to be much kinder to Chi-chan today. [l][r]
+
+I'll tell you what, let's go to a place outside of the school for lunch today. Let's go to a place outside the school for lunch today. I'll buy you a drink!" [l][r]
+
+"...... unusual things to say."[l][r].
+
+I owe Chi-chan a lot, too. I have to return the favor once in a while."[l][r].
+
+I don't think it's going to take me a lifetime to pay you back."[l][r].
+
+'Uhhi, don't say that.'[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Back to normal for a bit. It's great because talking about food brings things back to normal. The rice is great. [l][r]
-"So, where are you going?" [l][r]
-“Well, I just asked my classmate, but when you turn right after exiting the main gate...” [r]
-"I'm not going" [l][r]
-"...Huh?" [r]
-"I'm not going" [l][r]
-"Um, Chi-chan? But you know, everyone said it was delicious." [l][r]
+Back to normal for a bit. It's great to be back to normal when we talk about food. Food is the best. [l][r]
+
+So where are you going?" [l][r]
+
+"Well, I was just told by a girl in my class that if you go out the main gate and turn right, you'll see ......"[r].
+
+I'm not going."[l][r].
+
+"...... eh?" [r]
+
+I'm not going."[l][r].
+
+'Um, chi-chan?　But see, everyone said it was delicious."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [stopbgm  time="1000"  ]
 [quake  time="200"  count="2"  hmax="5"  wait="true"  ]
 [tb_start_text mode=3 ]
-"You said you weren't going!" [l][r]
-Chi-chan said in a strong voice. My body jumped in surprise and my feet stopped. Chi-chan left me behind. [l] I reached out to chase after her back, but my feet wouldn't move. [l][r]
-Why, why? It would happened to. [r]
+I said I'm not going!" [l][r]
+
+Chi-chan says in a strong voice. My body jumps in surprise and I stop in my tracks. Chi-chan leaves me behind. [l]I reach out to chase after her back, but my legs don't move. [l][r]
+
+Why, why, why? What's going on? [r]
+
 Did I do something wrong? [r]
+
 What have I done? [l][r]
+
 [r]I don't know. [l][r]
-But I have to think about it a little more. [l] Chi-chan didn't stop thinking about it until the end. So I have to think about it too. [l][r]
+
+But I have to think about it some more. [l]Chi-chan didn't stop thinking until the very end. So I have to think about it too. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-……that. [l][r]
-I'm trying to think again. [l][r]
+...... that. [l][r]
+
+Me, trying to think again. [l][r]
+
 Why is that? [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="white.png"  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-That night, after the sun went down, I went to Chi-chan's room. I thought it would be better to leave him alone for a while, so I decided to kill some time in the library. Without Chi-chan, it was incredibly boring and time felt like a long time. [l][r]
-So I was actually planning to go home later, but in the end I couldn't resist and came home. [l][r]
+That night I went to Chi-chan's room after the sun had set. I thought maybe I should leave her alone for a bit, so I went to the library to kill some time. Without Chi-chan, it was ridiculously boring and time seemed to drag on. [l][r]
+
+So I was actually going to leave later, but in the end I couldn't take it anymore and came back. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -192,73 +281,104 @@ So I was actually planning to go home later, but in the end I couldn't resist an
 [bg  time="2000"  method="crossfade"  storage="room7_n.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m1_piano.ogg"  ]
 [tb_start_text mode=3 ]
-"I'm home" [l][r]
-open the door. Normally I'd get a reply saying welcome home, but I never got one. I wonder if he's angry. As I was thinking this, I heard a sheepish reply from inside and the door leading to the room opened. [l][r]
-"Hikku, you're slow, Yuri" [l][r]
-Chi-chan appeared with a red face and unsteady steps. [l][r]
+I'm home."[l][r].
+
+I open the door. Usually I get a "welcome home" response, but it doesn't come. I wonder if she is angry. As I'm thinking that, I hear a lilting reply from the back of the room, and the door leading to the room opens. [l][r]
+
+Hiccup, you're too slow, Yurii."[l][r].
+
+A red-faced, wobbly-footed little girl appeared. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-“Eh, Chi-chan, are you drinking!?” [l][r]
-"Hehehe, it's you, Toriya" [l][r]
+'What, Chi-chan, you're drinking!' [l][r]
+
+"Heh heh heh, u daa, toria."[l][r].
+
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="kicking-shoes-off-1.ogg"  ]
 [quake  time="300"  count="2"  hmax="0"  wait="true"  vmax="8"  ]
 [tb_start_text mode=3 ]
-"Wa-wappu!" [l][r]
-[r] Chi-chan suddenly hugged me tightly, and I couldn't help but fall on my butt. [l][r]
-I can't quite wrap my head around it, but somehow I feel nostalgic. [l][r]
+[l][r]"Wah, wahp!" [l][r]
+
+[r]Chi-chan suddenly hugs me tightly and I involuntarily fall on my butt. [l][r]
+
+I can't wrap my head around a lot of things, but I kind of missed it. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Hey, you're drinking too much, Chi-chan, stay strong, Chi-chan." [r]
-“Nando, I’m normal.” [l][r]
-"It's not normal..." [l][r]
-"Hmm, where have you been? I've been so lonely." [l][r]
-[r] Chi-chan wraps her arms around my back and clings to me. I was surprised at how strong it was. But I can't move like this, what should I do? [l] That's what I thought, but I thought it might be better to let her be spoiled for now, so I gently patted her head. [l][r]
-[r] "Yeah... I'm sorry, Chi-chan" [l][r]
-"Mmmmmmm, Ei" [l][r]
+"Teka sake kusa, hey chi-chan, chi-chan, get a hold of yourself."[r]
+
+I'm a normal person."[l][r] "What the hell?
+
+"It's not normal. ......"[l][r]
+
+"Nmoh, where have you been, I've missed you, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh."[l][r]
+
+[r]Mugyuu, Chi-chan put her arms around my back and stuck to me. I was surprised to see how strong she was. But I can't move like this, what should I do? [l]I thought so, but then I thought that maybe I should let her spoil me now, and gently pat her head. [l][r]
+
+[r]"Yeah ...... sorry, Chi-chan."[l][r].
+
+Nmooo, ei."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-A hand is pressed into my cheek. I'm in trouble because I'm being squeezed and kneaded. [l] Open up, don't pull. Don't do that just because it's stretchy. [l][r]
-[r] "For now, Sachi-chan, can you move now? Hey, please." [l][r]
-"Hmph. That's fine." [l][r]
-Chi-chan slowly stands up. [r]
-But my legs were unsteady and I felt uneasy as I watched. [l][r]
+A hand is pushed into my cheek. I'm in trouble because I've been squeezed so hard. [Don't pull it. Don't do it just because it extends well. [l][r]
+
+[r]"Anyway, Sachi-chan, can we get moving now?　Hey, please."[l][r] "Please.
+
+'Mmmph. All right."[l][r].
+
+Sluggishly, Chi-chan stands up. [r]
+
+But his legs were wobbly and it was unsettling to watch. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="room9_2.jpg"  ]
 [tb_start_text mode=3 ]
-When I gently supported my shoulder and entered the room, I found six beer cans empty. [l][r]
-[r] “I-I drank so much!” [l][r]
-"I'm lonely, so I went to the salmon. Hehehe." [l][r]
+Gently propping up his shoulder, he entered the room and found six empty cans of beer. [l][r]
+
+[r]"Oh my God, I drank so much!" [l][r]
+
+I was so lonely that I resorted to baiting myself.
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-Chi-chan eats my hair. One word: delicious. [l][r]
-"Chi-chan..." [l][r]
-“It’s delicious, raw is the best.” [l][r]
-"…………That's right." [l][r]
+Chi-chan eats my hair. One word: "Yummy. [l][r]
+
+"Chi-chan ......" [l][r].
+
+It's good, it's the best raw."[l][r].
+
+"............ I guess so."[l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I hold Muchi-chan's hand tightly as she happily massages my cheek. Hehehe, Chi-chan rubs her cheek against me. Let's go out together. [l][r]
-I grabbed an unopened beer that caught my eye. [l][r]
+I squeezed Chi-chan's hand as she rubbed my cheek happily. Chi-chan gives me a squeeze. I'll go out with you. [l][r]
+
+I picked up an unopened beer that caught my eye. [l][r]
+
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="opening-drinking-can-1.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="room5_n.jpg"  ]
 [tb_start_text mode=3 ]
-[r]I guess it was from then on. Chi-chan started drinking alcohol often. [l][r]
+[r]I think it was then. Chi-chan started drinking a lot. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

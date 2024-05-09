@@ -1,30 +1,40 @@
-[_tb_system_call storage=system/SB3_04YAMI.ks]
+[_tb_system_call storage=system/_B3_04YAMI.ks]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="kurai.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The sound of a cute engine echoes through the air. As the sound gets closer, the screws in the ground shake and the leaking pipes tremble. [l][r]
-A single light illuminates the pitch-black road. To create a path in a world shrouded in silence and darkness. [l][r]
+Toto-toto, the sound of a lovely engine echoes through the air. As the sound gets closer, the screws on the ground shake and the pipes leaking water tremble. [l][r]
 
-[r] "dark" [l][r]
+A ray of light illuminates a pitch-black road. To create a path in a world enveloped in silence and darkness. [l][r]
 
-[r]The voice of a "girl" echoes in that darkness. [l][r]
 
-[r] "dark" [l][r]
+[r]"dark" [l][r].
 
-[r]A moving vehicle, and a girl wearing a helmet in the back of the vehicle. [l][r]
+
+[r]The voice of the "girl" echoes in that darkness. [l][r]
+
+
+[r]"dark" [l][r].
+
+
+[r][r]A running vehicle, one girl with a helmet on the back of it. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The girl looked around, saw the space that could only be vaguely seen, and spoke again. [l][r]
+The girl looks around in a circle, looks at the space, which is only faintly visible, and says again. [l][r]
 
-[r] "dark" [l][r]
 
-[r] Beautiful blonde hair peeks out from the gap between the helmet and the hood. It is as transparent as the light of the moon, and will captivate the viewer. [l][r]
+[r]"dark" [l][r].
 
-[r] Shaking her blonde hair and lightly patting her hand, the girl spit out the words she had been holding back into the darkness. [l][r]
+
+[r]evealing beautiful blonde hair peeking out from between the helmet and hood. It is as translucent as the light of the moon, and will mesmerize all who see it. [l][r]
+
+
+[r]Shaking such blonde hair and lightly popping her hand, the girl let out a single word she had accumulated into that darkness. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -34,57 +44,82 @@ The girl looked around, saw the space that could only be vaguely seen, and spoke
 [tb_show_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="water-bukubuku3.ogg"  ]
 [tb_start_text mode=3 ]
-"Cool!" [l][r]
-"Noisy" [l][r]
+"Kool-aid."[l][r].
 
-[r] A voice comes from the driver's seat. When the blonde girl looked in the direction of the voice, she saw a slightly smaller girl driving the vehicle. [l][r]
+Shut up."[l][r].
 
-[r] "Sorry" [l][r]
-"...Okay" [l][r]
+
+[r]A voice comes from the driver's seat. The blonde girl looks toward the voice and sees a slightly smaller girl driving the vehicle. [l][r]
+
+
+[r]"Sorry" [l][r].
+
+"...... okay."[l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-She is a cute girl with glossy black braids extending from her helmet. [r]
-The child grudgingly engaged the clutch and adjusted the speed. The speed of the vehicle changes slightly. [l][r]
+She is a pretty girl with a glossy black lowered hair extending from her helmet. [r]
 
-[r] "Huh. I feel like I've done this before." [l][r]
-“When was last?” [l][r]
-"Hmm, I don't know. But I think I've done it a few times." [l][r]
-“How many times is how long?” [l][r]
-"Together with the previous one... [r]
-About three times.” [l][r]
-"Three times? That's a strange number." [l][r]
-“I wonder if there are many.” [l][r]
-"I don't know" [l][r]
+The child puts in the clutch with a clunk and adjusts the speed. The speed of the vehicle changes slightly. [l][r]
+
+
+[r]"Ha. I feel like I've done this before."[l][r] "I feel like I've done this before.
+
+When was the last time?"[l][r].
+
+'Hmmm, I don't know. But I think I've done it a few times."[l][r].
+
+How many times?" [l][r]
+
+"Combined with the earlier one, ......[r]
+
+Maybe three times."[l][r].
+
+Three times."[l][r] "Three times. That's a subtle number."[l][r].
+
+Is it a lot?"[l][r].
+
+I don't know."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The blonde girl turned her body and stared at her black hair. [l][r]
-That back is the same back I've seen many times. I just wonder why. Today, her back looked smaller than usual, and I was a little worried. [l][r]
-[r] Gently stretch out your arms and hug her small back. [l][r]
-The black-haired girl's back seemed to jump a little, but she quickly calmed down and answered. [l][r]
+The blonde girl turns her body and stares at her dark hair. [l][r]
+
+That back is a back I've seen many times. But I don't know why. Today that back looked smaller than usual, and I felt a little uneasy. [l][r]
+
+[r][r]Gently, he reaches out his arms and hugs the little back. [l][r]
+
+The dark-haired girl seemed to jump back a little, but quickly cooled down and replied. [l][r]
+
 
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="water-bukubuku3.ogg"  ]
 [tb_start_text mode=3 ]
-“What’s wrong?” [l][r]
+What's wrong with you, **?"[l][r].
 
-[r]The black-haired girl calls the blonde girl's name. [l][r]
+
+[r][r]A dark-haired girl calls the name of a blonde girl. [l][r]
+
 
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="water-bukubuku3.ogg"  ]
 [tb_start_text mode=3 ]
-[r] “It’s nothing, ＊－＊＊＊” [l][r]
+[r]"It's nothing, *-*****" [l][r].
 
-[r]The blonde girl calls out the black-haired girl's name. [l][r]
 
-[r]The voice sounded vague and heavy, as if it were being blocked by some invisible wall. [l][r]
+[r][r]A blonde girl calls the name of a dark-haired girl. [l][r]
+
+
+[r]The voice sounded indistinct, somewhat heavy, as if it were blocked by some invisible wall. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -93,8 +128,10 @@ The black-haired girl's back seemed to jump a little, but she quickly calmed dow
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-The vehicle continues to drive down the dark road. [l][r]
-Eventually, the sound of the engine becomes distant, and darkness engulfs the world. [l][r]
+Vehicles continue to drive on dark roads. [l][r]
+
+Soon the sound of its engine becomes distant and darkness envelops the world. [l][r]
+
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -102,10 +139,13 @@ Eventually, the sound of the engine becomes distant, and darkness engulfs the wo
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-[r] But that's not a problem [r]
-Ta. [l][r]
+[r]But that didn't[r] matter[/r].
 
-[r]As long as we can be together, that's fine. [l][r]
+ [l][r]
+
+
+[r]As long as we can be together, that's all that matters. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -116,8 +156,10 @@ Ta. [l][r]
 [tb_start_text mode=3 ]
 [r][r]
 [r][r]
-…………Even if the place is [l][r]
-[r] Even if it's deep, deep, at the bottom of the ocean. [l][r]
+............ example, if the location is [l][r][r][l][r][r].
+
+[r][r]Deep, deep, even if it's at the bottom of the ocean. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

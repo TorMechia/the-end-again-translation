@@ -1,93 +1,134 @@
-[_tb_system_call storage=system/Sscene2.ks]
+[_tb_system_call storage=system/_scene2.ks]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m2.ogg"  click="false"  ]
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="rf.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-About a year has passed since my first "awakening."
-[r]I have no idea that my experience in that world is a dream. [r]
-This is because the quantity and quality of memories, as well as the sense of reality, are very different from normal dreams. [l][r]
-That, that hierarchical city, is definitely a world that I experienced firsthand. [r]
+It has been about a year [r][r] since my first "awakening". [l][r]
+
+[r]I don't think for a fingernail that my experience in that world was a dream. [r]
+
+The quantity and quality of the memories, as well as the realization, are too different from normal dreams. [l][r]
+
+That, that hierarchical city, is definitely a world I experienced firsthand. [r]
+
 I was born there, grew up there, lived there, crashed there, wandered there, and died there. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But at the same time, there are also memories of life in modern Japan and the past. [l][r]
-Born in a rural area, he had an ordinary childhood, then went to a science and engineering school, studied aerodynamics and mechanical engineering, earned a degree, and joined his current company. [r]
-I feel that these memories are real, and my parents and grandparents are still alive and well in my hometown.[l][r]
+But at the same time, there are memories of life and the past in this modern Japan. [l][r]
+
+He was born in a rural area, had an ordinary childhood, went to school for science and engineering, studied aerodynamics and mechanical engineering, got a degree, and joined his current company. [r]
+
+I realize this memory as real as well, and my parents and grandparents are still alive and well in my hometown. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-So let me ask you a question. [r]
+Then I shall ask me a question. [r]
+
 Which memory is more authentic? [l][r]
-[r]The answer is, "They're both real." It may seem contradictory, but... [l][r]
-[r] Eventually, as I kept asking myself these questions, I began to think that it didn't matter. [r]
-There are always questions that cannot be answered, such as the five-minute world hypothesis. [l][r]
-However, even if I tried to explain it that way, I was still left with a feeling of doubt or sentimentality that I couldn't shake. [l][r]
+
+[r]answer is, "Both are real."  [l][r]
+
+[r]Eventually, as I repeated those questions to myself, I began to think that it didn't matter. [r]
+
+There are some questions that can't be answered anyway, like the world-five minutes ago hypothesis. [l][r]
+
+However, even when I tried to put it that way, I was left with a feeling of doubt or sentimentality that I just couldn't shake off. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I wonder what's going on with that city and those girls now. [l][r]
+I wondered what that city, those girls, are like now. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="office.jpg"  ]
 [tb_start_text mode=3 ]
-A subcontractor of an aircraft manufacturer. A certain office in a certain department is my workplace in this world. [r]
-Currently, the team is working hard day and night to design new parts. [l][r]
-[r]But it's a shame. The drawings seen in that world left behind many things that cannot be understood or realized with the technology of today's world. [l][r]
-I think it's really a shame. At that time, I focused only on the practical aspects of flight, and did not try to understand the theory or design that was useless. [l][r]
+A subcontractor of an aircraft manufacturer. One office in one of its departments is my workshop in this world. [r]
+
+Now he is struggling day and night with a new component design team. [l][r]
+
+[r]ut it's a shame, though. The drawings I saw in that world bequeathed many things that are neither understood nor realized with the technology of today's world. [l][r]
+
+It is a great pity. At that time, I was only concerned with practical flight and did not try to understand the theory and design, which I could not use. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-If I could understand just one of these futuristic technologies (what I believe to be) and make them manifest in this world, I would have been able to easily make a fortune. [l][r]
-[r]Well, in any case, it's impossible. I sigh lightly. The backrest I was leaning against made a creaking sound. [l][r]
+If only one of these future technologies could be understood and made manifest in this world, we could make a fortune. [l][r]
+
+[r]Well, in any case, the impossible is no longer possible. I sigh lightly. The backrest on which I rested my body makes a creaking sound. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-“Mr. Ishii, did you see the email from the general affairs office?” [r]
-A colleague calls out to me from the side. [l][r]
-“Which email?” [r]
-``I've only received one forwarded email. I've been receiving an email from a student with a strange inquiry, and it seems that it's also being sent to colleagues and related companies with the same content.[l] [r]
-I had a quick look at the contents, but I think Ishii-san might have something to do with it [r]
-……”[l][r]
-what's that. Why do I have to be involved in such a spam email thing? [r]
-Although I don't say it out loud, I look through the internal mailer, feeling deeply troubled. Is this it? [l][r]
+[r] "Mr. Ishii, have you seen the email from General Affairs?" [r]
+
+A colleague calls out from the side. [l][r]
+
+Which e-mail?" [r]
+
+It's the one that's coming in via "forwarding. There's some kind of email from a student with a strange inquiry, and it seems that it's also being sent to a competitor or affiliated company with the same content. [l][r]
+
+I took a quick look at the contents, and I think Mr. Ishii might have something to do with it [r].
+
+......" [l][r].
+
+What the heck is that? Why should I have anything to do with such spam mail? [r]
+
+I look through my internal mailer, not saying it out loud, but feeling deeply annoyed. Is this it? [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="mail.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-[Fw: Inquiry email to General Affairs[r]
-(ID:XXXXXX999)】[l][r]
-[r] ``I am sorry for sending you such an email out of the blue. [r]
-I am a student in Tokyo and am looking for someone who helped me in the past. [l][r]
-[r] I don't think there is a woman named Ishii working in a technical position among your company's employees or related companies.[r]
-Or? [l][r]
-If there is someone who does, and you recognize my name, could you please reply? ”[l][r]
+[Fw: Email inquiry to General Affairs [r].
+
+(ID:XXXXXXX999)][l][r].
+
+[r]"I am sorry to send you this email out of the blue. [r]
+
+I am a student in Tokyo and I am looking for a certain person who has helped me in the past. [l][r]
+
+[r]Are there any employees of your company or related companies who are female, perhaps in a technical position, named Ms. Ishii[r]?
+
+Ka. [l][r]
+
+If this applies to you and you remember my name, would you please respond?" [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The moment I saw the next words, I let out a cry of "...Ah." [r]
-With slightly trembling hands, I operate my PC and begin writing a reply email. [l][r]
+The next moment I saw the letters that followed, I let out a "...... ah. [r]
+
+With slightly trembling hands, he operates the PC and begins to write a reply e-mail. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [stopbgm  time="1000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
 The string continued like this. [l][r]
+
 [r][r]
 [r][r]
-``Thank you very much. [r]
-Minase Chito” [l][r]
+'Please do me the favor of your kindness. [r]
+
+Minase Tito" [l][r].
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -95,43 +136,57 @@ Minase Chito” [l][r]
 [bg  time="1000"  method="crossfade"  storage="office.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The email address was a so-called free email address. I replied without hesitation: [lr][r]
+The email address was a so-called free email address. Without hesitation, I replied, "I'm sorry, but I'm sorry. [lr][r].
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="keytype.ogg"  ]
 [tb_start_text mode=3 ]
-``Your name may be familiar to me. If you remember the taste of the potatoes you ate with us at that time, please contact us immediately. [r]
-Ishii Kotono” [l][r]
+If you remember the taste of potatoes we had together, please contact us as soon as possible. If you remember the taste of the potatoes we ate together, please contact me immediately. [r]
+
+Ishii Kotono" [l][r].
+
 [_tb_end_text]
 
 [stopse  time="1000"  buf="0"  ]
 [tb_start_text mode=3 ]
-[r]The reply came quickly. The contents were as follows:
-``If you don't mind, please contact me here. If possible, as soon as possible,' and below that was a mobile phone number, an email address, and a standard messaging app ID. [l][r]
+[r]eplies came quickly. The content was [r].
+
+'Contact me here if you like. Preferably as soon as possible,' and below that was just a cell phone number, an email address, and a standard messaging app ID. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I told my boss that I would be away for a while [r]
-Oh? There's a meeting in 10 minutes?
-Later, later. [l][r]
+I told my boss that I was going to sit out for a while [r].
+
+I'll be there. Oh?　Meeting in 10 minutes? [r]
+
+Later or later. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ishii_hasiru.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="rouka2.jpg"  ]
 [tb_start_text mode=3 ]
-[r]I try to head to the lobby. However, there are surprisingly many people there. I turned around and headed for the rooftop. [l][r]
+[r]I try to head to the lobby. But there are more people than I thought. I turn my feet and head for the rooftop. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="rf3.jpg"  ]
 [stopbgm  time="1000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-The bleak rooftop is reminiscent of the afterlife.
-It reminded me of the world. [r]
-I head towards the edge of the roof, avoiding the corner where the ashtray is placed, where smokers rarely come. [l][r]
-[r] I put my hand on the fence, operate the terminal with sweaty hands, and open the email I forwarded earlier. [r]
-First and foremost is the phone. I tapped the call button. [l][r]
+The bleak rooftop is somewhat "the other world[r].
+
+It was reminiscent of the "world". [r]
+
+Head to the edge of the rooftop, avoiding the corner with the ashtrays where smokers rarely come. [l][r]
+
+[r]He puts his hand on the fence, operates the terminal with sweaty hands, and opens the email he just forwarded. [r]
+
+First and foremost, a phone call. I tapped the dial-out button. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="phone-tone1.ogg"  ]
@@ -140,31 +195,42 @@ First and foremost is the phone. I tapped the call button. [l][r]
 [bg  time="1000"  method="crossfade"  storage="isiitel1.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I pressed the device to my ear as if praying. [r]
-The electronic ringing sound was repeated several times. [l][r]
-Please come out... please come out... [l][r]
+I pressed the terminal to my ear as I prayed. [r]
+
+The electronic tone of the call was repeated several times. [l][r]
+
+Come on out ...... Come on out ....... [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-And the prayer was answered. [l][r]
+And prayers were answered. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  clear="true"  ]
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="isiiTel2.jpg"  ]
 [tb_start_text mode=3 ]
-"...Hello. Ishii?" [l][r]
-The cute, bell-like voice that I remember hearing in that world came through the device's speaker. [l][r]
+"...... Hello? ............ ishii?" [l][r]
+
+A lovely voice, just as I remember hearing in that world, like a bell ringing, reached me through the terminal's speaker. [l][r]
+
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m4.ogg"  click="false"  ]
 [tb_start_text mode=3 ]
-[r] “Tito? Tito?!” [r]
-I scream. [r]
-"Yeah... it's me. Good... Ishii came here too..." [l][r]
-[r]The "this" she refers to is, of course, this modern society. Her voice was tearful, and I could feel the tremors in her hands. [l][r]
-"Oh, it's me. Ishii. ... I'm glad. I never thought the day would come when I could talk to you again."[l][r]
+[r]"Is it Tito?　Is it Tito?!" [r]
+
+I shout. [r]
+
+Yeah." It's ...... me. Good ...... ishii was over here, too. ......"[l][r].
+
+[r]The "over here" she refers to is, of course, this modern society. Her voice was tearful, as if a tremor could be felt in her hand. [l][r]
+
+Oh, it's me. It's Ishii. ......Good. I never thought I'd get to talk to you again. I never thought I would."[l][r].
+
 
 [_tb_end_text]
 
@@ -174,49 +240,70 @@ I scream. [r]
 [tb_show_message_window  ]
 [cm  ]
 [tb_start_text mode=3 ]
-"Guss...me too...me too" Tito muttered in a weak voice. [l][r]
-“Was it okay? [r]
-...Have you been okay? [r]
-What happened after that?"[l][r]
-I ask a rapid succession of questions in a trembling voice. [r]
-Even though I know in my head that I shouldn't be in such a hurry, I can't stop the voice. [l][r]
+'Gusu...... me too. ...... me too," mutters Tito in a weak voice. [l][r]
+
+[r] "Was everything alright? [r]
+
+...... how have you been? [r]
+
+What happened after that?" [l][r]
+
+I ask questions arrow after arrow in a voice that cannot stop trembling. [r]
+
+Even though I know in my head that I shouldn't be in such a hurry, I can't stop my voice. [l][r]
+
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-“Uh...yeah. Uh...hmm.[r]
-Well... wait. Just a moment...” [r]
-Tito interrupted my words with a voice that sounded like he was trying to force himself to hold back his sobs. [l][r]
-[r] "Ah... I'm sorry. Let's calm down for a second," I said to myself and Tito as I came to my senses. [r]
-"Yeah..." [l][r]
+"Ummm......... yeah. Umm...hmm. [r]
+
+Wait a minute ....... Just a little ......" [r].
+
+Tito interrupts us with a voice as if he is trying to force himself to hold back sobs. [l][r]
+
+[r]Oh ...... sorry. Let's just calm down a bit," I told Tito and myself as I came to myself. [r]
+
+"Yeah. ......" [l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="graysky.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I took a deep breath and looked up at the gray sky. [r]
-The sky looks like it's about to burst into tears. [l][r]
-[r] From the terminal, a girl's sobbing voice can be heard over the phone line. [r]
-As I slowly regained my composure, I was worried about Tito. [l][r]
+I silently took a slow breath and looked up at the gray sky. [r]
+
+The sky looks like it's about to start crying. [l][r]
+
+[r]From the terminal, the girl's sobbing voice can be heard over the phone line. [r]
+
+I was concerned for Tito's well being as I slowly regained my composure. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-It's now Friday morning. She said she was a student. [r]
-Are you at school then? high school student? Or a university student? [l][r]
-[r]...I wonder why Tito is crying so much. [r]
-It's understandable if it's a touching reunion, but the situation seems odd. Roughly...[l][r]
+Now it's Friday morning. You said she was a student. [r]
+
+Then you're in school?　High school student?　Or a college student? [l][r]
+
+[r]......Why is Tito crying so much? [r]
+
+If it's an emotional reunion, I don't know, but there's something wrong with it. It's usually ......[l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-"...A" [r]
+"......A" [r].
+
 [_tb_end_text]
 
 *Jump2
 
 [tb_start_text mode=3 ]
 I let out a small cry of surprise. [r]
+
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -224,10 +311,13 @@ I let out a small cry of surprise. [r]
 [_tb_end_tyrano_code]
 
 [tb_eval  exp="sf.CS0=1"  name="CS0"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
-[glink color="black" storage="scene2.ks" size="20" text="What happened to Yuri?" target="*tazuneru" x="24" y="400" width=" " height="" _clickable_img="" ]
-[glink color="black" storage="scene2.ks" size="20" text="I hope it doesn't sound like shit" target="*simatta" x="24" y="450" ​​width=" " height="" _clickable_img="" ]
+[glink color="black" storage="scene2.ks" size="20" text="What happened to Yuri?"  target="*tazuneru" x="24" y="400" width="" height="" _clickable_img="" ]
+
+[glink color="black" storage="scene2.ks" size="20" text="Hope you didn't hear that Tito" target="*simatta" x="24" y="450" width="" height="" _clickable_img =""" ]
+
 [jump  storage="scene2.ks"  target="*CS1Stop"  cond="sf.CS1!=1"  ]
-[glink color="black" storage="" size="20" text="Skip to next choice" target="*ToJump" x="24" y="500" width="" height="" _clickable_img =""]
+[glink color="black" storage="" size="20" text="Skip to next option" target="*ToJump" x="24" y="500" width="" height="" _clickable_img=""]
+
 *CS1Stop
 
 [s  ]
@@ -237,16 +327,23 @@ I let out a small cry of surprise. [r]
 [tb_eval  exp="f.CP=1"  name="CP"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-Sorry, I hope Tito can't hear it [r]
-but. [l][r]
-[r] What's wrong? ... I can't hear any voices asking that. [r]
-Is it okay then? I continue thinking. [l][r]
+Shit, I hope Tito didn't hear me [r].
+
+Ga. [l][r]
+
+[r]What's going on? I don't hear any voices like ....... [r]
+
+Then it's okay. I'll keep thinking. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-Something is wrong with Tito. Not wrong at all. [r]
-And now I feel like I understand one of the reasons clearly. [l][r]
-The voice with that unique inflection that was always next to her couldn't be heard on the other end of the phone. [l][r]
+There is something wrong with Tito. There is no doubt about that. [r]
+
+And one of the reasons for this seemed to be clear to me now. [l][r]
+
+That distinctive inflection of voice that was always next to hers was not heard from the other end of the phone. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -255,8 +352,10 @@ The voice with that unique inflection that was always next to her couldn't be he
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-...Yuri. [r]
-A beautiful and brave girl who is elusive, quite brazen, and even able to get along with despair. [l][r]
+...... Yuri. [r]
+
+A beautiful and brave girl who is elusive, quite brazen, and can even get along with despair. [l][r]
+
 [_tb_end_text]
 
 [jump  storage="scene2.ks"  target="*chime"  ]
@@ -265,49 +364,75 @@ A beautiful and brave girl who is elusive, quite brazen, and even able to get al
 [cm  ]
 [bg  time="0"  method="crossfade"  storage="graysky.jpg"  ]
 [tb_start_text mode=3 ]
-"Hey, Chito... what happened to Yuri?
-is? ”[r]
-I just said it like that. [l][r]
-"...Eh...Yu...Yu..." Chito tried to reply. But the words don't last. [l][r]
-“You...you are still...you are...[r]
-...Gah! "..." [l] From the other end of the phone, I heard a strained voice...no, it sounded like I was forcing myself to swallow my breath. [l][r]
+Hey Tito ......, what happened to Yuri [r]?"
+
+[r]?" [r]
+
+I just said so. [l][r]
+
+Tito tried to reply, "......You ......You are ......You are ......You are ......You are ......." But the words did not follow. [l][r]
+
+"You ...... you are still ...... you are still ...... you are still ......[r]
+
+......ggh! ......"[l][l]From the other end of the phone, I heard a drawn-out voice ...... no, it sounded like he was forcing himself to swallow a breath. [l][r]
+
 [_tb_end_text]
 
 [bg  time="3000"  method="crossfade"  storage="isiiTel3.jpg"  ]
 [tb_start_text mode=3 ]
-"Chito...? Hey Chito, are you okay...[r]
-? ! ”[l][r]
-"Uh...nnn......" Until just now [r]
-The sound and voice of erratic breathing, which was different from sobbing, continued. [l][r]
-[r]...It's bad. Tito might be on the verge of panic. [l][r]
+"Tito ......?　Hey Tito, are you okay? ......[r]
+
+?!" [l][r]
+
+"Uu......nnn......" earlier [r].
+
+The sound of disordered breathing and voices, which are different from the sobs of the "I'm sorry, I'm sorry, I'm sorry, I'm sorry" continue. [l][r]
+
+[r]...... not good. Tito may be on the verge of panic. [l][r]
+
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-However, since I don't even know where she is right now, I have no choice but to speak to her over the phone. [l][r]
-[r] Sorry... it was too imprudent to ask about Yuri at this timing...! [l][r]
-what will you do? Should I hang up this phone and tell them to call an ambulance? Or if there is someone around, should I call for help? [l][r]
-But either way, if Tito continues to get confused or faint, nothing can be done about it. [r]
-what will you do? ……What should I do? ! At that time...[l][r]
-[cm] "Gah... haa... haa... it's okay... I was just a little surprised... so..." [r]
-Tito's voice weakly made my eardrums vibrate. [l][r]
+However, I do not even know where she is now, and I have no other recourse but to put in a word on this phone. [l][r]
+
+[r]Shit...... was too thoughtless to ask about Yuri at this time......! [l][r]
+
+What do we do?　Do I hang up this phone and tell them to call an ambulance?　Or should I let him call for help if he is in a place where there is someone around? [l][r]
+
+But either way, if Tito were to become delirious or faint at this point, there would be nothing we could do. [r]
+
+What to do? What do I ...... do?　Then ......[l][r]
+
+[cm]"Gosh ...... hah ...... hah ......, it's okay ...... a little bit, I was just surprised ......, that's all. ......"[r].
+
+And Tito's voice shook my eardrums weakly. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Are you okay...?" I asked again. [r]
-"Uh... yeah. It's okay... now..." [l][r]
-[r]Unsteady breathing sounds and hoarse voice. It didn't sound very good. [r]
-I forgot that Tito was probably at school and that I was at work, and just waited, hoping that the girl on the other end of the line would calm down. [l][r]
+Is it okay ......?" I ask back. [r]
+
+"Uh ...... yeah. It's okay ...... already ......" [l][r].
+
+[r]Disordered breathing sounds and a gravelly voice. It didn't sound very okay. [r]
+
+I forgot that Chito was probably at school and that I was at work right now, and just waited, hoping that the girl on the other end of the phone line would calm down. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-...Eventually, after the sound of breathing had regained some regularity, I heard a slightly strained voice. [l][r]
-[r] "Yeah...I'm fine now...I'm sorry, Ishii, but I feel like I can talk about the details just yet...I can't."[l][r]
-"Ah... ah. It's okay. It was my fault... I'm sorry for the confusion." [r]
-That's right. There's no way we could have found out all about their experiences in that harsh world through a phone conversation.[l][r]
+...... Eventually, after the sound of breathing, which had regained some regularity, a slightly taut voice could be heard. [l][r]
+
+[r]"Yeah...I'm fine ...... now. I'm sorry Ishii, I'm just not ...... ready to talk about ...... details right now."[l][r]"I'm sorry, I'm just not ready ...... to talk about details right now."[l][r]"I'm sorry.
+
+Oh, ...... Oh. That's okay. I'm the one who's sorry. ...... Sorry for the confusion."[r].
+
+That's right. There is no way I could have gotten the whole experience in that harsh world just from a phone conversation. [l][r]
+
 [_tb_end_text]
 
 *chime
@@ -318,36 +443,50 @@ That's right. There's no way we could have found out all about their experiences
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 At that moment, a bell rang on the other end of the phone. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="school-chime1.ogg"  ]
 [tb_start_text mode=3 ]
-The regular and time-honored Westminster chimes. Is this a school after all? [r]
-I stopped my thoughts and checked the time. That's right, I'd better collect my thoughts for now. [l][r]
+The regular, venerable Westminster chimes. It is a school, after all. [r]
+
+I interrupted my thoughts and checked the time. Yes, I should gather my thoughts for once. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...Hey, Chito. Unlike back then, we have plenty of time. There's no need to rush."[l][r]
-"..." There was no reply, but I could hear the sound of breathing. I continue speaking. [l][r]
-[r] "Yes, tomorrow will be Saturday. If you don't mind, I'll go there. Let's meet and talk. Could you please let me know where the nearest station is?" [l][r]
-"...Yeah" [r]
-This time I heard a small murmur of affirmation. good. [r]
-If I don't go to the meeting, my boss will probably yell at me soon. [l][r]
+I've been working on it for a long time," he said. Unlike that time, there is plenty of time. There's no need to rush."[l][r]
+
+........." There was no reply, but I could hear the sound of breathing. I continue to speak. [l][r]
+
+[r]-"Yes, tomorrow would be Saturday. If you want, I'll come over there. Let's meet and talk. Can you call me back with the nearest station or something?" [l][r]
+
+"......うん" [r].
+
+This time I heard a small murmur of affirmation. Good. [r]
+
+If I don't go to the meeting, my boss is going to start yelling at me soon. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Ishii...thank you" Tito says. [r]
-"What are you talking about? I'm the one who's grateful. Thank you for looking for me." [l][r]
-[r] I said that in a hoarse voice, said my temporary farewells, and ended the call. [l][r]
+'Thanks for the ishii ......,' Tito says." [r]
+
+What are you talking about? I'm the one thanking you. Thank you for ....... For finding me."[l][r].
+
+[r]I said this in a gravelly voice and ended the call with a temporary goodbye. [l][r]
+
 [_tb_end_text]
 
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
 [cm  ]
 [tb_start_text mode=3 ]
 Oh shit. [r]
-...I need to fix my makeup. [l][r]
+
+...... makeup, I'll have to fix it. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -371,14 +510,19 @@ Oh shit. [r]
 
 [bg  time="500"  method="crossfade"  storage="graysky.jpg"  ]
 [tb_start_text mode=3 ]
-It's now Friday morning. She said she was a student. [r]
-Are you at school then? high school student? Or a university student? [r]
-...Why is Tito crying so much? [r]
-It's understandable if it's a touching reunion, but the situation seems odd. Roughly...[l][r]
+Now it's Friday morning. You said she was a student. [r]
+
+Then you're in school?　High school student?　Or a college student? [r]
+
+......Why is Tito crying so much? [r]
+
+If it's an emotional reunion, I don't know, but there's something wrong with it. It's usually ......[l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-"...A" [l][r]
+"......A" [l][r].
+
 [_tb_end_text]
 
 [jump  storage=""  target="*Jump2"  ]

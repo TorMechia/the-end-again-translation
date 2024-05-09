@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/SB2_01EBYT.ks]
+[_tb_system_call storage=system/_B2_01EBYT.ks]
 
 [tb_eval  exp="sf.CS6=1"  name="CS6"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
 [cm  ]
@@ -8,129 +8,183 @@
 [bg  time="1500"  method="crossfade"  storage="room5_asa.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-“Chi-chan, what is the lecture today?” [r]
-While lying on the bed, Yuri said [r]
-[l][r]
+[r] "Chi-chan, what's today's lecture?" [r]
+
+While lying on the bed, Yuri says[r].
+
+[l][r][u]. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-“Today is Wednesday, so there will be one episode at noon [r]
-hair. ...Just remember it."[l][r]
-I was sitting at the study table I had brought from my parents' house, and I replied with my head turned towards the bed. [l][r]
+"It's Wednesday, so I'm leaving one session at noon [r].
 
-[r] “No, I’m over my capacity with my own timetable.” [l][r]
-"...I mean, you don't remember your own timetable, do you?" [r]
-Sighing, I got up from my chair and walked over to the bed. [l][r]
+ ...... remember, okay?"[l][r].
+
+I was at the study desk I had brought from my parents' house, and I answer that with just my head twisted toward the bed. [l][r]
+
+
+[r]"No. I'm overcapacity just by my own timetable."[l][r].
+
+"...... I mean, you don't even remember your own timetable."[r].
+
+With a sigh I got up from my chair and moved over to the side of the bed. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Is that so?" [l][r]
-I show my smartphone to Yu, who answers honestly. The schedule app I started showed that the lecture would start at 10:30 a.m. on Wednesday. By the way, the current time is 10:10. [l][r]
-"Oh, the lecture starts in 20 minutes? It's not until the afternoon. We have to hurry." [l][r]
-"...you" [l][r]
+ [l][r]
 
-[r] Huh...? Yu frowned and stared at the smartphone screen. Her eyes saw the words ``Yuri. Russian.'' [l][r]
+I show my phone to You, who answers in a nonchalant manner. The schedule app that I had started up said that the lecture would begin at 10:30 a.m. on Wednesday. By the way, the time is 10:10 a.m. [l][r]
+
+Hey, your lecture starts in 20 minutes, right?　That's not in the afternoon. We have to hurry."[l][r].
+
+"...... you."[l][r]
+
+
+[r]e...?　Yoo stares at the screen of his phone with his eyebrows raised. His eyes saw, "Yuri. Russian". [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="futon-dive1.ogg"  ]
 [quake  time="200"  count="3"  hmax="10"  wait="true"  ]
 [tb_start_text mode=3 ]
-"...Why won't you tell me!!!" [l][r]
-"I told you last week that I no longer manage your schedule." [l][r]
-"But it's nice of you to tell me!" [l][r]
-"If you have time to say it, hurry up. Come on!" [l][r]
+"...... why don't you tell me!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" [l][r]
 
-[r]I throw Yu's jeans and T-shirt that were lying around. [l][r]
-Yu jumps out of bed (my room), puts it on, and plugs into the outlet (my room [r]
-I violently pulled out my smartphone, including the charger (it's mine!), from the corner shelf... which was not my C*lly Mate (needless to say, the same goes hereafter).
-I apologized for the box of text and left the room like the wind. [l][r]
+I told you last week. I'm not managing your schedule anymore."[l][r].
+
+[l]"But you could have told me!" [l][r]
+
+If you've got time to talk, hurry up and do it. Come on!" [l][r]
+
+
+[r]I throw Yoo's jeans and T-shirt that were lying around. [l][r]
+
+Yoo bounced out of bed (mine), put it on and plugged it in (my room [r]).
+
+I roughly pulled out my own phone (mine!) from its charger, which was plugged into the) I pulled it out, and then I took a Ration... not a Curry Mate (needless to say, the same[r] below) from the shelf in the corner.
+
+(sentence), lost a box and walked out of the room like the wind. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="door-close1.ogg"  ]
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="room8b.jpg"  ]
 [tb_start_text mode=3 ]
-Good grief……. I quickly looked around the room where Yu was gone. The room was supposed to be neat and tidy until yesterday afternoon. [l][r]
-Now, it's so messy that you'd think it was a stray cat. [l][r]
+Oh dear, ....... I took a quick look around the room where Yu had disappeared. The room had been tidy until yesterday afternoon. [l][r]
 
-[r] Should I just clean it up for now? I don't have the delicate nerves to get nervous just because my room is a little messy, but if I keep it tidy, I can save on a lot of waste. Yeah. [l][r]
+Now it is so messy that you would think it was a stray cat that got out of control. [l][r]
+
+
+[r]Let's tidy up for now. I don't have the delicate nerves to get restless just because my room is a little messy, but I'm sure I can save a lot of waste ...... in total if I tidy up frequently. Yeah. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Because of his habit of putting everything on the floor, there's nowhere to step in this room right now. It was even more so since there was a futon spread out next to the bed for Yu to sleep on. [l][r]
-...Well, I just don't sleep there [r]
-degree. [l][r]
+Because of his habit of putting everything on the floor, there is no place to step in this room now. This is even more so because he has put a futon for Yu to sleep on next to the bed. [l][r]
+
+...... Well, I just don't sleep there[r].
+
+Do. [l][r]
+
 [_tb_end_text]
 
 [bg  time="2000"  method="crossfade"  storage="room9_1.jpg"  ]
 [tb_start_text mode=3 ]
-[r]I pick up miscellaneous things and put them back where they belong. Oh, aren't these socks? Did that guy go to college barefoot and wearing shoes... at all? [l][r]
-Pick it up and put it in the washing machine. When I looked out the window, I saw the laundry that had already been hung out to dry swaying in the wind. Half of it is mine, the rest is yours. [l][r]
+I'm going to [r]pick up the miscellaneous clutter and put it back where it belongs. Oh, these are socks, aren't they? Did that guy go to college in bare feet and shoes ...... at all? [l][r]
+
+I pick it up and put it in the washing machine. I look out the window and see the laundry already hung out to dry, swaying in the wind. Half of it is mine, the rest is Yoo's. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-“We almost live together.” [l][r]
-Talk to yourself. This was my habit after I regained my memories of that world. When I looked at my face reflected in the window glass, my mouth loosened a little. [l][r]
+Almost, we live together."[l][r].
 
-[r]Oh, I guess it's no good for me. I thought about this as I continued to clean up my room. [l][r]
-Yu's things are gradually increasing in the room. I've already created a place to put it. There is always enough food for two people in the refrigerator. [l][r]
+I talk to myself. It had been my habit since I regained my memory of that world. When I looked at my face reflected in the windowpane, my mouth was a little loose. [l][r]
+
+
+[r]Ah, I'm hopeless, after all. I really thought so as I continued to clean up my room. [l][r]
+
+Little by little more of Yoo's stuff is being added to the room. He has even made room for them. There is always more than enough food for two people in the refrigerator. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Even though she left her parents' home to start out on her own, she ends up living with Yu. [l][r]
-[r]The reason for that is that Yu, who is renting a room two stations away, comes over too often, but he doesn't reject it at all, and rather accepts it despite his nagging. It's also my own fault. [l][r]
+I left my parents' home to be on my own, but I ended up living with You. [l][r]
+
+[r]It's because Yu, who originally rents a room two stations away, comes over too often, but it's also because of myself, who doesn't reject it at all, but rather accepts it, despite my petulant mouth. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Okay..." [l][r]
+All right. ......" [l][r].
+
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-vibration2.ogg"  ]
 [tb_start_text mode=3 ]
-[r]I finished cleaning the room. As if it had been waiting for it, my smartphone notified me that it had been received. [l][r]
+[r]egarding the room, I finished cleaning up. As if it had been waiting for me, my phone notifies me of its receipt. [l][r]
 
-[r] 『I made it on time for the lecture!』 Let's eat lunch together! ”[l][r]
 
-[r] Even hearing such an ordinary string of characters made my heart flutter a little. Oh, I can't help it. [l][r]
-When I look at the edge of the screen, I see that the battery level is less than half. Even though it's still morning, I can't help it. It's because Yu even took the charger with him. [l][r]
+[r]‖[r]lectures, I made it in time!　Let's have lunch together!" [l][r]
+
+
+[r]Even a string of nothing like that made my heart jump a little. Oh, God, I can't help it. [l][r]
+
+I look at the edge of the screen and see that the battery is less than half full. It was still mid-morning, but it was still a little low. It's because YOU took the charger with you. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="blue.jpg"  ]
 [tb_start_text mode=3 ]
-“Give me back the charger” [r]
-That's how I reply. [l][r]
-[r] “I was in a hurry, so please excuse me.” [r]
-Yu's words come back immediately. [l][r]
-[r] ``I don't understand. Generally speaking, if you're coming to someone's room, bring your charger with you.''[l][r]
-[r] “It’s impossible! ”[l][r]
-[r] “Why! ? ”[l][r]
-[r] “Because it broke the other day” [l][r]
+'Give me back my charger' [r].
+
+I reply that. [l][r]
+
+[r]"I was in a hurry, Gonun ne."[r]"I was in a hurry, Gonun ne."[r]"I was in a hurry."[r]"I was in a hurry.
+
+Yoo's words that come right back to you. [l][r]
+
+[r]"I don't get it. If you're going to come to someone's room, you should bring your own charger."[l][r] "I don't understand.
+
+[r]"No way!" [l][r]
+
+[r]"Why!" [l][r]
+
+[r]"Because it broke the other day."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="room5.jpg"  ]
 [tb_start_text mode=3 ]
-That's why I've been charging it at home almost every day lately...I'm sure you have the courage to do so. [l]I put my smartphone in my pocket and started getting ready to head to university. I was shaken by the notification several times, but I ignored it. [l][r]
+So you've been charging at our house every day lately, ...... good nerve. [l]I put my phone in my pocket and started getting ready to head off to college. I shuddered a few times at the notification but ignored it. [l][r]
+
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="town3.jpg"  ]
 [tb_start_text mode=3 ]
-I picked up my bag containing my textbooks and left the room a little early. [l][r]
-Anyway, if I meet you, I'll give you a sermon. Let's treat him to lunch too. Then...[l][r]
+Leave the room a little early, carrying a bag of textbooks. [l][r]
+
+Anyway, I'll give him a sermon when I see him. I'll make him buy me lunch too. Then ......[l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I'm sure there was an electronics store near the university. I'm sorry for all this trouble. [l][r]
-[r]Let's buy his own charger and put it in my room. [l][r]
+I believe there is an electronics store near the college. I don't want any of this hassle. [l][r]
+
+[r][r]I'll buy a charger specifically for that guy and put it in my room. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -139,26 +193,38 @@ I'm sure there was an electronics store near the university. I'm sorry for all t
 [bg  time="2000"  method="crossfade"  storage="room5_y.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m1_musicbox.ogg"  ]
 [tb_start_text mode=3 ]
-“Takku, please refund me the charger.” [l][r]
+Takku, make sure you pay me back for the charger."[l][r].
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]It's dusk after university and the afternoon sun shines through. We returned to the apartment and lay lazily on the bed. [l][r]
-Yu seems to be spending his time in my house again today, so I think it's a waste of money to pay the rent, but I stopped thinking about it because it doesn't matter as much as the number of microorganisms I just breathed in. [l][r]
+[r]The university was over and the western sun was shining at dusk. We returned to our apartment and lazily rolled over in bed. [l][r]
 
-[r] "I'll pay you back on the next payday." [r]
-“I guess it’s true.” [l][r]
+Yoo seems to be going into our house again today, and I think it's a waste of rent, but I stopped thinking about it because such thoughts are as unimportant as the number of microorganisms I inhale with my current breath. [l][r]
+
+
+[r]"I'll pay you back next payday."[r]
+
+It must be true."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"It's true. Trust me." [l][r]
-"Besides the charger, I still have to pay for the lunch I paid for the day before yesterday, the drinks I had last week, and the utility bills we agreed on together." [l][r]
-“……Can I take out a loan?” [l][r]
-"200% interest per day" [l][r]
-“My wallet is going to die!” [l][r]
-"Also, I still have money left over from last month's meal out, so I won't be fooled." [l][r]
-"...Chi-chan's stingy poverty" [l][r]
+It's true. Trust me."[l][r].
+
+Besides the charger, I'm still left with the lunch bill that I paid for the day before yesterday, last week's dinner bill, and our share of the utility bill that we decided on."[l][r][l][r].
+
+Can I get a ............ loan?" [l][r]
+
+At 200% per interest day."[l][r].
+
+[l]"My wallet is dying!" [l][r]
+
+And there's still the cost of last month's dinner out, because I won't be fooled."[l][r].
+
+[l][r]"...... Chi-chan's Ketchy Poverty" [l][r].
+
 
 
 [_tb_end_text]
@@ -167,93 +233,135 @@ Yu seems to be spending his time in my house again today, so I think it's a wast
 [wait  time="400"  ]
 [quake  time="200"  count="1"  hmax="0"  wait="true"  vmax="5"  ]
 [tb_start_text mode=3 ]
-[r]I silently slam my hand into the back of Yu's head. Yuu's tongue stuck out. [l][r]
+[r]I silently slam a slap into the back of Yoo's head. Gulp, and Yoo's tongue pops out. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[cm]"You've got guts. I'll lock you out of the room." [l][r]
-I lie while looking at You with moist eyes. In reality, I'm sure I can't shut them out. But if you don't say this, he'll get carried away right away. [l][r]
+[cm]"Good nerve. You can lock me out of the room."[l][r]
 
-[r] “I-I’ll pay somehow.” [l][r]
-"Okay. I believe your word."[l][r]
+I lie, looking at Yoo with staring eyes. The truth is, of course I can't shut him out. But if I don't say this, he'll get carried away. [l][r]
 
-When you stop frowning and smile, Yu feels at ease and gives you his usual smile. [l][r]
-Her smile is bright and happy, and she buries her face in Yu's chest. Ah, I feel like I'm doing this more often. [l][r]
-Now that I think about it, when I met Yu again in this world, the first thing I did was hug him. Maybe that's why. [l][r]
-[_tb_end_text]
 
-[cm  ]
-[tb_start_text mode=3 ]
-“Chi-chan, you were always clinging to me over there too, weren’t you?” [l][r]
-“Is that so?” [r]
-"That's right." [l][r]
-"...Memory is a hindrance to living" [l][r]
-“Ah, it was taken” [r]
-“I took it” [l][r]
+[r]"Nah, I'll pay somehow."[l][r].
 
-[r] When I laughed, Yuu also laughed. My heart was beating fast and my cheeks were getting hot. This feeling made me really happy. [l][r]
+'All right. I'll believe you when you say that."[l][r].
 
-[r]We've been together forever. Forever, forever and ever. We can live without fear of anything. [l][r]
+
+When I stop frowning and smile at her, Yu is relieved and gives me her usual smile with a nihera. [l][r]
+
+His smile is so dazzling and happy that I bury my face in Yoo's chest. Oh, I feel like I've been doing this a lot. [l][r]
+
+Thinking back, when I met You again in this world, I was the first to hug you. Maybe that's why. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...you" [r]
-I hold Yu's hand tightly. Then, Yu gave me a tight squeeze. [l][r]
+'Chi-chan, you used to stick to me over there, didn't you?' [l][r]
 
-[r] “What?” [l][r]
-"...hehe, anything" [l][r]
+Am I right?" [r]
 
-[r] That was then. [l][r]
+Yes."[l][r].
+
+"...... memories are living jams."[l][r].
+
+Oh, it's taken."[r].
+
+I took it."[l][r].
+
+
+[r]I laugh, and you laugh, too. My heart is pounding and my cheeks are burning. I was really happy with this feeling. [l][r]
+
+
+[r]We'll always be together. We always have been and always will be. We don't have to be afraid of anything, we can live. [l][r]
+
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"...... you" [r].
+
+I squeezed your hand. Then Yoo squeezed my hand back. [l][r]
+
+
+[r]"What is it?" [l][r]
+
+"...... hehe, whatever."[l][r]
+
+
+[r], and that's when it happened. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-vibration2.ogg"  ]
 [tb_start_text mode=3 ]
-telephone ringing sound. My smartphone is ringing on the desk. [l][r]
-Oh, what the heck, don't bother me. With dissatisfaction and regret, I let go of Yu and pick up the smartphone on the desk. It's from Kanazawa. [l][r]
+The sound of a phone call. My phone is ringing on my desk. [l][r]
+
+Oh God, what the hell, don't interrupt me. I take my hand away from You with disapproval and regret, and pick up my phone on the desk. It's from Kanazawa. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  ]
 [tb_start_text mode=3 ]
-"Hello?" [l][r]
-"Ah, we're connected. Chito, would you mind now?" [l][r]
-"Well, if it doesn't get too long" [l][r]
-"I'll keep this brief. It's about your grandfather, but I'd like you to find some interesting information. It seems that someone who fits the characteristics you checked has gone abroad." [l][r]
-"That's right." [l][r]
-``It's a little harder to follow when I'm overseas, but I'm going to try to follow you somehow.I thought I'd give you a report.''[l][r]
+Hello?" [l][r]
+
+"Ah, we're connected. Tito, you got a minute now?" [l][r]
+
+Well, if it doesn't take too long."[l][r].
+
+I'll be brief. I found some information about your grandfather that caught my attention. Someone who fits the characteristics you checked out has apparently left the country for a foreign country."[l][r].
+
+I see."[l][r].
+
+'It's a little harder to catch your footsteps when you're overseas, but I'm going to try to track it down somehow. I thought I'd give you a report on that in the meantime."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-what. Haven't you found it? If that were the case, I wouldn't have to call. I wanted to talk to you. [l][r]
+What the heck. You didn't find it? Then you didn't have to call me. I wanted to talk to you. [l][r]
 
-[r] "... Kanazawa, if that's the case, you don't need to chase after her if it's too difficult. You're already here." [l][r]
-"Eh. No, but it's a step I've managed to catch. I'd better chase it." [l][r]
-"So that's enough. I'm really happy now that I'm with you. So, please take care of yourself." [l][r]
+
+[r]"...... Kanazawa, if that's the case, you don't have to go after them if it's too difficult. You're already over here."[l][r]
+
+No, but I've got my footing. No, but it's a footstep I've just caught. You should go after them."[l][r].
+
+I'm so happy to be with you. I'm so happy to be with you. Then, take care of yourself."[l][r][l][r
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-I hang up the phone, throw it on the cushions, and drift into bed. Just like that, I bury my face in Yu and rub my face like a cat. [l][r]
+I hang up the phone and toss it on the cushions and drift into bed. I continue to bury my face in You and rub my face like a cat. [l][r]
 
-[r] “Chi-chan, are you okay? Even though Kanazawa is looking into it for you.” [l][r]
 
-[r]It's okay. Being with you is more important to me. After thinking like that and making you do scary things, I'm finally here now. [l][r]
+[r]"Chi-chan, are you sure?　Kanazawa is looking into it for you."[l][r] "I'm sorry, but Kanazawa is looking into it.
 
-[r] "That's why it's more important to be with you in this moment than to think about what will happen in the future." [l][r]
-"Chi-chan... But I also want to meet your grandfather. I have to meet him and say thank you a lot." [l][r]
+
+[r]It's okay, it doesn't matter. I care more about being with you. After all that I went through, after all the scary things I put you through, I'm finally here now. [l][r]
+
+
+[r]"So, rather than thinking about the future, which I don't know what will happen, it's more important to be with YOU at this moment."[l][r]"So, rather than thinking about the future, which I don't know what will happen, it's more important to be with YOU at this moment.
+
+"Chi-chan ...... but I want to meet your grandfather too. I need to meet him and say thank you and lots of other things."[l][r].
+
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Yes, that may be true. [r]
-But...no matter how much I search, I can't find it. So that's enough. [l][r]
-[r] "I'm fine as long as I say you" [l][r]
-"No, Chi-chan, it's selfish of you to throw it out like that." [l][r]
+Yeah, it certainly could be. [r]
+
+But I can't find it on ...... after all this searching. So that's enough. [l][r]
+
+[r]"I'm fine as long as I'm with you."[l][r]"I'm fine as long as I'm with you."[l][r]"I'm fine as long as I'm with you.
+
+'No, Chi-chan, it's selfish to throw it out like that.'[l][r].
+
 
 [_tb_end_text]
 
@@ -261,39 +369,56 @@ But...no matter how much I search, I can't find it. So that's enough. [l][r]
 [tb_start_text mode=3 ]
 [r]Why do you say that? [l][r]
 
-[r] “What’s wrong with being selfish?” [l][r]
-“Grim,” I grit my molars. [l][r]
 
-[r] “I’ve told you many times how I felt since I came to this world! [r]
-Many times I thought that that world and you were all just false dreams."[l][r]
+[r]"What's that, what's wrong with being selfish ......" [l][r].
+
+Giri, I clench my back teeth. [l][r]
+
+
+[r]"I've told you many times what it's been like for me since I came to this side of the world! [r]
+
+I wondered many times if that world and You were all a false dream."[l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [quake  time="100"  count="3"  hmax="5"  wait="true"  ]
 [tb_start_text mode=3 ]
-“But I should have told you all about how much hope I had and how lonely I felt when I found out it wasn’t a dream! [l][r]
-We finally met and were finally together, so why did you have to say that?[r]
-……”[l][r]
+'But I've told you all this too, how hopeful I was to know that it wasn't a dream, how lonely I was! [l][r]
 
-I'll close my mouth at that point. Because Yu was looking at me with a worried look on his face. [l][r]
+We finally met and finally got together, so why did you have to say that to me[r]?
 
-I feel like I've stuck my head in ice water. She was so abrupt that even she was surprised. A lot of things became a mess and I couldn't understand why they were rolling around. [l][r]
-I couldn't think of any more words, and I couldn't look him in the eyes, so I looked down. [l][r]
+......" [l][r].
+
+
+I shut my mouth at that point. Because Yu was looking at me with a worried face. [l][r]
+
+
+I felt like I had plunged my head into ice water. It was so sudden that even I was surprised. A lot of things got all squishy and rolled in and I lost my translation. [l][r]
+
+Unable to come up with any more words, I look down, unable to make eye contact with You. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="room5_n.jpg"  ]
 [tb_start_text mode=3 ]
-"...Chi-chan" [l][r]
+"...... chi-chan" [l][r].
 
-[r] You hug me tightly [r]
-Ta. Ah, it's warm. happy. But why? [l][r]
 
-[r] Something feels wrong. why? [l][r]
+[r]u hug me tight, [r]u hug me tight, [r]u hug me tight.
+
+It was warm. Oh, warm. I'm glad. I wonder why though. [l][r]
+
+
+[r]Something, I feel like there's something wrong. Why? [l][r]
+
 
 [r]I don't know. [l][r]
 
+
 [r]I don't know. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

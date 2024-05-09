@@ -1,7 +1,0 @@
-[preload  storage="./data/bgimage/st_s2_3.jpg"  ]
-[preload  storage="./data/bgimage/stationjpg.jpg"  ]
-[preload  storage="./data/bgimage/date.jpg"  ]
-[preload  storage="./data/bgimage/date2.jpg"  ]
-[preload  storage="./data/bgimage/station2.jpg"  ]
-[preload  storage="./data/bgimage/station3.jpg"  ]
-[return]
