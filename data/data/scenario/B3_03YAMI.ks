@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B3_03YAMI.ks]
+[_tb_system_call storage=system/SB3_03YAMI.ks]
 
 [cm  ]
 [wait  time="2000"  ]

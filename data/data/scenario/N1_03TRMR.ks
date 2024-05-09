@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_N1_03TRMR.ks]
+[_tb_system_call storage=system/SN1_03TRMR.ks]
 
 [cm  ]
 [tb_hide_message_window  ]

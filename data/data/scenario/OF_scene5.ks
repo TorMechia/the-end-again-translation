@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_OF_scene5.ks]
+[_tb_system_call storage=system/SOF_scene5.ks]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [cm  ]

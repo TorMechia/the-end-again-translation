@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B1_03CRCS.ks]
+[_tb_system_call storage=system/SB1_03CRCS.ks]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="st_sB_3.jpg"  ]

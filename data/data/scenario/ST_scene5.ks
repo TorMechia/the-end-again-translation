@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_ST_scene5.ks]
+[_tb_system_call storage=system/SST_scene5.ks]
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [bg  time="2000"  method="crossfade"  storage="black.png"  ]

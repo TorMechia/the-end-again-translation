@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_scene4.ks]
+[_tb_system_call storage=system/Sscene4.ks]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m2_piano.ogg"  click="false"  ]
 [cm  ]

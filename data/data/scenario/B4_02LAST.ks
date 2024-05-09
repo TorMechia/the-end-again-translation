@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B4_02LAST.ks]
+[_tb_system_call storage=system/SB4_02LAST.ks]
 
 [cm  ]
 [tb_hide_message_window  ]

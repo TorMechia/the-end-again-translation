@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/sinen.png"  ]
+[preload  storage="./data/bgimage/kaidan.jpg"  ]
+[preload  storage="./data/bgimage/kaidan3.jpg"  ]
+[preload  storage="./data/bgimage/darksky.jpg"  ]
+[preload  storage="./data/bgimage/white.png"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[preload  storage="./data/bgimage/game.png"  ]
+[return]

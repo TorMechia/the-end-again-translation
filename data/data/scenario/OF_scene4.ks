@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_OF_scene4.ks]
+[_tb_system_call storage=system/SOF_scene4.ks]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m0_claves.ogg"  ]

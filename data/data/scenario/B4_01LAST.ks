@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B4_01LAST.ks]
+[_tb_system_call storage=system/SB4_01LAST.ks]
 
 [showmenubutton]
 

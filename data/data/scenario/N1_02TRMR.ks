@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_N1_02TRMR.ks]
+[_tb_system_call storage=system/SN1_02TRMR.ks]
 
 [cm  ]
 [stopbgm  time="1000"  fadeout="true"  ]

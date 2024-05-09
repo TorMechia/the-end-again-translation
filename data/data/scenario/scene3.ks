@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_scene3.ks]
+[_tb_system_call storage=system/Sscene3.ks]
 
 [playbgm  volume="100"  time="3000"  loop="false"  storage="m3.ogg"  fadein="true"  click="false"  ]
 [cm  ]

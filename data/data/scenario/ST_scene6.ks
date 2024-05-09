@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_ST_scene6.ks]
+[_tb_system_call storage=system/SST_scene6.ks]
 
 [stopbgm  time="1000"  ]
 [tb_hide_message_window  ]

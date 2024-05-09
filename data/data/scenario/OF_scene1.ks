@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_OF_scene1.ks]
+[_tb_system_call storage=system/SOF_scene1.ks]
 
 [showmenubutton]
 

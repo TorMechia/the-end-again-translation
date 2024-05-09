@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_Yume_scene1.ks]
+[_tb_system_call storage=system/SYume_scene1.ks]
 
 [showmenubutton]
 

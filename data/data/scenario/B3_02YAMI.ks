@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B3_02YAMI.ks]
+[_tb_system_call storage=system/SB3_02YAMI.ks]
 
 [cm  ]
 [bg  time="2500"  method="crossfade"  storage="st_sB_A2.jpg"  ]
