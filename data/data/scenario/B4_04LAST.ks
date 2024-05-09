@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B4_04LAST.ks]
+[_tb_system_call storage=system/SB4_04LAST.ks]
 
 [cm  ]
 [bg  time="2500"  method="crossfade"  storage="EU2.jpg"  ]

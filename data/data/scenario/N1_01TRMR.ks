@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_N1_01TRMR.ks]
+[_tb_system_call storage=system/SN1_01TRMR.ks]
 
 [showmenubutton]
 

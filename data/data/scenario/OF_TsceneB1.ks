@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_OF_TsceneB1.ks]
+[_tb_system_call storage=system/SOF_TsceneB1.ks]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="zetu5.jpg"  ]

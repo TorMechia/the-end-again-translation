@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B1_02CRCS.ks]
+[_tb_system_call storage=system/SB1_02CRCS.ks]
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [cm  ]

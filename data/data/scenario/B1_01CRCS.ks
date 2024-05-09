@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B1_01CRCS.ks]
+[_tb_system_call storage=system/SB1_01CRCS.ks]
 
 [tb_eval  exp="sf.CS6=1"  name="CS6"  cmd="="  op="t"  val="1"  ]
 [cm  ]

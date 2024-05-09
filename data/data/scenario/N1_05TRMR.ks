@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_N1_05TRMR.ks]
+[_tb_system_call storage=system/SN1_05TRMR.ks]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="black.png"  ]

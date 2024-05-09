@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B3_01YAMI.ks]
+[_tb_system_call storage=system/SB3_01YAMI.ks]
 
 [showmenubutton]
 

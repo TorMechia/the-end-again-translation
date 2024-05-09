@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_OF_Tscene2.ks]
+[_tb_system_call storage=system/SOF_Tscene2.ks]
 
 [cm  ]
 [tb_show_message_window  ]

@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B4_03LAST.ks]
+[_tb_system_call storage=system/SB4_03LAST.ks]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m1_piano.ogg"  ]
 [tb_hide_message_window  ]

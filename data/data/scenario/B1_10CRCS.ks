@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_B1_10CRCS.ks]
+[_tb_system_call storage=system/SB1_10CRCS.ks]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m1_piano.ogg"  fadein="false"  ]

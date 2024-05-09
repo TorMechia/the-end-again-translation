@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/st_sN_2A.jpg"  ]
+[preload  storage="./data/bgimage/sleepy.jpg"  ]
+[preload  storage="./data/bgimage/hospital.jpg"  ]
+[preload  storage="./data/bgimage/diary.jpg"  ]
+[preload  storage="./data/bgimage/white.png"  ]
+[preload  storage="./data/bgimage/sinen.png"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[return]

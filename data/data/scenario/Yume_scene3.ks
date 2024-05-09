@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_Yume_scene3.ks]
+[_tb_system_call storage=system/SYume_scene3.ks]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m2.ogg"  ]
