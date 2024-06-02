@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/sinen.png"  ]
+[preload  storage="./data/bgimage/hospital.jpg"  ]
+[preload  storage="./data/bgimage/hospital2.jpg"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[preload  storage="./data/bgimage/white.png"  ]
+[preload  storage="./data/bgimage/lastwall.jpg"  ]
+[preload  storage="./data/bgimage/yuhi_mae.jpg"  ]
+[return]
