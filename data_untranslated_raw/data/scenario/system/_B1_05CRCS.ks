@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/st_sB_5.jpg"  ]
+[preload  storage="./data/bgimage/room5_asa.jpg"  ]
+[preload  storage="./data/bgimage/room5.jpg"  ]
+[preload  storage="./data/bgimage/room5_y.jpg"  ]
+[preload  storage="./data/bgimage/moon.jpg"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[return]
