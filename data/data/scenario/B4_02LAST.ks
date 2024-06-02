@@ -8,145 +8,95 @@
 [bg  time="1000"  method="crossfade"  storage="room8.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-'It's Hungarian, come to my house.'[l][r].
-
-Yuri said at first. I [r].
-
-Huh?" I turned my head. Droplets of water were still falling from Yuri's hair. [l][r]
-
-'It's a nice place. Pesht...... is a suburb to the east of Budapest. It's a nice countryside, and if you ride your bike a little bit, you can easily get to the city. Oh, did I mention that you can ride a bike?" [l][r]
-
-"What ...... are you going to say ...... all of a sudden?"[r]
-
-It's fine, even if it's sudden."[l][r].
-
-You smile back at me with a grin. It's a face that I should have seen all the time, but it's an expression that makes me feel nostalgic. [l][r]
-
-'I'm not in the mood,' I say, shushing. [l][r]
-
-That's why," Yu bites back. [l][r]
-
+「ハンガリーのさ、私の家においでよ」[l][r]
+ユーリは最初、そう言った。私は[r]
+「え？」と首をかしげた。ユーリの髪からは、まだ水滴が落ちていた。[l][r]
+「いいところだよ。ペシュト……ブダペストの東側の郊外なんだけどね。いいぐらいに田舎で、ちょっと自転車で走ったら街にもすぐだよ。あ、ちーちゃん自転車乗れたっけ？」[l][r]
+「何……言い出すんだよ……急に」[r]
+「いいじゃん急でもさ」[l][r]
+にへらと笑ってユーが返す。いつも見ていたはずの顔なのに、どこか懐かしさを感じる表情。[l][r]
+「そんな気分じゃない」私は突き放すように言う。[l][r]
+「だからこそだよ」ユーは食い下がる。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Because, Chi-chan said, it's a world too full. You said the world is too full. But, you should come to my house, for example. You don't even speak the language. [l]Everyone in my family is nice, my mom is Japanese, and my dad speaks normal Japanese, but I'm sure you'll be nervous at first because you're a little shy. [l][r]
-
-Can you say that even in a place like that you're over-satisfied?" [l][r]
-
-Yoo said with a smile, as if he were making an evil plan. [l][r]
-
-[r]Oh, you're ...... really sweet. [l][r]
-
-But I know. Because we've known each other too long. [l][r]
-
-Your smile, which you're forcing yourself to make, raises the edges of your mouth a little too much. ...... [l][r]
-
+「だって、ちーちゃんは言ったよ。満たされすぎてる世界だって。でもさ、例えばウチに来てみなよ。言葉も通じないんだよ。[l]私の家族はみんな優しいし、母さんは日本人だし、父さんも日本語は普通にしゃべれるけどさ、ちーちゃんちょっと人見知りするところあるからきっと最初は緊張するよね。[l][r]
+そんな場所でも、満たされすぎてるだなんて言えるかなー？」[l][r]
+悪企みをするみたいな笑顔でユーはそう言った。[l][r]
+[r]ああ、お前は……本当に優しいな。[l][r]
+でも、分かるんだ。付き合い長すぎるから。[l][r]
+無理に作ってるお前の笑顔は、口の端が少し上がりすぎるんだよ……。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...... sorry."[r]
+「……ごめんな」[r]
+「何で？」[l][r]
+優しいユーリ。私の全てを、大事に、大切にしてくれるユーリ。でも、その優しさは違う。私が欲しいのはその優しさじゃないんだ。[l][r]
 
-Why?" [l][r]
-
-Yuri, who is kind to me. Yuri who cares and cherishes everything about me. But that kindness is different. That's not the kindness I want. [l][r]
-
-
-[r]"I can't go to your house," I said, looking Yu thinly in the eye. [l][r]
-
-"Because I don't think I'm going to be able to ...... stand the idea of you having a family other than ...... me."[l][r]
-
-"............" [l][r].
-
+[r]「お前の家には行けない」私はユーの目を薄く見ながら言った。[l][r]
+「お前に……私以外の家族がいるってことに……耐えられそうにないから……」[l][r]
+「…………」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I told him in a choked voice that I had nothing to hide. My own personal circumstances that I can't help. [l][r]
+声を詰まらせながら伝えた、何も隠していない本心。どうしようもない自分だけの都合。[l][r]
+……いつからだろう？　いつから私は、こんな、どうしようもない人間になってしまったんだろう？[l][r]
 
-......When did it all start?　When did I become such a helpless, helpless person? [l][r]
+[r]「私は、お前しか……いらない。お前にも、私以外、見てほしくない。……だから行けない」言い訳にもならない言い訳を、私は続けた。[l][r]
 
+[r]「そうだよね。わかった」[l][r]
+ユーリは、何の感動もない声でそう答えた。[l][r]
 
-[r]I only want you ....... I don't want you to see anything but me either. I can't go because of ......," I continued, my excuse not even an excuse. [l][r]
-
-
-[r]"Yes, that's right. Okay."[l][r].
-
-Yuri replied in an unimpressed voice. [l][r]
-
-
-[r]The smile disappeared from his face. [l][r]
-
+[r]その顔から、笑みが消えた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-Ah ....... [l][r]
+あ……。[l][r]
 
+[r]一瞬。世界からすべての光が消えたように感じた。[l][r]
 
-[r]For a moment. It felt as if all the light had gone out of the world. [l][r]
+[r]「じゃあ私も言う。私がほしいもの。私の好きな他のもの全部、なくしてもいいくらいに……私がほしいもの、言うよ」[l][r]
 
-
-[r]-"Then I'll tell you what I want. What I want. I'll tell you what I want so ...... I can lose everything else I like."[l][r]"I'll tell you what I want."[l][r]"I'll tell you what I want.
-
-
-[r]From the darkness, only voices were heard. [l][r]
-
+[r]闇の中から、声だけが聞こえた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-That's happiness for you, chi-chan."[l][r].
+「それは、ちーちゃんの幸せだよ」[l][r]
 
+[r]違う。[l][r]
 
-[r][r]Not. [l][r]
-
-
-[r]That's not the word. [l][r]
-
-[r]I don't want that. [r]
-
-It's an unworthy word. [l][r]
-
+[r]その言葉は違う。[l][r]
+[r]それは私にはいらない。[r]
+不相応な言葉だ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I don't have to be happy. [l][r]
-
-You don't have to be happy either. [l][r]
-
-All I want is you itself. [l][r]
-
-Not your happiness. [l][r]
-
-You don't have to be happy. [l][r]
-
-I don't need the hassle of happiness. [l][r]
-
-How much misery do you have to go through in order to keep getting happiness, an uncertain and unstable thing, in this messy world? [l][r]
-
-Can't you imagine? [l][r]
-
-Have you no imagination, you fool? [l][r]
-
-Jealousy, envy, dissatisfaction, insecurity, feeling of exhaustion, helplessness. [l][r]
-
-It's just horrible to have happy days where you don't know when or where or by whom they will be destroyed. [l][r]
-
+私は幸せでなくてもいい。[l][r]
+お前も幸せでなくていい。[l][r]
+私が欲しいのはお前そのものだ。[l][r]
+お前の幸せじゃない。[l][r]
+幸せでなくていい。[l][r]
+幸せなんて面倒なものは要らない。[l][r]
+幸せなんて不確実で不安定なモノをこの面倒臭い世界で手に入れ続けるために、どれだけの不幸を経なければいけない？[l][r]
+お前には想像できないの？[l][r]
+馬鹿なお前には想像力がないのか？[l][r]
+嫉妬、羨望、不満、不安、徒労感、無力感。[l][r]
+いつどこで誰に壊されるか分からない幸せな日々なんて恐ろしいだけだろ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
 
-Yes, [r].
-
-I'm scared, scared, scared! [r]
-
-I don't want to lose you, me ...... again [l][r].
-
+そうだ、[r]
+怖い、こわい、恐いんだ！[r]
+私はもう二度とお前を、私を……失いたく[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -155,127 +105,88 @@ I don't want to lose you, me ...... again [l][r].
 [bg  time="1000"  method="crossfade"  storage="white.png"  ]
 [bg  time="2000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-I heard my head pop. [l][r]
+私の頭が弾ける音がした。[l][r]
 
-
-[r]...... It was just my imagination, just a loud noise very close to my ear. A pain that came late. [l][r]
-
+[r]……それは気のせいで、ただ大きな音が耳のごく近くで鳴っただけだった。遅れてやって来る痛み。[l][r]
 
 [_tb_end_text]
 
 [bg  time="2000"  method="crossfade"  storage="tomosibi.jpg"  ]
 [tb_start_text mode=3 ]
-[r][r]Hot cheeks. [l][r]
-
-The heat, the pain, and the sound seemed like a small fire lit in the darkness. The fire made me see the face of a crying girl in front of me. [l][r]
-
+[r]頬が熱い。[l][r]
+その熱さと痛みと音が、まるで暗闇に小さな火を灯したものみたいに思えた。その火に照らされて、私の目の前に、泣いている少女の顔が浮かんだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-She was crying. She closed her eyes and cried in frustration. And [l][r].
+彼女は泣いていた。目を閉じて、悔しそうに泣いていた。そして、[l][r]
 
+[r]その閉じた目が、[r]
+私の目の前に近づいて、[l][r]
 
-[r]That closed eye, [r].
-
-Approaching me, [l][r][r][l][r][r].
-
-
-[r][r]Lips, lips, softly touched. [l][r]
-
+[r]唇が、唇に、そっと触れた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m5_piano.ogg"  ]
 [tb_start_text mode=3 ]
-It's okay."[l][r].
+「いいんだよ」[l][r]
+ユーが、私の耳に口を寄せて、そう呟いた。[l][r]
+「それでもいいんだよ。ちーちゃんは間違ってない」[l][r]
+小さな、本当に小さな小さな太陽がそこにあるように感じた。[l][r]
 
-Yoo mumbled, putting his mouth to my ear. [l][r]
-
-'That's okay. Chi-chan is not wrong."[l][r].
-
-It felt like a small, really small little sun was there. [l][r]
-
-
-[r]"But," [l][r].
-
-The sun, like a small child, shining healthily through the darkness, brought light and warmth to my ears and to my cheeks. [l][r]
-
-I don't give up what I want. I am, you know, a hoarder. [r]
-
-You know.　I'm always hungry."[l][r].
-
+[r]「でもね」[l][r]
+小さな子どものような太陽は健気に暗闇を照らしながら、私の耳元に、頬に、光と暖かさとを運んだ。[l][r]
+「私は、私のほしいものを諦めない。私はね、ほしがりなんだ。[r]
+知ってるでしょ？　いつもおなかが空いてるんだ」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-A drop of raindrop fell on my cheek, which the sun gently illuminated. [l][r]
+太陽が優しく照らす私の頬に、一滴、雨粒が落ちた。[l][r]
+ユーが、ずずっと、鼻をすすった。[l][r]
 
-Yoo sniffed, all the time. [l][r]
+[r]「だから……離さない。どんなに悲しくても、痛くても、面倒でも、不幸でも、絶望しても。[l][r]
+ね、だって私は得意なんだよ。絶望と仲よくするのはさ」[l][r]
 
-
-[r]"So ...... I won't let go. No matter how sad, painful, troublesome, unhappy, or hopeless. [l][r]
-
-Hey, because I'm good at it. I get along with despair, you know?"[l][r].
-
-
-[r][r]A voice giggled. [l][r]
-
-Perhaps it was not her voice. [l][r]
-
+[r]ふふっと笑った声がした。[l][r]
+もしかするとそれは、彼女の声ではなかったのかも知れない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Warmth, filled. [l][r]
-
-The warmth and light reached my shoulders, my back, and even my toes. [l][r]
-
+暖かさが、満ちてきた。[l][r]
+肩に、背中に、足先にまで、その温もりと光とが、届いた。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="room5_asa.jpg"  ]
 [tb_start_text mode=3 ]
-[r][r]It was morning. [l][r]
-
-Leaking through the curtains, the shining light after the rain still shone brightly and warmly on the deserted room. [l][r]
-
+[r]朝になっていた。[l][r]
+カーテンから漏れた、雨上がりの輝くような光が、荒れ果てた部屋を、それでも明るく暖かく照らしていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Come with me. If you don't like it here, and you don't like my house, then we can go anywhere. [l][r]
-
-Let's search, once again. Our world. Our home."[l][r].
-
-"...... house?　Not a room like this?" [l][r]
-
-[r]"I think this room is nice, though. No food shelves or bunk beds, though."[l][r].
-
-[r]"Oh, yeah, even ......."[r]
-
-Yeah."[l][r].
-
+「一緒に行こう。ここが嫌で、私の家も嫌なら、どこでもいい。[l][r]
+探そうよ、もう一度。私たちの世界を。私たちの家をさ」[l][r]
+「……家？　こんな部屋じゃなく？」[l][r]
+[r]「この部屋もすてきだとは思うけどね。食料棚も二段ベッドもないけどさ」[l][r]
+[r]「ああ、そうだな……でも」[r]
+「うん」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Yoo moves his face away from my ear. [l][r]
+ユーが私の耳元から顔を離す。[l][r]
+部屋を照らした陽光が照り返して、金色の髪を光に溶かす。もう水滴は乾いていた。[l][r]
 
-The sunlight shining on the room made her golden hair melt in the light. The water droplets had already dried. [l][r]
+[r]「行こうよ一緒に。ちーちゃんと私、二人の旅路が」[l][r]
+「私たちの……家ってわけだな」[l][r]
 
-
-[r]"Let's go, together. Chi-chan and I, we have a journey together."[l][r] "Chi-chan and I, we have a journey together."[l][r] "Chi-chan and I, we have a journey together.
-
-So it's our ...... house."[l][r]
-
-
-[r]I looked Yoo straight in the eye and said so. [l][r]
-
-You also looked me straight in the eye and said so [r].
-
- [l][r]
-
+[r]私はユーの目を真っ直ぐに見てそう言った。[l][r]
+ユーも私の目を真っ直ぐ見てそう言っ[r]
+た。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -284,15 +195,11 @@ You also looked me straight in the eye and said so [r].
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-His cheeks were still wet with tears, but the smile on his face was genuine, [l][r].
+その頬はまだ涙で濡れていたけれど、浮かべた微笑みは本物で、[l][r]
+続いて鳴ったお腹の音も本物で、[l][r]
+私たちはその音が二人同時に鳴ってハモったのがおかしくて、可笑しくて、幸せで、[l][r]
 
-The stomach sounds that followed were also real, [l][r].
-
-
-
-
-[r]From the bottom of his heart, he laughed out loud. [l][r]
-
+[r]心の底から、声をあげて、笑ったのだった。[l][r]
 [_tb_end_text]
 
 [cm  ]

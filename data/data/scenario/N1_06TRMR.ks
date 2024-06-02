@@ -8,154 +8,103 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="bonfire-1.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The wood is burning with a crackling sound. [l][r]
-
-Temperatures are cooler in the mountains at higher elevations, even in summer[r].
-
-And this natural warmth was very pleasant. [l][r]
-
-[r]"But whatever the form, it's a pleasure to have all of us together again like this."[l][r]
-
-Yeah, really."[l][r].
-
-With that, Kanazawa takes the coffee his wife gave him and puts it in his mouth. [l][r]
-
-[r]This is a camp[r] where you can see the stars in a certain place in Nagano Prefecture.
-
-Place. [r]
-
-When we looked up at the sky, the stars were full of stars looking down on us. [l][r]
-
+パチパチと音を立てて薪が燃えている。[l][r]
+標高の高い山では夏場でも気温は低め[r]
+で、この自然な温かさはとても心地よいものだった。[l][r]
+[r]「しかし形はどうあれ、こうやってまた全員で集まれるのは喜ばしいことだな」[l][r]
+「ええ、本当に」[l][r]
+そう言ってカナザワは奥さんからもらったコーヒーを受け取り、口に入れる。[l][r]
+[r]ここは長野県某所の星が見えるキャンプ[r]
+場。[r]
+空を見上げると、満天の星が私たちを見下ろしていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-It has been several months since Yuri was found. She still has not woken up. [l]The first time Tito saw Yuri in a coma, it was honestly painful to see and hear. [l][r]
+ユーリが見つかって数ヵ月。彼女はいまだに目覚めない。[l]昏睡しているユーリを初めて見たときのチトの様子は、正直見るのも聞くも辛かった。[l][r]
+私にできたのは、彼女の嗚咽が外にまで響かぬよう、ドアをそっと閉じることくらいだったが。[l][r]
 
-All I could do, though, was gently close the door so that her sobs would not echo outside. [l][r]
-
-
-[r]"Tito is really a great kid. Even though all his hard work was undone, he never despaired."[l][r] "He never despaired.
-
-[r]I also bring the coffee to my mouth, savoring its aroma and remembering that time [r].
-
- [l][r]
-
-It was some time after I left Tito and Yuri alone together. [l][r]
-
+[r]「チトは本当にすごい子だよ。せっかく実った努力がふいにされたというのに、あの子は絶望することはなかった」[l][r]
+[r]私もコーヒーを口に運び、その香りを味わいながら、あのときのことを思い出[r]
+す。[l][r]
+チトとユーリを二人きりにしてしばらく後のことだ。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="curtain.jpg"  ]
 [tb_start_text mode=3 ]
-When I returned to check on them, she had a determined look on her face, with a trace of tears on her face. [l][r]
-
-[r]Oh, those eyes I've seen so many times, the eyes of a girl in a daze, challenging despair[/r].
-
- [l][r]
-
+二人の様子を見に戻ると、彼女は涙の跡を残しながらも、決意に満ちた表情を浮かべていた。[l][r]
+[r]ああ、その目は幾度となく私が見た、ふてぶてしい、絶望に挑む少女の目だっ[r]
+た。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Ishii. I've decided."[l][r].
-
-"...... what?" [l][r]
-
-I'll stay with you as long as I can. I'll be waiting for him whenever he wakes up, I ...... will be waiting for him."[l][r].
-
-"...... I see. [l]Well, you can try."[l][r].
-
+[r]「イシイ。私決めた」[l][r]
+「……なにを？」[l][r]
+「できるだけ、ユーの傍にいる。こいつがいつ起きてもいいように、私……待ってるから」[l][r]
+「……そうか。[l]そうだな、やってみるといい」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="hospital7.jpg"  ]
 [tb_start_text mode=3 ]
-Thus, Tito began to visit Yuri as long as he had time. [l][r]
-
-She would stay until the last minute of visiting hours to talk about what had happened today, study, and sometimes take turns staying in the hospital room with Yuri's parents, and when she could find time for herself, she put it all into Yuri. [l][r]
-
-[r]I was worried that I would indeed break down and told Tito to take a few days off. [l][r]
-
-However, Tito says that when he is away from Yuri for long periods of time, he conversely becomes ill, and in fact, when he comes to Yuri's hospital room, he feels much better. [l][r]
-
+そうして、チトは時間がある限りユーリの元へと行くようになった。[l][r]
+面会時間のギリギリまで今日起きたことを話したり、勉強したり、時にはユーリのご両親と交代で病室に泊まったりと、彼女は自分の時間が見つかればそれを全てユーリに注ぎ込んだ。[l][r]
+[r]私は、さすがに体を壊してしまうのではないかと心配し、チトに数日休むように言ってみた。[l][r]
+だがチトは、ユーリから長い時間離れていると逆に体調を崩してしまい、むしろユーリの病室に来ると、すこぶる調子が良くなるのだという。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-According to Tito, it was not hard at all for him to work hard for Yuri because it was good for him. [l][r]
-
-[r]And so one month ...... six months ...... and the days passed. [l][r]
-
-Despite Tito's best efforts to get through to him, Yuri was still not likely to wake up. [l][r]
-
-Nevertheless, Tito continued to go to see Yuri without despairing at all. [l][r]
-
+チト曰く、ユーリのために頑張ることは自分のためにもなるから、全く苦ではなかったそうだ。[l][r]
+[r]そうして一ヶ月……半年……と、日々はすぎていった。[l][r]
+チトが懸命に通いつめていても、ユーリは相変わらず目を覚ましそうになかった。[l][r]
+それでもチトは、全く絶望することなくユーリに会いに行き続けた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="campb.jpg"  ]
 [tb_start_text mode=3 ]
-"'I'm always with Yuri, so it's okay' [r].
-
-...... Tito said so clearly. [l][r]
-
-Perhaps some support was born, awakened, or realized in that child."[l][r].
-
+「『私はいつでもユーリと一緒だから大丈夫』[r]
+……チトは、はっきりそう言った。[l][r]
+恐らく、あの子の中で何か支えが生まれたか、目覚めたか、気付いたかしたんだろう」[l][r]
 
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="yamahosi.jpg"  ]
 [tb_start_text mode=3 ]
-[r]Right now, Tito and Yuri are both going to a meadow a little ways away to look at the stars. [l][r]
-
-I was a little apprehensive about being alone with him, but it's not far and the campground is well maintained, so as long as we are careful about getting cold, it shouldn't be a problem. [l][r]
-
+[r]今、チトとユーリは二人で少し離れた草原へ星空を見に行ってる。[l][r]
+二人きりで大丈夫かと少し不安はあったが、そう遠くもないし、十分整備されたキャンプ場だから冷えにさえ気を付けていれば問題ないはずだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'It's not every day you find a group of kids who are so tightly knit together. I envy them."[l][r].
+「あんなに固く結びあった子達は、まずいないでしょうね。羨ましいですよ」[l][r]
+カナザワがそう言うと、隣にいたご婦人が少しムッとした顔になる。私はそれを見逃さなかったけれど、指摘するほど野暮でもない。[l]さぁカナザワ君、フォローは君の手で頑張るのだよ。[l][r]
+[r]「なんの根拠もない予測ではあるんだ[r]
+が……」私は目を軽く伏せて呟く。[l][r]
 
-When Kanazawa said this, the lady next to him looked a little miffed. I didn't miss it, but I'm not wild enough to point it out. [l]Now, Kanazawa, you do your best to follow up. [l][r]
-
-[r]"It's a prediction that has no basis in anything [r].
-
-but ......," I mutter with my eyes lightly downcast. [l][r]
-
-
-I put down my coffee and say, thinking of Tito's eyes challenging despair and Yuri's that positive attitude. [l][r]
-
+コーヒーを置き、私はチトの絶望に挑む目と、ユーリのあの前向きな姿勢を思い浮かべながら言う。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"I think that Yuri is really going to wake up one of these days, ......, I think so [r].
-
-Yo." [l][r]
-
-[r]"You have a wild theory, like Tito."[l][r].
-
-Because I felt like I kind of knew how she felt."[l][r].
-
-[r]I laugh to myself. But Mr. and Mrs. Kanazawa smile at me as if it contains understanding. [l][r]
-
+「……近いうちに、ユーリが本当に目を覚ますんじゃないかなって、そう思う[r]
+よ」と。[l][r]
+[r]「チトみたいに乱暴な説を唱えますね」[l][r]
+「あの子の気持ちが、何となく分かった気がしたからな」[l][r]
+[r]自嘲ぎみに私は笑う。しかし、カナザワ夫妻は理解を含んだような笑顔を向けてくれた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I feel that way too, though."[l][r].
-
-Even though I know you will. Somehow, I don't feel a painful future. [l]Even if Yuri didn't wake up like this, I think we would still be the same. [l][r]
-
-[r]Well, this feeling is similar to what I felt when the wing of my plane broke. [l][r]
-
-No ...... or maybe a little different. It was a strange feeling. [l][r]
-
-[r]Well, I guess that's all right. [l][r]
-
-[r]Because I guess I just have to help them as much as I can so they can live straight. [l][r]
-
+「僕もそんな気はしますけどね」[l][r]
+そうだろうとも。なぜか、辛い未来を感じない。[l]仮にこのままユーリが起きなかったとしても、それでも私たちはいつも通りでいるんだと思う。[l][r]
+[r]そうだな、この気持ちは、飛行機の翼が折れたときに感じたものに似ている。[l][r]
+いや……それとも少し違うような気もする。不思議な気分だった。[l][r]
+[r]まぁ、それでいいんだろう。[l][r]
+[r]私は、彼女たちが真っすぐ生きていけるようにできる限りの手助けをしていけばいいのだろうから。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -167,16 +116,11 @@ No ...... or maybe a little different. It was a strange feeling. [l][r]
 [bg  time="2000"  method="crossfade"  storage="hosi.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-We looked up at the sky. There, shining like scattered sugar, the stars looked down on us. [l][r]
-
-[r]ishii was right, the starry sky here was really beautiful. [l][r]
-
-This place, with nothing to disturb it, such as city lights, dust and dirt, is as clear as that world. [l][r]
-
-But that's not all. There's the sound of insects, a hooting owl or something, and the sound of grass and trees swaying in the wind. [l][r]
-
-It was a lovely place where one could feel the breath of living creatures. [l][r]
-
+空を見上げる。そこには、まるで散りばめられた砂糖のように光輝く星たちが私たちのことを見下ろしていた。[l][r]
+[r]イシイが言ってた通り、ここの星空は本当に綺麗だった。[l][r]
+街の光や塵や埃といった邪魔するものが何もないこの場所は、まるであの世界のように澄んでいる。[l][r]
+でもそれだけじゃない。虫や、ふくろうか何かの鳴いている声、風で揺らぐ草木の音が響いてる。[l][r]
+生き物達の確かな息吹を感じさせてくれる、すてきな場所だった。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -186,79 +130,54 @@ It was a lovely place where one could feel the breath of living creatures. [l][r
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Can you see me?" [l][r]
+「ユー、見えるか？」[l][r]
 
+[r]私は車椅子を押して、草原の真ん中までたどり着くと、ユーの隣にしゃがみこ[r]
+む。今日も待ち合わせには遅れているからか、こいつは返事をしてくれない。[l][r]
 
-[r]I pushed my wheelchair to reach the middle of the meadow and crouched [r]next to You.
+[r]でも、それなら待てばいいだけだ。そして私はこれからも呼び続けるし、待ち続ける。[l][r]
 
-MU. Maybe because I'm late for the meeting today, this guy doesn't answer me. [l][r]
+[r]私が犯した間違いを償うのは、これが一番だから。[l][r]
 
+ユーが目覚めるまで。ユーがこっちに戻ってくるそのときまで、一緒にいるって決めたから。[l][r]
+[_tb_end_text]
 
-[r]But then all I have to do is wait. And I will continue to call and wait. [l][r]
-
-
-[r]Because this is the best way to make up for the mistakes I made. [l][r]
-
-
-Until you wake up. I decided to stay with you until you come back here. [l][r]
+[cm  ]
+[tb_start_text mode=3 ]
+「ほら。きれいだろ。星が降ってくるみたいだ。ユーも言ってたよな」[l][r]
+[r]ざぁ、と風が吹く。草木が揺れてさわさわとおしゃべりを始める。ここに命は確かにある。でも、やっぱりこの世界には私たち二人しかいないみたいで、とても静かで。[l][r]
+それは、きっと世界の全てなんだと思った。[l][r]
+「あのとき、自分と世界がひとつになったような気がしたし、お前も同じように思ってくれてた。[l][r]
+……『ユーのくせに』とか言ってごめんな。本当は嬉しかったんだよ」[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Look. Isn't it beautiful? It's like the stars are falling. You said it too."[l][r].
-
-The wind blows with a [r]zap. The grass and trees sway and begin to rustle and chatter. There is certainly life here. But it seems that we are the only two people in this world, and it is very quiet. [l][r]
-
-It must be all the world, I thought. [l][r]
-
-'At that moment, I felt like I and the world were one, and you felt the same way. [l][r]
-
-I'm sorry I said ...... 'You're a you' or something like that. I was actually happy."[l][r].
-
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-Yes, it's the same. This sky, the air I'm breathing, the earth I'm stepping on. [l][r]
-
-All of them, every single one of them, is everything in the world. [l][r]
-
-[r]Whether it's the world that's over or the world today, it's the same thing. [l][r]
-
-Of course, I, and YOU, are one and all in this world. [l][r]
-
-[r]So it's not hard. I can wait [r] forever.
-
-I am not a "you". For my very existence is the proof of Yoo's existence. [l][r]
-
+そうだ、同じだ。この空も、吸いこんでる空気も、踏みしめている大地も。[l][r]
+全部、ひとつひとつが、世界の全てなんだ。[l][r]
+[r]終わった世界だろうと、今の世界だろうと同じことなんだ。[l][r]
+もちろん私も、ユーも、この世界のひとつであって、全てなんだ。[l][r]
+[r]だから辛くない。私はいつまでも待て[r]
+る。私の存在そのものが、ユーの存在証明でもあるからだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="n_last2.jpg"  ]
 [tb_start_text mode=3 ]
-Come on. Come on, come on. The world is so big and so neat."[l][r].
-
-I hold Yoo's hand and look at the sky. It's a slender, skinny hand, but I feel a certain warmth. [l][r]
-
-Yes, YOU are alive. Here we are. [l][r]
-
-[r]That's what it's all about. [l][r]
-
+「ほら。早く来いよ。世界はこんなにも広いし、すてきだぞ」[l][r]
+私はユーの手を握って空を見る。ほっそりと痩せてしまった手だけど、確かな温もりを感じる。[l][r]
+そう、ユーは生きている。ここに居る。[l][r]
+[r]それがすべてなんだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="n_last3.jpg"  ]
 [tb_start_text mode=3 ]
-I held Yoo's hand a little tighter. [l][r]
-
-[r][r]u. [l][r]
-
-I'll be waiting for you. [l][r]
-
-[r][r]I want you to hold this hand back again. [l][r]
-
+私はユーの手を少し強めに握った。[l][r]
+[r]ユー。[l][r]
+待ってるからな。[l][r]
+[r]お前がこの手をまた握り返してくれるのを。[l][r]
 [_tb_end_text]
 
 [cm  ]

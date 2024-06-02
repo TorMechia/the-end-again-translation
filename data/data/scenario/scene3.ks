@@ -5,57 +5,42 @@
 [bg  time="2000"  method="crossfade"  storage="rest.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I'll use the same tone of voice as I did then. You can call me 'Ishii' too."[l][r].
-
-Thank you for ......."[l][r]
-
+「あのときと同じ口調でいいよ。呼び方も『イシイ』でいい」[l][r]
+「……ありがとう」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-Under the subdued lighting of a restaurant with few customers, slightly outside of the lunch hour, a girl with black hair tied in a cute two-parted bun sat comfortably in her chair as she answered. [l][r]
-
+昼食の時間帯を少し外した客の少ないレストランの落ち着いた照明の下、黒髪を可愛らしく２つに分けて結んだ少女は椅子にすっと座りながらそう答えた。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Let's have a light drink and a bite to eat first. Both of us should still be a little more relaxed."[r]
-
-Yes."[l][r].
-
+[r]「まずは軽く飲み食いしよう。私ら二人とも、まだもう少し落ち着いた方がいい」[r]
+「そうだね」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-......I wonder if she was ever this quiet. [r]
+……こんな大人しい子だったろうか。[r]
+あのときの彼女は、大人びてはいたが、どこかふてぶてしかった。絶望的な状況にも屈しないぞという決意めいたものがあった。[l][r]
 
-At that time, she was mature, but somewhat indolent. There was a sense of determination that she would not give in to a hopeless situation. [l][r]
-
-
-[r]Of course, I understand that such determination is no longer necessary in this modern Japan, which is overflowing with things, but that's not what I'm talking about. After all, ....... [l][r]
-
-No, let's not do that now. If I keep on having second thoughts, Tito will not be able to calm down and talk to me. [l][r]
-
+[r]もちろん、モノの溢れてるこの現代日本でそんな決意が必要なくなるのも分かるが、そういうのじゃない。やはり……。[l][r]
+いや、今はよそう。私が勘繰ってばかりいると、チトが落ち着いて話せないだろうから。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I try to be as friendly as I can, but with few words. [r]
-
-We told the waiter our order, waited for our food, ate slowly, and then we finished our first meal together, in a long time. [l][r]
-
+私は言葉少なく、しかしできるだけ愛想はよくしようと努めながら振舞う。[r]
+注文を店員に告げて料理を待ち、ゆっくりと食べ、そして我々は久しぶりの、一緒の食事を終えた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="cafffe1.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-On the table, which was completely cleared, two cups of coffee were steaming. [l][r]
-
-I put my hand lightly on my cup and [r].
-
-Feeling grateful for the warmth, I looked deep into Tito's dark eyes, which were light and downcast [r].
-
- [l][r]
-
+すっかり片付いたテーブルの上には、コーヒーの入ったカップが２つ、湯気を立てていた。[l][r]
+私は自分のカップに手を軽く添えて、[r]
+その暖かさに感謝めいたものを感じながら、チトの軽く伏した黒い瞳の奥を見[r]
+る。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -63,67 +48,52 @@ Feeling grateful for the warmth, I looked deep into Tito's dark eyes, which were
 [bg  time="2000"  method="crossfade"  storage="isiChit.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Tito told the story slowly. All the stories the two girls had seen in that quiet city of despair. [l][r]
-
+チトはゆっくりと語った。あの静かな絶望の都市で、二人の少女が見た全ての物語を。[l][r]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m1_arr.ogg"  click="false"  ]
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="lastroot.jpg"  ]
 [tb_start_text mode=3 ]
-Supply at food production facilities (I got angry that the map was unfriendly). [r]
-
-A black tomb. A decaying liaison tower. Fish production facility. [l][r]
-
+食糧生産施設での補給（地図が不親切だったと怒られてしまった）。[r]
+黒い墓。朽ちかけていた連絡塔。魚の生産施設。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="gensen.jpg"  ]
 [tb_start_text mode=3 ]
-[r]Giant trains. Mysterious creatures. Humanoid weapons. [r]
-
-Nuclear submarines. Things that process energy and travel around the world. [l][r]
-
+[r]巨大な電車。謎の生物。人型兵器。[r]
+原潜。エネルギーを処理して世界を巡るモノ達。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_start_text mode=3 ]
-[r]Injuries. Museum of reproductions. Having made clothes. [r]
-
-The artificial intelligence of the tower and its "suicide". [l][r]
-
+[r]怪我をしたこと。複製品の美術館。服を作ったこと。[r]
+塔の人工知能とその「自死」。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="gear.jpg"  ]
 [tb_start_text mode=3 ]
-[r]rocket that did not fly. Large library. Vehicle breakdowns and abandonment. And the inevitable preparation for death. [l][r]
-
+[r]飛ばされなかったロケット。大図書館。車両の故障と遺棄。そして、避け得ない死への覚悟。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="rasen.jpg"  ]
 [tb_start_text mode=3 ]
-She told us matter-of-factly that she had thrown away her gun, burned her diary, and climbed the spiral staircase with one explosive as her last resort. [l][r]
-
-The tone is somewhat nostalgic for those sad and tender days. [l][r]
-
+銃を捨て、日記を焼き、爆薬１つを最後の頼みに螺旋階段を登ったのだと、彼女は淡々と語った。[l][r]
+哀しくも優しい日々を、どこか懐かしむような口調で。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="penag.jpg"  ]
 [tb_start_text mode=3 ]
-He then concluded the conversation by saying. [l][r]
-
+そしてこう言って話を結んだ。[l][r]
 [r][r]
-[r]"At the top level, there was nothing. [r]
-
-Me and Yu had our last meal there, [r].
-
-We slept together."[r].
-
+「最上層には、何もなかった。[r]
+私とユーは、そこで最後の食事をして、[r]
+一緒に眠った」[r]
 [r][r]
-With ....... [l][r]
-
+……と。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -131,130 +101,92 @@ With ....... [l][r]
 [bg  time="3000"  method="crossfade"  storage="isiChit2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-A single tear ran down the cheek of the girl who looked up. [l][r]
-
-Perhaps they were not tears of sorrow. I felt that. Maybe I just wanted to feel that way. [l][r]
-
-[r]The coffee was completely cold. [r]
-
-Do you need me to brew you a fresh pot? I would not say. Cold coffee is too luxurious a substitute for those of us who used to sip wastewater every day. [l][r]
-
+顔を上げた少女の頬を、１粒だけ涙が伝った。[l][r]
+多分それは、哀しみの涙ではない。と、私は感じた。そう感じたかっただけかもしれないが。[l][r]
+[r]コーヒーはすっかり冷めていた。[r]
+淹れ直してもらおうか？とは、私は言わない。冷めたコーヒーなど、毎日廃水もどきを啜っていた我々には贅沢すぎる代物だ。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="cup-put1.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-Tito slowly sipped his coffee and then [r].
-
-'I probably didn't wake up after that. When I ...... next came to, it was in my bed in my room." [l][r]
-
+チトはゆっくりとコーヒーを飲み干してから、[r]
+「多分、私はその後、眼を覚まさなかったと思う。……次に気がついたときは、自分の部屋のベッドだった」と言った。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"I was like ...... too."[r]
-
-Silence covered the room. The restaurant's quiet background music seemed to accentuate the silence more than the silence. [l][r]
-
-I was speechless for some reason. I had the most important question I wanted to ask right now, but I couldn't ask it to Tito. [l][r]
-
+[r]「私も……そうだったよ」[r]
+沈黙が部屋を覆った。レストランの静かなBGMが、無音よりも沈黙を際立てている気がする。[l][r]
+私はなぜか言葉が出ない。今、最も聞きたいことがあるのに、それをチトには聞けないでいた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="rest2.jpg"  ]
 [tb_start_text mode=3 ]
-"...... hey" [r].
-
-Tito was the first to break the silence. [r]
-
-He said, "I have a question I really need to ask Ishii." [l][r]
-
+「……ねえ」[r]
+チトが先に、沈黙を破った。[r]
+「イシイに、どうしても聞きたいことがあるんだ」と。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Yeah, what's that?" [l][r]
-
-"Ishii has seen ...... dead bodies [r].
-
-[r]?" [r]
-
-"What, ......?" [l][r]
-
-I've been over here [r] three years."
-
-And when my maternal grandfather died, I saw his body in a coffin."[l][r].
-
+[r]「ああ、なんだい？」[l][r]
+「イシイは……死体を見たことがあ[r]
+る？」[r]
+「え……？」[l][r]
+「私は、ある。３年前にこっちの世界[r]
+で、母方の祖父が亡くなったとき、お棺に入っている死体を見た」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="isiChit.jpg"  ]
 [tb_start_text mode=3 ]
-What does Tito say about ......? [r]
-
-I look into her eyes, but of course, that is not enough to understand anything. [l][r]
-
-[r]"But in that world, I have no 'memory of seeing a dead body.' [r]
-
-Does Ishii have ......?" [r]
-
-Tito cut off his words there and looked straight back into my eyes. [l][r]
-
-[r]"There is no ....... If you ask me, it's definitely not there. I knew there was something wrong with that world when compared to the common sense and laws of this world, but ......"[l][r].
-
-I replied. Tito crossed his hands lightly and dropped his eyes to it. [l][r]
-
+チトは……何を言っているんだろう。[r]
+私は彼女の瞳を見るが、無論それだけでは、何も解らない。[l][r]
+[r]「でも、あっちの世界では、私は『死体を見たという記憶』がない。[r]
+イシイには……ある？」[r]
+チトはそこで言葉を切って、私の眼を真っ直ぐに見つめ返した。[l][r]
+[r]「……ない。言われてみれば、確かにないよ。この世界の常識や法則と照らし合わせると、あの世界はどこかおかしいところがあるとは思っていたが……」[l][r]
+私はそう答えた。チトは両手を軽く組んで、目線をそこに落とした。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'But that could be explained, couldn't it?　Or even if it can't be explained, it doesn't seem to matter. I wouldn't be surprised if [l]ooks and laws exist in that world that don't exist in this world."[r].
-
-Not wanting to be silenced again, I say the words that came to me. [l][r]
-
+「しかし、それは説明がつくんじゃないか？　あるいは説明できなくても問題ないような気もする。[l]あの世界には、こっちの世界にない存在や法則があっても不思議じゃない」[r]
+再度の沈黙を嫌ってか、私はそう思いついた言葉を口にする。[l][r]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m4.ogg"  click="false"  ]
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="isiChitE.jpg"  ]
 [tb_start_text mode=3 ]
-[r] "So you're saying you don't mind if I make up some outlandish hypothetical?" [r]
-
-Tito then looked into my eyes again. [l][r]
-
-[r]Yes, it's those eyes. It's the eye of that pouty, hopelessly defiant girl. [l][r]
-
+「なら、私が突拍子もない仮説を立てても構わないっていうことかな？」[r]
+チトはそう言って再度、私の眼を見つめた。[l][r]
+[r]そうだ、この目だ。あのふてぶてしい、絶望に挑む少女の目だ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I hypothesize that. [r]
-
-'People who die in that world are sent to this world,' ...... says Tito. [l][r]
-
+「私はこう仮説を立てた。[r]
+『あの世界で死んだ人間は、この世界に飛ばされる』……って」と、チトが言う。[l][r]
 [_tb_end_text]
 
 *Jump
 
 [cm  ]
-[bg time="0" method="crossfade" storage="isiChitE.jpg"]
-
+[bg  time="０"  method="crossfade"  storage="isiChitE.jpg"  ]
 [tb_start_text mode=3 ]
-"...... it's ......" [r].
-
-A wild theory?" [r]
-
+「……それは……」[r]
+「乱暴な説かな？」[r]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink color="black" storage="scene3.ks" size="20" text="I think it's ......" target="*yes" x="24" y="400" width="" height =""" _clickable_img="" ]
-
-[glink color="black" storage="scene3.ks" size="20" text="impossible ......" target="*no" x="24" y="450" width="" height="" _clickable_img="" ]
-
+[glink  color="black"  storage="scene3.ks"  size="20"  text="「……だとは思うが」"  target="*yes"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene3.ks"  size="20"  text="「あり得ないよ……」"  target="*no"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
 [jump  storage="scene3.ks"  target="*CS2Stop"  cond="sf.CS2!=1"  ]
-[glink color="black" storage="" size="20" text="Skip to next option" target="*ToJump" x="24" y="500" width="" height="" _clickable_img=""]
-
+[glink  color="black"  storage=""  size="20"  text="次の選択肢までスキップ"  target="*ToJump"  x="24"  y="500"  width=""  height=""  _clickable_img=""  ]
 *CS2Stop
 
 [s  ]
@@ -263,21 +195,16 @@ A wild theory?" [r]
 [tb_eval  exp="sf.CS2=1"  name="CS2"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
 [tb_eval  exp="f.CP+=1"  name="CP"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 [tb_start_text mode=3 ]
-'I know it's ...... but ......' I slur my words. [l][r]
-
+「……だとは思うが……」私は言葉を濁す。[l][r]
 [_tb_end_text]
 
 *ret
 
 [tb_start_text mode=3 ]
-[l][r]"At least I'm here and Ishii is here. [l][r]
-
-I still don't know about the grandfather, but I actually got in touch with Kanazawa yesterday. Then I think it's arguable. [r]
-
-It's true that we who died over there came to this world. And" [l][r].
-
-[r]When Tito said that much in one breath, he returned his eyes once more to his folded hands and said, in a slightly trembling voice. [l][r]
-
+「少なくとも、私はここにいるし、イシイもここにいる。[l][r]
+おじいさんはまだ分からないけど、実はカナザワとも昨日、連絡が取れた。なら論拠にはなると思う。[r]
+向こうで死んだ私たちがこの世界に来たっていうのは事実だから。そして」[l][r]
+[r]チトはそこまでひと息に言うと、眼線をもう一度自分の組んだ手の上に戻し、少し震える声で、こう言った。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -287,10 +214,8 @@ It's true that we who died over there came to this world. And" [l][r].
 [r][r]
 [r][r]
 [r][r]
-You may possibly ...... still[r]
-
-They may be 'out there'."[l][r].
-
+「ユーはもしかしたら……まだ[r]
+『向こう』にいるのかも知れない」[l][r]
 
 [_tb_end_text]
 
@@ -302,26 +227,17 @@ They may be 'out there'."[l][r].
 
 [cm  ]
 [tb_start_text mode=3 ]
-"It's a ...... absurd theory at any price. It's impossible."[l][r].
+「いくらなんでも……無茶な説だ。あり得ないよ」[l][r]
+「……そうかな？」[r]
+「ああ。そもそも、『飛ばされる』というのは何がだ？　死んだ肉体ごとか？　精神のみか？[l]　……いや、死体が消えると言うなら後者とは考えていないってことか？」[l][r]
+「うん、私は前者だと思ってる。……ただ、その肉体は、この世界で再構築されるんじゃないかな。『生まれてその死んだ年齢まで、こっちの世界で生活した状態』に」[l][r]
+「そんな暴論が……」[r]
+「世界五分前仮説ほどじゃないと思う」[r]
+「……おいおい……」[l][r]
 
-[r]"...... is that right?" [r]
+[cm]つまりチトはこう言っているのだ。この世界の人間の、少なくとも何人かはあの都市からやって来た転生者であり、その肉体も精神も、そして社会的関係性すらも、こちらにやって来た時点で構築されていると。[l]それこそ五分前に生まれたのかも知れない世界のように。[l][r]
 
-Oh. What do you mean by 'being sent away' in the first place?　The dead body?　Only the spirit? [l] ...... No. If you say the body disappears, does that mean you don't consider it the latter?" [l][r]
-
-'Yeah, I think it's the former. ...... But I think that body will be reconstructed in this world. To 'born and lived in this world until the age of its death.'"[l][r] "I think it's a good thing."[l][r][r
-
-"Such vitriol is ......."[r]
-
-I don't think it's as good as the World Five Minutes Ago Hypothesis."[r]
-
-"...... hey ......" [l][r].
-
-
-[In other words, Tito is saying, "At least some of the people in this world came from that city. At least some of the people in this world are reincarnations from that city, and their bodies, their minds, and even their social relationships were constructed when they came here. [l]That is just like the world that may have been born five minutes ago. [l][r]
-
-
-[r]"Of course, I don't really know, and I don't think there's any way to know. But ......"[l][r].
-
+[r]「もちろん、本当のところは分からないし、知りようもないんだと思う。だけど……」[l][r]
 [_tb_end_text]
 
 [cm  ]

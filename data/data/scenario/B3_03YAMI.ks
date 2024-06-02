@@ -10,187 +10,126 @@
 [bg  time="2000"  method="crossfade"  storage="rf2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I'm relieved that at least you're safe and sound."[l][r].
-
-He meant what he said, but I don't know if he got the message. [l][r]
-
-[r]"...... I am ......" [r].
-
-I know. It's not your fault."[l][r].
-
-"If I hadn't taken my eye off the ball then, none of this would have ...... happened."[l][r]
-
-[r]Kanazawa mutters on the other end of the phone. He must be nodding his head. [l]It's only natural that he would do so. I couldn't stop them, even though I was the one closest to them. [l][r]
-
+「少なくとも君が無事に解放されて、安心したよ」[l][r]
+本心からの言葉だったが、伝わったかどうかは分からない。[l][r]
+[r]「……僕は……」[r]
+「分かってる。君の責任じゃない」[l][r]
+「あのとき、僕が目を離さなければ、こんなことには……」[l][r]
+[r]電話の向こうでカナザワが呟く。きっと頭を抱えてうなだれているに違いない。[l]そうなるのも当然だろう。一番近くにいながら、二人を止めることができなかったのだから。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-He was the one who filed the missing person report to the police. He was also the only one there. [Although he was neither charged nor arrested, after lengthy and numerous interviews, the official police statement was [l][r]
-
-[r]"Missing by suicide or accident" [l][r].
-
-The only words that were common and clichéd were. [l][r]
-
+警察への捜索願いを出したのは彼だ。その場にいたのも彼一人。[l]起訴も逮捕もされはしなかったが、長時間の、幾度にも渡った事情聴取の末、警察が出した公式見解は[l][r]
+[r]『自殺か事故による行方不明』[l][r]
+という、ありきたりで陳腐な言葉だけだった。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="souko.jpg"  ]
 [tb_start_text mode=3 ]
-[r]When Kanazawa returned to the warehouse, they were gone. [l][r]
-
-But it seems that the back door was open, perhaps because of the wind. Beyond that, the ocean. [l][r]
-
+[r]カナザワが倉庫の中に戻ったとき、二人の姿はなくなっていた。[l][r]
+ただ、風のせいなのか、裏口のドアが開いていたらしい。その先には、海。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="minato.jpg"  ]
 [tb_start_text mode=3 ]
-There is nothing suspicious about his background, and of course no motive. [l][r]
-
-With no physical evidence or even official contact with the girls in the first place, there is little conclusion the police can draw at best. [l][r]
-
-The search into the sea near [r][r] is said to be continuing, but so far there is no news ...... that any clues have been found. [l][r]
-
+彼の素性に怪しいところはなく、動機も無論ない。[l][r]
+物的証拠も、そもそも彼女らとの公式な接点すらもない以上、警察に出せる結論なぞせいぜいそんな所だろう。[l][r]
+[r]付近の海中への捜索は続いているらしいが、今の所手掛かりが見つかったという知らせは……ない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="rf2.jpg"  ]
 [tb_start_text mode=3 ]
-"...... you don't have to fret about it. It would be difficult to say, ...... but I just had a feeling that sooner or later I would end up like this."[l][r].
-
-"......" [r].
-
-No answer from phone. [r]
-
-I continued without a care. [l][r]
-
-[r]"Yuri had told me many times[r].
-
-It is. Tito had reached his limit. Every time I heard from that boy, the Chito I knew was dying. [l][r]
-
-That boy tried to challenge despair as best he could. But he was crushed."[l][r]
-
-"...... for us."[l][r]
-
-[l][r]"n......?" [l][r]
-
-"Couldn't we have ...... done anything about it?" [l][r]
-
+「……君が気に病むことはない。と言っても難しいだろうが……ただ、遅かれ早かれ、私はこういう結末が来るような気がしていた」[l][r]
+「……」[r]
+電話から返答はない。[r]
+私は構わず続けた。[l][r]
+[r]「ユーリから幾度となく聞いていたん[r]
+だ。チトは、もう限界だと。あの子から連絡が来る度に、私の知っているチトは死んでいってたんだ。[l][r]
+あの子は精一杯絶望に挑もうとした。けれど押し潰されてしまった」[l][r]
+「……僕らには」[l][r]
+「ん……？」[l][r]
+「僕らは……何もできなかったんでしょうか？」[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Kanazawa asks a question. A question to which you probably know the answer. [l][r]
-
-[r]"Aren't you frustrated, Mr. Ishii? [r]
-
-Don't you ...... sadly ......?" [l][r]
-
-It's frustrating and ...... sad. But those kids came to their own conclusions. It's not something we can do anything about, it was never a problem in the first place.
-
-[r]I said this with a thin exhalation of breath, trying to stifle the tremor in my voice. [l][r]
-
+カナザワが問う。多分答えの分かっているだろう問いを。[l][r]
+[r]「イシイさんは悔しくないんですか？[r]
+……悲しく……ないんですか？」[l][r]
+「悔しいし……悲しいさ。でも、あの子達は自分達で結論を出したんだ。我々にどうこうできる問題じゃ、最初からなかったんだろう」[l][r]
+[r]私は声の震えを押し殺すように、息を細く吐きながらそう言った。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="blue2.jpg"  ]
 [tb_start_text mode=3 ]
-I looked at the eastern sky. Remembering the night sky of Tokyo where I walked with Tito. [l][r]
-
-[r]Surely ...... this world must have been too small for them. The world that they had expanded together was narrowed by other things, and they couldn't see the more important, natural things. [l][r]
-
-So they are not dead. [l][r]
-
+私は東の空を見た。チトと歩いた東京の夜空を思い出しながら。[l][r]
+[r]きっと……きっと、この世界はあの子達には狭すぎたんだ。二人で広げていった世界が、他のもので狭められて、もっと大事な、当たり前のことが見えなくなってしまったんだ。[l][r]
+だから、二人は死んだんじゃない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"They've ...... left for that world again. To that ended world that we both lived in. To that wide, wide world where we can feel each other because of the end."[l][r].
-
-"...... such" [r].
-
-'The key that was stuck, you saw it, albeit only for a moment, didn't you?　A key that shouldn't be there, in a kettenkrath that shouldn't be there."[l][r].
-
-"......" [r].
-
-Then it shouldn't ...... matter what you think now."[l][r]
-
-[r]I cut off my words. Kanazawa stopped refuting me too. [l][r]
-
+「あの子達は……またあの世界に旅立ったんだよ。二人で生きてきたあの終わった世界に。終わりを迎えたからこそ、お互いを感じることができる広い広い世界に」[l][r]
+「……そんな」[r]
+「刺さっていた鍵を、君は一瞬とはいえ見たんだろう？　あるはずのないケッテンクラートに、あるはずのない鍵が」[l][r]
+「……」[r]
+「なら、今はそう思っても……構わないはずだ」[l][r]
+[r]私は言葉を切る。カナザワも反論をやめた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m0_piano.ogg"  ]
 [bg  time="2000"  method="crossfade"  storage="rf2.jpg"  ]
 [tb_start_text mode=3 ]
-On this rooftop, where I called Tito that day, I am shaking with the thought of them again. [l][r]
-
-But it was different from that day. The sky was clear and blue. It was an abominably clear, sunny day, as if to congratulate them on their departure. [l][r]
-
-[r]I look up at that sky, inhale slowly, and then I talk to the phone again [r].
-
- [l][r]
-
+あの日チトと電話をしたこの屋上で、私はまた、彼女らを想って胸を震わせている。[l][r]
+でもあの日とは違っていた。抜けるように青い空。まるで、二人の旅立ちを祝福しているかのような、憎たらしいほど透き通った晴天だった。[l][r]
+[r]その空を見上げ、息をゆっくり吸い込んでから、私はもう一度電話に語りかけ[r]
+る。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"What did you name it?" [l][r]
-
-"What, ......?" [l][r]
-
-Your children. Oh, I'm sorry it's taken me so long to send my congratulations. Girl twins?　Congratulations. You'll have to take good care of your wife."[l][r]
-
-"Ah ...... yes."[l][r]
-
-'You're going to be a father, get a grip. Go to ...... and what are your names? [l] You're not going to tell me it's Tito and Yuri, are you?"[l][r].
-
-No, no way." [r]
-
-Because ...... I bet those two are still on the road, aren't they?" [l][r]
-
-'Yes, I'm sure.'[r][r][r][i][i][i I bet."[r].
-
-"Yeah. ......" [l][r].
-
+「名前は何にした？」[l][r]
+「え……？」[l][r]
+「君の子ども達だ。ああ、祝いを贈るのが遅くなってすまないな。女の子の双子だって？　おめでとう。奥さんをしっかり労ってやらないとな」[l][r]
+「あ……はい」[l][r]
+「父親になるんだろ、しっかりな。……で、名前は？[l]　まさか、チトとユーリだなんて言わないだろう」[l][r]
+「いえ、まさか。[r]
+……だってあの二人はまだ、きっと旅を続けているんでしょう？」[l][r]
+「そうだ。きっとな」[r]
+「ええ……」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-I closed my eyes before I knew it, listening to Kanazawa's voice. [l][r]
-
-A dry wind blows on the rooftop and shakes my hair [r].
-
- [l][r]
-
-[r]Over the phone, the voice of someone who once experienced the same despair. [l][r]
-
-It seemed to me to be the last remnant. A remnant of that gray world. [l][r]
-
+カナザワの声を聞きながら、私はいつの間にか目を閉じていた。[l][r]
+屋上に乾いた風が吹いて私の髪を揺す[r]
+る。[l][r]
+[r]電話越しには、かつて同じ絶望を味わった者の声。[l][r]
+それは私にとって最後の残滓に思えた。あの灰色の世界の残り香。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="2000"  buf="0"  storage="kettenRun3.ogg"  fadein="true"  ]
 [tb_start_text mode=3 ]
-Sound can be heard in the distance. [l][r]
+遠くで音が聴こえる。[l][r]
 
-
-The sound of heavy crawlers scraping the ground. [r]
-
-The sound of an engine that turns lightly for its weight. [l][r]
-
+重い履帯が地面を削る音。[r]
+その重さの割りには、軽快に回るエンジンの音。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-The last girls in the world, [l][r].
-
-[r][r]The sound of the last journey in the world. [l][r]
-
+世界で最後の少女達の、[l][r]
+[r]世界で最後の旅路の音が。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

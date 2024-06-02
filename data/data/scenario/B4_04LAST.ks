@@ -5,45 +5,31 @@
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m5.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-It was late afternoon, a dry wind was blowing slightly. That street vendor who deals in miscellaneous items thought that he had an unusual customer. [l][r]
-
-A young woman, apparently Oriental, asks in faltering speech what is on the road ahead [r].
-
-The two were accompanied by a woman who also seemed to be European, asking about the items for sale in a one-word accent. [l][r]
-
+乾いた風が微かに吹く昼下がり。雑多なものを扱うその露天商の男は、珍しい客が来たなと思った。[l][r]
+たどたどしい言葉で、この先の道に何があるのか尋ねる東洋人らしい若い女性[r]
+と、やはり片言で売り物についてあれこれと尋ねる欧州人らしい女性の二人連れだった。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]-"There's another town down the road. But, like everywhere in this country, it is still in turmoil from the civil war. I don't think it's a place for two young girls like you to go."[l][r]
-
-The owner advises them to do so, but they get through [r].
-
-Or not, I don't know. The dark-haired woman muttered a short thank you and stared down the road. [l][r]
-
+[r]「この先にも街があるよ。ただね、この国はどこもそうだが、内戦の混乱から抜けきってない。あんたらみたいな若い娘が二人で行く所じゃないと思うが」[l][r]
+店主はそう助言するが、通じているの[r]
+か、いないのかは分からない。黒髪の女性は短く感謝の言葉を呟くと、道の先をじっと見据えた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-At that moment, another blonde woman cheered, her blue eyes shining. She held up one of the items for sale with both hands and gestured for this to be sold. [l][r]
-
-His companion seems to be trying to stop him, but his shining blue eyes are not going to listen. [l][r]
-
-The owner is, of course, a businessman. If they want to buy, they want to sell. [l][r]
-
-[r]I really wanted to blow the price higher, but I decided that I should close the deal quicker than to be interrupted by my companion's dark hair, so I held up a finger and told him the market price. [l][r]
-
-The blue-eyed man seemed satisfied with the price. [l][l]He paid with a smile and left the store with the antiquated item, complaining to his partner. [l][r]
-
+そのとき、もう一人の金髪の女性が、碧い瞳を輝かせながら歓声を上げた。売り物のひとつを両手で掲げ、これを売って欲しいと身振りでアピールする。[l][r]
+連れはそれを止めようとしているようだが、その輝く碧眼は聞き入れるつもりがないらしい。[l][r]
+店主は勿論商売人だ。買いたいと言われれば売りたい。[l][r]
+[r]本当はもっと高く吹っ掛けたかったが、連れの黒髪に邪魔されるより早く商談をまとめるべきだと判断し、指を立てて相場通りの値段を告げた。[l][r]
+碧眼はその値段で納得したらしい。[l]笑顔で支払いを済ませ、その古めかしい品を抱えて、相方に文句を言われながら店を後にした。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The item was dusted off roughly and placed softly on top of the blonde. [l][r]
-
-Short brimmed steel brody helmets[r].
-
-The same as the one worn by the dark-haired girl in that apocalyptic city. It was the same one worn by the dark-haired girl in that doomsday city. [l][r]
-
+その品は雑に埃を払われると、金髪の上にふわりと乗せられた。[l][r]
+つばの短い鋼鉄製のブロディヘルメッ[r]
+ト。あの終末の都市で、黒髪の少女が被っていたものと同じものだった。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -52,53 +38,36 @@ The same as the one worn by the dark-haired girl in that apocalyptic city. It wa
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I'm like, "Wow, now I'm Mo-chan! I mean, I'm God!" [l][r]
-
-How cheesy is God if that's how you can be me?"[l][r].
-
-'Cheap or small, God is God.'[l][r]"
-
-"Then I'd have to pay for that helmet, and I'd have to pay for that reduced dinner[r].
-
-Give me your money, pay me your money."[l][r].
-
-"I don't want to be a low-class god."[l][r] "I don't want to be a low-class god.
-
-Give me the word incoherent and I'll give you [r].
-
-You're a gift from God, you should rejoice."[l][r].
-
+「わーい、これで私もちーちゃんになれた！ つまり私は神！」[l][r]
+「そんなんで私になれるならどんだけ神様安っぽいんだよ」[l][r]
+「安くても小さくても、神は神だよ」[l][r]
+「ならそのヘルメット代で減った晩飯[r]
+代、私に貢げよ」[l][r]
+「階級が低そうな神なのでやだー」[l][r]
+「支離滅裂って言葉をお前に与えてや[r]
+る、神からの贈り物だぞ、喜べよ」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-As they said this to each other, an old man gazed out of the window of one of the houses they passed, as if watching their backs. [l][r]
-
-[r]Squinting under his square top-rimmed glasses, the old man stared at them until their backs were out of sight. [l][r]
-
-[r][r]With a gentle, nostalgic, loving smile on his mouth. [l][r]
-
+そう言い合いながら二人が通りすぎた一軒の家屋の窓から、彼女たちの背中を見守るように見つめる老人がいた。[l][r]
+[r]四角い上縁眼鏡の下で目を細めながら、その背中が見えなくなるまで、老いた男はじっと彼女たちを見送っていた。[l][r]
+[r]口元に優しく、懐かしさと愛しさとを含ませた微笑を浮かべながら。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="EU1.jpg"  ]
 [tb_start_text mode=3 ]
-A dry wind blows through the air. Mixed with it is the heat of the sun and the earth. And the smell of people, plants, and animals. [l][r]
-
-It's very different from the winds of that world, which are just [r]cold. But maybe it's all the same in the end. [l][r]
-
-[r]The sun shines the same as it did in that world. It shone on them just as it did in that world. [l][r]
-
+乾いた風が吹き抜けてゆく。その風に混じるのは太陽と大地の熱。それに、人々や動植物の匂いだ。[l][r]
+[r]寒いだけのあの世界の風とは全然違う。でも、結局は同じなのかもしれない。[l][r]
+[r]太陽はあの世界と変わらず輝き。あの世界と同じように、二人を照らしていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Laughter echoes through the city. [l][r]
-
-[r]It's the laughter of a girl who was once the happiest girl in the world and the unhappiest girl in the world. [l][r]
-
-[r]The two voices mingled, enveloping each other and their surroundings in a small happiness, and echoed forever beyond the hustle and bustle. [l][r]
-
+街中に笑い声が響く。[l][r]
+[r]かつて世界で一番幸せだった少女と、世界で一番不幸だった少女の笑い声だ。[l][r]
+[r]そのふたつの声は交じり合い、互いを、周囲をささやかな幸せに包みながら、雑踏の向こうに、いつまでも響き続けていた。[l][r]
 [_tb_end_text]
 
 [cm  ]

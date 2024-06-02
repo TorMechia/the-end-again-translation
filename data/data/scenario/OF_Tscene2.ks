@@ -4,49 +4,36 @@
 [tb_show_message_window  ]
 [bg  time="3000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Something, something warm touched my face. [l][r]
-
-I open my eyes. The round outline of the image is blurred. [l][r]
-
+顔に何か、温かいものが触れた。[l][r]
+私は目を開ける。丸い輪郭がぼやけて映った。[l][r]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m1_arr.ogg"  ]
 [bg  time="2500"  method="crossfade"  storage="hospital.jpg"  ]
 [tb_start_text mode=3 ]
-"Tito ......!　Tito ......!　......Good ......" [r].
-
-The round outline told me that. [l][r]
-
-The round outline wore square glasses, and from the narrow eyes behind them, tears were overflowing[r].
-
- [l][r]
-
+「チト……！　チトっ……！　……良かった……」[r]
+丸い輪郭がそう言ってくれた。[l][r]
+丸い輪郭は四角い眼鏡をかけていて、その奥の細い目から、涙を溢れさせてい[r]
+た。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Ishii ...... here, where?" [l][r]
-
-'It's a hospital,' Kanazawa, standing in the back, informed me. [r]
-
-Ishii holds my head to his chest and cries like it's on fire. [l][r]
-
-I stroked Ishii's head and explained briefly what had happened so that it would fit within the visiting hours. [l][r]
-
+[r]「イシイ……ここ、どこ？」[l][r]
+「病院だよ」と、奥に立っていたカナザワが教えてくれた。[r]
+イシイは私の頭を胸に抱いて、火がついたように泣いている。[l][r]
+私はイシイの頭を撫でてあげながら、面会時間内に収まるよう手短にことの経緯を説明した。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="hospital2.jpg"  ]
 [tb_start_text mode=3 ]
-Eventually, visiting hours were over and everyone pulled out. [l]My parents from this side of the world are going to arrive here soon, Kanazawa's wife told me. [l][r]
-
-[r]I said to my mother, "I'm fine. Don't worry," and when I was done, I closed my eyes. [l][r]
-
+やがて面会時間が終わって皆が引き上げる。[l]私のこっちの世界の両親も、もうすぐここに着くそうだと、カナザワの奥さんが教えてくれていた。[l][r]
+[r]私は母に「大丈夫。心配しないで」と連絡し、それが終わると目を閉じた。[l][r]
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-To see the afterimage of happiness, once more under the eyelids. [l][r]
-
+幸せの残像を、もう一度瞼の下で見るために。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -55,61 +42,44 @@ To see the afterimage of happiness, once more under the eyelids. [l][r]
 [bg  time="2500"  method="crossfade"  storage="lastwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"I have to go home now ....... I know everyone is worried about you."[l][r].
-
-Yes. I'll miss you again," Yu said with a smile that belied his words. [l][r]
-
-We'll see each other again."[l][r].
-
-Yes."[l][r].
-
+「……もう帰らなきゃ。皆心配してるだろうし」[l][r]
+「そう。また寂しくなるね」言葉と裏腹な笑顔でユーが言った。[l][r]
+「また会えるだろ」[l][r]
+「そうだね」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Because the time we don't see each other will always end. [l][r]
-
+[r]だって会えない時間は必ず終わるから。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Tell me one thing," u. [l][r]
-
-What?" And I. [l][r]
-
-[r]"Chi-chan, are you happy?" [l][r]
-
-'Oh, I'm happy. Are you?" [l][r]
-
-Me too."[l][r].
-
+「ひとつだけ教えて」と、ユー。[l][r]
+「何？」と、私。[l][r]
+[r]「ちーちゃんは、幸せかい？」[l][r]
+「ああ、幸せだ。お前は？」[l][r]
+「私も」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I don't ask for [r]easons. I don't even need a reason. [l][r]
-
-Because we already know. [l][r]
-
+[r]理由は聞かない。根拠もいらない。[l][r]
+だってもう、知ってることだから。[l][r]
 [_tb_end_text]
 
 [bg  time="2000"  method="crossfade"  storage="yuhi_mae.jpg"  ]
 [tb_start_text mode=3 ]
-See you later."[l][r].
-
-See you later."[l][r].
-
+「じゃ、またな」[l][r]
+「じゃあ、またね」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]We say this to each other like little children who promised to play again tomorrow, and we smile at each other. [l][r]
-
-I let Yoo's happy face show through the tilted sunlight. [l][r]
-
+[r]私たちは明日また遊ぶ約束をした小さい子ども達のようにそう言い合って、笑顔を見せ合う。[l][r]
+私はユーの幸せな顔を、傾いた太陽の光に透かせる。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Please let this smile remain on my retina forever. [l][r]
-
+どうか私の網膜に、この笑顔がいつまでも残りますようにと願いながら。[l][r]
 [_tb_end_text]
 
 [cm  ]

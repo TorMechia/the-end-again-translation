@@ -8,38 +8,28 @@
 [tb_show_message_window  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m5_musicbox.ogg"  ]
 [tb_start_text mode=3 ]
-I hear a heartbeat. [l][r]
-
-Tokun ...... and kun ...... and kun...[l][r].
-
-A beautiful sound, without any ornamentation, of life itself. [l][r]
-
-[r]Rhythm of happiness. [r]
-
-It sounds hopeful, as if you are waking up and plotting what you are going to do. [l][r]
-
+心臓の音が聴こえる。[l][r]
+とくん……とくん……とくん…[l][r]
+何の飾りもない、いのちそのものの、きれいな音。[l][r]
+[r]幸せのリズム。[r]
+目覚めたとき、何をしでかしてやろうかと企んでいるような、希望に溢れた音。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Not my heart. [r]
-
-I can't hear that one anymore. [l][r]
-
-[r]Then surely this is the last music I heard at the end of the world. [l][r]
-
+[r]私の心臓じゃない。[r]
+そっちの音はもう聴こえない。[l][r]
+[r]ならきっとこれは、世界の終末で私が聴いた、最期の音楽なのだろう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-...... Oh ......[l][r]
-
+……ああ……[l][r]
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-I'm ...... happy ...... you ....... [l][r]
-
+……私は……幸せだよ……ユー……。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -52,97 +42,66 @@ I'm ...... happy ...... you ....... [l][r]
 [bg  time="3000"  method="crossfade"  storage="kanaroom.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"......, so?" [l][r]
-
-That's it. There are no more surveys you can do. That's it."[l][r].
-
-I said this in a tone of voice that included a sense of disappointment and a bit of liberation. [l][r]
-
-What did Tito say?" Isii-san says over the phone in a voice whose expression is unreadable. [l][r]
-
-"He kept saying, 'Okay, thank you.'"[l][r].
-
-'Then is ...... good?' [l][r]
-
-"I don't know about ....... But Tito must have thought about it in her own way and came to that conclusion."[l][r].
-
-I know that," Ishii said, still not ready to give up. [l][r]
-
+「……それで？」[l][r]
+「それだけです。できる調査はなくなりました。これで終了ですよ」[l][r]
+僕は残念な気持ちと少しばかりの解放感とを含めた声音でそう言った。[l][r]
+「チトは何て？」電話越しに、イシイさんが表情の読めない声で言う。[l][r]
+「『分かった、ありがとう』と何度も言ってくれました」[l][r]
+「なら……いいのか？」[l][r]
+「……どうでしょう。でも、チトは彼女なりに考えてそう結論したはずです」[l][r]
+「それは分かってる」イシイさんは、やっぱりまだ諦めがつかないようだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="tenji2.jpg"  ]
 [tb_start_text mode=3 ]
-The person who displayed the example Kettenkrath there could not have been other than Tito and Yuri's grandfather or someone related to him. [l][r]
-
-Of course, we can't rule out the possibility that someone unrelated placed it there by tremendous coincidence, but that would render all investigation and even evidence meaningless. [l][r]
-
+例のケッテンクラートをあそこに展示したのはチトとユーリのおじいさんか、その関係者以外にあり得ない。[l][r]
+無論、とてつもない偶然の一致で無関係な誰かが置いたという可能性を否定することはできないけど、それを言ったらあらゆる調査や証拠すら無意味になってしまう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="tenji.jpg"  ]
 [tb_start_text mode=3 ]
-As soon as my wife and I and Mr. Ishii left Tito's hospital, we headed back to the exhibition hall. [l][r]
-
-That vehicle was no longer there. [l][r]
-
-Mr. Ishii yelled at me to stop screwing around, and I ran around in surprise. I caught the attendant who had inquired before and questioned him again[r].
-
-and [r].
-
-All I got back was, "It was indeed there until two hours ago." [l][r]
-
-This means that somewhere between the moment we left the venue with Tito in the ambulance and the moment we returned, such a prominent vehicle disappeared without a trace. [l][r]
-
-Of course, there is no way that the vehicle could have moved on its own without human intervention. Someone had to have moved it. Both when moving it in and when moving it out. [l][r]
-
+僕と妻とイシイさんは、チトの病院から出るとすぐに展示会の会場にとって返した。[l][r]
+そこにあの車両はもう無かった。[l][r]
+イシイさんはふざけるなと叫び、僕も驚いて周囲を駆けずり回った。前に問い合わせた係員を捕まえて再度問い詰める[r]
+と、[r]
+「２時間前までは確かにありました」という言葉しか返ってこなかった。[l][r]
+つまり僕達がチトを救急車に乗せて会場を離れた直後から戻って来るまでのどこかで、あんな目立つ車両が忽然と消え失せたということになる。[l][r]
+勿論、人の手を介さずに車両が勝手に動く訳がない。誰かが動かしたのだ。搬入するときも、搬出するときもだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-While Mr. Ishii strangled the poor attendant, my wife and I gathered information on general admission sightings. But by the end of the event, we had no useful information. [l][r]
-
-I was getting angry, not to mention Mr. [r]ishii, too. It's not the kind of thing a nurturing parent would do to let Tito go through something like that and then run away without even saying his name, let alone apologizing. [l][r]
-
+イシイさんが可哀想な係員を絞め上げている間に、僕と妻は一般入場者の目撃情報を集めた。けれど、イベントの終了までに有益な情報は得られなかった。[l][r]
+[r]イシイさんは勿論、僕もいい加減頭に来ていた。チトをあんな目に遭わせておいて、謝罪はおろか名乗ることもしないまま逃げるなんて、育ての親がすることじゃない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="rf.jpg"  ]
 [tb_start_text mode=3 ]
-I was an investigator. I had contacts at a credit agency. Mr. Ishii said he would put all his bonuses for years into the investigation. [l][r]
-
-And after doing our best to investigate ...... we found nothing. [l][r]
-
-The results came back too quickly [r].
-
-So, Ishii's bonus was not wiped out, but of course it was not a satisfactory result. [l][r]
-
-However, the fact that all the investigations that could be done at the private level failed to come to fruition meant that we were dealing with something much more than that, namely, a national level. It was too much for them to handle. [l][r]
-
+僕は調査会社の人間だ。興信所にツテもあった。イシイさんは何年分かのボーナスを調査費に全てぶち込むと言った。[l][r]
+そして全力で調査を行った結果……何も分からなかった。[l][r]
+その結果はあまりに早く返ってきたの[r]
+で、イシイさんのボーナスは全滅せずに済んだのだけど、納得行く結果でないのは勿論だった。[l][r]
+ただ、民間レベルで行える調査が一切実を結ばなかったということは、相手がそれ以上、つまり国家レベルということを意味する。いくらなんでもお手上げだった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="blue.jpg"  ]
 [tb_start_text mode=3 ]
-And Tito gave up. Now that she herself has decided to end the investigation, there is nothing more she can do. [l][r]
-
-[r]efore that, it doesn't mean she despaired. I think she took a chance. [l][r]
-
-It is almost certain that Grandpa will be in our world. Then he will one day, of his own volition, appear before them. [r]
-
-...... to that possibility. [l][r]
-
+そしてチトは諦めた。彼女本人が調査の終了を決定した以上、もうどうしようもない。[l][r]
+[r]だからと言って彼女は絶望した訳じゃない。可能性に賭けたのだと僕は思う。[l][r]
+おじいさんがこっちの世界にいるだろうことはほぼ確定した。なら彼はいつか、彼自信の意思で彼女達の前に現れる。[r]
+……その可能性にだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Because he is the one who raised Tito and Yuri. How could he not love those two? [l]Someday, I'm sure, he will tell us everything he knows. [l][r]
-
-[r]Otherwise, you're too sad[/r].
-
-Ka. [l][r]
-
+だって彼はチトとユーリを育てた人だ。あの二人を愛していないはずがない。[l]きっといつか、彼の知る全てを語ってくれるだろう。[l][r]
+[r]そうでなければ、悲しすぎるじゃない[r]
+か。[l][r]
 [_tb_end_text]
 
 [cm  ]

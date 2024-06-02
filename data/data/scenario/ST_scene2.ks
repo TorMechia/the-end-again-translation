@@ -5,97 +5,64 @@
 [bg  time="2000"  method="crossfade"  storage="Chitroom.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-'That would be ...... a pretty bad symptom,' says Ishii. [l][r]
-
-I replied ambiguously, "Hmmm. I wonder," I reply ambiguously. [l][r]
-
+「それは……かなりまずい症状だろう」イシイが言う。[l][r]
+「うーん。そうかなぁ」私はあいまいに返事をする。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"But even if I went to the hospital, there's no way to explain the cause."[r]
-
-"Well, yes, but ......" [l][r].
-
-I was lying on my bed in my room, enjoying a call with Ishii that had become completely habitual. [l][r]
-
-Are you okay?　Are you sleeping okay?　Yes, the test results are at ......."[r]
-
-It's okay."[l][r].
-
-I reply in a pain in the ass way, but I can't help but smile a little under my breath. I hope they don't know it's a phone call. [l][r]
-
+[r]「でも病院に行ったとしても、原因の説明のしようがないし」[r]
+「まあそうだが……」[l][r]
+私は自分の部屋のベッドに寝転んで、すっかり習慣になってしまったイシイとの通話を楽しんでいた。[l][r]
+「大丈夫なのか？　ちゃんと、寝れてるのか？　そうだ、テストの結果は……」[r]
+「大丈夫だってば」[l][r]
+私はめんどくさそうに返事をするけど、口元では少し笑ってしまう。電話だとバレないからいいな。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I feel bad for Ishii, but when he worries about me, he's just a little funny. [l][r]
-
-Not necessarily because of that, but I tried to talk to Ishii about all the things that are usually difficult to talk about with others, such as my loneliness, my guilt, and my physical and mental illnesses that may be caused by such things. [l][r]
-
-[r]I remember Kanazawa saying, "It's easier to be listened to than to have words spoken to you." [r]
-
-......These are words with real feeling. [l][r]
-
-In fact, I think it made me feel much better. Before I met Ishii, I was having a hard time standing up and sleeping without warning. [l][r]
-
+イシイには悪いけど、私のことを心配してくれるときのイシイは、ちょっとだけ面白い。[l][r]
+だからというわけじゃないけど、私は自分の寂しさや、罪悪感や、そんなのから来るのだろう心身の不調とかといった、普通他人には話しにくいことを全部イシイには話すようにしていた。[l][r]
+[r]カナザワも言ってたっけ「言葉をかけてもらうより、話を聞いてもらう方が楽になる」って。[r]
+……実感のこもった言葉だ。[l][r]
+実際そのおかげで、私はずいぶん楽になれた気がする。イシイに会える前は予兆もなく立てなくなったり眠れなくなったりして大変だったのに。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Yes, the last time we talked about this, we talked about going to Nagano."[l][r].
-
-[r]"Oh, and what did your parents say?" [r]
-
-He said it would be good if I got accepted to college."[l][r].
-
-'Well, I guess you're right. I need a couple of nights. ......"[r]
-
-I wish I could have gone."[l][r].
-
-You can do it. The exam should be a piece of cake for you, right?" [r]
-
-I didn't, I wanted to go right away [r]."
-
-Yo" [l][r].
-
-I'm glad you're looking forward to it so much."[l][r].
-
-Ishii says in a really happy voice. He's so cute. [l][r]
-
-I remember when I was building airplanes[r].
-
-Whenever I am absorbed in something, I become so absorbed that I can't see anything else, and I can't hide my feelings. [l][r]
-
+「そうだこの前の話、長野に行こうってやつ」[l][r]
+「ああ、親御さんは何て？」[r]
+「大学受かったら良いって」[l][r]
+「まあ、そうだろうな。二泊ほど必要だし……」[r]
+「行きたかったなぁ」[l][r]
+「行けるさ。受験なんて君には楽勝だろう？」[r]
+「そうじゃなくて、すぐ行きたかった[r]
+よ」[l][r]
+「そんな楽しみにしてくれるとはね、嬉しいよ」[l][r]
+本当に嬉しそうな声でイシイが言う。可愛い人だなぁ。[l][r]
+飛行機を作ってたときもそうだったけ[r]
+ど、イシイは夢中になってることがあると他のことが見えなくなるくらい熱中して、感情が隠せなくなるっぽい。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
 
-I mean, that's how much Ishii cares about me. And also about u. [l][r]
-
+つまり、イシイはそれだけ私のことを気にかけてくれてるんだ。それに、ユーのことも。[l][r]
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-[r]I'm glad. [l][r]
-
-I don't know how far away Yu and I are now, but if Ishii is with us, it means we can be in the same place then. [l][r]
-
-Who said, "Thoughts are faster than light." [l][r]
-
-To be honest, I think that is just idealism. Still, the feeling of being happy is true. [l][r]
-
-I'm sure that guy would take good care of that feeling. [l][r]
-
+[r]嬉しい。[l][r]
+ユーと私との距離が今どれくらい離れてるのかは分からないけれど、イシイが私たちのことを一緒に考えてくれるなら、私たちはそのとき同じ場所にいられるってことだから。[l][r]
+誰の言葉だっけ「思考は光より速い」って。[l][r]
+正直、そんなのはただの理想論だとは思うけれど。それでも嬉しいと思える気持ちは本当だ。[l][r]
+きっとあいつなら、その気持ちをちゃんと大事にするだろうから。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Ah ....... [l][r]
-
-I found a small stain on the wall by my bed. That stain moved. It wasn't a ...... bug or something. It's that thing. [l][r]
-
+あ……。[l][r]
+私はベッド脇の壁に小さなシミを見つけた。そのシミが動いた。……虫とかじゃない。例のアイツだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -103,13 +70,11 @@ I found a small stain on the wall by my bed. That stain moved. It wasn't a .....
 
 [bg  time="1500"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_start_text mode=3 ]
-You are so annoying. ...... Please don't interrupt this fun time. [l][r]
-
+うざったいなぁ……。こんな楽しい時間をジャマしないで欲しい。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-What's wrong?" Ishii's voice rings in my ear. [r]
-
+「どうかしたのか？」イシイの声が耳元で響く。[r]
 
 [_tb_end_text]
 
@@ -117,13 +82,10 @@ What's wrong?" Ishii's voice rings in my ear. [r]
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink color="black" storage="ST_scene2.ks" size="20" text="It's nothing. ..............." target="*no" x="24" y="400" width="" height="" _clickable_img="" ]
-
-[glink color="black" storage="ST_scene2.ks" size="20" text="That 'Moya' is out ......" target="*yes" x="24" y="450" width="" height="" _clickable_img="" ]
-
+[glink  color="black"  storage="ST_scene2.ks"  size="20"  text="「何でもないよ……………」"  target="*no"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="ST_scene2.ks"  size="20"  text="「あの『もや』が出た……」"  target="*yes"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
 [jump  storage="ST_scene2.ks"  target="*CS3Stop"  cond="sf.CS3!=1"  ]
-[glink color="black" storage="" size="20" text="Skip to next option" target="*ToJump" x="24" y="500" width="" height="" _clickable_img=""]
-
+[glink  color="black"  storage=""  size="20"  text="次の選択肢までスキップ"  target="*ToJump"  x="24"  y="500"  width=""  height=""  _clickable_img=""  ]
 *CS3Stop
 
 [s  ]
@@ -133,32 +95,22 @@ What's wrong?" Ishii's voice rings in my ear. [r]
 [tb_eval  exp="sf.CS3=1"  name="CS3"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-"I'm ...... that 'moya' again. ......"[l][r].
-
-What?" ...... now?" Ishii says in a surprised voice. [l][r]
-
-'Yeah ....... Sorry Ishii. I'm still okay, but if you leave it alone it will bother me later, so I'm going to hang up the ...... phone now."[l][r].
-
-I'm fine with that. More importantly, are you okay with ......?" [r]
-
-'Yeah, I'm used to it. Okay then."[l][r].
-
-[cm]I said that and ended the call. The "moya" seemed to waver a little louder than usual. [l][r]
-
-'Are you happy?　...... weird guy" [l][r].
-
+「また……あの『もや』が出た……」[l][r]
+「えっ？……今か？」イシイが驚いた声で言う。[l][r]
+「うん……。ごめんイシイ。まだ大丈夫だけど、放っておくと後で煩いから……電話、もう切るね」[l][r]
+「ああ、全然構わない。それより……大丈夫か？」[r]
+「うん、もう慣れてるから。それじゃ」[l][r]
+[cm]私はそう言って通話を終える。「もや」はいつもより少し大きく揺らいでいるようにも見えた。[l][r]
+「嬉しがってるのか？　……変な奴」[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_start_text mode=3 ]
-When I called out to her, "Moya" came right up to me. Like a puppy or something begging to be petted on the head. [l][r]
-
-[r]I let out a light sigh, close my eyes and hold it in front of me on my chest. [l][r]
-
-...... feeling a sense of disappointment and a somewhat nostalgic feeling at the same time. [l][r]
-
+私がそう声をかけると、「もや」は目の前までやって来た。頭を撫でてくれとせがむ子犬か何かのように。[l][r]
+[r]私は軽く溜息を吐くと、眼を閉じて目の前のそれを胸に抱いてやる。[l][r]
+……やれやれという気持ちと、どこか懐かしさにも似た気持ちが、同時に湧き上がって来るのを感じながら。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -168,19 +120,15 @@ When I called out to her, "Moya" came right up to me. Like a puppy or something 
 *no
 
 [tb_start_text mode=3 ]
-'...... it's nothing. By the way, there's some math I need you to teach me. ......"[l][r].
-
-I dare to talk about my weakest subject and pass over that "moya". [l][r]
-
+「……何でもないよ。ところでさ、数学で教えて欲しい所があるんだけど……」[l][r]
+私は敢えて苦手な教科の話を振って、あの「もや」をやり過ごす。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_start_text mode=3 ]
-...... Don't look at me like that. [l][r]
-
-I'll make sure to comfort you when the call is over. [l][r]
-
+……そんな目で見るなよ。[l][r]
+電話が終わったら、ちゃんと慰めてやるから。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

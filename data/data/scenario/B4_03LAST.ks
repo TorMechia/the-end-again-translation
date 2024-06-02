@@ -8,138 +8,94 @@
 [cm  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Many sightings of Yuri were gathered. [l][r]
-
-Perhaps it was only natural, given their appearance. But for the amount of information we had, we didn't get any clues that would indicate what these women were up to, or where they were going. [l][r]
-
-Tito even more so. Even school officials said they last saw her more than two months before her disappearance. [l][r]
-
-Two withdrawal notices were mailed to the university and the bank account was fully drawn out. The withdrawers were definitely the people who made the withdrawals. In other words, planning is well underway. [l][r]
-
+ユーリの目撃情報は多く集まった。[l][r]
+あの容姿だから当然だったのかもしれない。だけど情報の量の割には、彼女らの動向、行き先を示すような手がかりは得られなかった。[l][r]
+チトは尚更だ。学校の関係者ですら、最後に彼女を見たのは失踪の２ヶ月以上前だったという。[l][r]
+大学には退学届けが二人分郵送され、預金口座は全額引き出されていた。引き出し人は間違いなく本人達。つまり計画性は十分。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="ap1.jpg"  ]
 [tb_start_text mode=3 ]
-The last person to see them in the country was an airport employee. The plane they boarded was bound for Hong Kong. It would be difficult to trace their steps from there with only my contacts. [l][r]
-
-As one might infer from his words and actions while in the city and from what was left behind, Chito had no friends who seemed to be friends other than Yuri, and Yuri, too, had cut off all social relations after a certain point in his life. [l][r]
-
-[r]eceived some information and speculation as to their steps beyond Hong Kong. It is possible that they went through Central Asia and headed overland toward Eastern Europe or Russia. [l][r]
-
-Russia or ...... Yuri should have chosen Russian. [r]
-
-You don't think it's ...... for this moment? [l][r]
-
-No, you're probably overthinking it. [l][r]
-
+国内で二人を最後に見た人物は、空港の職員だった。搭乗した飛行機の行き先は香港。そこから先の足取りを追うのは、僕のツテ程度では困難だ。[l][r]
+都内にいた頃の言動や遺留品から推察したいが、チトにはユーリの他に友人らしい友人がおらず、ユーリもある時期を境に交遊関係を全て断ち切ってしまっていた。[l][r]
+[r]香港から先の足取りについても多少は情報と推測が得られた。中央アジアを抜けて、陸路で東欧かロシア方面へ向かった可能性があるという。[l][r]
+ロシアか……ユーリはロシア語を選択してた筈だ。[r]
+まさかこのときの為に……？[l][r]
+いや、考えすぎだろうな。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="rf2.jpg"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
-"Thanks for your hard work at ....... Did you get enough money for the survey?" [r]
-
-Mr. Ishii said as he put the printed report back in its case. [l][r]
-
-I said, "That was way too much. Please give me some time to put it back in the account."[l][r].
-
-Instead of responding to my words, Ishii-san looked at the distant northwestern sky. [l][r]
-
-[r]eally shaking his shoulders. I wondered if she was crying, but she was not. [l]A faint laugh escaped his mouth. [l][r]
-
+「……お疲れ様。調査費は足りたか？」[r]
+イシイさんは印刷された報告書をケースに戻しながら言った。[l][r]
+「多すぎるくらいでしたよ。口座に戻しますから少し時間ください」[l][r]
+その僕の言葉には答えず、イシイさんは遠く北西の空を見た。[l][r]
+[r]肩を震わせている。泣いているのだろうかと思ったが、違った。[l]その口からは、微かに笑い声が漏れていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"...... can you laugh?" [l][r]
+「……笑えますか？」[l][r]
+「笑えるさ」[l][r]
 
-It's funny."[l][r].
-
-
-[r]ishii-san stifled a giggle before answering. [r]
-
-With a smile as it is, he exhales deeply, hah, and wipes the corners of his eyes quickly. [l][r]
-
-Then he put his hand on his chin in a bit of contemplation and opened his mouth again unexpectedly. [l][r]
-
+[r]イシイさんはくくくっと笑い声を押し殺してからそう答えた。[r]
+そのままの笑顔で、はあ、と深く息を吐いて、目尻をすっと拭う。[l][r]
+それから少しだけ思案するように顎に手を当てて、また不意に口を開いた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l]"...... Well, for example, what were you thinking when you died in that world?" [l][r]
+「……そうだな、例えば君はあの世界で死ぬとき、何を考えていた？」[l][r]
 
+「え？……[l]そうですね『これでやっと死ねる』……とか、考えてましたよ確か」[l][r]
 
-What?"[l][r]"What? ......[l]Yes, I was thinking, 'Now I can finally die.'......, I'm sure."[l][r]
+「だろう？　だが、きっとあの子達は違う。最後の最期の瞬間まで、生きて、次は何をしようかと、楽しく思い描きながら眠ったに違いない。[l]……たとえその結果が、あんな哀しい別離だったとしてもだ」[l][r]
 
+[r]イシイさんは言葉を探しながら、まるで一人で思索しているみたいに、こっちを一瞥すらせずに続けた。[l][r]
 
-Right?"　But I bet those kids were different. They must have lived to their last moments and went to sleep happily envisioning what they would do next. [l]...... even if the result was such a sad separation."[l][r]
-
-
-[r]Ishii-san continued to search for words, as if he were alone in contemplation, without even a glance at us. [l][r]
-
-
-'Those kids remembered their feelings at that time all over again. ...... I'm sure they did. At least, that's what I'm going to think."[l][r].
-
+「そのときの想いを、あの子たちはもう一度思い出したんだ。……きっとな。少なくとも私は、そう思うことにする」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"...... what do we do now?" [l][r]
+「……これからどうします？」[l][r]
+野暮な僕は、そんな風に事務的な言葉しかかけることができない。[l]でもイシイさんは不満そうじゃない。空を見上げて、楽しそうに目を細めている。[l][r]
 
-As a wild man, I can only speak clerical words like that. [But Ishii-san doesn't seem dissatisfied. He looks up at the sky and squints his eyes happily. [l][r]
-
-
-[r]-"You mean me?　Just the usual. Work, eat, sleep. That's all. [l][r]
-
-...... but don't get me wrong. I will not give up on these women, who are my esteemed friends and loving family. [l][r]
-
-They work, they get their strength, and they take off. Beyond the journey of those children. [l][r]
-
-It's ...... on my plane."[l][r].
-
-[r]While [r]turning your body half-turn[/r], [r]turn your body half-turn[/r], [r]turn your body half-turn[/r].
-
-[l][r][l]ishii-san laughed at that. [l][r]
-
+[r]「私のことかい？　普段通りさ。仕事して、食べて、眠る。それだけだよ。[l][r]
+……だが勘違いしないでくれ。私は尊敬すべき友人であり、愛すべき家族でもある彼女達を諦めない。[l][r]
+働いて、力を得て、飛び立つのさ。あの子らの旅路の向こうに。[l][r]
+私の飛行機で……だ」[l][r]
+[r]くるっと身軽に身体を半回転させなが[r]
+ら、イシイさんはそう言って笑った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'I envy you,' I say, not in a build-up. [l][r]
+「羨ましいですね」僕は建前でなく、そう言う。[l][r]
 
+「君も乗るか？」イシイさんがそこで初めて僕の方を見て、そう言った。[l][r]
+僕は「喜んで」と即答する。[l][r]
 
-Do you want a ride too?" Mr. Ishii looked at me for the first time there and said. [l][r]
-
-I respond immediately, "With pleasure." [l][r]
-
-
-[r]"I'm kidding. You take care of your family."[l][r]
-
-I do. They are also my precious family."[l][r].
-
-'Oh yeah. I'll tell your wife, okay?" [l][r]
-
-Please."[l][r].
-
+[r]「冗談だ。君は家族を大事にしろ」[l][r]
+「してますよ。彼女達もまた、僕の大切な家族です」[l][r]
+「そうか。奥さんに言うぞ？」[l][r]
+「どうぞ」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]When I replied, Ishii-san smiled mischievously as if he were Yuri, then looked up at the sky once more with eyes as straight as Tito's. [l][r]
+[r]僕がそう答えると、イシイさんはまるでユーリのように悪戯っぽく笑って見せてから、チトのような真っ直ぐな目で、もう一度空を仰ぎ見た。[l][r]
 
-
-I follow suit. [l][r]
-
+僕もそれに倣う。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="blue2.jpg"  ]
 [tb_start_text mode=3 ]
-Blue sky without a cloud. [l][r]
-
-[r]Inside the stratosphere that envelops this world in a spherical shape, I followed the shadows of two girls who became my benefactors and my precious family. [l][r]
-
+雲ひとつない青空。[l][r]
+[r]球体状にこの世界を包み込む成層圏の内側に、僕は僕の恩人であり、大切な家族となった二人の少女の影を追った。[l][r]
 [_tb_end_text]
 
 [cm  ]

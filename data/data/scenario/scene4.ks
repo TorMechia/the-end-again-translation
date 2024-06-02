@@ -5,297 +5,199 @@
 [bg  time="2000"  method="crossfade"  storage="isiroom_2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-[r] "What do you think of ......?" [r]
-
+「……どう思う？」[r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I wonder. ......"[l][r]
+「どうでしょうね……」[l][r]
+[r]カナザワアキラと名乗ったその青年は、電話越しにあいまいな返事をした。[l][r]
+[_tb_end_text]
 
-[r]The young man, who identified himself as Akira Kanazawa, replied vaguely over the phone. [l][r]
+[cm  ]
+[tb_start_text mode=3 ]
+チトとの会話は、その後はお互い混乱してしまい、あまり実のある話ができなかった。ただ確認できただけだ。最も危惧していた事実を。[l][r]
+[r]「チトの側にユーリが居ないなんて、君は想像できるか？」[l][r]
+「難しいですね。ただ、僕はチトの声しか聴いていないけれど、彼女らしくない大人しさだなとは思いましたよ」[r]
+「……そうだろうさ」[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+部屋に帰り着くなり、チトから教わった連絡先に電話をした私は、互いの自己紹介もそこそこに、チトの現状について話を始めたのだった。[l][r]
+[r]カナザワ君も私と同様、妙な因果でか、あの世界で行なっていた行動と関連した仕事に就いていた。[l][r]
+彼の場合は地図の製作を行なう調査会社のスタッフとのことだった。やはり、チトはあたりをつけて問い合わせを繰り返したのだろう。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-My conversation with Tito was not very fruitful after that, as we were both confused. We could only confirm. The fact that I feared the most. [l][r]
-
-[r]"Can you imagine not having Yuri by Tito's side?" [l][r]
-
-It's difficult. But I only heard Tito's voice, but I thought it was very mature, not like her."[r]
-
-"...... I know you would."[l][r]
-
+そうなると彼女とあの世界で関係のあった人物は残すところユーリと、育ての親だというおじいさんだけになる。ちなみに、どちらとも血縁関係はないらしい。[l][r]
+おじいさんなる人物は軍人だったかも知れないとのことで、自衛隊や軍事関係者に問い合わせをしたいようだが、その辺りの業種は守秘義務があるはずでハードルが高い。[l][r]
+[r]勿論チトは諦めてはいない。最も近しい人物だけに、彼女はどうにかして会いたいと願い情報を集めているが、まだ実を結んではいなかった。[l][r]
+私もカナザワ君も協力を誓った。少女一人ではどうにもならなかったろうが、大人二人の協力が得られたのなら、いずれ何か掴めるかも知れない。しかし……[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-As soon as I got back to my room, I called the contact number Chito had given me, and we began talking about Chito's current situation, without even introducing ourselves to each other. [l][r]
-
-[r]Kanazawa-kun, like me, was also employed in a job related to the actions he was performing in that world, perhaps through some strange cause and effect. [l][r]
-
-In his case, he was a staff member of a research company that produces maps. After all, Tito must have had a good idea and made repeated inquiries. [l][r]
-
-
+「目下の問題は結局そこだ。ユーリをどうやって探すか」[l][r]
+「金髪碧眼。銃の扱いに長け、食べるのが大好きでいつも笑っている十代後半くらいの女の子を……ですね」[l][r]
+「そうだ。それに何より、チトの仮説もある」[r]
+「でも……まさか」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-This leaves only Yuri and her grandfather, who she says raised her, as the only people who were related to her in that world. Incidentally, she is not related to either of them. [l][r]
-
-The grandfather figure may have been a military man, and he would like to inquire with the Self-Defense Forces or military personnel, but there are supposed to be confidentiality requirements for that type of business, which is a hurdle. [l][r]
-
-[r]eally, of course, Chito has not given up. As the person closest to her, she has been gathering information in the hope of somehow meeting him, but it has yet to bear fruit. [l][r]
-
-Both Kanazawa-kun and I pledged our cooperation. The girl alone would not have been able to do it, but with the cooperation of two adults, we might eventually be able to get something out of it. But ......[l][r]
-
+カナザワは表立って反論しない。が、私もまさかと思っている。[r]
+あの世界で、ユーリがたった独り、チトを失いながらも生き続けていられるなど想像し難い。[l][r]
+生活力など全くなさそうな、自堕落な刹那主義者。それが我々のユーリに対する共通認識だ。[l][r]
+[r]それにチトは言った。最上層には何も無かったと。食料も燃料も尽きていた。[r]
+生きられるはずがない。しかし……[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The question at hand is ultimately that. How do we find Yuri?"[l][r].
-
-Blonde hair, blue eyes. I'd like a girl in her late teens who is good with guns, loves to eat, and is always laughing. ......"[l][r].
-
-Yes," he said. And above all, there is Tito's hypothesis."[r].
-
-"But ...... no way."[l][r]
-
+「……案外あり得るかも知れませんね」と、不意にカナザワが言った。[l][r]
+「……何か思うところがあるのか？」[l][r]
+「ええ。僕もあの世界でさんざん絶望を味わいましたけど、そこから立ち直らせてくれたのはユーリでした。[l][r]
+あの子は強い。それにどこか、不思議[r]
+な……なんだろう、本質を見抜く優しさみたいなのがありました」[l][r]
+「それは私も同感だ。だが……」[r]
+「だから思うんですよ。彼女がもしこっちの世界に来ていれば、チトの側に一目散に飛んで行ってやらない理由がない[r]
+……って」[l][r]
+「………」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Kanazawa does not openly refute this. but I don't think it's possible either. [r]
-
-It is hard to imagine that Yuri could continue to live in that world, all alone, even with the loss of Tito. [l][r]
-
-He is a self-defeating ephemeralist who seems to have no life skills at all. That is our common perception of Yuri. [l][r]
-
-[r]eally, Tito said to it. There was nothing on the top level, he said. They had run out of food and fuel. [r]
-
-There's no way you can live with it. But ......[l][r]
-
+カナザワの意見には同意できなくはな[r]
+い。[l]そして、多分チトも似たように思っているのだろう。[r]
+だからこそ、あんな乱暴な仮説を立てたのだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[......It might be more likely than you think," Kanazawa said unexpectedly. [l][r]
-
-[l][r]"...... have any thoughts?" [l][r]
-
-Yes. I also experienced a lot of despair in that world, but it was Yuri who helped me get back on my feet. [l][r].
-
-That girl is strong. And somehow, it's strange[r].
-
-There was a kind of grace that saw through the essence of what ...... was all about."[l][r].
-
-I agree with you on that."[r But ......"[r]
-
-'So I think. If she had come to our world, there is no reason why I wouldn't fly to Tito's side at once[r].
-
-What's ......?"[l][r].
-
-"........." [l][r].
-
+「でも、そうだとしたら我々には手がないぞ」[r]
+「そうですね。チトをユーリに会わせてやることは、ユーリがこっちの世界に来ない限り無理だろうと思います」[l][r]
+えらく冷淡にカナザワが言う。私は少し苛立った。[l][r]
+[r]「エンジニアらしい物言いだな」[r]
+「それは……」お互い様でしょうとでも言いたげにカナザワが呟く。[l][r]
+駄目だ、こいつとは気が合いそうにない。別に構わないが。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I don't disagree with Kanazawa's opinion [r].
-
-I think that's a good thing. [l]And maybe Tito thinks similarly. [r]
-
-That's why I made such a wild hypothesis. [l][r]
-
+「……まだ電話中かなー？」[r]
+電話の向こうから、微かに別の声が届いた。[l][r]
+「……ちょっと、すみません」[r]
+カナザワはそう言って、電話を手で覆ったらしい。[l]ガサゴソと雑音だけが数秒聴こえ、やがて[r]
+「……すみませんでした。話の続きをしましょう」と、低い、妙な温かみのある声が再び告げた。[l][r]
+[r]「奥さんか？」[r]
+「……ええまあ。彼女もあっちの世界から来た人です」[l][r]
+「そうなのか」[r]
+「はい」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But if that's the case, we're out of options."[r]
-
-I think so. I don't think it will be possible to let Tito meet Yuri unless Yuri comes to our world."[l][r].
-
-Kanazawa said very indifferently. I was a little irritated. [l][r]
-
-[r]"You sound like an engineer."[r]
-
-Kanazawa mutters, as if to say, "That's ...... like we're both here." [l][r]
-
-No, I don't think I'm going to get along with this guy. I don't mind. [l][r]
-
+そう言えばチトが言っていた気がする。[r]
+彼女達の持っていたカメラはカナザワから受け取ったもので、そこには彼の隣で親しげに笑う女性の写真があったと。[l][r]
+[r]「じゃあ君は、向こうでの連れ合いとこっちで再会できたんだな。[r]
+……なるほど、君の言うことには根拠と実感があるわけだ」[l][r]
+「そこまでは言いません。……でも、僕はユーリがこちらの世界にいるのなら、チトと、何があっても必ず再会するだろうと確信しています。[r]
+……身勝手な意見ですが」[l][r]
+「……いや、悪かった。私もそう思う」[r]
+私は非礼な物言いを詫びた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[r]"...... still on the phone?" [r]
-
-Another voice arrived faintly from the other end of the phone. [l][r]
-
-"...... hey, excuse me."[r]
-
-Kanazawa said this and apparently covered the phone with his hand. Only [l]rustling and noise could be heard for a few seconds, and then [r]
-
-'I'm sorry ....... Let's continue our conversation," a low, strangely warm voice announced again. [l][r]
-
-[r]"Is that your wife?" [r]
-
-"...... yeah well. She's from that world too."[l][r].
-
-Is that so?"[r].
-
-Yes."[l][r].
-
+カナザワも彼の奥さんも、チトと同じ気持ちを味わったのだな。[r]
+先立ってしまった苦しみ、生き残ってしまった罪悪感。会えない寂しさ。[l][r]
+[r]「サバイバーズギルト、とかいうやつかな」[r]
+災害等で、生き残った側が味わう苦しみのことをそう呼ぶのだそうだ。[l][r]
+「死んだ側が感じているのだから妙な感じですが、多分そうです」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I think that's what Tito said. [r]
-
-They said that the camera they had was the one they received from Kanazawa, and that there was a picture of a woman next to him who smiled at him in a friendly way. [l][r]
-
-[r]"So you've been reunited here with your companion over there. [r]
-
-......I see, so you have a basis and a real feeling for what you are saying."[l][r].
-
-I won't go that far." ...... but I am convinced that if Yuri is on our side of the world, he and Tito will always be reunited, no matter what. [r]
-
-......Selfishly."[l][r]
-
-"...... No, my bad. I agree."[r].
-
-I apologized for my impolite language. [l][r]
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-Both Kanazawa and his wife must have experienced the same feelings as Tito. [r]
-
-The pain that preceded me, the guilt that I survived. The loneliness of not seeing them. [l][r]
-
-[r]"Survivor's Guilt, or something like that."[r]
-
-They call it the suffering experienced by the survivors in disasters, etc. [l][r]
-
-It's odd because the dead side feels it, but perhaps it is."[l][r].
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-By putting it into words like that, I felt like I was getting my feelings straightened out. [l][r]
-
+そう言葉にすることで、私も気持ちの整理がついてきた気がした。[l][r]
 
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m5_piano.ogg"  click="false"  ]
 [tb_start_text mode=3 ]
-What, I thought I was always worried about Tito, but actually I wasn't. [l][r]
-
-[r]"...... me, you, Tito, you're all thinking about her. ...... about that girl."[r][r
-
-"...... yes" [l][r].
-
-Kanazawa answered in a muffled voice. I, too, felt a tear roll down my cheek. [l][r]
-
+なんだ、チトのことを案じてばかりいたつもりだったが、実はそうではなかったのか。[l][r]
+[r]「……私も、君も、チトも、皆想ってるんだな。……あの子のことを」[r]
+「……はい」[l][r]
+カナザワが、くぐもった声で答えた。私もまた、頬に涙が伝うのを感じた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"......Yuri is a good boy. ......Yuri is a good boy."[l][r]
-
-"............ yeah."[l][r]
-
-[r]I couldn't continue the conversation any further and ended the call, just telling them I would get back to them. [l][r]
-
+「……いい子だものな……ユーリは」[l][r]
+「…………ええ」[l][r]
+[r]私はそれ以上話を続けることができず、また連絡するとだけ伝えて、通話を終えた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="i_room3.jpg"  ]
 [tb_start_text mode=3 ]
-A dark room of my own where I forgot to turn on the lights and air conditioning [r].
-
-looks like the site of that air force base. [r]
-
-I wish I were. [l][r]
-
-[r]And even now, alone in that world, enduring cold, hunger, and loneliness, I couldn't wait to meet the girl who might continue to face to face with despair. [l][r]
-
+照明も空調もつけ忘れていた暗い自室[r]
+は、まるであの空軍基地跡のようだ。[r]
+私はそうであればいいのになと思った。[l][r]
+[r]そして、今もあの世界でたった一人、寒さと飢えと孤独とに耐えながら、絶望と顔を突き合わせ続けているかも知れない少女に、たまらなく会いたいと思った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="yoru3.jpg"  ]
 [tb_start_text mode=3 ]
-As I lay in bed I thought back to a conversation I had with Tito this afternoon when we parted ways. [l][r]
-
+ベッドに横たわりながら私は、今日の午後、チトと別れ際にした会話を思い出していた。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"You can't see the stars, can you?"[l][r].
-
-Tito said this as he looked up at the darkening sky. [l][r]
-
-[r]"Tokyo is bright even at night."[r]
-
-Yes."[l][r].
-
+[r]「星空が見えないよね」[l][r]
+暗くなった空を見上げてチトはそう言ったのだった。[l][r]
+[r]「東京は夜でも明るいからね」[r]
+「そうだよね」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I look at Tito's round cheeks. [r]
-
-The tear marks were still, still there. [l][r]
-
-We used to cry a lot for each other."[r]
-
-[l][r]"Yeah. That made me feel better."[l][r].
-
-[r]Chito laughs a little shyly. When I saw that, I thought to myself that it was still not like Tito. [l][r]
-
+私はチトの丸い頬を見る。[r]
+涙の跡がまだ、残っていた。[l][r]
+「お互いよく泣いたな」[r]
+「うん。おかげですっきりしたよ」[l][r]
+[r]チトが少しだけ恥ずかしそうに笑う。それを見たときの私は、やはりチトらしくないなと内心思った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="isiroom_2.jpg"  ]
 [tb_start_text mode=3 ]
-But now it's a little different. Maybe she's the kind of girl who inherently smiles like that. [l][r]
-
+けれど今は少し違う。彼女は本来、あんな風に笑う子なのかも知れない。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I couldn't imagine Tito without Yuri by his side. [r]
-
-Yuri believed that without Tito, Yuri would not be able to live. [l][r]
-
-...... I am the selfish one. [l][r]
-
+[r]ユーリが側にいないチトなど考えられなかった。[r]
+チトがいないならユーリは生きられないと考えていた。[l][r]
+……私こそ身勝手だ。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Even if Yuri was not there, Tito was still Tito. [r]
-
-That boy is also a strong boy. Perhaps even more than Yuri. [l][r]
-
-[r]And I, who was allowed to meet these girls, can't keep crying forever. [l][r]
-
+[r]例えユーリがいなくても、チトはチトだった。[r]
+あの子もまた、強い子だ。もしかするとユーリ以上に。[l][r]
+[r]そして、そんな彼女達と出会うことを許された私が、いつまでも泣いてばかりではいられない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Let's cry over Yuri and that world just one more day tomorrow. [l][r]
-
-Then we'll see what we can do next. When I see Yuri again. So that we can all laugh together. [l][r]
-
+明日もう１日だけ、ユーリとあの世界とを想って泣こう。[l][r]
+それから、次にできることを考えよう。ユーリとまた会えたとき。皆で笑い合えるように。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Yeah, I want to show Tito the starry sky [r].
-
-Na. [r]
-
-I will take you sometime, even to the mountains of Nagano, where I went on a business trip some time ago. [l][r]
-
-I want to see it sometimes, too. A starry sky as clear and as ready to fall as I have seen in that world. [l][r]
-
+[r]そうだ、チトに星空を見せてやりたい[r]
+な。[r]
+少し前、出張で行った長野の山へでも、いつか連れて行ってやろう。[l][r]
+私もたまには見たい。あの世界で見たような澄み切った、今にも降って来そうな星空を。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -303,10 +205,8 @@ I want to see it sometimes, too. A starry sky as clear and as ready to fall as I
 [bg  time="2000"  method="crossfade"  storage="hosi.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Wrapped in a thin blanket, I draw starry skies behind my eyelids. [l][r]
-
-[r]As I counted those stars, deeper and deeper, my consciousness fell into sleep. [l][r]
-
+薄い毛布に包まって、私は瞼の裏に星空を描く。[l][r]
+[r]その星の数を数えながら、深く深く、私の意識は眠りへと落ちていった。[l][r]
 [_tb_end_text]
 
 [cm  ]

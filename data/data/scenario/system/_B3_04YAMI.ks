@@ -1,5 +1,0 @@
-[preload  storage="./data/bgimage/kurai.jpg"  ]
-[preload  storage="./data/bgimage/owari.jpg"  ]
-[preload  storage="./data/bgimage/black.png"  ]
-[preload  storage="./data/bgimage/never.png"  ]
-[return]

@@ -6,24 +6,17 @@
 [bg  time="2000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"...... interesting."[r]
-
-"Don't Play ......" [l][r].
-
-[r]u waved your hand in my head as if you were skulking around. What if it suddenly starts to hit you, ......? [l][r]
-
+「……面白れー」[r]
+「遊ぶなよ……」[l][r]
+[r]ユーが私の頭の中で、すかすかと手を振る。急に当たるようになったらどうすんだよ……。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-We were reunited. But that was it. We can't touch each other. [l][r]
-
-They tried to hug each other, and Yoo fell down hard. His nose is still red. [l][r]
-
-My legs don't move either. ...... maybe I'm not here. At first I had no reason to think that I died over there and came back here again, but apparently not. [l][r]
-
-[r]Only consciousness, voice and figure seemed to be here, like the artificial intelligence in that backbone tower. [l][r]
-
+私たちは再会できた。でも、それだけだった。触れ合うことができないのだ。[l][r]
+どちらともなく抱き合おうとして、ユーは盛大にすっ転んだ。今も鼻を赤くしたままだ。[l][r]
+私の足も動かない。……多分私はここにいないんだ。最初は向こうで死んだからまたこっちに来たのかと根拠もなく考えたけど、そうじゃないらしい。[l][r]
+[r]意識と声と姿だけが、あの基幹塔の人工知能のように、ここにあるようだった。[l][r]
 [_tb_end_text]
 
 [jump  storage="OF_scene3.ks"  target="*ret"  ]
@@ -33,22 +26,16 @@ My legs don't move either. ...... maybe I'm not here. At first I had no reason t
 [bg  time="2000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"...... I think this is interesting."[l][r].
-
-"Yea, you don't have to comfort me ......, I mean, just stop it."[l][r]
-
-[r]u are waving your hand in my head, scoffing. What if it suddenly starts to hit you, ....... [l][r]
-
+「……私はこれ、面白いと思うよ」[l][r]
+「いーよ、無理に慰めなくても……ていうか、いい加減やめろ」[l][r]
+[r]ユーが私の頭の中で、すかすかと手を振っている。急に当たるようになったらどうすんだよ……。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-We were reunited. But that was it. We can't touch each other. [l][r]
-
-My legs don't move either. ...... maybe I'm not here. At first I had no reason to think that I died over there and came back here again, but apparently not. [l][r]
-
-[r]Only consciousness, voice and figure seemed to be here, like the artificial intelligence in that backbone tower. [l][r]
-
+私たちは再会できた。でも、それだけだった。触れ合うことができないのだ。[l][r]
+私の足も動かない。……多分私はここにいないんだ。最初は向こうで死んだからまたこっちに来たのかと根拠もなく考えたけど、そうじゃないらしい。[l][r]
+[r]意識と声と姿だけが、あの基幹塔の人工知能のように、ここにあるようだった。[l][r]
 [_tb_end_text]
 
 *ret
@@ -58,18 +45,14 @@ My legs don't move either. ...... maybe I'm not here. At first I had no reason t
 [bg  time="1000"  method="crossfade"  storage="tenji3.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The trigger, in all likelihood, is a replica of that vehicle and the key. [l][r]
-
+きっかけはどう考えてもあの車両のレプリカと鍵だ。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="key.jpg"  ]
 [tb_start_text mode=3 ]
-I looked again at the rotting vehicle in front of me. The ignition key with the fish on it was still stuck in it. [l][r]
-
-Huh?　Did I leave it there?　Did I not take it with me?　I can't quite remember. ....... [l][r]
-
-But for some reason my intuition told me that if I touched this key again and pressed the ignition button, I would be back in that world again. [l][r]
-
+私は目の前の朽ちた車両をもう一度見た。魚のついたイグニッションキーは刺さったままになっている。[l][r]
+あれ？　そのままにしてたっけ？　持って行かなかったっけ？　よく思い出せない……。[l][r]
+でもなぜか私は直感で、このキーに再度触れて、イグニッションボタンを押したら、あっちの世界にまた帰ってしまうのだろうと考えていた。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -77,55 +60,37 @@ But for some reason my intuition told me that if I touched this key again and pr
 [bg  time="1000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I can't hit you with this."[r]
-
-"To each other."[l][r].
-
-I respond to You, who smiles wryly at me because I don't have to worry about being hit, with that degree of strength at best. [l][r]
-
-'Well, but I'm relieved to see you're doing well,' I said, not hiding my true feelings." [r]
-
-As long as we don't know how much time is allowed, we can't afford to play. [l][r]
-
+「これじゃ殴れないね」[r]
+「お互いにな」[l][r]
+殴られる心配がないからと不敵な笑みを浮かべるユーに、私はせいぜいその程度強がって答える。[l][r]
+「まあでも、お前が元気そうで安心したよ」私は隠さずに本音を言った。[r]
+時間がどの程度許されてるのか分からない以上、遊んでる余裕はない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Hey, Chi-chan, how did you get here?　Where have you been all this time?" [l][r]
-
-That's ......" Yes, that's the information I need. I have to pass it on to u. [l][r]
-
-But ....... I hesitated. I hadn't anticipated a situation like this, I hadn't properly thought through what and how I should tell Yoo. [l][r]
-
-Besides, assuming that the example hypothesis is somewhat correct, we need to know as accurately as possible what happened to "my corpse" in this world over here, and why YOU are left all alone. [l][r]
-
+「ねえ、ちーちゃんはどうやってここに来たの？　今までどこにいたの？」[l][r]
+「それは……」そうだ、必要な情報だ。私はそれをユーに伝えないといけない。[l][r]
+でも……。と、私は躊躇した。こんな状況を想定していなかった私は、ユーに何を、どう伝えるべきか、ちゃんと考えられていなかった。[l][r]
+それに、例の仮説がある程度正しいとして、こっちの世界の「私の死体」がどうなったのか、ユーがなぜ独りで取り残されているのかをできるだけ正確に知らなければならない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...... talk about you first, not me."[l][r].
-
-Me?" [r]
-
-'Yeah, you. What happened at the top level after that?　Tell me that first."[l][r].
-
-What?"[r]"What?　...... uh, ......" [r].
-
-[l]"You didn't forget, did you?" [l][r]
-
-'Ehehe ....... Just kidding. I remember ...... well."[r]
-
-"......" [l][r].
-
+「……まずは私じゃなくて、お前の話が先だ」[l][r]
+「私？」[r]
+「そうお前だよ。あの後、最上層で何があってどうなったんだ？　それをまず教えろ」[l][r]
+「え？　……えーっと……」[r]
+「まさか、忘れてないよな？」[l][r]
+「えへへ……。冗談だよ。……よく覚えてる」[r]
+「……」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sun.jpg"  ]
 [tb_start_text mode=3 ]
-Yu suddenly stopped laughing and looked at me with a slightly kinder face. [l][r]
-
-[r]And he told me. After that, the end of the end between me and You. [l][r]
-
+ユーが、笑うのを急に止めて、少し優しい顔で私を見た。[l][r]
+[r]そして語ってくれた。あの後の、私とユーとの終末の果てを。[l][r]
 [_tb_end_text]
 
 [cm  ]

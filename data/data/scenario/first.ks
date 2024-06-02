@@ -1,34 +1,28 @@
 
 
-Menu button hidden
-
+;メニューボタン非表示
 ;[hidemenubutton]
 
 
-; loading the libraries required for the game
-
+;ゲームに必要なライブラリ読み込み
 [call storage="system/tyrano.ks"]
 [call storage="system/builder.ks"]
 [call storage="system/chara_define.ks"]
 
-live2D support
-
+;live2D対応
 
 
 [layopt layer=2 visible=true]
 [layopt layer="message0" visible=false]
 [call storage="system/message_window.ks"]
 
-Plug-in settings
-
+;プラグインの設定
 [call storage="system/plugin.ks"]
 
-Set the title
-
+;タイトルの設定
 ;[title name="now loading"]
 
-Title screen display
-
+;タイトル画面表示
 [jump storage="title_screen.ks"]
 
 ;--------------------------

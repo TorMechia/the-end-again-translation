@@ -8,49 +8,34 @@
 [bg  time="3000"  method="crossfade"  storage="camp.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-So?"　How did he really die [r]?
-
-[l][r][l][r]" [l][r]
-
-I told you, I'm not dead."[l][r].
-
-Tito asks and Yuri answers. The fire glints off their faces. [l][r]
-
+「で？　本当はどうやって死んだん[r]
+だ？」[l][r]
+「だから、死んでないってばー」[l][r]
+チトが聞いてユーリが答える。炎が二人の顔をちらちらと輝かせている。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]This is Nagano. This is Nagano, on top of a mountain in the Northern Alps. As soon as Mr. Ishii returned to Japan, we made plans for a trip that had been postponed for a number of reasons. [l][r][l][r].
-
-The group consisted of myself, my wife, Ishii-san, and of course Tito and Yuri. I know it sounds like I'm going to get stabbed if anyone asks me why four beautiful women are camping with one man, but it was a lot of work this way. [l][r]
-
+[r]ここは長野。北アルプスの、とある山の上だ。僕達はイシイさんが帰国するとすぐに、色々な事情で延び延びになっていた旅行の計画を実現させたのだった。[l][r]
+メンバーは僕と妻、イシイさん、それに勿論チトとユーリ。男一人に美女が四人でキャンプだなんて、聞く人が聞いたら刺されそうだけれど、こっちはこっちで大変だった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="camp1.jpg"  ]
 [tb_start_text mode=3 ]
-Yuri and I were the only two who had the physical strength to climb the mountain properly. Yuri, however, was always playing with Tito and didn't help us with anything. Well, I guess it can't be helped. [l][r]
-
-[I pulled nearly three people's worth of gear to the top of the mountain and collapsed, turning my eyes to wonder if I was in heaven or hell. It was also painful that everyone but me insisted on camping in tents, even though we could have stayed in a mountain lodge. [l][r]
-
-[r]Why? [r]
-
-Is there a women's camping craze? [r]
-
-You're too heavily equipped! [l][r]
-
+まともに山登りできる体力の持ち主は僕とユーリだけ。なのにユーリは終始、チトとじゃれあってばかりで何も手伝ってくれない。まあ仕方ないか。[l][r]
+[r]僕は三人分近い荷物を死ぬ気で山頂まで引っ張りあげて、ここは天国なのか地獄なのかと眼を回しながらぶっ倒れた。山小屋に泊まればいいだろうに、なぜだか僕以外全員、テント泊のキャンプに拘ったのも痛い。[l][r]
+[r]なぜ？[r]
+女性のキャンプ流行ってるの？[r]
+装備重すぎるよ！[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="camp.jpg"  ]
 [tb_start_text mode=3 ]
-"If you could have come here without dying, that would have been the best thing to do, but then how could you [r]?
-
-You came 'over here'?" Mr. Ishii asks, coffee in hand. [l][r]
-
-I don't know," Yuri said. I don't know," Yuri said. [l][r]
-
-Hey," said Ishii. [l][r]
-
+「死なずに来れたのならそれに越したことはないと思うが、じゃあどうやって[r]
+『こっち』に来たんだ？」イシイさんがコーヒーを手に聞く。[l][r]
+「んー。分かんない」とユーリ。[l][r]
+「おい」とイシイさん。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -65,116 +50,83 @@ Hey," said Ishii. [l][r]
 *CampEnd
 
 [tb_start_text mode=3 ]
-We managed to reach our tent site before nightfall, set up, and ate dinner. [l][r]
-
-The climate is mild and the scenery and air are nice. On top of that, you are surrounded by beautiful women. [l][r]
-
+僕達は何とか日暮れ前にテント場に辿り着き、設営を済ませてご飯を食べた。[l][r]
+気候は穏やかで景色も空気もいい。おまけに周りは美女ばかりと来ている。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="camp2.jpg"  ]
 [tb_start_text mode=3 ]
-It was a very nice meal, but my wife kept talking with Mr. Ishii and Tito kept talking with Yuri, and I was mostly alone. Well, I'm used to it. [l][r]
-
+とても美味しい食事ではあったけど、妻はイシイさん、チトはユーリと喋ってばかりで、僕は大概一人ぼっちだった。まあ慣れてるけどね。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="camp.jpg"  ]
 [tb_start_text mode=3 ]
-[r]And now we're sitting around the campfire talking about 'that world'. Especially the story of how Yuri lived and how he came this way. [l][r]
-
+[r]そして今、焚き火を囲んで『あの世界』の話をしている。特に、ユーリがどう生きてどうやってこっちに来たのかという話を。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Anyway, I found a bunch of canned goods. So I put them in my backpack, and then I decided to go back, and I opened the door and ...... it was my room. [r]
+「とにかくさ、缶詰をたくさん見つけたんだ。で、それをリュックに入れてさあ戻ろうと思ってドアを開けたら……そこは私の部屋だったんだよ。[r]
+ハンガリーの」[l][r]
 
-Hungarian" [l][r].
-
-
-[r][r]Yes, Yuri in this world was the child of a Japanese-Hungarian father and a Japanese mother. [l][r]
-
-His nationality is Japanese. He lives in Japan and Hungary respectively. By the way, his name is "Yuri Kubo. [l][r]
-
+[r]そう、こっちの世界のユーリは日系ハンガリー人のお父さんと日本人のお母さんの間に生まれた子だった。[l][r]
+国籍は日本。住まいは日本とハンガリーとにそれぞれある。ちなみに氏名は「クボ　ユーリ」。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The first thing you need to do is to make sure that you are wearing the right clothes and that you are wearing a T-shirt.
-
-I think you're the man of action."[l][r].
-
-Oh, did I just get a compliment?" Yuri is pleased with a quick smile. [l][r]
-
-I praised him. Good, good. Great, great."[l][r].
-
-Ni-hee-hee-hee."[l][r].
-
-Yuri is happy like a puppy after being patted on the head by [r]tito. It's a peaceful head. [l][r]
-
+「で、服は普段着のTシャツだし缶詰はなくなったしお腹はすいたしで、良く分かんなくなったから、とりあえず部屋にあったお菓子食べながらネットで飛行機の予約をしたんだ」[l][r]
+「その行動力は、流石お前だと思うよ」[l][r]
+「あ、私今ほめられた？」ぱっと笑って喜ぶユーリ。[l][r]
+「あー褒めた褒めた。よしよし。えらいえらい」[l][r]
+「にへへへー」[l][r]
+[r]チトに頭を撫でられて子犬のように喜ぶユーリ。平和な頭だなぁ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-In other words, if Yuri's story is true, then Tito's hypothesis was wrong. The condition for coming to this world does not necessarily depend on "death." [l][r]
-
-[r]Moreover, Yuri remembered exactly what happened when he and Chito met at the place where the vehicle was located. So it seems there is at least some way to send information from here to there. [l][r]
-
+つまり、ユーリの話が本当ならチトの仮説は間違っていたことになる。こっちの世界に来る条件は、必ずしも「死」に拠らない。[l][r]
+[r]さらにユーリはチトと、車両のある場所で出会ったときのことをちゃんと覚えていた。つまりこっちから向こうに、少なくとも情報を送る手段もあるらしい。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-So anyway, I had to go to Tokyo, so I told my mom, 'I'm going to Tokyo for a while,' and I rode my bike to the airport, got on the plane, and when I arrived in Tokyo, Chi-chan was waiting for me!" [l][r].
-
-[r][r]Yuri exclaims with heartfelt happiness, hugging Tito and rubbing his cheek. [l][r]
-
-[l]"Don't, don't stick together," Tito resists, looking heartily displeased. [l][r]
-
+「それでとにかく東京に行かなきゃと思って、母さんに『ちょっと東京行って来る』って伝えて、空港まで自転車で行って、飛行機乗って、東京に着いたら、ちーちゃんが待っててくれたってわけ！」[l][r]
+[r]ユーリは心底嬉しそうにそう叫び、チトに抱きついて頬擦りする。[l][r]
+「やめろ、くっつくな」チトは心底嫌そうに抵抗する。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]...... We all thought it would be too casual, no matter how much my parents' home is in Japan and I'm used to coming and going, but we went through with it. [l][r]
+[r]……いくら実家が日本にあって行き来に慣れてるといっても、気軽すぎるだろうと全員思ったけど、そこはスルーした。[l][r]
+だってユーリの言うことにいちいちつっこんでたら話が終わらない。[l][r]
 
-Because if I had to go through every single thing Yuri says, I wouldn't be able to finish the story. [l][r]
-
-
-[cm] Eventually Yuri reunited with Chito and stayed in Chito's room, which was located near the university, away from his parents' home. [l][r]
-
- [l][r]
-
-She is, after all, quite a promising athlete as a special sports student in rifle competition. [l][r]
-
+[cm]結局ユーリはチトと再会し、実家を離れて大学の近くに住んでいたチトの部屋に滞在した。[l][r]
+[r]ハンガリーで大学通っていたのに、色々手続きして日本の、チトの通う大学へ転入までしてのけた。[l][r]
+何でも彼女は、ライフル競技のスポーツ特待生としてかなりの有望選手なのだそうだ。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"And the department, you're going to have to work a little harder."[l][r].
-
-No."[l][r]"No. Haha."[l][r].
-
-"In general, why would you take Russian [r]?
-
-Yo" [l][r].
-
-Because there's something cool about Russian."[l][r].
-
+[r]「学科も、もう少し頑張れよ」[l][r]
+「いやー。あはは」[l][r]
+「大体、何でロシア語なんて取るんだ[r]
+よ」[l][r]
+「だってなんかロシア語ってかっこいいし」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="yamahosi.jpg"  ]
 [tb_start_text mode=3 ]
-We continued this conversation for several hours. Eventually, my wife and Yuri got sleepy and went into their respective tents. [l][r]
-
-...... What?　Tent room assignment?　My wife and Ishii. Tito and Yuri. I'm alone. Like this, what is it? [l][r]
-
+そんな会話を続けること数時間。やがて眠くなったと、僕の妻とユーリはそれぞれテントに入って行った。[l][r]
+……え？　テントの部屋割り？　妻とイシイさん。チトとユーリ。僕は独り。こうですが何か？[l][r]
 
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-[r]ith fewer people, there was instantly less talk. So I could ask Tito what he thought of Yuri's story. [l][r]
-
-When Mr. Ishii also expressed interest, Tito, a little embarrassed, dismissed his former hypothesis and instead told me this fairy tale. [l][r]
-
+[r]人数が減って、途端に口数が減った。だから僕はチトに、ユーリの話を聞いてどう思ったかを尋ねることができた。[l][r]
+イシイさんも興味があると言ってくれたので、チトは少し照れながら、自分のかつての仮説を却下し、かわりにこんな御伽噺を聞かせてくれた。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -182,103 +134,79 @@ When Mr. Ishii also expressed interest, Tito, a little embarrassed, dismissed hi
 [bg  time="2000"  method="crossfade"  storage="white.png"  ]
 [bg  time="2000"  method="crossfade"  storage="isilast.jpg"  ]
 [tb_start_text mode=3 ]
-That city was a symbol of human despair. [l][r]
-
+あの都市は、人間の絶望の象徴だった。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="lastwall.jpg"  ]
 [tb_start_text mode=3 ]
-[r]Over a long, long time, despair has become, in itself, like a will. [l][r]
-
+[r]長い長い時間をかけて、絶望はそれ自身が、まるで意思を持つようになった。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-Despair was very lonely and wanted to enjoy a long, slow time with the few humans who had survived. [l][r]
-
-Rooting out what Kanazawa holds dear, [r].
-
-The wings of the ishii were split without a hitch. [l][r]
-
-[r][r]Then he approached Tito and Yuri. [l][r]
-
+絶望はとても寂しがりやで、生き残っていた僅かな人間と、ゆっくり長い時間をかけて楽しみたいと考えた。[l][r]
+カナザワの大切なものを根こそぎ奪い、[r]
+イシイの翼をことも無げに割り折った。[l][r]
+[r]そしてチトとユーリに迫った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="lastwall2.jpg"  ]
 [tb_start_text mode=3 ]
-The timid Chito continued to reject despair, while the gentle Yuri played nice with it. [l][r]
-
-I think [r]despair especially liked these two. [l][r]
-
+臆病なチトは絶望を拒み続け、優しいユーリは絶望と仲良く遊んでやった。[l][r]
+[r]絶望はこの二人が特に気に入ったのだと思う。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="saijousou_non.jpg"  ]
 [tb_start_text mode=3 ]
 
-[r]Then, using the faintest hope as bait, he lured them to the top level, and the three of them tried to fly to the next world together. [l][r]
-
+[r]そして微かな希望を餌に最上層までおびき寄せ、三人一緒に次の世界へ飛ぼうとした。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="snow.jpg"  ]
 [tb_start_text mode=3 ]
-But Yuri became one with Tito. [l][r]
-
-[r]Only Yuri, who stopped playing with me, if not rejecting me, [r]remained.
-
-Only Tito left for the next world. [l][r]
-
+でもユーリはチトとひとつになってしまった。[l][r]
+[r]拒絶しないまでも、遊んでくれなくなったユーリだけが残り、[r]
+チトだけが次の世界へ旅立った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_start_text mode=3 ]
-Despair must have been very impatient. [l][r]
-
-Then he waited for the thousandth chance. [l][r]
-
-[r]But that chance was also squashed by Tito and Yuri. [l][r]
-
-Despairing despair spent time with Yuri, who remained intact. [l][r]
-
+絶望はさぞ焦っただろう。[l][r]
+そして千載一遇のチャンスを待った。[l][r]
+[r]しかしそのチャンスもまたチトとユーリに潰された。[l][r]
+絶望した絶望は、そのまま残ったユーリと時を過ごした。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_start_text mode=3 ]
-And I'm sure they were satisfied. [l][r]
-
+そして、きっと満足したのだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="black.png"  ]
 [bg  time="2500"  method="crossfade"  storage="sky.jpg"  ]
 [tb_start_text mode=3 ]
-The city where despair has disappeared no longer needs Yuri, [l][r].
-
-To the next world, let me take you on a journey. ...... [l][r]
-
+絶望の消えた都市はユーリをもう必要とはしなくなり、[l][r]
+次の世界へと、旅立たせてくれた……。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="camp.jpg"  ]
 [tb_start_text mode=3 ]
-...... Of course, this is just a fairy tale. There is no argument or probability whatsoever. [l][r]
-
-In the end, we don't know anything about the truth, and I doubt if there is even such a thing in the first place[r].
-
- [l][r]
-
-So we are going to make this the truth for now. [l][r]
-
+……勿論、これはただの御伽噺だ。何の論拠も蓋然性もない。[l][r]
+結局真実は何もわからないし、そもそもそんな物があるのかどうかすら疑わし[r]
+い。[l][r]
+だから僕らは、これをとりあえずの真実にしようと思う。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]ecept objections and rebuttals at any time. For the wise Tito will reflect it in the new truth. [l][r]
-
+[r]異論、反証はいつでも受け付けよう。賢いチトがそれを新たな真実に反映してくれるだろうから。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -293,88 +221,63 @@ So we are going to make this the truth for now. [l][r]
 [cm  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-We took care of the bonfire and we looked at the stars. [l][r]
-
+焚き火を始末して、私たちは星空を見た。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-Kanazawa was tired and said he was going to bed early tomorrow and went into his tent. [l][r]
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-Ishii thanked me for coming with him. [l][r]
-
-I said to Ishii, thank you for bringing me. [l][r]
-
+カナザワは疲れていたようで、明日も早いしもう寝るよと言って、自分のテントに入って行った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"...... still awake?" [l][r]
+イシイは私に、一緒に来てくれてありがとうと言った。[l][r]
+私はイシイに、連れて来てくれてありがとうと言った。[l][r]
+[_tb_end_text]
 
-[l][r]"Yeah. Just a little more."[l][r].
-
-Don't let your body get cold."[l][r].
-
-[r]ishii told me this and then went back to his tent. [l][r]
-
+[cm  ]
+[tb_start_text mode=3 ]
+「……まだ、起きてるのか？」[l][r]
+「うん。もうちょっとだけ」[l][r]
+「身体冷やさないようにな」[l][r]
+[r]イシイはそう言ってくれてから、テントに帰って行った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="hosi.jpg"  ]
 [tb_start_text mode=3 ]
-Look up at the sky. [r]
-
-The only stars in sight. [l][r]
-
-After watching for a while, the sound of footsteps echoed in my ears. [l][r]
-
+空を見上げる。[r]
+視界には星しか映らない。[l][r]
+しばらく眺めていると、足音が耳に響いた。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Aren't you going to bed yet?" [l][r]
-
-It was u. [r]
-
-I don't answer with words, but beckon them to come this way. [l][r]
-
+[r]「まだ寝ないの？」[l][r]
+ユーだった。[r]
+私は言葉では答えず、こっちに来るよう手招きする。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Hey hey hey," Yu says, annoyed. [l][r]
-
-Hay is one time, right?"[l][r].
-
-Heeeeey," and with a smile, Yu comes over to stand next to me. [l][r]
-
+[r]「ヘイヘイ」ユーがめんどくさそうに言う。[l][r]
+「ヘイは一回だろ」[l][r]
+「ヘェーーイ」そう言いながら、笑顔で私の隣にユーがやって来る。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-And we both looked at the sky again [r].
-
-I thought I would never be able to see the starry sky again. [l]I thought I would never be able to see again, the starry sky that we would see alone. [l][r]
-
+そして私たちは、二人でもう一度空を見[r]
+た。[l]もう二度と見ることは叶わないと思った、二人だけで見る星空を。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r][r]The air is clear to all and the light falls on us over thousands and thousands of times. [l][r]
-
-[r]I looked at Yoo. Yoo noticed that [r].
-
-Ku. [l][r]
-
+[r]空気はどこまでも澄み渡り、光は幾千幾万もの時を越えて私たちに降り注ぐ。[l][r]
+[r]私はユーを見つめた。ユーがそれに気付[r]
+く。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-
-
-[r]"Come to ......" [r].
-
-I just said. [l][r]
-
+[r]ユーはいつもと変わらない笑顔で、でもほんの少しだけ恥ずかしそうに両手を広げて、[l][r]
+[r]「……おいで」[r]
+とだけ言った。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -384,18 +287,12 @@ I just said. [l][r]
 [tb_show_message_window  ]
 [stopbgm  time="3000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-I said nothing and jumped into his chest. [l][r]
-
-Yoo didn't say anything and hugged me tightly. [l][r]
-
-[r]Soft. It was warm. [l][r]
-
-I heard a heartbeat. [l][r]
-
-It was the music of happiness. [l][r]
-
-[cm]......If seeing, touching and feeling is all there is to the world......[l][r]
-
+私は何も言わず、その胸に飛び込んだ。[l][r]
+ユーも何も言わず、強く抱き締めてくれた。[l][r]
+[r]柔らかかった。温かかった。[l][r]
+心臓の音が聴こえた。[l][r]
+それは、幸せの音楽だった。[l][r]
+[cm]……見て触れて、感じられることが世界のすべてなら……[l][r]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

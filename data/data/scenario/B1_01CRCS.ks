@@ -8,159 +8,106 @@
 [bg  time="1500"  method="crossfade"  storage="fgd.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Let's spoil your chi-chan today. [l][r]
-
+今日はちーちゃんに甘えよう。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Let's play a little prank on Chi-chan today. [l][r]
-
-[r][r]Let's not embarrass Chi-chan today. [l][r]
-
-[r]I'm going to go back to my room today ...... and not see Chi-chan until tomorrow. [l][r]
-
+[r]今日はちーちゃんにちょっといたずらしちゃおう。[l][r]
+[r]今日はちーちゃんを困らせないようにしよう。[l][r]
+[r]今日は自分の部屋に戻って……明日までちーちゃんには会わないでおこう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-My mornings are always like that. The first thing I think about is Chi-chan. My day begins with a strategy meeting about what kind of me I should show Chi-chan today, and what kind of me I should not show her. [l][r]
-
-Of course, I don't think about it too hard. It's a waste of time and calories. Waste of time, waste of calories. Oh, in our world, there are so many calories that we can just throw them in the trash without a care in the world. [l]But I don't want to waste them. I want to use the food I've eaten for something meaningful, don't you? 
-
-[r]Oh, what was I talking about? Oh, yeah, you mean Chi-chan. I know. [l][r]
-
+私の朝はいつもそう。まず最初に考えるのは、ちーちゃんのこと。今日のちーちゃんに、どんな私を見せようか、どんな私を見せないでおこうか、そんな作戦会議から私の一日が始まる。[l][r]
+もちろん、別に難しくなんか考えない。考えたってムダだもんね。時間のムダ、カロリーのムダ。あ、こっちの世界じゃカロリーなんて平気でゴミ箱に捨てるくらい溢れてるんだった。[l]でもやっぱりムダにしちゃうのはイヤだな。せっかくおいしく食べたものは、やっぱ有意義なことに使いたいじゃん？[l][r]
+[r]あれ、何の話だっけ。そうそう、ちーちゃんのことね。分かってるよ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-When I was able to come to this world and meet Chi-chan, I was first of all relieved rather than happy. [l][r]
-
-[r]("Thank God, Chi-chan is still waiting for me.") ....... [l][r]
-
-Why did I think that? [l][r]
-
-I'm glad, now we'll be together forever. There is plenty of good food, a house to live in, clothes to wear, and kind family and friends. We can live happily ever after in this wonderful world. [l][r]
-
-......Why didn't I think of it that way? [l][r]
-
-[cm]Of course I quickly forgot about that and jumped to where I was supposed to be, my special seat. Next to Chi-chan. Right next to Chi-chan. [l][r]
-
-Oh, thank goodness. Now Chi-chan won't go anywhere. I can protect Chi-chan. [l][r]
-
+こっちの世界に来ることができて、ちーちゃんに会えたとき、嬉しいと思うよりもまず、ほっとしたんだ。[l][r]
+[r]（「良かった、ちーちゃんはまだ、待っててくれた」）って……。[l][r]
+何でそんな風に思ったんだろう。[l][r]
+嬉しい、これでずっと一緒だ。おいしい食べ物もいっぱいあって、家や着るものにも困らない、優しい家族や友だちもいる。こんなすてきな世界でずっとずっと幸せに暮らせる。[l][r]
+……何でそんな風に思えなかったんだろう？[l][r]
+[cm]もちろん私はそんなことすぐに忘れて、私のいるべき場所、私の特等席へと飛びついた。ちーちゃんの隣。ちーちゃんのすぐそば。[l][r]
+あー良かった。これでちーちゃんはどこにも行かない。私がちーちゃんを守ってあげられる。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-...... Huh? [l][r]
+……あれ？[l][r]
+私はまた、そんなことを考えてた。何でだろう？[l][r]
+私がちーちゃんを守る？　逆だよそんなの。私がちーちゃんに助けてもらいたくて、会いたくて、仕方なかったんだよ。[l][r]
+だから怖い思いまでして、この世界にやって来たんじゃなかったの？[l][r]
+何かよくわかんないな。うーん……。[l][r]
 
-I was thinking that again. Why is that? [l][r]
-
-I'm going to protect you?　It's the opposite. I wanted to see you, I wanted to be saved by you. [l][r]
-
-Isn't that why you came to this world, even though you were afraid? [l][r]
-
-I'm not sure what it is. Hmmm. ....... [l][r]
-
-
-[cm]It's no use thinking about it. But I think about it. [r]
-
-I quickly forget about it and have a good time. But soon I'll be thinking about it again. [l][r]
-
+[cm]考えてもムダ。でも考えちゃう。[r]
+すぐに忘れて楽しく過ごす。でもまたすぐに思っちゃう。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-That's funny. [l][r]
-
-[r]I have always lived my life without thinking too deeply. Because thinking was the job of smart, chi-chan. [l][r]
-
-I shouldn't think too much. It's always the right idea, chi-chan. ...... At least, for me. [l][r]
-
-And yet, something is different now. [l][r]
-
+おかしいな。[l][r]
+[r]私はいつだって、深く考えずに生きてきた。だって考えるのは頭のいい、ちーちゃんの仕事だったから。[l][r]
+私は深く考えちゃダメだ。いつだって正しいのはちーちゃんの考えだ。……少なくとも、私にとっては。[l][r]
+なのに今は、何かが違ってしまってる。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-...... so my mornings always are. [l][r]
-
-I decide, shallowly and quickly, with my sleepy head. [l][r]
-
-Chi-chan's sleeping face, Chi-chan's smell, [r].
-
-Chi-chan's body temperature, Chi-chan's skin touch [r].
-
-[l][r]. [l][r].
-
-[r]everything I feel will determine my world today. I'll end the strategy meeting immediately, without unnecessary thoughts. [l][r]
-
+……だから、私の朝はいつもそう。[l][r]
+寝起きの頭で、浅く素早く、決めちゃうんだ。[l][r]
+ちーちゃんの寝顔、ちーちゃんの匂い、[r]
+ちーちゃんの体温、ちーちゃんの肌触[r]
+り。[l][r]
+[r]感じることの全てで、今日の私の世界が決まる。よけいな考えを挟まずに、作戦会議はすぐ終わらせる。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="room5_asa.jpg"  ]
 [tb_start_text mode=3 ]
-Okay, then [l][r].
-
-[r]Let's be a lot nicer to Chi-chan today. [l][r]
-
+よし、それじゃ[l][r]
+[r]今日はちーちゃんに、うんと優しくしてあげよう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="white.png"  ]
 [bg  time="1000"  method="crossfade"  storage="tatemono4.jpg"  ]
 [tb_start_text mode=3 ]
-"Hi," [l][r].
-
-As soon as I entered the university grounds, a friend from the same seminar waved me over. [l][r]
-
-Good morning."[l][r].
-
-And I'll give it back to you. Yeah, I'm easy to find because I have hair like this and I'm tall. [l][r]
-
-I had a little trouble with it when I was in middle and high school, but now I'm used to it. I like my father's house in Hungary and I miss it sometimes, but Japan is where I was born, so I still don't want to leave. [l][r]
-
-[r]Above all, I want to be near Chi-chan now. [l][r]
-
-I had a lot of fun because I had a hard time in that world [r].
-
-I want to spend time with you. [l][r]
-
+「はよー」[l][r]
+大学の敷地に入ってすぐ、同じゼミの友達が手を振ってくれた。[l][r]
+「おはよー」[l][r]
+と、私も返す。うん、私こんな髪だし、背も高めだから見つけやすいよね。[l][r]
+中高の頃は少し悩んだりもしたけど、今は慣れっこだ。ハンガリーのお父さん家も好きだしたまに恋しくもなるけど、日本は生まれた場所だからやっぱり離れたくないんだよね。[l][r]
+[r]何より今はちーちゃんのそばにいたい。[l][r]
+あの世界で辛かった分、楽しくたのし[r]
+く、一緒に過ごしたい。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Hey, I have someone I want to please, what would you do for them that's a little out of the ordinary?' [l][r]
-
-I kind of broached the subject. [l][r]
-
-[r]"...... minase you mean?" [l][r]
-
-How do you know? [l][r]
-
-I am taken aback when he suddenly gives me Chi-chan's last name. [l][r]
-
-Hearing her voice, another friend also gathers around. What, are there rumors like that about me and Chi-chan? [l] No, no, it's not like we're dating or anything! [r]
-
-They're like family and they don't live together ......!　Where's the word "real yuri-puru"? [l][r]
-
+「ねえ、喜ばせたい人がいるんだけど、普段とちょっと違うことで、何かしてあげるとしたら、何がいいかな？」[l][r]
+私は何となくそんな話題を振ってみた。[l][r]
+[r]「……ミナセさんのこと？」[l][r]
+「何で分かるの？！」[l][r]
+いきなりちーちゃんの苗字を出されて、私はびっくりする。[l][r]
+その声を聴きつけて、別の友達も集まってくる。え、私とちーちゃんってそんな噂になってるの？！[l]　いやいや、付き合ってるとかそんなんじゃないって！[r]
+家族みたいなもんでさ……同棲してないって！　リアル百合ップルってどこの言葉？！！！[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-My friends and their friends surround me and I'm stuck. I'm in trouble. [l][r]
-
-...... but, well, that's okay. Let's hear all kinds of stories from all kinds of people. [l][r]
-
-I shall be a little wiser too. [r]
-
-Then we might know, right? [l][r]
-
+友達とその友達にも囲まれて、私は身動き取れない。困ったなー。[l][r]
+……でもまあ、いいか。せっかくだし、色んな人の色んな話を聞こう。[l][r]
+私も少しは賢くなろう。[r]
+そしたら分かるかも知れないもんね。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-It's just the way I and Chi-chan travel in this world. [l][r]
-
+この世界での、私とちーちゃんの旅の仕方がさ。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -168,112 +115,76 @@ It's just the way I and Chi-chan travel in this world. [l][r]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m3.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="class.jpg"  ]
 [tb_start_text mode=3 ]
-I was surrounded by friends who taught me many things. [I would give them presents, cook for them, go to a nice restaurant, or go on a trip. Everyone told me how to do each of these things, even down to the detailed plans. [l][r]
-
-You didn't expect them to go this far [r].
-
-I was a little too late for lunch. It was a little past the time I promised to have lunch with Chi-chan. [l][r]
-
+あーだこーだと友達に囲まれて色んなことを教えてもらった。[l]プレゼントをあげる、ご飯を作ってあげる、ちょっといいレストランに行く、旅行に行く。それぞれどうしたらいいのか、細かいプランまでをみんながわいわい教えてくれた。[l][r]
+ここまでされるとは思ってなかったか[r]
+ら、ちょっと時間がかかっちゃった。ちーちゃんとお昼ご飯を食べる約束の時間から少しすぎちゃった。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="hikidoopen.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="rouka4.jpg"  ]
 [tb_start_text mode=3 ]
-[r]When I packed my bags and left the classroom, Chi-chan was right next to the door. I was a little surprised because she said she was going to meet me in front of the cafeteria. [l][r]
-
+[r]荷物をまとめて教室から出ると、ドアのすぐ隣にちーちゃんはいた。食堂前で合流って言ってたから少しびっくり。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Oh, Chi-chan, I'm sorry. I'm a little late."[r]
-
-[l][r]"Yeah. You're a popular guy."[l][r].
-
-After saying this, Chi-chan started to walk away. I felt a cold sensation running down my back as she moved, somewhat rejecting me. But I call out to her, trying to somehow get her back to her normal routine. [l][r]
-
-[r]"Hey, were you watching?　If you want, you could have called out to me."[r]
-
-'It looked like a lot of fun.'[l][r].
-
-It's a bit of a problem when too many people show up."[r]
-
-I see."[l][r].
-
+「あ、ちーちゃんごめんね。少しだけ遅れた」[r]
+「ああ。人気者だもんな」[l][r]
+そう言うとちーちゃんは歩き出した。どこか拒絶を感じる動きに、私の背中を冷たいものが流れていく。でも、どうにかいつも通りに戻そうと私は声をかける。[l][r]
+[r]「ありゃ、見てたの？　なんなら声かけてくれればいいのに」[r]
+「楽しそうだったからな」[l][r]
+「んまぁ、賑やかではあるけど、あんまりいっぱい来られるとちょっと困っちゃうね」[r]
+「そうか」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan doesn't look at me. She is walking one step ahead of me. I am a little scared. But I shouldn't be scared. I've decided to be much kinder to Chi-chan today. [l][r]
-
-I'll tell you what, let's go to a place outside of the school for lunch today. Let's go to a place outside the school for lunch today. I'll buy you a drink!" [l][r]
-
-"...... unusual things to say."[l][r].
-
-I owe Chi-chan a lot, too. I have to return the favor once in a while."[l][r].
-
-I don't think it's going to take me a lifetime to pay you back."[l][r].
-
-'Uhhi, don't say that.'[l][r].
-
+ちーちゃんはこっちを見ない。一歩先を歩いている。少し怖い。でも怖がっちゃダメだ。今日はちーちゃんにうんと優しくしようって決めたから。[l][r]
+「そうだちーちゃん。今日のお昼は学校の外にある場所にいこうよ。私が奢るからさ！」[l][r]
+「……珍しいことも言うもんだ」[l][r]
+「私だってー、ちーちゃんに恩はいっぱいあるからね。たまには返さないと」[l][r]
+「一生掛かっても返しきれなさそうだけどな」[l][r]
+「うひー、そんなこと言わないでよさ」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Back to normal for a bit. It's great to be back to normal when we talk about food. Food is the best. [l][r]
-
-So where are you going?" [l][r]
-
-"Well, I was just told by a girl in my class that if you go out the main gate and turn right, you'll see ......"[r].
-
-I'm not going."[l][r].
-
-"...... eh?" [r]
-
-I'm not going."[l][r].
-
-'Um, chi-chan?　But see, everyone said it was delicious."[l][r].
-
+ちょっといつも通りに戻る。やっぱりご飯の話をするといつも通りに戻れるから素晴らしい。ご飯は最高だ。[l][r]
+「で、どこ行くんだ？」[l][r]
+「えとね、さっき同級生の子に聞いたんだけど、正門出て右に曲がると……」[r]
+「行かない」[l][r]
+「……え？」[r]
+「行かない」[l][r]
+「えっと、ちーちゃん？　でもほら、美味しいってみんな言ってたからさ」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [stopbgm  time="1000"  ]
 [quake  time="200"  count="2"  hmax="5"  wait="true"  ]
 [tb_start_text mode=3 ]
-I said I'm not going!" [l][r]
-
-Chi-chan says in a strong voice. My body jumps in surprise and I stop in my tracks. Chi-chan leaves me behind. [l]I reach out to chase after her back, but my legs don't move. [l][r]
-
-Why, why, why? What's going on? [r]
-
-Did I do something wrong? [r]
-
-What have I done? [l][r]
-
-[r]I don't know. [l][r]
-
-But I have to think about it some more. [l]Chi-chan didn't stop thinking until the very end. So I have to think about it too. [l][r]
-
+「行かないって言ってるだろ！」[l][r]
+ちーちゃんが強い声で言う。私の体がびっくりして跳び跳ねて、足が止まる。ちーちゃんは私を置いて行ってしまう。[l]その背中を追いかけようとして手を伸ばすけど、足が動かなかった。[l][r]
+なんで、なんでだろう。どうしたんだろう。[r]
+私は、なにか悪いことをしたのかな？[r]
+何をしちゃったんだろう。[l][r]
+[r]わかんないよ。[l][r]
+でも、もうちょっと考えてみないと。[l]ちーちゃんは最期まで考えることをやめなかった。だから私も考えてないと。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-...... that. [l][r]
-
-Me, trying to think again. [l][r]
-
-Why is that? [l][r]
-
+……あれ。[l][r]
+私、また考えようとしてる。[l][r]
+なんでだろう？[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="white.png"  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-That night I went to Chi-chan's room after the sun had set. I thought maybe I should leave her alone for a bit, so I went to the library to kill some time. Without Chi-chan, it was ridiculously boring and time seemed to drag on. [l][r]
-
-So I was actually going to leave later, but in the end I couldn't take it anymore and came back. [l][r]
-
+その日の夜、私は日が沈んでからちーちゃんの部屋に行った。少し一人にしておいた方がいいのかなと思って、図書館で時間を潰してみた。ちーちゃんがいないととんでもなくつまらなくて、時間が長く感じた。[l][r]
+だから本当はもっと遅くに帰るつもりだったけど、結局我慢できなくなって帰ってきちゃった。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -281,104 +192,73 @@ So I was actually going to leave later, but in the end I couldn't take it anymor
 [bg  time="2000"  method="crossfade"  storage="room7_n.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m1_piano.ogg"  ]
 [tb_start_text mode=3 ]
-I'm home."[l][r].
-
-I open the door. Usually I get a "welcome home" response, but it doesn't come. I wonder if she is angry. As I'm thinking that, I hear a lilting reply from the back of the room, and the door leading to the room opens. [l][r]
-
-Hiccup, you're too slow, Yurii."[l][r].
-
-A red-faced, wobbly-footed little girl appeared. [l][r]
-
+「ただいまー」[l][r]
+ドアを開ける。いつもならお帰りって返事が来るけど来ない。怒ってるのかな。そう思っていると、奥からひょろひょろした返事が聞こえて、部屋に続くドアが開く。[l][r]
+「ひっく、おそいぞぉ、ゆーりぃ」[l][r]
+顔を赤くして、ふらふらとした足取りのちーちゃんが現れた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'What, Chi-chan, you're drinking!' [l][r]
-
-"Heh heh heh, u daa, toria."[l][r].
-
+「え、ちーちゃんお酒飲んでるの！？」[l][r]
+「っへへへ、ユーだぁ、とりゃ」[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="kicking-shoes-off-1.ogg"  ]
 [quake  time="300"  count="2"  hmax="0"  wait="true"  vmax="8"  ]
 [tb_start_text mode=3 ]
-[l][r]"Wah, wahp!" [l][r]
-
-[r]Chi-chan suddenly hugs me tightly and I involuntarily fall on my butt. [l][r]
-
-I can't wrap my head around a lot of things, but I kind of missed it. [l][r]
-
+「わ、わっぷ！」[l][r]
+[r]ちーちゃんが急にぎゅうと抱きついてきて、私は思わず尻餅をつく。[l][r]
+色々と頭が追い付かないけど、なんとなく懐かしいって思ってしまった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Teka sake kusa, hey chi-chan, chi-chan, get a hold of yourself."[r]
-
-I'm a normal person."[l][r] "What the hell?
-
-"It's not normal. ......"[l][r]
-
-"Nmoh, where have you been, I've missed you, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh."[l][r]
-
-[r]Mugyuu, Chi-chan put her arms around my back and stuck to me. I was surprised to see how strong she was. But I can't move like this, what should I do? [l]I thought so, but then I thought that maybe I should let her spoil me now, and gently pat her head. [l][r]
-
-[r]"Yeah ...... sorry, Chi-chan."[l][r].
-
-Nmooo, ei."[l][r].
-
+「てか酒くさっ、ちょっとちーちゃん、ちーちゃんしっかりして」[r]
+「んだとぉ、私はっぐ、ふつうだぞー」[l][r]
+「普通じゃないよ……」[l][r]
+「んもぉ、どこ行ってたんだよ、さみしかったんだぞ、おらー、こーらー」[l][r]
+[r]むぎゅう、と私の背中に腕を回してちーちゃんはくっついてくる。結構力が強くてびっくり。でもこのままじゃ動けないな、どうしようかな。[l]そう思っていたけど、今は甘えさせてあげた方がいいのかもしれないと考えて頭をそっと撫でる。[l][r]
+[r]「うん……ごめんね、ちーちゃん」[l][r]
+「んーもぉー、えい」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-A hand is pushed into my cheek. I'm in trouble because I've been squeezed so hard. [Don't pull it. Don't do it just because it extends well. [l][r]
-
-[r]"Anyway, Sachi-chan, can we get moving now?　Hey, please."[l][r] "Please.
-
-'Mmmph. All right."[l][r].
-
-Sluggishly, Chi-chan stands up. [r]
-
-But his legs were wobbly and it was unsettling to watch. [l][r]
-
+ぺち、とほっぺに手が押し込まれる。むにむにと揉みくちゃにされてしまって困る。[l]あいてて、引っ張らないで。よく延びるからってやらないで。[l][r]
+[r]「とりあえずさちーちゃん、そろそろ動いていいかな？　ね、お願いだから」[l][r]
+「んふー。いいだろぅ」[l][r]
+のっそりとちーちゃんは立ち上がる。[r]
+でも足がふらふらしていて見ていて不安になった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="room9_2.jpg"  ]
 [tb_start_text mode=3 ]
-Gently propping up his shoulder, he entered the room and found six empty cans of beer. [l][r]
-
-[r]"Oh my God, I drank so much!" [l][r]
-
-I was so lonely that I resorted to baiting myself.
-
+そっと肩を支えて部屋に入ると、缶ビールが六つも空いていた。[l][r]
+[r]「こ、こんなに飲んじゃったの！」[l][r]
+「さみしいからー、おさけにたよっちゃったへへへ」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-Chi-chan eats my hair. One word: "Yummy. [l][r]
-
-"Chi-chan ......" [l][r].
-
-It's good, it's the best raw."[l][r].
-
-"............ I guess so."[l][r]
-
+もさもさと私の髪の毛を食べるちーちゃん。うまいとひと言。[l][r]
+「ちーちゃん……」[l][r]
+「うまいぞぉ、生が一番だぜ」[l][r]
+「…………そうだね」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I squeezed Chi-chan's hand as she rubbed my cheek happily. Chi-chan gives me a squeeze. I'll go out with you. [l][r]
-
-I picked up an unopened beer that caught my eye. [l][r]
-
+私の頬を楽しそうに揉むちーちゃんの手をぎゅっと握る。えへへとちーちゃんは私に頬ずりしてくる。付き合ってあげよう。[l][r]
+私は目に入った未開封のビールを手にとった。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="opening-drinking-can-1.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="room5_n.jpg"  ]
 [tb_start_text mode=3 ]
-[r]I think it was then. Chi-chan started drinking a lot. [l][r]
-
+[r]そのときからだったかな。ちーちゃんはよくお酒を飲むようになった。[l][r]
 [_tb_end_text]
 
 [cm  ]

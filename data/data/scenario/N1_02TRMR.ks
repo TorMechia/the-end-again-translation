@@ -5,18 +5,12 @@
 [bg  time="1500"  method="crossfade"  storage="curtain.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Here we are."[l][r].
-
-Kanazawa invites me into his hospital room. I hear the faint sound of breathing. The curtains are closed. Behind them, he is there. [l][r]
-
-Why is it so quiet when I'm supposed to be at ......? [l][r]
-
-[r]The sheer quietness of the place makes me hesitate as I try to take a step forward. [l][r]
-
-[r]I felt like if I saw that, something tremendous would weigh on me [r].
-
-............ scary. [l][r]
-
+「ここだよ」[l][r]
+カナザワが私を病室に招き入れる。かすかな呼吸音が聞こえる。閉じられたカーテン。その向こうに、あいつはいる。[l][r]
+……いるはずなのに、なんでこんなに静かなんだ？[l][r]
+[r]そのあまりの静けさに、私は一歩を踏み出そうとして躊躇ってしまう。[l][r]
+[r]それを見たら、とてつもない何かが重くのしかかりそうな気がして[r]
+…………怖い。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -26,25 +20,16 @@ Why is it so quiet when I'm supposed to be at ......? [l][r]
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Gulp and swallow spit. [r]
+ごくりと唾を飲みこむ。[r]
+それでも、見る。[r]
+カーテンの向こう、ベッドの上で横になっているその人を見る。[l][r]
+ウェーブのかかった金髪、じっと天井を見つめる空色の瞳。見間違えるはずもない。[l][r]
 
-Still, look. [r]
-
-Behind the curtains, I see that person lying on the bed. [l][r]
-
-Wavy blond hair, sky-blue eyes staring at the ceiling. There is no mistaking them. [l][r]
-
-
-[r]"............ you?" [l][r]
-
-I called out softly. Yuri, who seemed to be just lying there staring at the ceiling, reminded me for a moment of the way he looked on the back of the Kettenkrath. [l][r]
-
-But no. Not at all. [l][r]
-
-I called out in his ear many times. But he didn't respond to any of them. It was as if ......[l][r]
-
-[cm] It's as if only the soul has left. [l][r]
-
+[r]「…………ユー？」[l][r]
+私はそっと呼びかけた。ただ横になって天井を見つめているだけのように見えるユーリの姿は、一瞬ケッテンクラートの荷台に乗っているときの様子を彷彿させた。[l][r]
+でも、違う。全然違う。[l][r]
+何度も耳元で呼びかけた。でも、何ひとつ反応しなかった。まるで……[l][r]
+[cm]まるで魂だけが抜けてしまっているみたいに。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -56,50 +41,35 @@ I called out in his ear many times. But he didn't respond to any of them. It was
 [bg  time="2000"  method="crossfade"  storage="fgd.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Kubo Yuri was a girl born to Hungarian and Japanese parents of Japanese descent. [l][r]
-
-He was born in Japan and grew up in a reasonably well-to-do family with residences in Hungary and Japan. [l][r]
-
-For some reason, she has loved guns since she was a little girl. She has been on a rampage with a homemade rubber gun since childhood. [l][r]
-
-Eventually it was replaced by toy guns, which were replaced by airsoft guns, which were replaced by competition rifles by the time they reached high school age. [l][r]
-
-Her talent was head and shoulders above the rest of her age group, she said. She shot through any difficult target. She was a genius and she knew it. She truly loved guns and competition. [l][r]
-
-[r] also. [l][r].
-
+クボ・ユーリは日系ハンガリー人と日本人の両親の間に生まれた女の子だった。[l][r]
+日本で生まれ、ハンガリーと日本に住まいを持ち、それなりに裕福な家庭で伸び伸びと育った。[l][r]
+彼女はなぜか、小さな頃から銃が好きだった。子どもの頃からお手製のゴム鉄砲を持って大暴れしていたらしい。[l][r]
+やがてそれは玩具の銃に代わり、エアソフトガンに代わり、高校生になった時点で、競技用のライフルへと代わった。[l][r]
+彼女の才能は同年代の選手達の中では頭一つ抜け出していたそうだ。どんな難しい標的も射抜いた。彼女は天才で、彼女自身もそれを自覚していた。彼女は本当に銃と競技が好きだった。[l][r]
+[r]でも。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-After one morning, she apparently could no longer carry a gun. [l][r]
-
-We still don't know all the details. His parents and schoolmates have told me that Yuri is no longer able to grip and hold it, even though it is a competition gun ...... that shoots only a safe beam of light for judging, with no danger whatsoever. [l][r]
-
-[r]To begin with, right after she woke up in the morning, she was acting somewhat strange, which Yuri's mother described as "a little bit like a different person. [l][r]
-
+ある朝を境に、彼女は銃が持てなくなったらしい。[l][r]
+詳しいことまではまだ分からない。ご両親や学友からの話だと、競技用の銃……それこそ何の危険もない、安全な判定用の光線を放つだけの銃なのに、ユーリはそれを握って構えることもできなくなってしまったそうだ。[l][r]
+[r]そもそも朝、眼を覚ました直後から彼女はどこか様子が変で、それをユーリのお母さんは「少し、人が変わったみたい」だったと表現した。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Anyway, Yuri was also unable to participate in the tournament he was apparently looking forward to. [l][r]
-
-She was forced to take time off from club activities, went to the hospital, and even investigated her own symptoms, but the cause remains unknown. [l][r]
-
-[r]And then one day after a few more days, [l][r]
-
+とにかく、ユーリは楽しみにしていたらしい大会へも出場できなかった。[l][r]
+部活も休まざるを得なくなり、病院へ行ったり、自分で症状を調べたりもしていたそうだけれど、原因は依然不明。[l][r]
+[r]そして、さらに数日が経ったある日、[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="locker.jpg"  ]
 [tb_start_text mode=3 ]
-She was found lying on the floor of the club room. [l][r]
-
-Her beautiful blue eyes, wet with tears, remain open. [l][r]
-
-The only thing he said was that he had barely stopped breathing. [l][r]
-
+彼女は部室の床に倒れている状態で見つかった。[l][r]
+綺麗な碧い瞳を、涙で濡らして見開いたまま。[l][r]
+呼吸だけは、辛うじて止まっていなかったそうだ。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -107,22 +77,16 @@ The only thing he said was that he had barely stopped breathing. [l][r]
 [bg  time="3000"  method="crossfade"  storage="sleepy.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Tito stares at his partner, who is lying in bed, unable to speak or move. [l][r]
-
-I couldn't tell what the hell kind of face was staring at Yuri from behind me. [l][r]
-
-[r]The immediate cause of Yuri's coma was that he hit his head hard when he fell to the floor. [l][r]
-
-Fortunately, she was not fatally injured. However, she would not wake up. She should be able to wake up anytime, but she refuses to wake up as if she is refusing to do something. [l][r]
-
+ベッドに横になり、話すことも動くこともできなくなった相棒をチトはじっと見つめる。[l][r]
+いったいどんな顔をしてユーリのことを見つめているのか、後ろにいる僕には判らなかった。[l][r]
+[r]ユーリが昏睡してしまった直接的な原因は、床へ倒れたときに頭部を強くぶつけたことだという。[l][r]
+幸い命に別状はなかった。しかし彼女は目覚めない。いつ起きてもいいはずなのに、まるでなにかを拒むかのように目覚めないそうだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Tito offered to leave them alone for a bit. [r]
-
-Yeah, I guess I need some time to think about it. ...... [l][r]
-
+チトは少し二人きりにしてほしいと申し出た。[r]
+ああ、考える時間は必要だろうね……。[l][r]
 
 [_tb_end_text]
 
@@ -132,111 +96,77 @@ Yeah, I guess I need some time to think about it. ...... [l][r]
 [bg  time="3000"  method="crossfade"  storage="tatemono1.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Once my wife and I left the room, we joined Ishii-san, who was talking with Yuri's parents, and decided to exchange ideas in the courtyard space. [l][r]
+僕と妻は一旦部屋を出ると、ユーリの両親と話していたイシイさんと合流し、中庭のスペースで意見交換をすることにした。[l][r]
 
-
-[r]"If there is a godlike being that produced such a result, I'd like to be cursing him forever."[l][r]"I'd like to be cursing him forever.
-
-I agree."[l][r].
-
+[r]「こんな結果を生んだ神のような存在がいるのなら、僕は永遠に罵声を浴びせたいですよ」[l][r]
+「同感だ」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-With a mixture of exasperation and melancholy on his face, Ishii agreed. [r]
-
-My wife is in tears because the reunion is too cruel. [l][r]
-
-[r]Yes, that's right. How could there be such a cruel reunion? When I heard Yuri's details, I couldn't stop shaking. [l][r]
-
-And I wondered many times how to tell Tito about this, and whether it would be better not to tell him. [l][r]
-
-[r][r]But that girl has good instincts, she must have realized it sooner or later. [l][r]
-
+憤りと哀愁を混じらせた顔で、イシイさんは同意してくれた。[r]
+妻はあまりにも残酷すぎる再会に、涙ぐんでしまっている。[l][r]
+[r]そうとも。こんな残酷な再会があってたまるか。ユーリの詳細を聞いたとき、震えが止まらなかった。[l][r]
+そして、チトにこのことをどう伝えればいいのか、伝えない方がいいのではないかと何度も思った。[l][r]
+[r]だが、勘のいいあの少女のことだ、いずれ気づいたに違いないだろう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-How did you talk to Yuri's parents [r]?"
-
-ka?" [l][r]
-
-I told him that Yuri had taken care of us in the past," he said.
-
-I was a very good person. Of course, I couldn't say, 'Thank you for taking care of me in my previous life.' [l][r]
-
-But the parents didn't pursue it deeply. For those two, it's like what she was looking for finally showed up."[l][r].
-
-[r]eally, Mr. Ishii held out a notebook to me. Is this ......? [l][r]
-
+「ユーリの両親には、どう話したんです[r]
+か？」[l][r]
+「とりあえず当たり障りなく、私たちは過去にユーリに世話になった、と伝え[r]
+た。もちろん、『前世で世話になりました』なんて言えなかったよ。[l][r]
+でも、親御さんは深くは追求してこなかった。あの二人からしたら、ようやく彼女の求めていたものが現れたようなものだからな」[l][r]
+[r]そう言って、イシイさんは一冊のノートを差し出した。これは……？[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-It's a diary that Yuri used to write in. But it's not just a diary, it's a jumble of notes from treatment and other things and all sorts of other things [r].
-
-Ga" [l][r].
-
-Mr. Ishii opens his notebook and points to a letter. [r]
-
-It was written there as follows. Kanazawa Ishii. [l][r]
-
-It wasn't just here. There were several other pages with our names on them. Perhaps they were writing in remembrance of us they met on the other side. [l][r]
-
-Yuri's parents looked at each other in surprise when I said my name and lent me this note."[l][r].
-
-...... I see. I wonder if Yuri's parents are somewhat convinced of our connection to her because of such a note. [l][r]
-
+「ユーリが書いていた日記だ。と言っても、日記以外にも治療のメモや他の物と色々ごちゃごちゃに書かれているんだ[r]
+が」[l][r]
+イシイさんはノートを開き、ある文字を指差す。[r]
+そこにはこう書かれていた。カナザワ　イシイ　と。[l][r]
+「ここだけじゃない。他のページにもいくつか私たちの名前が書かれていた。恐らく、向こうの世界で会った私たちを思い出して書いてたんだろう。[l][r]
+ユーリのご両親は私が名乗ったとき、驚いた顔で見合わせて、このノートを貸してくれた」[l][r]
+……なるほど。そんなノートがあったから、ユーリのご両親も彼女と僕たちとの繋がりを、ある程度は納得してくれてるのか。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"He asked me to give this note to 'Chi-chan.' He asked me to please help him if that child would wake up."[l][r].
-
+「このノートを『ちーちゃん』に渡してほしいと言われた。あの子が目覚めてくれるなら、どうか助けてほしいと」[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
-I open my notebook to read the section that is marked with a foreshadowing line. Perhaps it is a key page. [l][r]
-
-I remember the first day I came here, the day I had counseling ...... and then ...... this is ......... ... [l][r]
-
+僕はノートに伏せんが張られている箇所を開いて読む。恐らく鍵になりそうなページなのだろう。[l][r]
+こちらに来て最初の日の記憶、カウンセリングを受けた日……それから……これは…………。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
- [l][r]
-
-But for me, it was heartbreaking. [l][r]
-
+[r]伏せんが張られていた箇所はそう多くはなかった。[l][r]
+でも僕は、胸が張り裂けそうになった。[l][r]
 
 
-"I think she's going to have an even harder time when she sees ...... this."[r]
-
-'But Tito will read it. If he finds out about the existence of this notebook, he will come snatching it with the face of a demon."[r]
-
-"...... I see."[l][r]
-
+「……これを見たら、彼女はさらに辛くなると思いますよ」[r]
+「でも、チトは読むだろう。このノートの存在を知れば、鬼の顔でひったくりに来る」[r]
+「……そうですね」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I close my notebook and return[r] it to Mr. Ishii.
-
-I breathe out heavily and put my hand on my forehead. Sigh, exhale loudly and put your hand on your forehead. [l][r]
-
-I stand corrected when I said earlier that if there is a godlike being that produced this outcome, I'm willing to take all the abuse I can get."[l][r].
-
-I clench my hands together. I clenched my hands tightly and firmly. My clenched fist trembled as if it spoke for my emotions. [l][r]
-
+僕はノートを閉じて、イシイさんに返[r]
+す。はぁ、と大きく息を吐いて額に手を当てる。[l][r]
+「さっき、こんな結果を生んだ神のような存在が居るのなら、僕はいくらでも罵声を浴びせたいと言いましたが、訂正します」[l][r]
+ぎり、と手を握りしめる。強く強く握りしめる。握りしめた拳が、僕の感情を代弁するかのように震えた。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-I'd love to shout abuse at them and then blow them up with all the explosives I could find."[l][r].
-
+「罵声を浴びせた上で、ありったけの爆薬で吹き飛ばしてやりたいですよ」[l][r]
 [_tb_end_text]
 
 [cm  ]

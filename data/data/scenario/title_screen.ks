@@ -4,8 +4,7 @@
 
 [bg  time="500"  method="rollIn"  storage="headset.gif"  ]
 [tb_start_text mode=4 ]
-[nolog]end[endnolog][l].
-
+[nolog]終末[endnolog][l]
 [_tb_end_text]
 
 *titele_0
@@ -98,16 +97,11 @@ localStorage.clear();
 [bg  time="1000"  method="crossfade"  storage="manual.jpg"  ]
 [clickable  storage="title_screen.ks"  x="0"  y="0"  width="400"  height="600"  target="*title_1"  ]
 [s  ]
-[glink text="To root branch" x="24" y="320" target="*daibunki" width="" height="" _clickable_img="" size="18" storage="OF_scene5.ks"]
-
-[glink text="ending" x="12" y="210" target="*t_end_start" width="" height="" _clickable_img="" storage="Yume_scene3.ks" size="20"]
-
-[glink text="From OneFine" x="12" y="290" target="" width="" height="" _clickable_img="" storage="OF_scene1.ks" size="20"]
-
-[glink text="even if everything is from" x="12" y="370" target="" width="" height="" _clickable_img="" storage="Yume_scene1.ks" size="20"]
-
-[glink color="black" storage="" size="20" text="Save Data Clear" target="*clear" x="12" y="530" width="" height="" _clickable_img=""]
-
+[glink  text="ルート分岐へ"  x="24"  y="3２0"  target="*daibunki"  width=""  height=""  _clickable_img=""  size="18"  storage="OF_scene5.ks"  ]
+[glink  text="エンディング"  x="12"  y="210"  target="*t_end_start"  width=""  height=""  _clickable_img=""  storage="Yume_scene3.ks"  size="20"  ]
+[glink  text="OneFineから"  x="12"  y="290"  target=""  width=""  height=""  _clickable_img=""  storage="OF_scene1.ks"  size="20"  ]
+[glink  text="たとえ全てがから"  x="12"  y="370"  target=""  width=""  height=""  _clickable_img=""  storage="Yume_scene1.ks"  size="20"  ]
+[glink  color="black"  storage=""  size="20"  text="セーブデータクリア"  target="*clear"  x="12"  y="530"  width=""  height=""  _clickable_img=""  ]
 *sslect
 
 [chara_hide_all  time="500"  wait="false"  ]

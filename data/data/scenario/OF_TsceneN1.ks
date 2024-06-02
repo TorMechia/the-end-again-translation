@@ -4,45 +4,29 @@
 [bg  time="1000"  method="crossfade"  storage="zetu4.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-'Do you have a good idea ......?　I don't think there is. You can't come up with it' [l][r].
-
-In a clear voice, 'that guy' said. [l][r]
-
-[r]"Better yet, why don't you try to remember　How lonely you were in that other world. Why don't you sympathize with them?　To Yuri's loneliness."[r]
-
-The "that guy" in my shape [r] quietly approached me.
-
-Ku. [l][r]
-
+『いい考えでもあるの……？　あるわけないよね。君には思いつけない』[l][r]
+はっきりとした声で、『そいつ』がそう言った。[l][r]
+[r]『それより、思い出してみたら？　あっちの世界で、君がどれだけ寂しかったのかを。共感してあげたら？　ユーリの寂しさに』[r]
+私の姿をした『そいつ』がそっと近づ[r]
+く。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'What did you think of your time over there? [r]
+『君はあっちの世界で過ごしてどう思ったの？[r]
+路地に捨てられた食べ物、味のついた飲み物しか飲まない友人たち、好き嫌いをして食事を残す人たちを見て、本当はどう思ってたの？』[l][r]
 
-How did you really feel when you saw food dumped in alleys, friends who only drank flavored drinks, and people who left their food because they didn't like it?" [l][r]
+[r]そいつは挑戦的な、それでいてどこか優しげな笑みを浮かべて、言葉を続ける。[l][r]
+『そして君は毎日温かい食事を摂って、毎日温かいお風呂で清潔なお湯をたっぷり浴びて、柔らかいタオルで身体を拭ける。[r]
+ねぇ？　ユーリに申し訳ないと思わなかったの？』[l][r]
 
+[cm]やめろ！　そうさ、そう思ったさ。　そう思ったから、私は今まで必死にやって来たんだ！[l][r]
+ユーも、ユーもあっちの世界に……現代に連れて来るために、自分を悔やんで、考えて、今までを生きてきたんだ！[l][r]
+『なら、言えばいいじゃない。たった一言』[l][r]
+嫌だ！　私は、ユーにそんなことは言えない。言うわけがない！[l][r]
 
-[r]That guy smiles a challenging, yet somehow gentle smile and continues to speak. [l][r]
-
-'And you can eat a hot meal every day, take a warm bath every day with plenty of clean water, and wipe yourself with a soft towel.' [r]
-
-Hey?　Didn't you feel sorry for Yuri?" [l][r]
-
-
-[cm] Stop!　Yes, I thought so.　That's what I thought, that's why I've been trying so hard! [l][r]
-
-I've been living my life up to now, regretting myself and thinking about it, to bring you and you to the ...... present day in that world over there! [l][r]
-
-'Then just say it. Just one word."[l][r].
-
-I don't want to!　I can't say that to u. There is no way I would say that! [l][r]
-
-
-[r]"Then you're going to be over here forever, right?　It could be your first and last chance, you know? [r]
-
-If you miss this, you're going to live in that world over there, feeling sorry for YOU again, okay?" [l][r]
-
+[r]『それじゃあ、ユーはずっとこっちにいることになるんだよ？　最初で最後のチャンスかもしれないんだよ？[r]
+これを逃したら、君はまたユーに申し訳ないと思いながら、あっちの世界で生きていくんだよ？』[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -50,69 +34,46 @@ If you miss this, you're going to live in that world over there, feeling sorry f
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m4_musicbox.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="zetu5.jpg"  ]
 [tb_start_text mode=3 ]
-I know, I know, I know, and now I'm trying to figure out how. Don't push your ideas on me! [l][r]
+分かってる、分かってるから今、方法を考えているんだ。お前の考えを押し付けてくるんじゃない！[l][r]
+[r]『さっきから子どもみたいに否定するばかり。考える時間はあったよ。[r]
+でも君は、ユーを連れて来る方法をひとつも思い付いていないんだよ？』[l][r]
 
-[R]"You've been denying it like a child since a while ago. I've had time to think. [r]
-
-But you haven't come up with a single way to bring u?" [l][r]
-
-
-Before I knew it, Moya had transformed into an adult version of me. Even though we are almost at the same eye level, I feel an overwhelming sense of intimidation. [r]
-
-No matter what I do, no matter what I plead, nothing seems to reach him, and my heart is soaked in despair. [l][r]
-
+いつのまにか、もやは大人になった私の姿へと変化していた。ほぼ同じ目線なのに、圧倒的な威圧感を感じる。[r]
+何をしても、何を訴えてもなにも届かなそうなその姿に、私の心が絶望に浸されていく。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="zetu6.jpg"  ]
 [tb_start_text mode=3 ]
-I don't think that's really going to save u.'[r].
-
-U?" [l][r]
-
-The "I" reaches out a hand. I touch her cheek. The eyes that stare into mine seem to see right through me, and I can't move. [l][r]
-
-[r]"How did it feel to live with such thoughts alone?" [l][r]
-
-I slide my hand down and stroke his neck. The unexpectedly gentle movement confounds me. [l][r]
-
-[r]"I have been thinking of you, longing for you, regretting and cursing myself for leaving you behind and coming here."[l][r]"I have been thinking of you, longing for you, regretting and cursing myself for leaving you behind and coming here.
-
- [l][r]
-
-[cm]"And I didn't come up with anything, you know. Of course it's hard."[l][r]
-
+『そんなので本当にユーを救えると思[r]
+う？』[l][r]
+『わたし』が手を伸ばす。すっと頬に触れる。じっと見つめるその目は、私のすべてを見透かしているかのようで身動きが取れなくなる。[l][r]
+[r]『独りそんな想いをかけて生きる気分はどうだった？』[l][r]
+わたしは手を滑らせ、首筋を撫でる。予想外に優しい動きに、私は戸惑う。[l][r]
+[r]『ユーを想って、焦がれて、ユーを遺してこちらに来てしまった自分を悔やみ、呪い続けてきて』[l][r]
+ずっ、とわたしが顔を近づける。[l][r]
+[cm]『それで、なにも思い付かなかったんだからさ。辛いに決まってるよね』[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="snow1.ogg"  ]
 [wait  time="1000"  ]
 [quake  time="100"  count="3"  hmax="0"  wait="true"  vmax="5"  ]
 [tb_start_text mode=3 ]
-Something pierced my chest. My legs lost their strength and I just crumpled down. [l][r]
-
-So ...... then what should I ...... do? ......[l][r]
-
-'All you have to do is accept what I say.'[r]
-
-I'm not going to do that! [l][r]
-
-'But you don't know, do you?　Then why don't you ask?　Why don't you just ask for advice?"[r].
-
-To whom! [l][r]
-
+私の胸を、なにかが貫いた。足が力を失って、そのまま崩れ落ちる。[l][r]
+じゃあ……じゃあ私はどうしたら……いいんだ……[l][r]
+『わたしの言うことを受け入れればいいんだよ』[r]
+そんなことしてたまるか！[l][r]
+『でも、君にはわからないんでしょ？　なら、聞いてみたら？　相談すればいいじゃない』[r]
+誰に！？[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="zetu6C.jpg"  ]
 [tb_start_text mode=3 ]
-'...... even your most trusted, your favorite Yuri.'[l][r].
-
-[r]u ask ......? [l][r]
-
-[r]"I'm sure Yoo, who has the same feelings for you, will answer you. Kind Yuri. [r]
-
-Your own, my own ...... you" [l][r].
-
+『……君が一番信頼している、君の大好きなユーリにでもさ』[l][r]
+[r]ユーに……聞く？[l][r]
+[r]『同じ想いを抱いたユーなら、きっと答えてくれるよ。優しいユーリ。[r]
+君だけの、わたしだけの……ユー』[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -122,57 +83,37 @@ Your own, my own ...... you" [l][r].
 [bg  time="3000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"Chi-chan, are you okay ......?" [l][r]
-
-Yoo's voice hit my eardrums. [l][r]
-
-The "I" also appears as a light gray "haze" [r].
-
-too, disappeared before I knew it. I looked to the side and saw Yu staring at me with a worried look on his face. [l][r]
-
-[r]"I don't know ......" [l][r].
-
-What should I say, what should I do, what is the right thing to do? [l][r]
-
-"I'm sorry, I don't know ....... ......"[r]
-
-I didn't know what to expect. [l][r]
-
-"Chi-chan ......" [r].
-
-Tears, I couldn't stop. [l][r]
-
+「ちーちゃん、大丈夫……？」[l][r]
+ユーの声が、私の鼓膜を叩いた。[l][r]
+『わたし』の姿も、薄灰色の『もや』[r]
+も、いつの間にか消えている。はっとして横を見ると、ユーが心配そうな顔で私をじっと見つめていた。[l][r]
+[r]「……わからない」[l][r]
+私は、何て言ったらいいのか、どうしたらいいのか、なにが正解なのか。[l][r]
+「ごめん……わからないんだよ……」[r]
+なにもかも、わからなくて。[l][r]
+「ちーちゃん……」[r]
+涙が、止まらなかった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="gear.jpg"  ]
 [tb_start_text mode=3 ]
-"I'm sorry ...... yu ...... hhh."[l][r]
-
-Oh no, I don't want them to see me like this. I rub my eyes to stop the tears. But they don't stop. I feel a chill. I remember this feeling. [l][r]
-
-[r][r]Hopelessness is trying to swallow me up. [l][r]
-
-[r]u reaches out and tries to wipe away my tears, but it grabs the sky. It's okay, Yu. You don't have to try to comfort me. [l][r]
-
-Still, Yoo was kind. Even though he knew there was nothing he could do, he gently cuddled me. [l][r]
-
+「ごめんっ……ゆー……ひっぅ」[l][r]
+やだ、こんなの見られたくない。私は涙を止めようと目元を擦る。でも、止まらない。寒気がする。この感覚、ああ、覚えている。[l][r]
+[r]絶望が、私を飲み込もうとしているんだ。[l][r]
+[r]ユーが手を伸ばして、私の涙を拭き取ろうとして、でもそれは空を掴む。いいんだよ、ユー。無理に慰めようとしなくても。[l][r]
+それでも、ユーは優しかった。何もできないとわかっていても、そっと私に寄り添ってくれた。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Chi-chan, it's all right.'[l][r].
+「ちーちゃん、大丈夫だよ」[l][r]
+「……ありがとう、ユー」[l][r]
 
-"......Thank you, u."[l][r].
-
-
-[r]I put my own hand over Yoo's hand. Unfortunately, I still can't touch it. But I could feel Yoo's warmth. [l][r]
-
-That really made me happy and frustrated, and a sense of helplessness surrounded me that I couldn't control now. [l][r]
-
-[r]Another tear spilled. [l][r]
-
+[r]私はユーの手に自分の手を重ねる。残念ながら触れることはやはりできない。でも、ユーの温もりは、しっかりと感じることができた。[l][r]
+それが本当に嬉しくて、もどかしくて、今の自分ではどうすることもできない無力感が私を包んで。[l][r]
+[r]またひとつ、涙がこぼれた。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -185,47 +126,34 @@ That really made me happy and frustrated, and a sense of helplessness surrounded
 [bg  time="2000"  method="crossfade"  storage="sinen.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Something, something warm touched my face. [l][r]
-
-I open my eyes. The round outline of the image is blurred. [l][r]
-
+顔に何か、温かいものが触れた。[l][r]
+私は目を開ける。丸い輪郭がぼやけて映った。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hospital.jpg"  ]
 [tb_start_text mode=3 ]
-"Tito ......!　Tito ......!　......Good ......," the round outline said[r].
-
- [l][r]
-
-The round outline wore square glasses, and from the narrow eyes behind them, tears were overflowing[r].
-
- [l][r]
-
-[r]"Ishii ...... here, where?" [l][r]
-
-'It's a hospital,' Kanazawa, standing in the back, informed me. [r]
-
-Ishii holds my head to his chest and cries like it's on fire. [l][r]
-
-I stroked Ishii's head and explained briefly what had happened so that it would fit within the visiting hours. [l][r]
-
+「チト……！　チトっ……！　……良かった……」丸い輪郭がそう言ってくれ[r]
+た。[l][r]
+丸い輪郭は四角い眼鏡をかけていて、その奥の細い目から、涙を溢れさせてい[r]
+た。[l][r]
+[r]「イシイ……ここ、どこ？」[l][r]
+「病院だよ」と、奥に立っていたカナザワが教えてくれた。[r]
+イシイは私の頭を胸に抱いて、火がついたように泣いている。[l][r]
+私はイシイの頭を撫でてあげながら、面会時間内に収まるよう手短にことの経緯を説明した。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Eventually, visiting hours were over and everyone pulled out. My parents from this side of the world will be arriving here soon, Kanazawa's wife told me. [l][r]
-
-[r]I said to my mother, "I'm fine. Don't worry," and when I was done, I closed my eyes. [l][r]
-
+やがて面会時間が終わって皆が引き上げる。私のこっちの世界の両親も、もうすぐここに着くそうだと、カナザワの奥さんが教えてくれていた。[l][r]
+[r]私は母に「大丈夫。心配しないで」と連絡し、それが終わると目を閉じた。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]Once more ...... just one more time, to look back. [l][r]
-
+[r]もう一度……もう一度だけ、振り返るために。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -234,120 +162,77 @@ Eventually, visiting hours were over and everyone pulled out. My parents from th
 [bg  time="2000"  method="crossfade"  storage="bigwall_k.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-You, now we're talking about me."[l][r].
+「ユー、今度は私のことを話す」[l][r]
+[r]私はユーに自分が今いる世界のことを話した。食べ物にも、気温にも困らない世界。[l][r]
+そこにはイシイやカナザワも居ること。そこに来てから、ユーを探すために色々思考し、そして生まれた私の仮説を。[l][r]
 
-[r]I told Yu about the world I am in. A world where you don't have to worry about food or temperature. [l][r]
+[cm]「つまり、私が死んじゃえばちーちゃんに会えるってこと？」[l][r]
+「言い方が直球すぎだけど……でも、今までのことを考えたら、そうとしか思えないかも。[l][r]
+イシイも最後の意識が途絶えたらあっちに居たらしいし、私も最後に眠って起きたら……」[l][r]
+「そっかー。じゃあ私も死のう！」[l][r]
+[r]思い立ったが吉日、とでも言いそうな勢いでユーが立ち上がる。まてまて、違う。最後まで話を聞け。[l][r]
 
-That Ishii and Kanazawa are also there. Since I came there, I have done a lot of thinking to find Yoo, and my hypothesis that was born. [l][r]
-
-
-[cm]"Does that mean that if I die, I get to meet Chi-chan?" [l][r]
-
-"I know it's too direct to say, ...... but after all we've been through, it might seem that way. [l][r]
-
-I heard that Ishii was over there when he lost consciousness for the last time, and I was over there when I went to sleep for the last time and woke up. ......"[l][r].
-
-I see. Then I'll die too!" [l][r]
-
-[You stand up, as if to say, "The moment I think of it, it's a good day. Wait, wait, no. Listen to me until the end. [l][r]
-
-
-[cm] "Why?　If I die, you'll see Chi-chan, right?" [l][r]
-
-"You're still seeing him. ......"[r]
-
-But you can't touch it."[l][r].
-
-[r]huffing and puffing, Yoo replies with a twinkle in his eye. No, wait, what are you so happy about killing yourself? [l][r]
-
+[cm]「なんで？　私が死んじゃえばちーちゃんに会えるんでしょ？」[l][r]
+「今も会ってるだろ……」[r]
+「でも触れないじゃん」[l][r]
+[r]ふんすふんすと、目を輝かせてユーは答える。いや待てよ、お前なに自害することを喜んでるんだよ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'No, yes, but ...... no, wait, no. [r]
+「いや、そうだけど……いやまてまて、そうじゃない。[r]
+とりあえず話を聞いてくれ」[l][r]
+[r]意気込むユーをとにかく止めて、私はあくまでも『仮説』であるということを前提に話を付け加える。[l][r]
+自害した場合は例外かもしれない、同じ街にいるとは限らないなど。そういった不安要素も含めてユーに説明する。[l][r]
 
-Just listen to me for now."[l][r].
+[r]「だから、最終的に決めるのはお前だ。見たところそっちは充実しているみたいだし、寿命まで全うしてから来るのも全然いいと思う」[l][r]
+「んー、それもありかもね」[l][r]
 
-[r]I'll stop the enthusiastic yoo anyway and add to the story that I am only 'hypothetical'. [l][r]
-
-If he harmed himself, he might be an exception, he might not be in the same city, etc. I will explain to Yoo including those uncertainties. [l][r]
-
-
-[r]"So the final decision is yours. From what I've seen, it looks like you're fulfilled over there, and I think it's totally fine to come back after you've fulfilled your entire life span."[l][r].
-
-Hmmm, maybe that's a thing."[l][r].
-
-
-[cm]"Your life is yours. So think hard before you act. It may be difficult."[l][r]
-
-It's hard, isn't it?"[l][r].
-
-'Yeah, I think so too.'[l][r].
-
+[cm]「お前の命はお前のものなんだ。だからしっかり考えてから行動しろ。難しいかもしれないけど」[l][r]
+「難しいねぇー」[l][r]
+「うん、私もそう思うよ」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-But there's still time, and if time runs out, it means I might see Chi-chan anyway."[l][r]
-
-Well, yes."[l][r].
-
-Then I'll give it some more thought."[l][r].
-
-[I was so happy to see him, and he looked at me with those kind eyes. I felt as if something in my chest had become lighter, and I naturally smiled too. [l][r]
-
+「でも、時間はまだまだあるし、時間切れになったらどの道ちーちゃんに会えるかもってことだよね」[l][r]
+「まぁ、そうだな」[l][r]
+「じゃ、もう少しだけ考えてみるよ」[l][r]
+[r]にっこりと、あの優しい目でユーは私のことを見てくれた。なにか胸のつっかえが軽くなったような気がして、私も自然と笑みが出た。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="yuhi_mae.jpg"  ]
 [tb_start_text mode=3 ]
-"I have to go home now ....... I know everyone is worried about you."[l][r].
+「……もう帰らなきゃ。皆心配してるだろうし」[l][r]
+「そう。また寂しくなるね」言葉と裏腹な笑顔でユーが言った。[l][r]
+「また会えるだろ」[l][r]
+「そうだね」[l][r]
+「じゃ……またな」[l][r]
+「うん。またね」[l][r]
 
-Yes. I'll miss you again," Yu said with a smile that belied his words. [l][r]
-
-We'll see each other again."[l][r].
-
-Yes."[l][r].
-
-See you at ......."[l][r]
-
-Yeah. See you later."[l][r].
-
-
-[I turn my back to Yuri and reach for the keys to the vehicle. To the key that will take me back to the world from which I came. [l][r]
-
-The moment my fingers are about to touch it ...... I can't hold back and turn around again. [l][r]
-
-[r]I really wanted to see You smile just one more time. [l][r]
-
+[cm]私はユーリに背を向け、車両の鍵に手を伸ばす。元の世界へと帰る為の鍵へと。[l][r]
+指が、それに触れようとする瞬間……私はこらえきれず、もう一度振り向いてしまう。[l][r]
+[r]ユーの笑顔をもう一度だけ、どうしても見たくて。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But was there a smile there? [l][r]
+でも、そこに笑顔はあっただろうか。[l][r]
+[r]私は、笑顔でいられただろうか。[l][r]
+[r]涙でくすんだ視界の先に、ただ立ちすくむユーの影。[r]
+バイバイ、と振られる左手。それを見て私はほんの少しだけ救われた気がする。[l][r]
 
-[r][r]Did I have a smile on my face? [l][r]
-
-[r]The shadow of Yoo just stands there, beyond a vision dulled by tears. [r]
-
-The left hand waving "bye-bye" to me. I feel just a little bit saved when I see it. [l][r]
-
-
-[cm] Yes. I'm sure u will be fine. [r]
-
-That guy can be random or overly optimistic, but somehow he should be able to make the right decision. [l][r]
-
-Believing in that must be the best I can do in the future. [l][r]
-
-[r]So it's going to be okay. I couldn't see Yoo's expression through my tears, but I waved back one last time and touched the ignition switch. [l][r]
-
+[cm]そうだ。きっとユーなら大丈夫だ。[r]
+あいつは適当だったり楽観すぎたりするけど、なんだかんだで正しい判断を下せるはずだ。[l][r]
+それを信じるのが、今後私にできることに違いない。[l][r]
+[r]だからきっと大丈夫。涙でユーの表情はわからなかったけど、私も最後に手を振り返して、イグニッションスイッチに触れる。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="white.png"  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-That became the last scene I saw in that world. [l][r]
-
+それが、私があの世界で最後に見た情景になった。[l][r]
 [_tb_end_text]
 
 [cm  ]

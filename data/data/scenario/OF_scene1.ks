@@ -10,25 +10,17 @@
 [bg  time="2000"  method="crossfade"  storage="tenji.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-'I collapsed suddenly!　Located at ......" [r].
-
-I look for the words I need and say them, strongly telling myself to stay calm. [l][r]
-
-"Pull yourself together!　Hey, Tito!　Hey [r]!
-
-!" Mr. Ishii shouts. There is no reply. [l][r]
-
+「急に倒れたんです！　場所は……」[r]
+僕は冷静にしろと自分に強く言い聞かせながら必要な言葉を探して口にする。[l][r]
+「しっかりしろ！　おいチト！　おい[r]
+っ！」イシイさんが叫んでいる。返事はない。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Kanazawa!　Where's the AED?" [r]
-
-'My wife is going to get it. We've also arranged for emergency services."[l][r].
-
-I answer immediately while continuing the call. [r]
-
-I get it!" [l][r]
-
+[r]「カナザワ！　AEDは？」[r]
+「妻が取りに行ってます。救急も手配しました」[l][r]
+僕は通話を続けつつ即座に答える。[r]
+「分かった！」[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -40,20 +32,15 @@ I get it!" [l][r]
 [bg  time="1000"  method="crossfade"  storage="chitdown.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-When Mr. Ishii says that much, he opens the chest of Tito's clothes. [l][r]
-
-The girl, lying on her back on the cold floor, has a blank face and does not twitch. [l][r]
-
+イシイさんはそれだけ言うとチトの服の胸元を開く。[l][r]
+冷たい床に仰向けに寝かされた少女は真っ白な顔をしていて、ぴくりとも動かない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-1......2......3......4......" [l][r].
-
-Ishii calmly and diligently performs a CPR procedure that I thought I would only have the opportunity to perform in a driver's license course or company training. [l][r]
-
-It was not at odds with what I vaguely remember and I felt it would be appropriate. [l][r]
-
+「１……２……３……４……」[l][r]
+免許の講習や会社での訓練とかでしか、する機会のないと思ってた心肺蘇生の手順を、イシイさんは冷静に、懸命に、行っている。[l][r]
+それは僕が曖昧に覚えているものと齟齬がなく、適切なのだろうと感じた。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -64,28 +51,19 @@ It was not at odds with what I vaguely remember and I felt it would be appropria
 
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I tell myself to be calm again and look around to see if the situation has changed or if there is anything I still need to do. [l][r]
-
-I see my wife running with an AED and I run up to her. [r]
-
-He takes it like a small bag and runs to Tito's side. [l][r]
-
-[r]After the third artificial respiration, Mr. Ishii has sweat on his forehead and his eyes are messed up with tears. [l][r]
-
-He was following the procedure nonchalantly, not even trying to wipe his tears. He probably didn't even realize he was crying. [l][r]
-
+僕はもう一度冷静になれと自分に言い聞かせ、状況に変化はないか、まだすべきことはないかと周囲を見渡す。[l][r]
+ＡＥＤを持って走ってくる妻が見えたので僕は駆け寄る。[r]
+小さなカバンのようなそれを受け取ってチトの側に駆けつける。[l][r]
+[r]三度目の人工呼吸を終えたイシイさんは額に汗を浮かべ、目元を涙でぐちゃぐちゃにしている。[l][r]
+涙を拭おうともせずに淡々と手順を追っていた。きっと自分が泣いてることにも気づいていないのだろう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Use an AED. Keep onlookers away [r].
-
-Re" [r].
-
-I understand."[l][r].
-
-[r]......I do what I have to do. I ask my wife to switch places with Mr. Ishii if he gets tired, then I ask the onlookers around me to back off. [l][r]
-
+「ＡＥＤを使う。野次馬を遠ざけてく[r]
+れ」[r]
+「分かりました」[l][r]
+[r]……僕は僕のすべきことをする。妻に、イシイさんが疲れたら替わってあげるよう頼んでから、周囲の野次馬を下がらせる。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -93,8 +71,7 @@ I understand."[l][r].
 [bg  time="2000"  method="crossfade"  storage="chitdown2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-When I looked toward the vehicle again, I hurriedly looked away as Mr. Ishii had just attached electrodes to Chito's half-naked upper body. [l]Just before that, I had caught a glimpse of Chito's white face for a moment. [l][r]
-
+もう一度車両の方を見ると、イシイさんが半裸にしたチトの上半身に電極を張り付けていた所だったので僕は慌てて目を逸らす。[l]その直前、僕はチトの白い顔を一瞬だけ目にとめていた。[l][r]
 [_tb_end_text]
 
 [cm  ]

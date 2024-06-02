@@ -6,205 +6,139 @@
 [bg  time="1500"  method="crossfade"  storage="tenji2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-As Kanazawa walked through the shutters and out of the warehouse, Chi-chan quickly left the driver's seat and went around the vehicle once more. Touching it again and again. [l][r]
+カナザワがシャッターをくぐって倉庫の外に出て行ったのを見送ると、ちーちゃんは運転席をすっと離れて、車両の周りをもう一度回った。何度も触れながら。[l][r]
+ハンドル、ライト、運転席、履帯、荷台の横、その反対側。触れるところ全部に触った。[l]……何かが起きることを願うみたいに。[l]ううん……きっと、強く強く、願いながら。[l][r]
 
-The steering wheel, the lights, the driver's seat, the crawler, the side of the cargo bed, and the other side of it. I touched everything I could touch. Like [l]...... wishing something would happen. [l]No ...... surely, strongly, strongly wishing. [l][r]
-
-
-[r]The rain pounded on the roof, walls, and shutters of the warehouse in scattered, rattling, and pattering sounds. [l]Inside the spacious warehouse, when no one is talking, the sound of the rain is all that can be heard. [l][r]
-
-Yeah, it's a hollow structure. It sounds better when it's empty inside, like my head. [r]
-
-So, [l][r].
-
+[r]ばらばら、ゴンゴン、パタパタと、雨が倉庫の屋根や壁、シャッターを叩く。[l]がらんと広い倉庫の中は、誰もしゃべらないでいると雨の音ばっかりがうるさいくらいに響く。[l][r]
+ああ、中空構造だね。中が空っぽだと良く響くんだ、私の頭みたいに。[r]
+だから、[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="tetu01.ogg"  ]
 [quake  time="200"  count="5"  hmax="0"  wait="true"  vmax="10"  ]
 [tb_start_text mode=3 ]
-The sound of Chi-chan hitting the body of the car hard, like a punch, made my ears shake as if she had just hit me. [l][r]
+ちーちゃんが車体を強く、殴るように叩いた音は、私の耳をそのまま殴ったみたいに振るわせた。[l][r]
 
+[r]「ぐっ……うぅうう……っ！！」[r]
+「ちーちゃん……！！」[l][r]
 
-[r]"Ggh ...... ugh ......!!!" [r]
+ちーちゃんは足の力が急に抜けたみたいに……車体にすがり付くように膝をついて、泣いた。[l][r]
+私は駆け寄って、その肩を支えようとするけど[l][r]
 
-"Chi-chan ......!!!" [l][r]
-
-
-Chi-chan kneeled down and cried as if her legs had suddenly lost their strength and she was sagging against the ...... body of the car. [l][r]
-
-I run over and try to support his shoulder, but [l][r].
-
-
-[r]"Higg, why, why can't I go over there ......!" [l][r]
-
-Chi-chan shook her arms and head as if to say that my hands were just in the way. [l][r]
-
+[r]「ひっぐ、何でっ、なんで、あっちに行けないんだ……！」[l][r]
+ちーちゃんは、まるで私の手なんか邪魔なだけだって言うみたいに、腕と頭を振ってそう呟いた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m4.ogg"  ]
 [bg  time="2000"  method="crossfade"  storage="souko.jpg"  ]
 [tb_start_text mode=3 ]
-"Chi-chan ......" [l][r].
+「ちーちゃん……」[l][r]
+「あのときは行けたのに、なんでぇ！」[l][r]
+泣いて、叫ぶ。腕を振る、髪を振り乱して、涙を床に散らせる。[r]
+涙だけじゃない。叩いたときに切ったんだろうか、手から血も出てた。[l][r]
+[r]私はちーちゃんがそれ以上傷つかないように、とにかく落ち着かせようと、抱き締める。小さな肩が震えてる。私の耳が割れそうなくらいの声で、ちーちゃんは叫んで、泣き続けた。[l][r]
 
-I could have gone then, why not!" [l][r]
-
-Crying, screaming. Wave your arms, shake your hair, scatter your tears on the floor. [r]
-
-Not just tears. There was also blood coming from his hand, as if he had cut himself when he hit it. [l][r]
-
-[r]I hug Chi-chan, trying to calm her down anyway so she doesn't get hurt any more. Her little shoulders are shaking. Chi-chan kept screaming and crying so loudly that my ears almost cracked. [l][r]
-
-
-[r]"I'm sick of this. ...... I'm sick of this! [r]
-
-I'm not going to be able to do this, and neither are u[r].
-
-...... ah!!!" [l][r]
-
+[r]「もう嫌だ……こんなの、もう嫌だ！[r]
+私も、ユーも、これじゃ、これじゃあ[r]
+……ああああ！！」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Chi-chan ...... Chi-chan!" [l][r]
+「ちーちゃん……ちーちゃんっ！」[l][r]
 
+[r]ごめん。[l][r]
+……ごめんね、ちーちゃん。[l][r]
 
-[r]Sorry. [l][r]
-
-...... Sorry, Chi-Chi. [l][r]
-
-
-[r]I shouldn't have taught you, should I? I made another mistake, didn't I? [l][r]
-
-Your poorly conceived hope was just a hindrance. [l][r]
-
+[r]教えるべきじゃなかったんだね。また私は、間違えちゃったんだね。[l][r]
+下手に考えた希望なんて、邪魔でしかなかったね。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Sorry ....... [l][r]
+……ごめんなさい。[l][r]
+[r]ばかで、ごめん。[l][r]
+[r]クズな私で、ゴミで、ごめんなさい。[l][r]
 
-[r]I'm stupid, I'm sorry. [l][r]
-
-[r]I'm sorry I'm scum, I'm garbage, I'm sorry. [l][r]
-
-
-[r][r]What to do. [l][r]
-
-Hey, what should I do? [r]
-
-Tell me about it, chi-chan. [l][r]
-
-[r]Please. Don't cry. [r]
-
-Don't go inside. ....... [l][r]
-
+[r]どうしよう。[l][r]
+ねえ、どうしたらいいかな。[r]
+教えてよちーちゃん。[l][r]
+[r]お願いだよ。泣かないで。[r]
+なかないでよ……。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-I hug her. I hug Chi-chan. ...... No, no. [l][r]
+私は抱き締める。ちーちゃんを。……ううん、違う。[l][r]
+ちーちゃんじゃない。この子は、きっと私だ。[l][r]
+そんな気がする。[l][r]
+耳がビリビリと軋み続ける。頭が割れそうに痛い。心が重く、暗くなってゆく。[l][r]
 
-It's not Chi-chan. This girl must be me. [l][r]
-
-I feel that way. [l][r]
-
-My ears keep tingling and creaking. My head hurts like it's going to crack. My heart grows heavy and dark. [l][r]
-
-
-[r]ah, I kind of miss it a little bit. This feeling. [l][r]
-
-I feel like I've been living with these feelings all my life. [l][r]
-
-What do you call this, what do you call this? [l][r]
-
+[r]ああ、何だか少しだけ懐かしいや。この感じ。[l][r]
+ずっとずっと、こんな気持ちで生きてた気がするよ。[l][r]
+何て言うんだっけ、何て呼ぶんだっけこれ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-...... Oh, yeah. [l][r]
+……ああ、そうだ。[l][r]
 
-
-[r]This, despair. [l][r]
-
+[r]これ、絶望だ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="key.ogg"  ]
 [tb_start_text mode=3 ]
-...... Huh? [l][r]
+……あれ？[l][r]
 
+[r]……足音？[l][r]
 
-[r]...... footsteps? [l][r]
+[r]ちがう……何か、落ちたみたいな……。[l][r]
 
-
-[r]No. ...... something, it's like it fell off. ...... [l][r]
-
-
-[r]I opened my eyes and looked forward from the side of Ti-chan's head, where I hugged her. [l][r]
-
-My ears are still chattering all the time. It's such a ......[l][r] thing to hear the sound of something falling over this flood of loud crying chi-chan voices.
-
+[r]私は目を開けて、抱き締めたちーちゃんの頭の横から、前を見た。[l][r]
+耳がまだ、ずっとビリビリ鳴ってる。こんな大声で泣いてるちーちゃんの声の洪水を超えて、何か落ちた音が聴こえるなんて、そんな……[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-...... eh? [l][r]
+……えっ？[l][r]
 
+[r]「……ちーちゃん、ちーちゃん！！」[l][r]
+[r]私は抱いてた背中から肩に手を移して、ちーちゃんを少し揺さぶって、横を向かせた。急に揺すられて驚いたちーちゃんに、私は指をさして見せる。[l][r]
+その指の先に、[l][r]
 
-[r]"...... Chi-chan, chi-chan!" [l][r]
-
-[I moved my hand from behind my back to my shoulder, shook Chi-chan a little, and made her turn her head to the side. Chi-chan was surprised by the sudden shaking, so I pointed my finger at her and showed her. [l][r]
-
-At the tip of its finger, [l][r].
-
-
-[r]"Oh, look at that."[r].
-
-[l][r]"......"[l][r]
-
+[r]「あれ、見て」[r]
+「……ぇ」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-It was glowing. It glowed, dull and cold, in the light of the warehouse's white lighting. [l][r]
+それは光っていた。倉庫の白い照明の光で、鈍く、冷たく、光っていた。[l][r]
 
+[r]「っあ」[l][r]
 
-[r]"uch ah" [l][r].
-
-
-[r]Chi-chan tries to run up to him. But he can't get enough strength in his knees, or he would fall down. [l][r]
-
-I walked there, holding her hand and putting my other hand on her shoulder, supporting Chi-chan. [l][r]
-
+[r]ちーちゃんが駆け寄ろうとする。でも膝に力が入らないのか、転びそうになる。[l][r]
+私は手を握って、もう片方の手を肩に回して、ちーちゃんを支えながら、そこまで歩いた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="key2.jpg"  ]
 [tb_start_text mode=3 ]
-It was a key. [l][r]
+鍵だった。[l][r]
 
+[r]私がおじいさんに教えてもらいながら、余った針金で作った形。そうとは知らずに作った、大好きな魚の形のキーホルダー。[l][r]
+ちーちゃんが最後の瞬間まで持ってた、[r]
+大事な大事な、ケッテンクラートの、[r]
+鍵。[l][r]
 
-[r]A shape I made with leftover wire while my grandfather taught me how to make them. A key chain in the shape of my favorite fish, which I made without knowing that it was so. [l][r]
+[r]「これ……どうして」[l][r]
 
-Chi-chan held it until the last moment, [r].
-
-Important, important, Kettenkrath's, [r].
-
-Key. [l][r]
-
-
-[r]"Why is this ......?"[l][r].
-
-
-[r]Chi-chan bent down and picked up the key. In his hand, a tear fell and glistened. [l][r]
-
-I looked around. I wondered if anyone else was there, because I wondered where the key had fallen from. [l][r]
-
-But no one is there. Then maybe it was stuck somewhere in the vehicle. ......? [l][r]
-
+[r]ちーちゃんは屈みこんで、鍵を拾った。その手に、涙が落ちて光った。[l][r]
+私は見回した。誰か他にいたんだろうかと、どこから鍵が落ちたんだろうかと不思議に思ったから。[l][r]
+でも、誰もいない。なら、車両のどこかに引っかかってたのかな……？[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -213,94 +147,64 @@ But no one is there. Then maybe it was stuck somewhere in the vehicle. ......? [
 [bg  time="200"  method="crossfade"  storage="owari2.jpg"  ]
 [bg  time="2000"  method="crossfade"  storage="key2.jpg"  ]
 [tb_start_text mode=3 ]
-......a......[l][r]
+……あ……[l][r]
 
+[r]いた。[l][r]
 
-[r][r]was. [l][r].
+[r]私がいた。[l][r]
 
+[r]私が見えた。[l][r]
 
-[r]I was there. [l][r]
-
-
-[r]I could see me. [l][r]
-
-
-[r]In the headlights of the vehicle, I could see me in that green jacket and helmet, smiling at them. [l][r]
-
+[r]車両のヘッドライトに、あの緑のジャケットを来て、ヘルメットを被った私が、にこりと笑ってるのが、見えた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-[...... u?" [l][r]
+「……ユー？」[l][r]
+ちーちゃんの声がした。まだ泣いてた。でも、もう叫んでなかった。[l][r]
+[r]「ちーちゃん」[l][r]
+私はしゃがみこんで、鍵を持ったその小さな手を握る。[r]
+大きな黒い瞳を見つめる。[l][r]
+その黒い闇の向こうに見える、小さな影を見つめる。[l][r]
 
-I heard Chi-chan's voice. She was still crying. But she wasn't screaming anymore. [l][r]
+[r]ああ、やっぱり君か。そうか、そうなんだね。[l][r]
 
-[r]"Chi-chan" [l][r].
-
-I crouch down and hold that little hand with the key. [r]
-
-Staring into large black eyes. [l][r]
-
-Gaze at the small shadows that can be seen beyond that blackness. [l][r]
-
-
-[r]Oh, it's you after all. Oh, yeah. [l][r]
-
-
-[r]"Let's go to ............" [r].
-
-"...... you" [l][r].
-
+[r]「…………いこうよ」[r]
+「……ユー」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I suggested one more time to Chi-chan. But don't worry. This, you know, is not hope. [l][r]
+私はもう一度だけ、ちーちゃんに提案した。でも安心して。これはさ、希望じゃないよ。[l][r]
 
+[r]いいじゃんもう。[r]
+希望なんてなくてもさ。[l][r]
+ふたりだけの世界に、[l][r]
+希望のない世界に、いこう。[l][r]
 
-[r]That's enough. [r]
-
-Even if there is no hope. [l][r]
-
-Just the two of us, [l][r].
-
-In a world without hope, let's go. [l][r]
-
-
-[r]I, you know, I forgot. Because I'm an idiot. [l][r]
-
-What is it?　That thing, that thing. What was it, yeah [l][r].
-
+[r]私はね、忘れちゃったんだ。バカだからさ。[l][r]
+何かって？　アレだよアレ。何だっけ、そう[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Getting along with despair [l][r].
+絶望と仲よく[l][r]
 
-
-[r] or something like that, the way it's done. [l][r]
-
-Was it a [r]way of life?　Well, whatever now. [l][r]
-
-Let's stop thinking about it. Completely. [l][r]
-
+[r]とかいう、やり方。[l][r]
+[r]生き方だっけ？　まあ、もう何でもいいや。[l][r]
+考えるのはもう、やめちゃおう。完全にね。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="souko.jpg"  ]
 [tb_start_text mode=3 ]
-I gently stood Chi-chan up and brushed the dust off her knees. [l][r]
+私はちーちゃんをやさしく立たせて、膝についた埃を払ってあげた。[l][r]
+ちーちゃんは運転席の方を見てる。ひとつだけ部品が足りない、運転席を。[l][r]
 
-Chi-chan is looking at the driver's seat. Only one part is missing, the driver's seat. [l][r]
-
-
-[r]Well ...... what a refreshing feeling. [l][r]
-
-I feel like I should remember something, but I don't want to remember anything else. [l][r]
-
-Oh, but I remember one thing I made just a little while ago, a promise. [l][r]
-
+[r]うーん……何だかすっきりした気分。[l][r]
+何か思い出さなきゃいけない気もするけど、もう何も思い出したくないね。[l][r]
+あ、でもひとつ思い出したよ、ほんのちょっと前にした、約束。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -308,24 +212,19 @@ Oh, but I remember one thing I made just a little while ago, a promise. [l][r]
 [r][r]
 [r][r]
 [r][r]
-("...... I'm fine with that. If you want, Chi-chan.") [l][r].
+（『……私はそれでもいいよ。ちーちゃんが望むなら』）[l][r]
 
 
+[r]……そうだったね。やっと、叶えてあげられるね。[l][r]
 
-[r]...... That's right. Finally, I can make it happen. [l][r]
-
-
-[r]We held each other's hands, once more tightly. [l][r]
-
+[r]私たちはお互いの手を、もう一度強く握った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Let's go, again. [l][r]
+行こうよ、もう一度。[l][r]
 
-
-[r][r]Oh, yeah. [l][r]
-
+[r]ああ、そうだな。[l][r]
 
 [_tb_end_text]
 
@@ -333,10 +232,8 @@ Let's go, again. [l][r]
 [bg  time="2000"  method="crossfade"  storage="key.jpg"  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-We inserted the key and then we both, together, [l][r].
-
-[r]The tiny, black, ignition switch was pushed in hard. [l][r]
-
+私たちは鍵を差し込んで、それから二人で一緒に、[l][r]
+[r]黒いちっぽけな、イグニッションスイッチを強く押し込んだ。[l][r]
 [_tb_end_text]
 
 [cm  ]

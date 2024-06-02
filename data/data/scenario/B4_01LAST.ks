@@ -13,37 +13,30 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="car-door-close1.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I shoved a 10,000 bill, which I rarely carry, at the driver, told him I didn't need change, and I hopped out of the cab. [l][r]
-
+滅多に持ち歩かない万札を運転手に押し付け「釣りは不要だ」と伝えて、私はタクシーを飛び出すように降りた。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="town4.jpg"  ]
 [tb_start_text mode=3 ]
-He checks the front door of the apartment, runs up the stairs, and sticks the key he received from the real estate agent, who forced him to take it from him, into the door of the desired room. [l][r]
-
+アパートの表札を確かめて階段を駆け上がり、不動産屋から無理を言って奪うように受け取った鍵を目的の部屋のドアに刺す。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="lockopen.ogg"  ]
 [tb_start_text mode=3 ]
-[r]On a hunch, he turns it to the right, checks that there is no response, and immediately returns it to the left. Feeling a response of "kacha," he turns the key back and pulls it out,[r] repeatedly interrupted by a snag.
-
- [l][r]
-
+[r]直感で右に回し、手応えがないことを確かめ、すぐに左に返す。かちゃという手応えを感じ、鍵の向きを戻し、何度も引っ掛かりに邪魔されながら、引き抜い[r]
+て、ドアレバーを下ろした。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="room7_n.jpg"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="door-close1.ogg"  ]
 [tb_start_text mode=3 ]
-The room was quiet. [l][r]
+部屋の中は静まり返っていた。[l][r]
 
-
-[I push the light switch, but the light does not come on. I don't know if the breaker is tripped or if the electricity is turned off. [l][r]
-
-However, the sun had not yet set. I went to the back of the room and opened the curtains, and the sunlight that came in exposed the room to brightness. [l][r]
-
+[r]電灯のスイッチを押すが、灯りは点かない。ブレーカーを落としてあるのか、電気が止められているのかは解らない。[l][r]
+ただ、まだ日は落ちていない。部屋の奥に入り、カーテンを開けると、差し込んだ日光が部屋を明るみに晒した。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -51,77 +44,55 @@ However, the sun had not yet set. I went to the back of the room and opened the 
 [bg  time="1500"  method="crossfade"  storage="room5_asa.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m2_piano.ogg"  ]
 [tb_start_text mode=3 ]
-Rough and tumble. [l][r]
+荒れ放題だ。[l][r]
 
-
-[r]I don't think this is that meticulous Tito's room, and I don't want to think it is. [l][r]
-
-But I am sure I am not mistaken. The address and room number were exactly as Yuri had told me. There were also some of Tito's clothes and bags lying around that I had seen sometime ago. [l][r]
-
-In the corner of the room, on a desk, were books and notebooks that appeared to be college textbooks, with names written in them. Tito Minase. ...... No doubt. [l][r]
-
+[r]これが、あの几帳面なチトの部屋だとは思えないし、思いたくはない。[l][r]
+だが間違ってはいないはずだ。住所も部屋の番号も、ユーリから聞いていた通りだった。いつか見たチトの服やバッグも何点か転がっている。[l][r]
+部屋の隅の、机の上にあった大学のテキストと思われる本やノートには名前が記してあった。ミナセ　チト。……間違いない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-vibration2.ogg"  ]
 [tb_start_text mode=3 ]
-The device trembled in my pocket. [l][r]
-
+ポケットの中で端末が震えた。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  ]
 [tb_start_text mode=3 ]
-[r]"...... Kanazawa, how did it go?" [l][r]
-
-'Still too late to be sure, even at ....... Sorry ......!" [l][r]
-
-No, thanks. What about the parents?" [l][r]
-
-"I'm telling you. I heard that Yuri's parents are on their way to Japan right now, but Tito's are on their way to ......" [l][r].
-
-'I'd heard they'd been estranged since they got into trouble when they went off to college. If they're still whining about their ...... daughter's disappearance, leave them alone."[l][r].
-
+[r]「……カナザワ、どうだった？」[l][r]
+「まだ確かなことは……でも遅かったようです。すみません……！」[l][r]
+「いや、いい。親御さん達には？」[l][r]
+「伝えてます。ユーリのご両親は日本にすぐ向かって来てくれているらしいですが、チトの方は……」[l][r]
+「大学進学時にモメてから疎遠だとは聞いてたがな。……娘が失踪してもまだグズグズ言うような奴等なら放っておいていい」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I burst into a burst of abuse in my stomach, then exhaled lightly, then inhaled. [l][r]
+私は腹の中で罵倒の言葉を炸裂させてから息を軽く吐き、そして吸った。[l][r]
+カナザワはそれを待ってくれていたかのように、ワンテンポ置いてから次の言葉を口にした。[l][r]
 
-As if he had been waiting for me, Kanazawa took a pause before saying his next words. [l][r]
+[r]「イシイさんの方は、どうでした？」[l][r]
+「当たり前だが、二人の姿は勿論、手がかりらしいものもまだ見つかってない。今はチトのアパートの部屋だ。……時間が経ちすぎたな」[l][r]
 
-
-[r]"How did it go for you, Mr. Ishii?" [l][r]
-
-I have yet to find any clues, let alone any sight of the two men. Now it's in Tito's apartment. ......Too much time has passed."[l][r]
-
-
-[r]I walked around the room, informing Kanazawa of the situation. It was difficult to find a place to step, but I didn't want to wreck any more as much as possible. [l][r]
-
-Carefully watching your step, you walk through a room filled with the residue of these women. [l][r]
-
+[r]私はカナザワに状況を伝えながら、部屋の中を歩いて回った。足の踏み場を探すのも困難だったが、なるべくこれ以上は荒らしたくない。[l][r]
+慎重に足元を見ながら、彼女らの残滓に満ちた部屋を歩く。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="bath2.jpg"  ]
 [tb_start_text mode=3 ]
-Above the washbasin in the room, strewn with towels and underwear, a badly stained mirror reflected the light dully. On closer inspection, the stain was a letter. [l][r]
-
-[r]letters written roughly in lip balm or something. ......I followed the clunky string of letters, thinking, "This isn't an old song, what's this imitation? [l][r]
-
+タオルや下着の散乱した部屋の洗面台の上に、ひどく汚れた鏡が鈍く光を反射していた。よく見ると、その汚れは文字だった。[l][r]
+[r]リップクリームか何かで乱暴に書かれた文字。……古い歌謡曲じゃあるまいし何の真似だと思いながら、その不格好な文字列を追った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I'm sorry if I'm upsetting you. But thank you."[l][r].
+『おこらせちゃってたらごめんなさい。でも、ありがとう』[l][r]
 
-
-[r]"...... No, I think you did great. [r]
-
-Yuri ....... It's brilliant."[l][r].
-
-[r][r]The reflection of my mouth over the letters was slightly slack. [l][r]
-
+[r]「……いや、君はよくやったと思う。[r]
+ユーリ……。鮮やかなもんだ」[l][r]
+[r]文字の向こうに映る自分の口元は、微かに緩んでいた。[l][r]
 [_tb_end_text]
 
 [cm  ]

@@ -8,111 +8,77 @@
 [bg  time="2000"  method="crossfade"  storage="snow.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I wake up. [l][r]
-
-Eating the last ration with Chi-chan [r].
-
-Then, sleep ......[l][r]
-
+私は目を覚ます。[l][r]
+ちーちゃんと最後のレーションを食べ[r]
+て、眠って……[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I woke up and wondered how much time had passed, and I didn't know [r].
-
-Well, I'll sleep again. [l][r]
-
-He has done this at least three times. [l][r]
-
-I shook my head and adjusted my blurry eyes, and it was snowing. [l][r]
-
+[r]目を覚まして、どれくらいの時間が経ったのだろうかと考えて、分からないま[r]
+ま、また眠る。[l][r]
+少なくとも、かれこれ三回はこれを繰り返している。[l][r]
+首を振ってボケていた目を合わせると、雪が降っていた。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Looking up at the sky, the dreary clouds are looking down on us. [r]
-
-Ah, lunch. That's good. If it had been at night, I would have been a little scared. [l][r]
-
+[r]空を見上げると、どんよりとした雲が私たちを見下ろしている。[r]
+ああ、お昼か。よかった。夜だったらちょっと怖かった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...... chi-chan" [l][r].
-
-I call out to Chi-chan, who is sleeping next to me. A precious little girl, one size smaller than me. [l][r]
-
-No more breath is breathed in or out of that mouth ....... [l][r]
-
+「……ちーちゃん」[l][r]
+私は隣で眠っているちーちゃんに声をかける。私よりも一回り小さい大切な女の子。[l][r]
+その口から息が吸い込まれることも、吐きだされることも……もうない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Yay, my little bookworm-"[r].
-
-Let me tease you. Oh, I don't know what bookworm means. Oh well. [l][r]
-
-"............ Chi-chan's, ba-"[r].
-
-Chi-chan didn't answer me anything. I know that because I myself tried many times to wake her up. [l][r]
-
-No amount of shaking, tapping, poking his cheeks, or pinching his nose woke him up. [l][r]
-
+「やーい、ちーちゃんの本の虫―」[r]
+からかってみる。あれ、本の虫ってどういう意味だっけ。まぁいいや。[l][r]
+「…………ちーちゃんの、ばーか」[r]
+ちーちゃんは何も答えてくれなかった。それは私自身何度も起こそうと試したから知ってる。[l][r]
+揺すっても叩いても、頬をつついても鼻をつまんでも、目を覚まさなかった。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-It was [r]so ...... sad. We had spent so much, so much time together, and he was like a part of my body already. [l][r]
-
-This girl is no longer moving ....... [l][r]
-
-After I realized this, I had a heavy pain that felt like a hole in my chest. [l][r]
-
+[r]すごく……悲しかった。ずっと、ずっとずっと一緒に過ごして、もう体の一部のような存在だったのに。[l][r]
+この子はもう……動かない。[l][r]
+それを思い知ってから、胸に穴が空いたような重い痛みが続いていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But Chi-chan remained asleep with a kind face. When I saw that, I was really glad to be next to her at the end. [l][r]
-
-I pat Chi-chan's head. Good night. Thanks for always driving me. [l][r]
-
-I keep calling out to them, even though I know they can't reach me. [I wish I could stop waking up like this. Chi-chan has gone ahead of me, and I have to go soon too. [l][r]
-
+でも、ちーちゃんは優しい顔で眠ったままだった。それを見たら、最後に隣にいられて本当によかったと思う。[l][r]
+私はちーちゃんの頭を撫でる。おつかれさま。いつも運転してくれてありがとうね。[l][r]
+届かないんだと知っていても、私は何度も呼び掛ける。[l]私もこのまま起きなくなれたらなって思う。ちーちゃんは先に逝っちゃったし、早く私もいかないとね。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Giggle, and hug Chi-chan and I cover myself with a blanket. [l][r]
-
-I hope it doesn't happen again next time. That's when I was thinking. [l][r]
-
+[r]ぎゅ、とちーちゃんに抱きついて私は毛布をかぶる。[l][r]
+次はもう起きないといいな。そう思っていた時だった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"E......" [l][r].
-
-Suddenly a drop of water falls on my head and I look up. [l][r]
-
-I noticed that the snow that had been falling earlier had stopped, and instead a number of waters were falling from the sky. [l][r]
-
+「え……」[l][r]
+突然、頭に水が一滴落ちてきて私は顔を見上げる。[l][r]
+気づけばさっきまで降っていた雪は止んでいて、代わりにいくつもの水が空から降ってきている。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="rain1.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="rain.jpg"  ]
 [tb_start_text mode=3 ]
-[r]rain. Oh no, it was snowing a lot earlier. [l][r]
-
-We stood up without a second thought. Meanwhile, the rain gains momentum and drenches us. [r]
-
-No, we have to run inside the stairwell.  [l][r]
-
+[r]雨だ。そんな、さっきまでたくさん雪が降っていたのに。[l][r]
+思わず立ち上がる。その間に雨は勢いをまして、私たちを濡らしていく。[r]
+だめだ、階段の中に逃げないと。  [l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I covered Chi-chan with a blanket, picked her up, and ran out, pocketing the tools I had seen while I was at it. [l][r]
-
-The snow, which had been soft and fluffy, quickly became soaked to the socks because of the rain. [l][r]
-
-Anyway, I have to go downstairs. I ran with Ki-chan in my arms, trying to keep her dry. That's when it happened. [l][r]
-
+私はちーちゃんに毛布を被せ、抱えあげるとついでに目に入った道具をポケットに入れて走り出した。[l][r]
+ふかふかだった雪は、雨のせいであっという間にびちゃびちゃになって靴下まで濡れる。[l][r]
+とにかく下に降りないと。どうにかちーちゃんを濡らさないように抱えて、私は走る。そのときだった。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="zuru.ogg"  ]
@@ -121,14 +87,10 @@ Anyway, I have to go downstairs. I ran with Ki-chan in my arms, trying to keep h
 [bg  time="0"  method="crossfade"  storage="black.png"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-[ah! [l][r]
-
-Suddenly, a hole appeared in the snow and I stepped off the ground. At the same time, it went black before my eyes and I heard something bouncing around. I fell down, into a hole or something. [l][r]
-
-We fall down, hitting our bodies here and there. It hurts more than Chi-chan's punch. Oh, and no helmet ....... [l][r]
-
-This could be bad. [l][r]
-
+「ぅあっ！？」[l][r]
+突然、雪に穴が開いて私は地面を踏み外した。同時に目の前が真っ暗になって、ごんごんとなにかが跳ね回る音がする。落ちたんだ、穴かなにかに。[l][r]
+あちこちに体をぶつけて私たちは落ちていく。ちーちゃんのパンチより痛い。ああ、それにヘルメットもない……。[l][r]
+これ、やばいかも。[l][r]
 [_tb_end_text]
 
 [bg  time="0"  method="crossfade"  storage="white.png"  ]
@@ -136,30 +98,25 @@ This could be bad. [l][r]
 [wait  time="300"  ]
 [quake  time="300"  count="1"  hmax="0"  wait="false"  vmax="10"  ]
 [tb_start_text mode=3 ]
-The moment I think that, I hit my head. Then my consciousness becomes distant. But strangely, I'm not afraid. [l][r]
-
+そう思った瞬間、頭をぶつけてしまう。そうして意識が遠くなっていく。でも、不思議と怖くない。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]Now, if you sleep all the time, you'll ...... die[r].
-
-Ba, you can go to Chi-chan's place. ...... [l][r]
-
+[r]これで、ずっと眠れば……死んじゃえ[r]
+ば、ちーちゃんのところに行けるんだから……。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="hit03.ogg"  ]
 [wait  time="300"  ]
 [quake  time="300"  count="2"  hmax="10"  wait="false"  ]
 [tb_start_text mode=3 ]
-I hear a thumping sound. But it doesn't hurt anymore. [l]Chitty, chitty. ....... [l][r]
-
+ごつんごつんと音がする。でも、もう痛くない。[l]ちーちゃん、ちーちゃん……。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]I'm coming to you now. [l][r]
-
+[r]いま、そっちにいくからね。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="down1.ogg"  ]
@@ -171,215 +128,149 @@ I hear a thumping sound. But it doesn't hurt anymore. [l]Chitty, chitty. .......
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-I did not die. The next time I woke up, I was in a pitch-dark place. I thought, "If I'm awake and it's pitch black, then I'm really dead. [l][r]
-
-But my body hurts everywhere, and it's not even warm, even though it's the afterlife. [God is a lie after all. This kind of afterlife is neither dreamy nor hopeful. [l][r]
-
+私は死ぬことはなかった。次に目を覚ましたとき、真っ暗な場所に私はいた。起きていても真っ暗ってことは、本当に死んだのかなって思った。[l][r]
+けど、体はあちこち痛いし、死後の世界なのに暖かくもない。[l]やっぱり神様なんて嘘っぱちだったんだ。こんな死後の世界なんて、夢も希望もない。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Then I realized. Chi-chan is gone. [r]
-
-We should have fallen together, but the precious chi-chan I was holding was not there. [l][r]
-
+[r]そこで、私は気づいた。ちーちゃんがいない。[r]
+一緒に落ちたはずなのに、私が抱えていた大切なちーちゃんが居なかった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"Chi-chan!" [l][r]
+「ちーちゃん！」[l][r]
+まだ頭は痛かったけど、私はどうにか動き出した。ポケットを触ってみると、雨から逃げる時に押し込んだ適当な装備が入っていた。[l][r]
+ロープ、ナイフ、使えなくなったミニコンロ、その他もろもろ。だめだ、これじゃどうしようもない。[l][r]
 
-My head still hurt, but I managed to get moving. I touched my pocket and found the appropriate equipment I had shoved into it when I ran away from the rain. [l][r]
-
-Rope, knives, a disused mini-stove, and more. No good, this is not going to help. [l][r]
-
-
-[r][r]I listened carefully and heard the sound of water cascading down. [l][r]
-
-As my eyes became accustomed to the darkness, it finally dawned on me that I was in a big pipe. [l][r]
-
-Oh well, I was washed away with the rain. My clothes are soaked and my body hurts all over. [l][r]
-
+[r]耳を澄ませると、水が流れ落ちる音がした。[l][r]
+暗闇に目が慣れてきて、私は大きなパイプの中にいると言うことがようやくわかった。[l][r]
+そうか、雨と一緒に流されたんだ。服はびっしょりだし、体はあちこち痛いし。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan must have been swept away by the water. He might have been thrown out somewhere. [l][r]
-
-Oh, no. I have to find Chi-chan. [l][r]
-
+きっとちーちゃんは水に流されちゃったんだ。どこかに放り出されているかもしれない。[l][r]
+やだ、そんなの。ちーちゃんを見つけないと。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I walk frantically. [r]
+私は必死に歩く。[r]
+真っ暗なパイプの中を、どうにか手をついて歩き続ける。でも、体が重くて仕方がなかった。そうだった、最後のレーションを食べてから何も食べてない。[l][r]
+雪をかじったくらいだからお腹に何も入っていないんだ。ならせめて飲み物がほしい。[l][r]
+音を頼りに、側を流れている水をすくって口につけてみた。鉄の味と泥の味と、油のような味が混じっていた。だめだ、とても飲める味じゃない。[l][r]
 
-I somehow managed to keep walking hand in hand through the pitch black pipe. But I felt so heavy. That's right, I hadn't eaten anything since my last ration. [l][r]
-
-I've just nibbled on some snow, so I don't have anything in my stomach. Then I need a drink at least. [l][r]
-
-With the sound as my guide, I scooped up some water that was running down the side and put it to my mouth. It tasted like iron, mud, and oil. No, it was not very drinkable. [l][r]
-
-
-[To be honest, it's tough. I wanted to put a little something in my mouth. But if I can't seem to find any food or drink, it's obviously better to look for Chi-chan first. [l][r]
-
-Because you must be lonely and alone. [l][r]
-
-[r]eally called it a number of times. Oooh, oooh, and oooh. I knew I would never get a reply. [l][r]
-
-Still, I called his name many times. Chi-chan, chi-chan. [l][r]
-
-[r]What is it, YOU?" [l][l]I called several times, expecting such a voice to return. [l][r]
-
+[cm]正直きつい。なにか少しでも口に入れたかった。でも、食べ物も飲み物も探しても見つかりそうにないなら、先にちーちゃんを探した方がいいに決まっている。[l][r]
+きっと、ひとりぼっちで寂しいに違いないから。[l][r]
+[r]何回も呼んだ。おーい、おーいと。返事なんて来るわけないって知ってたけど。[l][r]
+それでも、何回も名前を呼んだ。ちーちゃん、ちーちゃん。[l][r]
+[r]「なんだ、ユー？」[l]そんな声が帰ってくることを期待しながら、私は何回も呼んだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Many, many times. [l][r]
-
-Many times, I screamed. [l][r]
-
-[r]"Ch-ch-ch-ch-ch-ch!" [r]
-
-Many times, I bumped my leg. [l][r]
-
-Many times, I bumped my head. [l][r]
-
+何回も何回も。[l][r]
+何回も、叫んだ。[l][r]
+「ちーちゃんっ！！」[r]
+何回も、足をぶつけた。[l][r]
+何回も、頭をぶつけた。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="down08.ogg"  ]
 [quake  time="300"  count="1"  hmax="0"  wait="false"  vmax="10"  ]
 [tb_start_text mode=3 ]
-Many times, I fell down, scraped and tumbled. [l][r]
-
+何回も、こけて転がった。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"...... I'm hungry."[r]
-
-Many times, my stomach rumbled. [l][r]
-
-My throat was parched all the time, all the time. [l][r]
-
-Still, I keep walking the pipe. I have to find Chi-chan. I have to find Chi-chan. [l][r]
-
-Walking. Reach out. Searching. Crouch. Searching. Walk. As I repeated the process over and over again, I realized that what I had just touched was in the same place. [l][r]
-
+[r]「……お腹すいたな」[r]
+何回も、お腹が鳴った。[l][r]
+喉は、ずっとずっとカラカラだった。[l][r]
+それでも私はパイプを歩き続ける。ちーちゃんを探さなきゃ。ちーちゃんを探さなきゃ。[l][r]
+歩く。手を伸ばす。探す。しゃがむ。探す。歩く。何度もそれを繰り返していくうちに、自分がさっき触れたものが同じところにあるのに気がついた。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Not moving? [l][r]
-
-[I couldn't walk. I thought I was walking, but I wasn't making any progress. [l][r]
-
-My stomach no longer rumbled. I wanted to say "chi-chan" out loud, but all that came out was air. [l][r]
-
-When I realized all of that, I felt like I had lost everything and ...... I couldn't move a finger. I couldn't even breathe. [l][r]
-
+動いていない？[l][r]
+[r]私は歩けなくなっていた。歩いているつもりだったのに、ぜんぜん進んでいなかった。[l][r]
+お腹の音も鳴らなくなっている。ちーちゃん、って声に出してみたかったけど、出てくるのは空気だけだった。[l][r]
+それを全部自覚したとき、何もかも失ったような気がして……私は、指一本も動かせなくなった。息をするのも面倒くさい。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I don't know if my eyes are open or closed. The sound of my heart is distant, and I suddenly realize. Am I going to die? [l][r]
-
+目を開けているのか、閉じているのもわからない。心臓の音が遠くて、ふと気づく。私、死ぬのかな。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-...... in such a dark, dark place. [r]
-
-Where there is no chi-chan. [r]
-
-If I was going to die, I would have preferred to be with you. ...... [l][r]
-
+……こんな、真っ暗な場所で。[r]
+ちーちゃんが居ない場所で。[r]
+死ぬなら、一緒がよかったのに……。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Chi ......-chan" [l][r].
-
-Once more, just one more time, I speak out. But I still couldn't hear it even with my own ears. I don't even know if I'm not speaking out loud or if I'm deaf. [l][r]
-
-I'm scared...... it's so dark...... why are you gone, why are you gone, Chi-Chi?　Please, please, stay on ...... side of me. ...... [l][r]
-
-Tasuke ...... Chi-chan ....... [l][r]
-
-Soooo, the pitch-dark world is getting even darker. Oh no, I'm afraid of the dark. I'm afraid of the dark. I'm scared without Chi-chan. Oh no. ...... no no no. ...... no no. [l][r]
-
+[r]「ちー……ちゃん」[l][r]
+もう一度、もう一度だけ声を出す。でもやっぱり自分の耳でも聞こえなかった。声が出てないのか、耳が遠いのか、どっちなのかもわからない。[l][r]
+怖いよ……真っ暗だよ……なんで、なんでちーちゃんいなくなったの？　お願いだから……側にいてよ……。[l][r]
+たすけて……ちーちゃん……。[l][r]
+すぅ、と真っ暗な世界がさらに真っ暗になっていく。やだ。暗いの、怖いのに。ちーちゃんがいないと怖いのに。やだ……やだよぉ……。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-- Yuri -[l][r].
-
+― ユーリ ―[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Beyond the closed consciousness, I heard something. [l][r]
-
-No, it's not something. I'm sure of it. I definitely heard it. [l][r]
-
+閉じかけた意識の向こうで、なにかが聞こえた。[l][r]
+いや、なにかじゃない。間違いない。確かに聞こえた。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"...... chi, chan?" [l][r]
-
-Somehow I open my eyes. I hear it, I'm sure of it. No doubt, Chi-chan's voice. [l][r]
-
+[r]「……ちー、ちゃん？」[l][r]
+どうにかして目を開ける。聞こえた、確かに。間違いない、ちーちゃんの声。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 [r][r]
-[r]-you, over here-[l][r]
-
+[r]― ユー、こっち ―[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m5_piano.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="light50.jpg"  ]
 [tb_start_text mode=3 ]
-"Chi-chan ......!" [l][r]
-
-My world suddenly became brighter. I opened my eyes. Move, move, I said as I lifted my lead-heavy body. Then I saw something. Something white, like a white light. In it, a familiar little shadow. [l][r]
-
-[r]"Chi-chan!" [l][r]
-
-Ah, it's Chi-chan. Chi-chan is here. I tried to stand up, but I immediately rolled over. My legs wouldn't move. Why, oh no. Move. [l][r]
-
-I stretch out my arms and drag myself forward, the heaviest person in the world. Slowly but surely, the light, Chi-chan, approaches. [l][r]
-
+「ちーちゃん……！」[l][r]
+私の世界が急に明るくなった。目を開けたんだ。動け、動けと私は鉛みたいに重い体を起こす。そのとき、なにかが見えた。白い、白い光のようなもの。その中に、見覚えのある小さな影。[l][r]
+[r]「ちーちゃん！」[l][r]
+ああ、ちーちゃんだ。ちーちゃんが来てくれた。私は立ち上がろうとしたけど、すぐに転がってしまう。足が動こうとしてくれなかった。なんで、ああもう。動いてよ。[l][r]
+腕を伸ばして、世界で一番重くなってしまった自分の体を引きずって前に進む。遅いけど、確実に光が、ちーちゃんが近づいてくる。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-- Ugh. Here, come here. Come here. -[l][r]
-
+― ユー。ほら、おいで。こっちだ ―[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Chi-chan, chi-chan! [l][r]
-
-Move, my arm. Move, my heart. [r]
-
-Faster, farther away. Because Chi-chan is waiting for you. [l][r]
-
+[r]ちーちゃん、ちーちゃん！[l][r]
+動け、腕。動け、私の心臓。[r]
+もっと早く、もっと遠くに。ちーちゃんが待っているから。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="light.jpg"  ]
 [tb_start_text mode=3 ]
-The light grows larger. Chi-chan's shadow also grows larger. [r]
-
-Chi-chan reaches out her hand. I lean forward to grab his hand as well. [l][r]
-
-Chi-chan, chi-chan, where have you been [r]?
-
-of!　Don't leave me here just because my reaction is funny! [l][r]
-
-But, but it was good. I finally got to see him, I got to see him again! [l][r]
-
-I stretch my hand so far that it almost tears off. I almost reach it. I can reach Chi-chan. A little more, a little more! [l][r]
-
+光が大きくなる。ちーちゃんの影も大きくなる。[r]
+ちーちゃんが手を伸ばす。私もその手を掴もうと身を乗り出す。[l][r]
+ちーちゃん、ちーちゃんどこ行ってた[r]
+の！　私の反応が面白いからって、置いていったりしないでよ！[l][r]
+でも、でもよかった。やっと会えた、また会えたんだ！[l][r]
+手がちぎれそうになるほど伸ばす。もう少しで届く。ちーちゃんに届く。もう少し、もう少し！[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -387,139 +278,97 @@ I stretch my hand so far that it almost tears off. I almost reach it. I can reac
 [playse  volume="100"  time="1000"  buf="0"  storage="down1.ogg"  ]
 [quake  time="300"  count="2"  hmax="0"  wait="true"  vmax="10"  ]
 [tb_start_text mode=3 ]
-Gueh."[r].
-
+「ぐえっ」[r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="fact.jpg"  ]
 [tb_start_text mode=3 ]
-I tumble to the hard floor. I'm lucky I didn't hit my head, but my whole body hurts everywhere already. [l][r]
-
-In the corner of the visible world, a pipe with a big mouth. Ah, you must have fallen down from there. But more importantly, where is Moo-chan? I moved my body, which had lost all sensation, and somehow managed to look up in front of me. [l][r]
-
+私は固い床に転がり落ちる。頭をぶつけなくてよかったけど、もう全身のあちこちが痛い。[l][r]
+見える世界の隅に、大きく口を開けたパイプ。ああ、あそこから落ちたんだね。それよりもちーちゃんは、どこ？私は限界で感覚すらなくなった体を動かして、どうにか前を見上げた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="imo.jpg"  ]
 [tb_start_text mode=3 ]
-Imo, there was. [l][r]
-
-And a lot of it. [r]
-
-"............" [l][r].
-
-I watched it dumbfounded for a while and unconsciously grabbed a potato that was hanging close at hand. I can't take it. [l][r]
-
-I've pulled and pushed, but I can't get it off at all. [l][r]
-
+イモが、あった。[l][r]
+それも、たくさん。[r]
+「…………」[l][r]
+しばらくそれを呆けて見ていた私は、無意識のうちに手近なところにぶら下がっていたイモを掴んでいた。とれない。[l][r]
+引いたり押したりしたけど、全然取れない。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="rope03.ogg"  ]
 [wait  time="200"  ]
 [quake  time="200"  count="2"  hmax="0"  wait="true"  vmax="5"  ]
 [tb_start_text mode=3 ]
-It became troublesome and I forced myself to shred it with my weight. [l][r]
+面倒になって、体重をかけて無理矢理千切った。[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+私はそれを口にいれる。固い。めっちゃ固い。[l]けど、なんだろうこれ。とっても甘い。すごく甘い。なんだこれ？[r]
+イモって煮たり焼いたりしなくてもこんなに美味しいの？[l][r]
+甘い味が口いっぱいに広がって、そのまま幸せが頭に入り込んでくる。私は誰にも奪われないように、イモを両手で掴んで口の中に詰め込む。[l][r]
+[r]「んむっ……はむっ……ごく、あむ、はむ、んぐ、んむ！」[r]
+止まらなかった。美味しい。美味しい。イモ、たくさんの、イモ。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I put it in my mouth. It's hard. Very hard. [But I don't know what it is. It's very sweet. Very sweet. What is this? [r]
-
-How can potatoes taste so good without boiling or baking? [l][r]
-
-The sweet taste fills my mouth and happiness goes straight into my head. I grab the potato with both hands and stuff it into my mouth so that no one can take it away from me. [l][r]
-
-[r]"Mmmm ...... hahm ...... goku, ahm, hahm, nng, nng!" [r]
-
-Couldn't stop. Delicious. Delicious. Imo, lots and lots of imo. [l][r]
-
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-Hug, ah, mmm, ah, ah, ah, ah, ah, mmm, ah, ah, ah!" [l][r]
-
-I really enjoyed the raw potatoes. More than rations, more than fish, more than any food I've ever eaten, raw potatoes tasted better. [l][r]
-
-Who was that guy who said it could be boiled and eaten? Oh, that's Ishii. He said "even if you boil it," so ...... yes, of course you can eat it raw. So raw was the best. [l][r]
-
-[r]I ate potatoes at random, feeling like I wasn't myself anymore. My stomach hurt a little in the process, but more than that, everything in my body was screaming for more food. [l][r]
-
+「はぐっ、あむ、んっんっ、あぐっはむはむ、むっ、んむ、あぐっ！！」[l][r]
+生のままのイモは本当に美味しかった。レーションよりも、さかなよりも、今まで食べてきた食べ物のどれよりも生のイモが美味しかった。[l][r]
+誰だっけ、煮ても食べられるって言った人。ああ、イシイだ。煮ても、って言っていたから……そうだよ、生でも食べられるに決まってるじゃん。つまり生が一番だったんだね。[l][r]
+[r]私は自分が自分じゃなくなったような気分で手当たり次第にイモを食べた。途中でお腹が少し痛くなったけど、それよりも、もっと食べたいって体の全部が叫んでた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="fact2.jpg"  ]
 [tb_start_text mode=3 ]
-I looked and saw what looked like a faucet. My feet, which were heavy like lead, moved softly. I reach the spot as quickly as I can and twist the faucet. [l][r]
-
+見ると、蛇口らしきものもある。鉛のように重かった足がふわりと動いた。できるだけ急いでその場にたどり着くと、蛇口を捻る。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="sei_ge_jaba01.ogg"  ]
 [tb_start_text mode=3 ]
-Clear water came out. I didn't hesitate to stick my head in [r].
-
-Drink it. [l][r]
-
-'Nn, nn ...... nmmm, nnggg ...... hah!' [l][r]
-
-[r]eat, eat, drink, drink. The body that had not moved was able to move like a lie. [r]
-
-I'm alive. I'm still alive. [l][r]
-
+透明な水が出た。迷わず頭を突っ込んで[r]
+それを飲む。[l][r]
+「ん、ん……んむっ、んぐっ……っはーっ！」[l][r]
+[r]食べる、食べる、飲む、飲む。動かなかった体は嘘のように動けるようになっていた。[r]
+生きてる。私、まだ生きているんだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-The sweet potatoes are getting soggier and soggier. Something is wrong. My vision is blurry. [l]My eyes are burning. [r]
+甘かったイモが、だんだんしょっぱくなっていく。あれ、おかしいな。視界もぼやけてる。[l]なんだろう目が熱いな。[r]
+あれ、あれ？[l][r]
 
-Huh, that? [l][r]
-
-
-[r]eally I found myself in tears. Was it because I was alive, or was it because the potatoes tasted so good? [l][r]
-
-But it doesn't matter. It doesn't matter anything, because it tastes so good. Yes, it's a waste to eat alone. [l][r]
-
+[r]気づけば私は涙を流していた。生きていたからか、イモが美味しいからか？[l][r]
+でもどうでもいい。こんなに美味しいんだもん、何も関係ない。そうだ、一人で食べるなんてもったいないよ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Hm, amm, nngggghhhh! Chi-chan, Chi-chan, you should eat too! There are so many potatoes here, see, Chi-chan!" [l][r]
-
-I stand up and look around. My voice echoes off the walls of the building. [l][r]
-
-[r]Chi-chan was nowhere to be found. [l][r]
-
-"............aa" [l][r].
-
-I realized. Chi-chan, who was in the light earlier, was no longer there. [l][r]
-
+「はむ、あむっ、んぐんぐっ、っはー！ちーちゃん、ちーちゃんも食べなよ！こんなにイモがあるんだから、ほらちーちゃん！！」[l][r]
+私は立ち上がって周囲を見回す。私の声が建物の壁に響いて消える。[l][r]
+[r]ちーちゃんはどこにもいなかった。[l][r]
+「…………ぁ」[l][r]
+私は気づいた。さっきの光の中にいたちーちゃんは、もう居ないんだって。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...... is a waste of time, Chi-chan[r].
+「……はは、ちーちゃんもったいない[r]
+よ。場所だけ教えるなんて。ふたりで食べたら、もっと美味しいのにさ」[l][r]
+もう一口、私はイモを食べる。今食べたイモは、とんでもなくしょっぱい味がした。[l][r]
+[r]「ちーちゃんと……食べたかった[r]
+のに……」[l][r]
+私はごしごしと目を擦って、イモを食べる。まだ、しょっぱかった。[l][r]
+[r]「……っ、ありがとう……ちーちゃん」[l][r]
 
-I can't believe you just told me where it is. I can't believe I just told you where to go. It would taste even better if we ate together.
-
-Another bite, and I eat a potato. The potato I just ate tasted ridiculously salty. [l][r]
-
-[r]"I wanted to eat ...... with Chi-chan[r].
-
-to ......" [l][r].
-
-I scrubbed and rubbed my eyes and ate the potato. It was still dreary. [l][r]
-
-[r]"......, thank you ...... chi-chan" [l][r].
-
-
-[cm] Oh. Yeah. [l][r]
-
-[r]I, you were crying because Chi-chan wasn't here. [l][r]
-
+[cm]ああ。そうだ。[l][r]
+[r]ちーちゃんが居ないから私、泣いていたんだね。[l][r]
 [_tb_end_text]
 
 [cm  ]

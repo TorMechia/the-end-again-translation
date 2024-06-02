@@ -1,8 +1,0 @@
-[preload  storage="./data/bgimage/st_sB_B2.jpg"  ]
-[preload  storage="./data/bgimage/room8.jpg"  ]
-[preload  storage="./data/bgimage/black.png"  ]
-[preload  storage="./data/bgimage/white.png"  ]
-[preload  storage="./data/bgimage/tomosibi.jpg"  ]
-[preload  storage="./data/bgimage/room5_asa.jpg"  ]
-[preload  storage="./data/bgimage/waraiau.jpg"  ]
-[return]

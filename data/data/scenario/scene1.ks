@@ -5,8 +5,7 @@
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I couldn't move one finger anymore. [l][r]
-
+もう指１本動かなかった。[l][r]
 
 [_tb_end_text]
 
@@ -14,43 +13,30 @@ I couldn't move one finger anymore. [l][r]
 [bg  time="2000"  method="crossfade"  storage="isilast.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The food they were carrying had run out, they had no access to drinking water, and they had no fuel or heat source sufficient to melt the snow. [l][r]
-
-
-[_tb_end_text]
-
-[tb_start_text mode=3 ]
-I couldn't walk, I couldn't move, I couldn't even think. [l][r]
-
-[r]I missed a drop of water more than anything. [r]
-
-Snow that had fluttered down from somewhere landed on my hand. It remained as it was, unmelted. [l][r]
+携行していた食料が尽き、飲料水の確保もできず、雪を溶かすに足る燃料も熱源もない。[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I don't even feel cold anymore. [r]
+歩けなくなり、動けなくなり、思考すらままならなくなった。[l][r]
+[r]水の１滴が何よりも恋しかった。[r]
+どこからか舞ってきた雪が、手の上に乗った。そのまま溶けずに残っていた。[l][r]
+[_tb_end_text]
 
-It is no longer possible to keep one's eyes open. [l][r]
-
-[r]I think I did a great job. [r]
-
-I think it's a reasonable death. [l][r]
-
+[tb_start_text mode=3 ]
+もはや寒さすら感じない。[r]
+眼を開けていることも叶わなくなった。[l][r]
+[r]私はよく頑張ったと思う。[r]
+妥当な死に様だと思う。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Are those two still safe? [l][r]
-
-......Who are those two ......? [l][r]
-
-[r]I'm ...... why here ......[l][r]
-
-Oh ....... [l][r]
-
-........................... sleepy. [l][r]
-
+あの二人は、まだ無事だろうか？[l][r]
+……あの二人とは、誰だろう……？[l][r]
+[r]私は……どうしてここに……[l][r]
+ああ……。[l][r]
+………………………眠い。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -60,24 +46,15 @@ Oh ....... [l][r]
 [bg  time="3000"  method="crossfade"  storage="isiroom_1.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The vibration of the table hitting the table shook my eardrums. [l][r]
-
-I open my eyes and reach for my mobile device. [r]
-
-Turn off the alarm and get out of bed [r].
-
-and put the glasses on your face. [l][r]
-
-[r]is it morning already? ...... No, finally, it's morning. [l][r]
-
-I had an incredibly long, long dream. I think it was like ....... It was a horrible dream. [l][r]
-
-[r]Dream ......?　You think that feeling is a dream? [r]
-
-That cold, that cold, that hunger, that thirst? [l][r]
-
-That those wise and brave girls are a dream? [l][r]
-
+テーブルを叩く振動が鼓膜を震わせた。[l][r]
+私は眼を開け、携帯端末に手を伸ばす。[r]
+アラームを切り、ベッドから起き上が[r]
+り、メガネを顔に乗せる。[l][r]
+[r]もう朝か。……いや、やっと、朝になったのか。[l][r]
+信じられないくらい長い長い夢を見ていた。……ような気がする。恐ろしい夢だった。[l][r]
+[r]夢……？　あの感覚が夢だと？[r]
+あの冷たさが、あの寒さが、あの飢餓感が、あの渇きが？[l][r]
+あの賢明で勇敢な少女達が、夢だと？！[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -85,10 +62,8 @@ That those wise and brave girls are a dream? [l][r]
 [bg  time="1000"  method="crossfade"  storage="town.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-'That's the stupidest thing I've ever heard of!' [l][r]
-
-I let my frustration hit me with the morning sun shining from behind the curtains and the nondescript scenery of a peaceful provincial city illuminated by it. [l][r]
-
+「そんな馬鹿な話があってたまるか！」[l][r]
+私はカーテンの向こうから射して来る朝日と、それに照らされている平和な地方都市のなんでもない風景とに、苛立ちをぶつけた。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

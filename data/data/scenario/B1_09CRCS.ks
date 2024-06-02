@@ -8,51 +8,36 @@
 [bg  time="2000"  method="crossfade"  storage="blood.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Every world is full of contradictions. [l][r]
-
-[r][r]The lamentation of numerous creatures that have been unreasonably exterminated. [l][r]
-
-Innocent people hanged only to satisfy the vanity of those in power. [l][r]
-
-Towns and villages burned for no reason. [l][r]
-
-Some people even take their own lives on the same day they laugh happily. [l][r]
-
-[r]efore the memory of "the other world" returned, it was a wonder. Those cruel stories of the real world that don't flow right like the stories in the books. [l][r]
-
-A world that is not right. But the cold reality is that it is true. [l][r]
-
+どんな世界だって矛盾に満ちている。[l][r]
+[r]理不尽に絶滅させられた数多の生き物の嘆き。[l][r]
+権力者の虚栄を満たすためだけに首を吊られた無実の人々。[l][r]
+何の理由もなく焼かれた街や村。[l][r]
+楽しそうに笑ったその日に自ら命を絶つ人だっている。[l][r]
+[r]「向こうの世界」の記憶が戻る前、それが不思議で仕方なかった。本の中のお話のようには正しく流れない、本当の世界の残酷な物語達。[l][r]
+正しくない世界。でも、それが真実だっていう冷たい現実。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="news.jpg"  ]
 [tb_start_text mode=3 ]
-Tragedies that shine like stars in the sky, sensationalized in hanging ads on trains, on the edges of newspapers, on wide shows, and in the news on the Internet. [l][r]
-
-People fascinated by it. The indifference of just looking at it from the outside like a story in a book because it doesn't really matter to them. But it's wrong and true. [l][r]
-
-A world spinning with contradictions. [l][r]
-
+電車の中吊り広告で、新聞の端で、ワイドショーで、ネットのニュースで、扇情的に語られる、星空のように輝く悲劇たち。[l][r]
+それに魅せられている人々。自分には本当は関係ないからと、本の中の物語のように外から眺めるだけの無関心。でも、それは間違っていて、本当のことで。[l][r]
+矛盾を抱えたまま回る世界。[l][r]
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="lastroot.jpg"  ]
 [tb_start_text mode=3 ]
-[r]Now that doesn't feel like a contradiction. [l][r]
-
-Memories of a painful but joyful time, living in a world that was just the two of us. That world brutally taught me everything. [l][r]
-
-[r]That the world is in contradiction and despair from the beginning. [l][r]
-
+[r]それが今は矛盾だと感じられない。[l][r]
+二人だけの世界を生きた、辛くても楽しかった記憶。あの世界は残酷に全てを教えてくれた。[l][r]
+[r]世界は初めから矛盾と絶望の中にあるのだと。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="lastwall2.jpg"  ]
 [tb_start_text mode=3 ]
-So what is it? [r]
-
-I didn't even know what I really wanted anymore. [l][r]
-
+だからなんだろうか。[r]
+私はもう、私が本当は何を望んでいるのかすら、分からなくなっていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -60,73 +45,52 @@ I didn't even know what I really wanted anymore. [l][r]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Chi-chan said. [l][r]
-
-This world is too full. That's why it can't be filled. ....... [l][r]
-
-[r]You're serious about that, aren't you ......? [l][r]
-
+ちーちゃんは言った。[l][r]
+この世界は満たされすぎてる。だから満たされないんだ……って。 [l][r]
+[r]それ、本気で言ってるんだよね……？[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_start_text mode=3 ]
-No matter how hard I looked, even in an abandoned town where I couldn't find anything, even in a white blizzard, [l][r]even in the pitch black darkness, Ti-chan would look straight ahead, look up, and take me with her. [l][r]
-
-If you despair of the world and enjoy it as much as you can, you don't care about the rest [r].
-
-I was just being stubborn, hiding the trembling in my chest, but [l]the truth is ......[r], I was the one who told me that living was the best thing I had ever done.
-
-It was the chi-chan. [l][r]
-
+どんなに探しても何ひとつ見つからない廃墟の街だって、真っ白な吹雪の中だって、[l]真っ暗な闇の中だって、真っ直ぐに前を見て、上を見て、私を連れて行ってくれたちーちゃん。[l][r]
+世界に絶望して、楽しむだけ楽しんだら後のことなんてどうでもいいじゃんっ[r]
+て、胸の奥の震えを隠しながら強がりばっかり言ってた私に、生きるのが最高だったと教えてくれたのは、[l]本当は……[r]
+ちーちゃんの方だったんだよ。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="lastwall.jpg"  ]
 [tb_start_text mode=3 ]
-[r]...... I don't know if you've noticed. I guess I've already forgotten. [l][r]
+[r]……気付いてないのかな。もう、忘れちゃったのかな。[l][r]
 
-
-Now Chi-chan seems to be looking down all the time. [r]
-
-You know desperately that something, something you've lost, isn't there, but you keep crouching down and looking like you can't walk. [l][r]
-
+今のちーちゃんは、ずっと下ばかり見てるみたいだ。[r]
+必死に何か、なくしちゃった何かがそこにないって分かってるのに、ずっとしゃがみこんで、歩けないみたいに見える。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="tenji3.jpg"  ]
 [tb_start_text mode=3 ]
-I remember how hard it was to just watch Chi-chan on the side when she was trying to do something about the ...... broken vehicle. [l][r]
+……壊れた車両を何とかしようとして頑張ってるときのちーちゃんを、横でただ見てるのがすごく辛かったことを思い出す。[l][r]
+……でもさ、あのときのちーちゃんは、本当にすごかったよね。[l][r]
+かなしくて、かなしくて、かなしくて。震えながら大声で泣いて叫んでも、お風呂に入って、ビールを飲んで、一休みしたら……また歩き出したんだ。[l][r]
 
-...... But, you know, Chi-chan was really amazing at that time. [l][r]
-
-I was so sad, so sad, so sad. Even though I was shaking and crying and screaming loudly, I took a bath, drank a beer, and after a break, I ...... started walking again. [l][r]
-
-
-[r]...... I get it, chi-chan. [l][r]
-
+[r]……分かったよ、ちーちゃん。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="yoru1.jpg"  ]
 [tb_start_text mode=3 ]
-That's not the case now, is it? You don't have to aim high, you don't have to be prepared to walk far with a heavy load. [l][r]
-
-When you step outside your apartment, a convenience store is right there. With a little manipulation of your phone, you can have anything delivered to you. [l][r]
-
-[r]...... That's not really a good or bad thing. If that's the way the world is, that's fine. [l][r]
-
-[r]That's how I feel too, but I can't say anything right now. [l][r]
-
-I don't want to deny ...... what Chi-chan says. I don't ever want to say that maybe it's wrong. [l][r]
-
-I want to do everything you want me to do. [l][r]
-
+今はそうじゃないもんね。上を目指さなくてもいい、重い荷物を抱えて遠くまで歩く覚悟もいらない。[l][r]
+アパートの外に出たらコンビニはすぐそこにある。スマホをちょっと操作すれば何でも届けてもらえる。[l][r]
+[r]……それは別に、いいも悪いもないんじゃないかな。そういう世界ならそれでもいいじゃない。[l][r]
+[r]そんな風にも私は思うけれど、今は何も言えない。[l][r]
+ちーちゃんの言うことを……否定したくない。間違ってるんじゃないかなんて、絶対に言いたくない。[l][r]
+して欲しいこと全部かなえてあげたい。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Because if I don't watch over Chi-chan, she will be alone again. ...... [l][r]
-
+だって私がちーちゃんを見ててあげないと、ちーちゃんはまた独りぼっちになっちゃうんだから……。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -134,60 +98,40 @@ Because if I don't watch over Chi-chan, she will be alone again. ...... [l][r]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [bg  time="1000"  method="crossfade"  storage="room9_3.jpg"  ]
 [tb_start_text mode=3 ]
-Yoo has been by my side ever since. [l][r]
+ユーはあれからずっと傍にいてくれる。[l][r]
+目が覚めたときには必ず隣で笑っていてくれる。[l][r]
+私が食べられそうなものをあれこれ見せて、食べさせてくれる。[l][r]
+[r]いつ買ってるのか、お金は大丈夫なの[r]
+か、学校はどうしたのか。[l][r]
 
-Whenever I wake up, he is always smiling next to me. [l][r]
-
-He shows me all kinds of things I could eat and feeds me this and that. [l][r]
-
-[r]When are you buying, is the money safe[r]?
-
-ka, what happened to the school? [l][r]
-
-
-[r]...... I'm curious but don't feel like putting it into words. [l][r]
-
+[r]……気にはなるけど言葉にする気が起きない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Yu are kind. [l][r]
-
-Yoo is warm. [l][r]
-
-Yu are soft. [l][r]
-
-Yoo is comfortable. [l][r]
-
-Yoo. Yoo. Yuri. ....... [l][r]
-
-You will want to chew on that thought over and over again. My own personal ...... Yuri. [l][r]
-
+ユーが優しい。[l][r]
+ユーが温かい。[l][r]
+ユーが柔らかい。[l][r]
+ユーが心地良い。[l][r]
+ユー。ゆー。ユーリ……。[l][r]
+何度でもその思いを噛みしめたくなる。私だけの……ユーリ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="rom7.jpg"  ]
 [tb_start_text mode=3 ]
-It doesn't belong to anyone. And I know it's not really mine. [l][r]
-
-But I can't let go of it anymore. I'm afraid to open my clasped hands, to turn my eyes outward. [l][r]
-
-I am like a little child clinging to his mother as she puts him on an unfamiliar train. I'm scared and loving, and I can't get away from clinging to You. [l][r]
-
-[r]etter it was yesterday or today, Yu was looking out the window. I asked him if he was concerned about what was outside, and he shook his head, ummm. [l][r]
-
-Yoo closed the curtains, looked at me, and smiled, saying it was nothing. The flat light from the ceiling light glinted off Yoo's doll-like hair. [l][r]
-
-Beautiful, I thought. [l][r]
-
+誰のものでもない。私のものでないことも本当は分かってる。[l][r]
+でももう手放せない。握った手を開くのが、目を外に向けるのが、怖い。[l][r]
+私はまるで、慣れない電車に乗せられて母親にしがみつく、小さな子どもみたいだ。怖さと愛おしさで、ユーにしがみついたまま離れられない。[l][r]
+[r]昨日だったか今日だったか、ユーが窓の外を見ていた。外が気になるのかと聞いたら、ううんと首を横に振った。[l][r]
+ユーはカーテンを閉めて、私を見て、なんでもないよと笑った。シーリングライトの平坦な光が、人形のようなユーの髪を光らせる。[l][r]
+綺麗だなと私は思った。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-We can forget that there is a world outside. Because [l][r].
-
-[r]Such a beautiful world we have here. [l][r]
-
+外に世界があるなんてことは、忘れてしまえばいい。だって、[l][r]
+[r]こんなに綺麗な世界が、ここにはあるんだから。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -196,64 +140,44 @@ We can forget that there is a world outside. Because [l][r].
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [bg  time="1500"  method="crossfade"  storage="room5_n.jpg"  ]
 [tb_start_text mode=3 ]
-Look at the window, look at the glass, look in the mirror. [r]
-
-See my face reflected there. [l][r]
-
-Since I decided to stay with Chi-chan forever, I look much happier in the mirror. [l][r]
-
-They don't talk or laugh without permission. He just looks happy. [l][r]
-
-[r] I don't care if it's [r]. [l][r]
-
-And I don't care about ...... anymore. [l][r]
-
-I close the curtains and look only at Chi-chan. [l][r]
-
+窓を見る、ガラスを見る、鏡を見る。[r]
+そこに映る私の顔を見る。[l][r]
+ちーちゃんとずっと一緒にいようって決めてから、鏡の中の私はずいぶん嬉しそうにしてる。[l][r]
+勝手に喋ったり笑ったりもしない。ただただ、嬉しそうだ。[l][r]
+[r]ならいいや。[l][r]
+それにもう……どうでもいい。[l][r]
+私はカーテンを閉じてちーちゃんだけを見る。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan eats the food I prepare for her. [l][r]
-
-Chi-chan apologizes for throwing up. [l][r]
-
-Chi-chan remembers the memories of the other world properly and talks about them fondly. [l][r]
-
-[r][r]Chi-chan says she loves me and only me. [l][r]
-
-[r]My own ...... tito. [l][r]
-
+私の用意したごはんを食べてくれるちーちゃん。[l][r]
+吐いちゃって謝るちーちゃん。[l][r]
+向こうの世界の思い出をちゃんと覚えてて、懐かしそうに話してくれるちーちゃん。[l][r]
+[r]私のことを、私のことだけを、好きだって言ってくれるちーちゃん。[l][r]
+[r]私だけの……チト。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But, you know, I really know. [l][r]
+でもね、本当は分かってるんだ。[l][r]
+カーテンを閉じても、鏡をふせても、見えちゃうんだよね。ちーちゃんの瞳に映る私だけは。[l][r]
+[r]だから気付くんだ、[l][r]
+嬉しそうに笑う私の顔が、作り物だってことには。[l][r]
 
-Even if I close the curtains or cover the mirror, I can still see it. Only I am reflected in Chi-chan's eyes. [l][r]
-
-[r]So notice, [l][r].
-
-Not that my happy smile is a figment of my face. [l][r]
-
-
-[r]But you know what? [r]
-
-Still, that's enough. [l][r]
-
+[r]でもさ。[r]
+それでももう、いいじゃない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Oh, sheer, aren't we? [l][r]
-
+ああ、シアワセだよな、私たち。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Yeah, we're sheer, aren't we? [l][r]
-
+うん、シアワセだよね、私たち。[l][r]
 [_tb_end_text]
 
 [cm  ]

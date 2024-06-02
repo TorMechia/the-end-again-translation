@@ -8,107 +8,72 @@
 [tb_show_message_window  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m0_piano.ogg"  ]
 [tb_start_text mode=3 ]
-Hey, u."[l][r].
-
+「ねー、ユー」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[l][r]"What is it?" [l][r]
-
-Chi-chan opened her mouth on my lap, looking vaguely at the moon. [l][r]
-
-[r]"You know, this world here. It's convenient."[l][r].
-
-[r] "Yes. We don't have to worry about food, clothes, baths, or even living."[r].
-
-Yeah. I know. But."[l][r].
-
-[r]Chi-chan said that and stirred up the sake. Her face was already pouty and red. [l][r]
-
+「なぁに？」[l][r]
+ちーちゃんは私の膝の上で、ぼんやりと月を見ながら口を開いた。[l][r]
+[r]「ここの世界ってさ。便利だよね」[l][r]
+「うん。食べ物も服もお風呂も、生活にだって困らないもんね」[r]
+「ああ。そうだよな。でも」[l][r]
+[r]ちーちゃんはそう言うとお酒を煽る。すでに顔はぷっくり赤くなっていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'It's fun to study and work part-time, but you know. You lose track of a lot of things when there are so many people."[l][r].
-
-"...... I guess so."[l][r]
-
-Every day. I try so hard to live and live, but nothing comes back to me in return."[l][r].
-
+「勉強やバイトしたりするのは楽しいけどさ。人間が多いと色々なことがわからなくなるよね」[l][r]
+「……そうだね」[l][r]
+「毎日毎日さ。必死に生きて、生きようとしているのに、見返りはなにも戻ってこない」[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="CanPeki.ogg"  ]
 [tb_start_text mode=3 ]
-The sound of a can crushing with a snap. [l][r]
+ぺきっ、と缶がつぶれる音。[l][r]
 
-
-[r]"I'd rather just lose it. I'm losing nothing."[l][r] "I'm losing nothing."[l][r] "I'm losing nothing.
-
-"...... un" [l][r].
-
-I just want to forget everything."[l][r]
-
-"...... un" [l][r].
-
-"............ Hmmm, funny me."[l][r].
-
+[r]「むしろ失うばかりで。なんにもなくなっていく」[l][r]
+「……うん」[l][r]
+「なにもかも忘れたいって、そう思うんだ」[l][r]
+「……うん」[l][r]
+「…………ふふ、おかしいね、私」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan chuckled as she took the last sip of her beer. It was too dark to see clearly, but there were several beer cans lying around Chi-chan. Maybe she was trying to force herself to sleep and drank alcohol. [l][r]
-
-[r]Chi-chan crushes the empty can and throws it plop into the room and says. [l][r]
-
+苦笑いしながらちーちゃんは最後の一口を飲み干す。暗くてよく見えなかったけど、ちーちゃんの周りにはいくつかビール缶が転がっていた。もしかして、無理矢理眠ろうとしてお酒を飲んだのかな。[l][r]
+[r]ちーちゃんは空になった缶を潰して、部屋の中にぽいと投げて言う。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="can_t.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"Oh, it's a pain in the ass, isn't it? It's a pain in the ass, this world."[l][r].
-
-Empty eyes stared blankly at the full moon. I thought that Chi-chan's soul might be sucked into the moon, so I hugged her from behind[r].
-
- [l][r]
-
-[r]"...... I guess so. Is it tight?"[l][r]"I don't know.
-
-[r]Chi-chan says, "Right." I glance at Chi-chan's face right next to me; there are shadows under her eyes. I wonder if she hasn't slept much. [l][r]
-
+「あー。めんどうくさいよな、このせかい」[l][r]
+虚ろな目が、まんまるなお月さまをぼんやりと見つめていた。私はちーちゃんのたましいがお月さまに吸い込まれるんじゃないかと思って、後ろから抱き締め[r]
+る。[l][r]
+[r]「……そうだね。窮屈な感じかな」[l][r]
+[r]ちーちゃんが「だよね」と言う。すぐ横にあるちーちゃんの顔をちらりと見る、目の下に隈ができていた。あまり、寝れてないのかな。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Hey yu."[l][r].
-
-[l][r]"What is it?" [l][r]
-
-"Let's just go somewhere and have fun.
-
-I?" [r]
-
-Now?" [l][r]
-
-Yeah. Come to think of it, I've never done nightlife before."[l][r].
-
+「ねぇゆー」[l][r]
+「なぁに？」[l][r]
+「このままさ、どっか遊びに行かな[r]
+い？」[r]
+「今？」[l][r]
+「うん。そういえば、夜遊びってやったことないよなーって思って」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan smiles hehehe. That smile looks incredibly painful, and you can tell that she wants to get as comfortable as possible[r].
-
-I am sure that [l]he would not have said this or thought this. [l]I am sure that the previous Chi-chan would not have said or thought this. [l][r]
-
-But I won't say I don't like it. If I said it, Chi-chan would break. I have always thought about how to prevent it from breaking. [l][r]
-
-[r]There is only one thing I can do. [l][r]
-
-'Great. Let's go."[l][r].
-
- [l][r]
-
+へへへと笑みを浮かべるちーちゃん。その笑顔がとてつもなく苦しそうで、少しでも楽になりたそうなのが伝わってく[r]
+る。[l]前のちーちゃんなら、きっとこんなことは言わなかったし、思わなかった。[l][r]
+でも、私はそれを嫌とは言わない。言ったらちーちゃんが壊れちゃう。壊れないようにするにはどうするか、いつも考えてきた。[l][r]
+[r]私にできることはひとつだけ。[l][r]
+「いいね。行ってみよう」[l][r]
+[r]ちーちゃんの願いを、少しでも多く叶えてあげることだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -120,121 +85,78 @@ But I won't say I don't like it. If I said it, Chi-chan would break. I have alwa
 [wait  time="3000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Midnight. We left home and took the last train to the downtown area. Even though it was already past midnight, there were people everywhere. [A scene that would be unthinkable on the other side of the world. Glittering neon lights, people calling out to stores, drunks making noise, drunks sleeping on the street. [l][r]
-
-Even though it was nighttime, the city was ridiculously busy. The first time I came downtown late at night, it was much livelier than it was during the day, and yet it was a mess. [l][r]
-
+深夜。家を出た私たちは終電で繁華街へとやって来た。もう日付が変わる時間だっていうのに、あちこち人で溢れてる。[l]向こうの世界じゃぜったいに考えられない光景。ギラギラ光るネオン、お店への呼び込み、騒ぐ酔っぱらいに道路で寝る酔っぱらい。[l][r]
+夜なのに、街はとんでもなく賑やかだった。はじめて来る深夜の繁華街は、昼間よりもずっと活気に溢れていて、それでいてめちゃくちゃだった。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But it was strangely enjoyable, and we were quickly swallowed up by the atmosphere. [l][r]
-
-It's kind of amazing."[l][r].
-
-"Yeah."[r].
-
-Everybody's playing."[l][r].
-
-Like an idiot."[r].
-
-...... us, let's play, too."[l][r].
-
-"...... hehe. Yeah."[l][r].
-
+でも、それが妙に楽しくて、私たちはあっという間にその空気に飲み込まれてしまった。[l][r]
+「なんか、すごいね」[l][r]
+「うん」[r]
+「みんな遊んでるね」[l][r]
+「バカみたいにな」[r]
+「……私たちも、遊ぼうか」[l][r]
+「……へへっ。うん」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="yoru3.jpg"  ]
 [tb_start_text mode=3 ]
-We played around. At first, to get used to the atmosphere, we went into an all-you-can-drink karaoke bar and drank anyway. [l][r]
-
-[hehehe, yuuuuu!!! [l][r]
-
-[wow, chi-chan. [r]
-
-Here comes the song!" [l][r]
-
-'Ah, hehe, I'll let you hear my beautiful voice!' [l][r]
-
-[l][r]"Yippee!" [l][r]
-
-'Hey, what the hell, it's not grading, yoo this is broken' [l][r].
-
-'Haha, chi-chan, the microphone is not switched on!' [l][r]
-
-[l]"True, ah ha ha!" [l][r]
-
-Heh heh heh, ha ha ha!" [l][r]
-
+私たちは遊びまくった。とりあえず空気に慣れようとお酒飲み放題のカラオケに入って、とにかく飲んだ。[l][r]
+「へへへ、ゆうう！！」[l][r]
+「わ、ちーちゃん。[r]
+ほら歌が始まるよ！」[l][r]
+「あー、へっへ、私の美声をきかせてやるぞぉ！」[l][r]
+「いやっふー！」[l][r]
+「あれ、なんだよ採点されないぞ、ゆーこれ壊れてるぞ」[l][r]
+「あっはは、ちーちゃんマイクにスイッチ入ってないー！」[l][r]
+「本当だ、あっはははは！」[l][r]
+「へへへへ、はははは！」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I want to forget. Anyway, everything. With this thought in mind, we enter the izakaya without any second thoughts. [l][r]
+忘れたい。とにかく、なにもかも。それだけを思って私たちは、後先考えず居酒屋に入る。[l][r]
 
-
-[r]"Ha ha ha, u drink this drink, it will only burn your throat!" [l][r]
-
-[r] "Which one is ......, ah, ah, kefu, this is great chi-chan! [r]
-
-Fuel, fuel!" [l][r]
-
-Really!　Or run into a vehicle!" [l][r]
-
-[r]eally we make a fuss. We order the harshest drinks we've ever had, and we drink them in a frenzy. The snacks are all delicious. [l][r]
-
+[r]「っははは、ユー飲んでみろよこの酒、喉が焼けるだけだ！」[l][r]
+「どれどれ……っ、ぁ、あ、けっふ、これすごいねちーちゃん！[r]
+燃料だよ燃料！」[l][r]
+「本当にな！　車両に突っ込むか！」[l][r]
+[r]私たちは騒ぎ立てる。飲んだこともないようなきついお酒を頼んで、ひたすら騒ぎ立てて飲む。１杯、２杯、３杯、美味しかった。おつまみも全部美味しい。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Upp, ugh.'[l][r].
-
-Chi-chan, ah chi-chan mi-chan mi-chan too much, uppu."[l][r].
-
-
-
-"Chi-chan ...... morning sickness, ooey gooey."[l][r]
-
-[r][r]I threw up a lot. [l][r]
-
-[r]"U, p, next time, tsugii!" [l][r]
-
-[l][r][r]yes! [l][r]
-
+「うっぷ、うぇええ」[l][r]
+「ちーちゃん、ああちーちゃんのみすぎっ、うっぷ」[l][r]
+「おえええ……へへ、へへへ、ゆーもはいてるし、へへへへっっ、ぐぅ」[l][r]
+「ちーちゃん……つわり、おええええ」[l][r]
+[r]何度も吐いた。[l][r]
+[r]「う、ぷ、次いくぞ、つぎぃ！」[l][r]
+「よしきた！」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Anyway, I tried to forget. [l][r]
-
-The Now that is about to break. [l][r]
-
+[r]とにかく、忘れようとした。[l][r]
+壊れそうな今を。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="gamecen.jpg"  ]
 [tb_start_text mode=3 ]
-[r] "Okay, I got you. [r]
+「よし掴んだ！[r]
+もうちょいもうちょい……ああもう！[r]
+おいユー、このクレーンぼったくり[r]
+だ！　全然とれないぞ！」[l][r]
+[r]クレーンゲームのガラスに張り付いてちーちゃんは怒る。横から見るとほっぺがくっついて面白い見た目だった。[l][r]
 
-A little more ...... ahhh! [r]
+「ちーちゃんへただなぁ」[r]
+「なにをぉ！　機械のせいだ、絶対！」[l][r]
 
-Hey u, this crane rip-off [r].
-
-It is!　I can't get it at all!" [l][r]
-
-[r]Chi-chan gets angry when she sticks to the glass of the crane game. From the side, his cheeks stuck together and looked funny. [l][r]
-
-
-Chi-chan heda na na na."[r].
-
-What are you doing?　It's the machine, I swear!" [l][r]
-
-
-Chi-chan protests, turning her head to me and turning red in the face. Then she seems to find something and looks behind me. [l][r]
-
-[r]"Oh, what's that... uh, shooting game."[l][r]
-
+と、こちらを向いて顔を真っ赤にしてちーちゃんが抗議する。するとなにかを見つけたようで、私の後ろに目線を向ける。[l][r]
+[r]「お、なんだあれ…あー、射撃のゲームだな」[l][r]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -243,36 +165,23 @@ Chi-chan protests, turning her head to me and turning red in the face. Then she 
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="3"  wait="true"  ]
 [tb_start_text mode=3 ]
- [l][r]
-
-[r]"You used to tell me, 'You're a bad shot,' or something like that. ....... Alright then, I'll show you what I'm really capable of."[l][r] "I'll show you what I'm really capable of."[l][r]"I'll show you what I'm really capable of.
-
-After saying so, Chi-chan puts in the money and starts the game. [l][r]
-
-[r]A target pops up on the screen, but Chi-chan shoots in the wrong direction. [l][r]
-
-'Oh, you just hit it!' [l][r]
-
-'Chi-chan, I'm coming next.'[l][r].
-
-[l]"Watch it, you a-hole!" [l][r]
-
+ぞわ、と体が寒くなる。[l][r]
+[r]「昔『ヘタクソだもんね』とか、言ってくれたよなぁ……。よーし、それじゃ私のホントの実力、見せてやるよ」[l][r]
+そう言うと、ちーちゃんはお金を入れてゲームを始める。[l][r]
+[r]画面に的が飛び出るけど、ちーちゃんは的はずれな方向に撃つ。[l][r]
+「おぉい、今の当たっただろ！」[l][r]
+「ちーちゃん、次来るよ」[l][r]
+「見てろ、このぉ！！」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan shoots at flying targets. All of them hit the target in the wrong direction and score. [l][r]
-
-[r]"Haha, look at u!　Manmaru, they said you got a zero!" [l][r]
-
-Hahaha, uke!"[l][r].
-
-'Look, Yu, you try it, it's good, it's good, it's good.'[l][r].
-
-[r]Then Chi-chan tries to hand me the gun. [r]
-
-I stare at it for a while. [l][r]
-
+パン、パンと飛んでくる的を撃つちーちゃん。その全ては的はずれな方向に命中し、スコアが出る。[l][r]
+[r]「あっはは、ユー見てみろよ！　まんまる、０点だってさ！」[l][r]
+「あははは、ウケるー」[l][r]
+「ほらユー、お前やってみろよ、うまいだろうまいだろ」[l][r]
+[r]そう言ってちーちゃんは私に銃を手渡そうとする。[r]
+私はそれをしばらく見つめる。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -280,16 +189,14 @@ I stare at it for a while. [l][r]
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="4"  wait="true"  ]
 [tb_start_text mode=3 ]
-Heart beats faster. Stomach churning. My head is spinning. [l][r]
-
+心臓の鼓動が早くなる。胃がキリキリする。頭がぐるぐるする。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="5"  wait="true"  ]
 [tb_start_text mode=3 ]
-[r]Trigger, gunshot. Dark, dark world. [l][r]
-
+[r]引き金、銃声。暗い、暗い世界。[l][r]
 
 [_tb_end_text]
 
@@ -297,8 +204,7 @@ Heart beats faster. Stomach churning. My head is spinning. [l][r]
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="3"  wait="true"  ]
 [tb_start_text mode=3 ]
-[r]Just a moment of solitude, fear. [l][r]
-
+[r]ほんの一瞬の孤独、恐怖。[l][r]
 
 [_tb_end_text]
 
@@ -306,22 +212,16 @@ Heart beats faster. Stomach churning. My head is spinning. [l][r]
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="6"  wait="true"  ]
 [tb_start_text mode=3 ]
-[r]I was almost dizzy. But no. If I collapse ...... in front of Chi-chan. [l][r]
-
-It makes me worry more. [l][r]
-
+[r]目眩がしそうだった。でも、だめだ。ちーちゃんの前で……倒れたりしたら。[l][r]
+もっと心配させちゃう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"I'm sorry, ......, Chi-chan. I'll pass."[l][r].
-
-[r]I reply with a smile as best I can. [r]
-
-I hope it's okay, I hope I'm fooling around properly. [l][r]
-
-Chi-chan looked a little strange. But she immediately smiled and fell into me as if a thread had been broken. [l][r]
-
+「……ごめんね、ちーちゃん。私は遠慮しておくよ」[l][r]
+[r]私は精一杯の笑みを浮かべて答える。[r]
+大丈夫かな、ちゃんと誤魔化せているかな。[l][r]
+ちーちゃんは少し不思議そうな顔をしていた。でも、すぐににこりと笑みを浮かべると、まるで糸が切れたかのように私に倒れ込んできた。[l][r]
 
 [_tb_end_text]
 
@@ -330,22 +230,16 @@ Chi-chan looked a little strange. But she immediately smiled and fell into me as
 [bg  time="1000"  method="crossfade"  storage="gamecen2.jpg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-Wah, chi-chan."[l][r].
-
-"...... hehe, yu ......" [l][r].
-
-[r]He grabbed my arm weakly and Chi-chan fell asleep. I guess I was tired after drinking so much and making so much noise. Good thing I have a constitution strong enough to drink. [l][r]
-
-[Chi-chan is sleeping soundly and comfortably. I gently stroke her head. [l]I was so happy in that moment that I could truly forget everything. [l][r]
-
-[r][r]Ahhhh. [l][r]
-
+「わ、ちーちゃん」[l][r]
+「……へへ、ゆー……」[l][r]
+[r]私の腕を弱々しく掴むと、ちーちゃんは眠ってしまった。あれだけ飲んで、騒いだから疲れちゃったのかな。私がお酒に強い体質でよかった。[l][r]
+[cm]すやすやと気持ちの良さそうな寝息を立てるちーちゃん。私はその頭を優しく撫でる。[l]その瞬間がとても幸せで、本当に何もかもを忘れることができた。[l][r]
+[r]あーあ。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]I really wish I could just stay like this forever and forget everything. [l][r]
-
+[r]ほんと、ずっとこのまま、何もかも忘れられたらいいのに。[l][r]
 [_tb_end_text]
 
 [cm  ]

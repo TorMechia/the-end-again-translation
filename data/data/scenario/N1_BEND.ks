@@ -3,103 +3,77 @@
 [cm  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-It doesn't matter. ....... [l][r]
-
-
-
-[r]...... because it's the end of the day. [l][r]
-
+どうでもいい……。[l][r]
+[r]もう、全部[l][r]
+[r]……終わるんだから。[l][r]
 
 [r][l][r]
 [r][r]
-[r]Oh, and yet [l][r].
-
+[r]ああ、なのに[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m4_piano.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-My eyes have opened. [l][r]
+目が開いてしまった。[l][r]
+もう何も見えなくてよかったのに。[l][r]
+[r]反射的に呼吸をする。吸い込んだ空気の重さが不快だと思った。[l][r]
 
-You shouldn't have seen anything else. [l][r]
-
-[r]eflexive breathing. I found the weight of the air I inhaled to be uncomfortable. [l][r]
-
-
-[r]wind was cooling my body. I could hear the sound of cars going down the street. [l][r]
-
+[r]風が身体を冷やしていた。車が通りを行きかう音が聴こえた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="kaidan.jpg"  ]
 [tb_start_text mode=3 ]
-I know where my body is. [l][r]
+自分の身体のある場所が分かった。[l][r]
+屋上にまで通じている、病院の非常階段だった。[l][r]
 
-It was a hospital fire escape that led to the roof. [l][r]
-
-
-[r]Oh, what you thought was a spiral staircase was a hospital staircase, and what you thought was the top level was a rooftop. [l][r]
-
-You've unconsciously ascended so far. I don't need to think about its purpose anymore ....... [l][r]
-
+[r]なあんだ、螺旋階段だと思ってたのは病院の階段で、最上層だと思っていたのは屋上だったんだな。[l][r]
+無意識にここまで昇ってたのか。その目的は……もう考えるまでもないな。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Let's not, let's not think about it anymore. [l][r]
-
-[r][r]To do no more unnecessary things. [l][r]
-
-[r]Let's just clean up and put it all behind us. [l][r]
-
+やめよう、もう、考えるのは。[l][r]
+[r]余計なことをもうしでかさない為に。[l][r]
+[r]綺麗さっぱり、全てをお終いにしよう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="kaidan3.jpg"  ]
 [bg  time="1000"  method="crossfade"  storage="darksky.jpg"  ]
 [tb_start_text mode=3 ]
-I climbed over the fence and looked at the starless sky. [l][r]
-
-I didn't think I could fly there. [l][r]
-
-[r]I just wanted to do that guy a favor. [l][r]
-
-[r]...... no more, I just want to be done. [l][r]
-
-[r]That was it. [l][r]
-
+私はフェンスを乗り越えて、星のない空を見た。[l][r]
+そこへ飛べるだなんて思わなかった。[l][r]
+[r]あいつの願いを聞いてやりたかっただけだ。[l][r]
+[r]……いいや、もう、ただ終わりたい。[l][r]
+[r]それだけだった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Now, once more, let us yield this body to the end. [l][r]
+さあもう一度、この身を終わりへとゆだねよう。[l][r]
 
-
-[r]With that thought as the last, I relaxed my entire body. [l][r]
-
+[r]その思考を最後に、私は全身の力を抜いた。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="fadeIn"  storage="white.png"  cross="false"  ]
 [tb_start_text mode=3 ]
-My head shakes [l][r][r][l][r][r].
+頭がぐらりと揺れて[l][r]
 
+[r]世界が反転して[l][r]
 
-[r]The world flipped [l][r][r].
-
-
-[r] and [l][r].
-
+[r]そして[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="fadeIn"  storage="black.png"  cross="false"  ]
 [tb_start_text mode=3 ]
-Everything went, dark. [l][r]
-
+全てが、真っ暗に、なった。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

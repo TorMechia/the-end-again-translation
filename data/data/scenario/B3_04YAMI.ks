@@ -4,37 +4,27 @@
 [bg  time="3000"  method="crossfade"  storage="kurai.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Toto-toto, the sound of a lovely engine echoes through the air. As the sound gets closer, the screws on the ground shake and the pipes leaking water tremble. [l][r]
+トトトトト、と可愛らしいエンジンの音が響き渡る。その音が近づくにつれて、地面のネジが揺れ、水が漏れているパイプが震える。[l][r]
+真っ暗な道を、一筋のライトが照らし出す。静寂と暗闇で包まれた世界に、道を作り出すために。[l][r]
 
-A ray of light illuminates a pitch-black road. To create a path in a world enveloped in silence and darkness. [l][r]
+[r]「暗い」[l][r]
 
+[r]その暗闇に響く、「少女」の声。[l][r]
 
-[r]"dark" [l][r].
+[r]「暗い」[l][r]
 
-
-[r]The voice of the "girl" echoes in that darkness. [l][r]
-
-
-[r]"dark" [l][r].
-
-
-[r][r]A running vehicle, one girl with a helmet on the back of it. [l][r]
-
+[r]走る車両、その荷台にヘルメットを被った少女が一人いた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The girl looks around in a circle, looks at the space, which is only faintly visible, and says again. [l][r]
+その少女はぐるりと周囲を見回して、うっすらとしか見えないその空間を見てもう一度言う。[l][r]
 
+[r]「暗い」[l][r]
 
-[r]"dark" [l][r].
+[r]ヘルメットとフードの隙間から、美しい金髪が覗いている。まるでそれは月の光のように透き通り、見る者を魅了するだろう。[l][r]
 
-
-[r]evealing beautiful blonde hair peeking out from between the helmet and hood. It is as translucent as the light of the moon, and will mesmerize all who see it. [l][r]
-
-
-[r]Shaking such blonde hair and lightly popping her hand, the girl let out a single word she had accumulated into that darkness. [l][r]
-
+[r]そんな金髪を揺らし、手を軽くぽんぽんとさせながら少女は溜めに溜めた一言をその暗闇に吐き出した。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -44,82 +34,57 @@ The girl looks around in a circle, looks at the space, which is only faintly vis
 [tb_show_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="water-bukubuku3.ogg"  ]
 [tb_start_text mode=3 ]
-"Kool-aid."[l][r].
+「くーらーいー」[l][r]
+「うるせぇ」[l][r]
 
-Shut up."[l][r].
+[r]運転席から声がする。金髪の少女が声の方を見ると、ちょこんと一回り小さな少女が車両を運転していた。[l][r]
 
-
-[r]A voice comes from the driver's seat. The blonde girl looks toward the voice and sees a slightly smaller girl driving the vehicle. [l][r]
-
-
-[r]"Sorry" [l][r].
-
-"...... okay."[l][r]
-
+[r]「ごめん」[l][r]
+「……いいよ」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-She is a pretty girl with a glossy black lowered hair extending from her helmet. [r]
+ヘルメットから、黒い艶やかなお下げが伸びているかわいらしい子だ。[r]
+その子は、がこん、とクラッチを入れて速度を調整する。車両の速度が少しばかり変わる。[l][r]
 
-The child puts in the clutch with a clunk and adjusts the speed. The speed of the vehicle changes slightly. [l][r]
-
-
-[r]"Ha. I feel like I've done this before."[l][r] "I feel like I've done this before.
-
-When was the last time?"[l][r].
-
-'Hmmm, I don't know. But I think I've done it a few times."[l][r].
-
-How many times?" [l][r]
-
-"Combined with the earlier one, ......[r]
-
-Maybe three times."[l][r].
-
-Three times."[l][r] "Three times. That's a subtle number."[l][r].
-
-Is it a lot?"[l][r].
-
-I don't know."[l][r].
-
+[r]「はっ。何かこれ、前にもしたことがあるような気がする」[l][r]
+「前っていつだよ」[l][r]
+「んー、分かんないや。でも何回かやったことあるような」[l][r]
+「何回って、どれくらい？」[l][r]
+「さっきのと合わせて……[r]
+３回くらいかな」[l][r]
+「３回か。微妙な数字だな」[l][r]
+「多いのかな」[l][r]
+「わからん」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The blonde girl turns her body and stares at her dark hair. [l][r]
-
-That back is a back I've seen many times. But I don't know why. Today that back looked smaller than usual, and I felt a little uneasy. [l][r]
-
-[r][r]Gently, he reaches out his arms and hugs the little back. [l][r]
-
-The dark-haired girl seemed to jump back a little, but quickly cooled down and replied. [l][r]
-
+金髪の少女は、体の向きを変えてじっと黒い髪の毛を見つめる。[l][r]
+その背中は何度も見た背中だ。ただなぜだろう。今日はその背中がいつもより小さく見えて、少し不安になった。[l][r]
+[r]そっと腕を伸ばし、小さな背中を抱き締める。[l][r]
+黒髪の少女は少しだけ背中が跳ねたようだったが、すぐに冷静になって返事をする。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="water-bukubuku3.ogg"  ]
 [tb_start_text mode=3 ]
-What's wrong with you, **?"[l][r].
+「どうしたんだよ、＊ー」[l][r]
 
-
-[r][r]A dark-haired girl calls the name of a blonde girl. [l][r]
-
+[r]黒髪の少女が金髪の少女の名を呼ぶ。[l][r]
 
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="water-bukubuku3.ogg"  ]
 [tb_start_text mode=3 ]
-[r]"It's nothing, *-*****" [l][r].
+[r]「なんでもないよ、＊－＊＊＊」[l][r]
 
+[r]金髪の少女が、黒髪の少女の名を呼ぶ。[l][r]
 
-[r][r]A blonde girl calls the name of a dark-haired girl. [l][r]
-
-
-[r]The voice sounded indistinct, somewhat heavy, as if it were blocked by some invisible wall. [l][r]
-
+[r]その声が、何か見えない壁に遮られているかのように、不鮮明に、どこか重く、響いた。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -128,10 +93,8 @@ What's wrong with you, **?"[l][r].
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-Vehicles continue to drive on dark roads. [l][r]
-
-Soon the sound of its engine becomes distant and darkness envelops the world. [l][r]
-
+暗い道を車両は走り続ける。[l][r]
+やがてそのエンジン音は遠くなり、暗闇が世界を包み込む。[l][r]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -139,13 +102,10 @@ Soon the sound of its engine becomes distant and darkness envelops the world. [l
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-[r]But that didn't[r] matter[/r].
+[r]でもそれは、何の問題にもならなかっ[r]
+た。[l][r]
 
- [l][r]
-
-
-[r]As long as we can be together, that's all that matters. [l][r]
-
+[r]二人で一緒にいられれば、それでいいのだから。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -156,10 +116,8 @@ Soon the sound of its engine becomes distant and darkness envelops the world. [l
 [tb_start_text mode=3 ]
 [r][r]
 [r][r]
-............ example, if the location is [l][r][r][l][r][r].
-
-[r][r]Deep, deep, even if it's at the bottom of the ocean. [l][r]
-
+…………例えその場所が、[l][r]
+[r]深い深い、海の底だとしても。[l][r]
 [_tb_end_text]
 
 [cm  ]

@@ -7,77 +7,59 @@
 [bg  time="1000"  method="crossfade"  storage="white.png"  ]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-............? [l][r]
-
-[r]Something cold poured into my fading consciousness. [l][r]
-
+…………？[l][r]
+[r]遠退きかけた意識に、冷たいなにかが降り注いだ。[l][r]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink color="black" storage="N1_05TRMR.ks" size="20" x="24" text="What the ............?"  y="350" target="*yes"]
-
-[glink color="black" storage="N1_BEND.ks" size="20" text="doesn't matter ......" x="24" y="400"]
-
+[glink  color="black"  storage="N1_05TRMR.ks"  size="20"  x="24"  text="なんだ…………？"  y="350"  target="*yes"  ]
+[glink  color="black"  storage="N1_BEND.ks"  size="20"  text="どうでもいい……"  x="24"  y="400"  ]
 [s  ]
 *yes
 
 [tb_start_text mode=3 ]
-What's that ......? [l][r]
-
-The last remaining consciousness pulls back perception and opens the eyes with a wince. [l][r]
-
+なんだ……？[l][r]
+最後に残った意識で知覚を引き戻し、うっすらと目を開ける。[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="snowdropn.jpg"  ]
 [tb_start_text mode=3 ]
-Yuri smiles. And beyond that, the stars are full. [l][r]
-
+笑みを浮かべるユーリ。そしてその向こうに広がる満天の星。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="snowdrop0.jpg"  ]
 [tb_start_text mode=3 ]
-Those stars are falling ....... [l][r]
-
+その星たちが……降ってきている。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="snowdrop1.jpg"  ]
 [tb_start_text mode=3 ]
-No, no. ...... Is this snow? [l][r]
-
-The funny thing was that the stars were visible and it was snowing. [l][r]
-
+いや、違う……これは、雪？[l][r]
+おかしなことに、星が見えているのに雪が降ってきていた。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="snowdrop2.jpg"  ]
 [tb_start_text mode=3 ]
-It's a strange weather. But it's really beautiful, like the stars are falling. [l][r]
-
-[r]Right. You said the words "the stars are falling," You said. [r]
-
-That's what you said when I made the wrong decision and got here. [l][r]
-
-[r]I'm sure I said something before that. [l][r]
-
+おかしな天気だ。でも、本当に星が降ってるみたいで綺麗だ。[l][r]
+[r]そうだ。星が降っているって言葉、ユーが言ってたな。[r]
+私が判断を間違えてここまで来たとき、お前が言ってた言葉だ。[l][r]
+[r]確か、その前にも何か言ってたっけ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-What is it. [l][r]
-
-Yu are. [l][r]
-
-Saying. [l][r]
-
+何か。[l][r]
+ユーが。[l][r]
+言っていて。[l][r]
 [r][r]
 [r][r]
-[r]-Living ...... was ......-[l][r].
-
+[r]―生き……は……ったよね……―[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -85,61 +67,41 @@ Saying. [l][r]
 [bg  time="2000"  method="crossfade"  storage="white.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-!!!" [l][r]
-
-As the words flowed through my head, every cell in my being gasped for breath. [l][r]
-
+「！！」[l][r]
+その言葉が頭を流れたとき、私の全細胞が息を吹き替えした。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="zuru.ogg"  ]
 [quake  time="200"  count="4"  hmax="10"  wait="true"  ]
 [tb_start_text mode=3 ]
-With all the strength I can muster in my arms and legs, I brush Yuri's hand away and I escape. [l][r]
-
-[r]"Gah, ha, ha!" [r]
-
-The oxygen that was running out was somehow turned over to the brain[r].
-
-I shake my head and regain consciousness. [l][r]
-
+腕と脚に精一杯の力を込めてユーリの手を払い退け、私は脱出する。[l][r]
+[r]「がっ、は、っ、はぁ、はぁ！」[r]
+尽きかけていた酸素をどうにか脳に回し[r]
+私は頭を振って意識を取り戻す。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Then he shouts. [r]
-
-[r]"No!" [l][r]
-
-[r][r]To whatever is there. [l][r]
-
-[r]"You're not u!" [l][r]
-
-[r]eally. This is not You. It's "something" that looks like you. [l][r]
-
+そして、叫ぶ。[r]
+[r]「違う！」[l][r]
+[r]そこにいる何者かに。[l][r]
+[r]「お前は、ユーじゃない！」[l][r]
+[r]そうだ。こいつはユーじゃない。ユーの姿をした、「何か」だ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m4.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="saijousou_r.jpg"  ]
 [tb_start_text mode=3 ]
-"That's terrible, Chi-chan. ...... Why are you running away?"[l][r].
-
-Don't play dumb! Yu don't think that. [r]
-
-Yoo will not tell me that you want me to die!" [l][r]
-
-'How can you be so sure? I went through what I went through, to Chi-chan."[r].
-
-No!!! [l][r]
-
-[r]I exclaim. Because I have hard evidence that this guy is not You. [l][r]
-
-[cm]"When we ...... reached this summit together that time, I was regretful and self-loathing. I wished we'd turned back sooner, wished we'd gone somewhere else ......[l][r].
-
-But you didn't blame me. You didn't blame me, you smiled and hit me with a snowball, and I said I don't know, and you got a little mad, and then ......[r]
-
-...... Finally, he told me."[l][r].
-
+「ひどいなぁちーちゃん……なんで逃げちゃうの」[l][r]
+「とぼけるな！ユーはそんなこと思ってない。[r]
+ユーは私に死を望むようなことは、言わない！」[l][r]
+「どうしてそう言い切れるの？私はあんな目に遭ったからちーちゃんに」[r]
+「違う！！」[l][r]
+[r]私は絶叫する。こいつがユーじゃないという、確たる証拠があるからだ。[l][r]
+[cm]「あのとき……二人でこの頂上に辿り着いたとき、私は後悔して、自己嫌悪していた。もっと早く引き返せば、もっと別の場所に行けばって……[l][r]
+でも、お前は私を責めなかった。責めずに笑顔で雪玉をぶつけてきて、わかんないって言って、少しだけ怒って、それから……[r]
+……最後に、言ってくれたんだ」[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -147,141 +109,99 @@ But you didn't blame me. You didn't blame me, you smiled and hit me with a snowb
 [r][r]
 [r][r]
 [r][r]
-[r]"It was great to 'live, wasn't it?'[r]!" [l][r]
-
+[r]「『生きるのは、最高だったよね』[r]って！」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="fgd.png"  ]
 [tb_start_text mode=3 ]
-Those words saved me from everything. And as long as I remember those words, Yuri lives on in me. [l][r]
-
-Even though the pieces I collected disappeared. As long as You were inside me, You were never gone. [l][r]
-
-[r]Right. That piece is a trap set by this guy. [l][r]
-
+あの言葉は私の全てを救ってくれた。そして、この言葉を覚えている限り、私の中にはユーリが生きてるんだ。[l][r]
+集めた欠片が消え去っても。私の中にユーがいる限り、ユーは消えてなんかいなかったんだ。[l][r]
+[r]そう。あの欠片は、こいつが用意した罠だ。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Make them hope, make them rejoice, and then shove them down. [r]
-
-......That was a close call. I almost killed the Yuri in me completely. [l]I almost repeated my mistake not once, but twice. [l][r]
-
-[r]But ...... won't play into their hands. [l][r]
-
-This time I will protect u! [l][r]
-
+希望を持たせて、歓喜させて、そして突き落とす。[r]
+……危なかった。もう少しで自分の中のユーリを完全に殺すところだった。[l]一度だけじゃない、二度も過ちを繰り返すところだった。[l][r]
+[r]でも……もうその手には乗らない。[l][r]
+今度こそ、私はユーを守ってみせる！[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-You are contradicting yourself!　If you let me pass away, it means that you, yourself, will be alone once more. [l][r]
-
-......You were afraid of loneliness and that's what got you into that mess. Don't you think ...... that's funny!" [l][r]
-
-[r]I wiped my cheeks. The tears were hot. [l][r]
-
-'Of course, I don't think I deserve to be resented. But ......[l]u don't force the pain you've suffered on others[r].
-
-[l][r]"I'm sorry!" [l][r]
-
-[r]ight so Yoo didn't come to see me right away. I was struggling so hard to put my broken self back together. [l][r]
-
-Would such a You ask me to die? [l][r]
-
+「お前は矛盾している！　お前が私を逝かせるということは、お前自身も、もう一度独りになってしまうってことだろ。[l][r]
+……ユーは孤独が怖くて、あんなことになってしまったんだぞ。……おかしいと思わないか！？」[l][r]
+[r]私は頬を拭った。涙が熱かった。[l][r]
+「もちろん、私は恨まれても仕方ないと思う。でも……[l]ユーは自分の受けた痛みを他人に押し付けるようなことはしな[r]
+い！」[l][r]
+[r]だからユーは私にすぐに会いに来なかった。壊れた自分をもとに戻そうとして必死にもがいていたんだ。[l][r]
+そんなユーが私に死んでくれと言うか？[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Yes, this u. No, this guy. [l][r]
-
-You are ...... you are ......!" [l][r]
-
-'Ahhhh. It's boring."[l][r].
-
-The guy with the Yoo look on his face turned around with a bland expression on his face, raised his hands and spun around, and when he turned around to face us again, he looked familiar. [l][r]
-
+そう、このユーは。いや、こいつは。[l][r]
+「お前は……お前は……！」[l][r]
+「あーあ。つまんないの」[l][r]
+ユーの顔をしたそいつは、とぼけた表情になって両手を上げてくるりと回り、再びこちらに振り向くと見覚えのある姿になっていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="fear2.ogg"  ]
 [bg  time="2000"  method="crossfade"  storage="zetu1b.jpg"  ]
 [tb_start_text mode=3 ]
-Me. The ragged, robed, little ...... me. [l][r]
-
-[r]"Hey, why are you trying so hard? [r]
-
-From now on, just living in a world without Yoo is just going to be exhausting, okay?" [l][r]
-
-"...... you set this whole thing up."[l][r].
-
-It just seemed more interesting."[l][r].
-
-[r]I understood with these words. To the identity of this "I". [l]That destination that I had been pushed to so many times was who this guy was. [l][r]
-
+私だ。ボロボロのローブを被った、小さい頃の……わたし。[l][r]
+[r]「ねぇ、なんでそんなにがんばろうとするの？[r]
+これから先、ユーのいない世界をただ生きてても、疲れるだけなんだよ？」[l][r]
+「……全部お前が仕組んだことだろう」[l][r]
+「その方が、おもしろそうだったもん」[l][r]
+[r]この言葉で理解した。この「私」の正体に。[l]私が何度も突き落とされたその先こそが、こいつの正体だったんだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-You are ...... what you are!" [l][r]
-
+「お前は……お前の正体は！」[l][r]
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_start_text mode=3 ]
-I've had enough. It's boring. At best, you should live hard."[l][r].
-
+「もういいや。つまんないの。せいぜいがんばって生きるといいよ」[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="moya50.jpg"  ]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-Leaving those words, "I" disappear. [l][r]
-
-[r]All that was left of me was silence. Before I knew it, the starry sky had faded, and in its place, the sky had taken on color. [l][r]
-
+その言葉を残し、「わたし」は消える。[l][r]
+[r]残された私を包むのは静寂のみ。いつのまにか星空は薄くなり、その代わり空に色がついていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="saijousou_m.jpg"  ]
 [tb_start_text mode=3 ]
-I walk to the black stone where Yu and I slept. There, I can't see it from a distance after we both slept there. [l][r]
-
-The sun was out and shining on me. It's a beautiful sky. If there is no one else in the world too, then I am probably the luckiest person in the world. [l][r]
-
-[r]...... No, I'm sure it's the second. And probably the most unhappy in the world at the same time. [l][r]
-
-The happiest person in the world right now must be the you in me. [l][r]
-
+私はユーと眠った黒い石まで歩く。そこには二人で眠ったあとは遠目にも見えない。[l][r]
+太陽が顔を出して、私を照らしていた。綺麗な空だ。もし、この世界にも誰もいないのだとしたら、世界で一番の幸せ者なのかもしれない。[l][r]
+[r]……いや、きっと二番目だ。そして、同時に世界で一番不幸なんだろう。[l][r]
+今、世界で一番幸せなのは、私の中にいるユーに違いない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sleepy2.jpg"  ]
 [tb_start_text mode=3 ]
-Gently touch the black stone. [r]
-
-Soooo clear, it shows you asleep in the other world and me lying prone. [l][r]
-
-It's time to leave. [l][r]
-
-[r]I do not hesitate to go into it. [l][r]
-
+黒い石にそっと触れる。[r]
+すぅと透き通って、向こうの世界で眠り続けているユーと、突っ伏して寝てる私が写し出される。[l][r]
+帰るときが来たんだ。[l][r]
+[r]私は、その中に躊躇わず入る。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2500"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-I'll wait, Yuri. [l][r]
-
-[r]This time, with the real you, I'll meet you. [l][r]
-
-[r]Let's meet up on the other side of the world. [l][r]
-
-[r]I'll go ahead and wait for you. [l][r]
-
-[r]I'll be waiting for you for a long, long time. [l][r]
-
+待つよ、ユーリ。[l][r]
+[r]今度こそ、本当のお前と、会うよ。[l][r]
+[r]向こうの世界で、待ち合わせをしよう。[l][r]
+[r]先に行って待ってるから。[l][r]
+[r]ずっとずっと、待ってるから。[l][r]
 [_tb_end_text]
 
 [cm  ]

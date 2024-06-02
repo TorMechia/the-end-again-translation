@@ -9,138 +9,87 @@
 [bg  time="2000"  method="crossfade"  storage="kanaroom.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Did you read the file I sent you?" [l][r]
-
-[l][r]"Yeah. The stones look a little tired to the eyes."[l][r].
-
-I was like, "...... oh. I still think I should have sent you what I put out on paper?" [l][r]
-
-'That would be a heck of a lot of money for shipping and printing. I can't bother you that much [r].
-
-Yo. ...... Thanks, Kanazawa."[l][r].
-
-'No, I'm honestly sorry I can only do this much.'[l][r].
-
+「送ったファイルは読めたかい？」[l][r]
+「うん。流石にちょっと目が疲れそうだけど」[l][r]
+「……ああ。やっぱり紙に出したものを送った方が良かったかな？」[l][r]
+「それだと送料とか印刷代もすごいことになるし。そこまで迷惑かけられない[r]
+よ。……ありがとう、カナザワ」[l][r]
+「いや、この程度のことしかできなくて正直申し訳ない」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I talk to Tito while operating my computer. [l][r]
-
-The file at the end A is a collection of images that seem to resemble each other down to the hair and physiognomy, and the one at the end B looks only at age and physiognomy. [r]
-
-I'm sending it to you just in case it's a C, and I've got all the men of that age on it."[l][r].
-
+[r]僕はパソコンを操作しながらチトと通話する。[l][r]
+「末尾Ａのファイルが髪型や人相まで似てると思われる画像を集めた物で、Ｂのが年齢と体格だけ見てる物だよ。[r]
+念のため送ってるのがＣで、それっぽい年齢の男性を全部乗せてある」[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Wow ......, that must have been hard work." [r]
+「すごい……大変だったんじゃ？」[r]
+「いやなに。意外と楽しかったよ。それこそ地図を作るみたいでさ」[l][r]
 
-No, what? It was surprisingly fun. It was like making a map.
-
-
-[r]I'm not going to lie. I actually like this kind of work, it distracts me. [r]
-
-Survivor's Guilt is a nasty thing, and in some cases it seems that the more euphoric you feel, the more it attacks you unexpectedly. [l]In my case, I couldn't wipe away the guilt I felt toward Tito and Yuri no matter what. [r]
-
-This kind of simple work is a very healthy way to forget about it. [l][l]Thanks to them, I was able to live my days without the need for nicotine or alcohol. [l][r]
-
+[r]嘘は言ってないつもりだ。実際こういう作業は好きだし、気が紛れる。[r]
+サバイバーズギルトってのは厄介なやつで、幸福感を感じれば感じるほど不意に襲いかかって来るケースもあるようだ。[l]僕の場合、チトとユーリに対してどうしたって感じる負い目が拭えなかった。[r]
+それを、こういった単純作業は至極健全に忘れさせてくれる。[l]お陰で僕は、ニコチンもアルコールも必要とせずに日々を送ることができていた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I'm talking to Tito right now about the material she needs to find her grandfather who raised her on the other side of the world. [l][r]
-
-If Tito's hypothesis is correct, and if people who died over there manifest in this world with their physical bodies and social relationships (which is an outrageous theory but by no means undeniable), then the grandfather should have been sent here after the time the girls began their journey. [l][r]
-
-I relied on the Internet and the contacts of acquaintances to scour images and videos of the period, including the SDF's general fire demonstrations, commemorative events, publicity papers, and even news footage. [l][r]
-
-With the help of his wife and Mr. Ishii, he filed away images of men with similar features, physiognomy, and build to those described by Tito, and even their names and affiliations, if possible. [l][r]
-
-After all, I don't even know his name. Only Tito can finally confirm his name. Moreover, there is no way to be sure if he is really from the Self-Defense Forces or the military, if he is Japanese, or even if he died in the other country. [l][r]
-
-It's even worse than grabbing a cloud, but I'd like to think it's far better than doing nothing ....... [l][r]
-
+今、チトと話してるのは、彼女を向こうの世界で育ててくれたおじいさんを探すための資料についてだ。[l][r]
+チトの仮説が正しいとして、向こうで亡くなった人が肉体と社会的関係性ごと（これはとんでもない暴論だけど決して否定はできない）この世界に顕現するなら、彼女らが旅を始めた時間以降に、おじいさんはこちらへ飛ばされて来たはずだ。[l][r]
+僕はネットや知人のツテを頼り、自衛隊の総火演や記念行事、広報紙やニュース映像まで含めてその期間の画像や動画を漁った。[l][r]
+妻やイシイさんにも協力してもらって、チトの言う特徴や人相、体格の近い男性の画像と、可能なら氏名や所属までを控えてファイルしていったのだ。[l][r]
+何せ、名前すら分からない人だ。最終的に確認できるのはチトだけ。しかも本当に自衛隊や軍事関係者かどうか、日本人なのかどうかや、さらに向こうで亡くなってるかどうかさえ、確証がないと来ている。[l][r]
+雲をつかむよりもっとひどい話だけど、何もできないよりは遥かにマシだ……と思いたい。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-This is the hard part," he said. No one can do it but you. First, I want you to check off all the pictures in file A that you think 'look like'. [r]
-
-It would be helpful if you could even rank them if possible [r].
-
-I'm going to do it. You understand?" [l][r]
-
-[l]"Yes," Tito answers clearly and does not hesitate to say so. [l][r]
-
-If you see any photos that look even remotely suspicious, you can keep checking, and once you're done with A, send them back to me at ......."[r]
-
-While they're looking at that, you can look at file B in the same way."[l][r].
-
-'Yes. Thanks for talking so quickly, there are no duplicate images in the three files, you may not need to look at C, but if you have the extra energy, please look it over."[l][r].
-
-[cm]"Okay. I'll try."[r] "I'll try.
-
-"...... Don't take it too hard. You've got exams coming up." [l][r]
-
-I told you the results of the mock test, didn't I? I'm fine. Thank you so much, Kanazawa."[l][r].
-
-You're welcome. See you then."[l][r].
-
+「ここからが大変だよ。君以外に誰にもできない作業だ。まずＡのファイルで君が『似てるな』と思った写真全てにチェックを入れて欲しい。[r]
+可能なら順位までつけてくれると助か[r]
+る。分かるね？」[l][r]
+「うん」チトははっきりとそう答え、言い淀まない。[l][r]
+「もし少しでも疑わしいと思う写真があったら、どんどんチェックしてくれて構わない。Ａが済んだら一旦僕に送り返して……」[r]
+「それを見てもらってる間に、Ｂのファイルを同じように見ればいいんだね」[l][r]
+「そう。話が早くて助かるよ。３つのファイルに画像の重複はない。Ｃは見なくても良いかも知れないけど、余力があれば目を通して欲しい」[l][r]
+[cm]「分かった。やってみる」[r]
+「……無理はしないでね。受験も控えてるんだろ？」[l][r]
+「模試の結果言ったよね。大丈夫。本当にありがとう、カナザワ」[l][r]
+「どういたしまして。それじゃ、また」[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  ]
 [tb_start_text mode=3 ]
-[r]When I finish the call, I let out a sigh and stretch lightly. [l]I let out a sigh and stretch lightly as I finish the call, feeling both a light sense of accomplishment at having completed a task, and a sense of despair at the thought of the end of similar tasks that are yet to come. [r]
+[r]僕は通話を終えると溜息をひとつ吐いて軽く伸びをする。[l]ひと仕事終えたという軽い達成感もあるし、この先まだ続くだろう似たような作業の果てを思っての絶望感もある。[r]
+まあでもなぜか、悪い感じはしなかっ[r]
+た。[l][r]
+[_tb_end_text]
 
-Well, but somehow, I didn't feel bad[r].
-
- [l][r]
+[cm  ]
+[tb_start_text mode=3 ]
+「電話終わったかなー？」妻の声。[l][r]
+「終わったよ。お待たせ」僕は何でもないように答える。[l][r]
+「今日の電話はどっち？　クールビューティーさん？　可愛いＪＫさん？」[r]
+「後者だよ。……そんな妬かなくてもいいじゃない」[l][r]
+「妬いてませんよ。そんなには。気持ちは分かるつもりだし」頬を膨らませながら言う妻。[l][r]
+「……ごめんね」[l][r]
+「そこで謝らない！　そうじゃないの。怒ってるわけじゃなくて、お願いがあるの」[l][r]
+「お願い？　なに？」僕は全然分からなくて率直に尋ねる。[l][r]
+「あのね、私にも、二人に会わせて欲しいんだ」[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Is the call over?" Wife's voice. [l][r]
-
-I say, "I'm done, thanks for waiting. Here you go," I reply like it's nothing. [l][r]
-
-Which one of you is on the phone today?　The cool beauty or the cute JK?　Mr. Cute JK?" [r]
-
-'It's the latter. You don't have to be so jealous of ......."[l][r]
-
-I'm not jealous. Not that much. I think I know how you feel," my wife says, puffing out her cheeks. [l][r]
-
-Sorry about ......."[l][r]
-
-I won't apologize there!　I'm not. I'm not mad at you, but I need a favor."[l][r].
-
-"Please?　What?" I ask frankly, not understanding at all. [l][r]
-
-You know, I need to see you both."[l][r].
-
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-I immediately understood. I immediately agreed. [l][r]
-
-I'm going to ask you to do something for me, too. I would like you to meet them. Even though they don't know each other in the other world, I have a feeling that there must be something, something positive for both of them. [l][r]
-
-...... Oh, yeah."[r].
-
-I suddenly remembered something. I was reminded of a leaflet that came with the materials sent to me by an acquaintance. [l][r]
-
-[r]-"I'll invite you both to this for a break. Would you come with me? [r]
-
-Then we might have a good face-off."[l][r].
-
-I said that as I showed the flyer to my wife[r].
-
- [l][r]
-
+「……ああ。そうだね」僕は即座に了解した。[l][r]
+「僕からもお願いするよ。あの二人に会ってあげて欲しい。あっちの世界では面識がなくても、きっと何か、お互いにプラスになるような気がするんだ。[l][r]
+……あ、そうだ」[r]
+僕は不意に思い出した。知人から送られた資料についてきた一枚のチラシのことを。[l][r]
+[r]「息抜きを兼ねて、これに二人を誘ってみようか。君も一緒に来てくれる？[r]
+そしたらいい顔合わせになるかも知れない」[l][r]
+僕はチラシを妻に見せながらそう言っ[r]
+た。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -157,10 +106,8 @@ I said that as I showed the flyer to my wife[r].
 
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The flyer states, "WWII military vehicles will be on display. There will be replicas as well as restored vehicles. [l][r]
-
-From Sherman tanks to R75 motorcycles to Kettenkrath," he wrote. [l][r]
-
+チラシには、「二次大戦時軍用車両の展示を行います。レプリカの他、レストア車もあり。[l][r]
+シャーマン戦車からＲ７５バイク、ケッテンクラートまで」と、書いてあった。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

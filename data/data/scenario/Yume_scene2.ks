@@ -8,138 +8,90 @@
 [bg  time="1500"  method="crossfade"  storage="cafffe2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"Because ...... none of us have killed ourselves[r].
-
-And the cause of death was either fatigue freezing or natural causes. I don't want there to be a rule that says, 'If you commit suicide, you'll be sent to a different world.'"[l][r] "I don't want to be sent to a different world.
-
-"That's true, too. ......"[l][r]
-
+「……だって私たちは誰も自殺してない[r]
+し、死因も疲労凍死か自然死かだった。『自殺したらもっと別の世界に飛ばされる』ってルールでもあったら困るし」[l][r]
+「それもそうだが……」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]sipping coffee in an airport lounge[/r].
-
-We were still talking about that day when Tito collapsed. [l][r]
-
-[cm]"Did I get it wrong ......?"  [l][r]
-
-I'm not accusing you of anything. I'm just surprised you made that choice."[l][r].
-
-[r] "Yeah?" [r]
-
-Yeah, I think it's great."[l][r].
-
-I'd be happy to ......."[r]
-
-When I gave her an honest compliment, Tito gave me a girlish smile that was appropriate for her age. [l][r]
-
+[r]空港のラウンジでコーヒーを飲みなが[r]
+ら、私たちはチトが倒れたあの日のことについて、まだ語り合っていた。[l][r]
+[cm]「間違ってたかな……？」珍しく、自信なさそうにチトが呟く。[l][r]
+「いや、責めてるわけじゃない。ただ、よくそんな選択ができたなと驚いてるんだ」[l][r]
+「そう？」[r]
+「ああ、凄いと思うぞ」[l][r]
+「……なら嬉しい」[r]
+私が正直に褒めると、チトは歳相応の少女らしい笑顔をくれた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="bigwall_k.jpg"  ]
 [tb_start_text mode=3 ]
-In the end, Chito did not try to force Yuri over here, he said. [l][r]
-
-[r]There is no way that Tito would do something like killing Yuri according to an uncertain hypothesis, but even so, he endured it well. [l][r]
-
-I wouldn't directly ask them to die, but if I were in the same position, I would likely hint at it a bit, or decline to say "it's just a theory" and leave it up to their judgment. [l][r]
-
+結局、チトはユーリを無理やりこっちに連れ込もうとはしなかったそうだ。[l][r]
+[r]不確かな仮説に従ってユーリを殺すような真似をチトがするはずもないのだが、それにしても良く耐えたものだ。[l][r]
+直接「死んでくれ」とは流石に言わないだろうが、私が同じ立場なら、少しはほのめかしたり、「あくまでも仮説」と断りを入れて相手の判断に委ねたりしそうだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sun.jpg"  ]
 [tb_start_text mode=3 ]
-Tito said, "If I came to a world that is not here [r].
-
-He told them only, "You will find me in a city called Tokyo. [l][r]
-
-I asked him if he had no address or phone number, [r].
-
-Do you think YOU can remember?" I asked back. Well, you're right. [l][r]
-
-A woman named [r]tito is rare and may be sufficient. [l][r]
-
-If Yuri is looking for us, we are looking for him, and it will be much easier than finding Grandpa. [l][r]
-
+チトは「もしここではない世界に来た[r]
+ら、トーキョーという街で私を探せ」とだけ伝えたそうだ。[l][r]
+住所も電話番号も無しかと聞いたら、[r]
+「ユーが覚えてられると思う？」と聞き返された。まあその通りだな。[l][r]
+[r]チトという名前の女性は珍しいし、十分かも知れない。[l][r]
+ユーリの方から探してくれるのなら、こちらからも探すわけだし、おじいさんを見つけるより遥かに楽だろう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="cafffe2.jpg"  ]
 [tb_start_text mode=3 ]
-Isn't it about time?" [l][r]
-
-"...... still okay."[l][r].
-
-The truth is, it was pretty last minute, but I didn't want to say goodbye either. I wanted to see Tito's face a little more. [l][r]
-
+「そろそろ時間じゃないの？」[l][r]
+「……まだ大丈夫だ」[l][r]
+本当は結構ギリギリだが、私も別れは惜しい。もう少しチトの顔を見ておきたかった。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Tito has successfully passed the college entrance exam[r] since then.
+[r]チトはあれから大学受験を無事にパス[r]
+し、既に二年通っている。[l][r]
+例の「もや」と決別してからは心身ともに健康であり、おじいさんの調査が終わってからは会うことも少なくなってしまっていた。[l][r]
 
-I have been going to the school for two years already. [l][r]
-
-Since parting with the "moya" of the example, he has been in good physical and mental health, and we have seen each other less and less since the investigation of his grandfather was completed. [l][r]
-
-
-[cm]College life seemed fun and busy, and I was in love with my girlfriend. [l][r]
-
-[r][r]Yes, this is the first honeymoon of many that I'm about to fly. [l][r]
-
-The term is six months and the delivery time is six months. [l][r]
-
-[r][r]Of course, the lover's name is "work." [l][r]
-
+[cm]大学生活は楽しく忙しいようだし、私も恋人とラブラブだったからだ。[l][r]
+[r]そう、これから飛ぶのも何度目かのハネムーンだ。[l][r]
+期間は半年、納期も半年。[l][r]
+[r]無論、その恋人の名は「仕事」と言う。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-What are you going to do now?" [l][r]
-
-I probably won't go through the master's process. I'll just start job hunting like normal."[l][r].
-
-'Not really, just right after this. Are you going to stop off somewhere and go home?" [l][r]
-
-'Hmm. For now, I'll watch Ishii's plane fly and then go home."[l][r].
-
-[r]"You didn't have to go out of your way to see me off."[r]
-
-I said this without hiding my happiness, but [l][r].
-
-I'm worried about you," Tito says with a laugh. I'm worried about you," Tito replies with a laugh. Koi tsume ....... [l][r]
-
+「君はこれからどうするんだ？」[l][r]
+「修士過程には多分行かない。普通に就活始めるよ」[l][r]
+「そうじゃなくて、このすぐ後だ。どこか寄って帰るのか？」[l][r]
+「んー。とりあえずイシイの飛行機が飛ぶのを見てから帰る」[l][r]
+[r]「わざわざ見送ってくれなくてもいいのに」[r]
+私は嬉しさを隠せずにそう言ったが、[l][r]
+「だって、落ちるかもだし。心配だよ」と笑って返すチト。こいつめ……。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2500"  method="crossfade"  storage="white.png"  ]
 [bg  time="2000"  method="crossfade"  storage="ap2.jpg"  ]
 [tb_start_text mode=3 ]
-I was just in time for the departure formalities. After exchanging parting words with Tito, I run in a great hurry. [l][r]
-
-[r]um, which way?　Right?　Left?　[l][r]
-
-This airport is too big. There are too many people and the directions are unfriendly. [l][r]
-
+出国手続きの時間はギリギリだった。チトと別れの言葉を交わした後、私は大急ぎで走る。[l][r]
+[r]ええと、どっちだ？　右か？　左か？　[l][r]
+この空港は広すぎる。人も多いし、案内も不親切だ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Ah. Maybe."[l][r].
-
-I look over the information boards and look for where I should be heading. [l][r]
-
-[r]oo] "Hey. Remember me?" [l][r]
-
-Some strange inflection in the voice interrupts my thoughts [r].
-
-I'll be there. Shut up. Shut up. [l][r]
-
-[r]-[r]-"Hey, isn't that ish? It's me. [r]
-
-We..."[l][r].
-
-A familiar voice said sure. I turned my gaze in that direction. [l][r]
-
+「あー。もしかして」[l][r]
+私は案内板を見渡し、自分の向かうべき先を探す。[l][r]
+[r]「おーい。私のこと、覚えてるー？」[l][r]
+何か妙な抑揚の声が私の思考を邪魔す[r]
+る。ええい。うるさいな。[l][r]
+[r]「ねー、イシイでしょ。私だよ。[r]
+わ・た・し」[l][r]
+聞き覚えのある声が確かにそう言った。私は視線をそちらに向けた。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -180,105 +132,75 @@ A familiar voice said sure. I turned my gaze in that direction. [l][r]
 
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-There was a blue-eyed girl with long blond hair tied back and wearing a T-shirt with a strange sense of style. [l][r]
-
+長い金髪を後ろで縛り、妙なセンスのTシャツを着た、碧い瞳の少女がそこにいた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Oh, it's Ishii after all. Yay!"[l][r].
+「あ、やっぱりイシイだ。やっほー」[l][r]
+「ユ……。ユーリ……？！」[r]
+「そうだよ。良かったー、覚えてくれてた」[l][r]
+「君は一体……何しに……じゃない！　何で、どうやって、ここに？！」[l][r]
+「え？　普通に飛行機で」[l][r]
+「いやそうじゃなく」[r]
+「んん？　じゃあ何？　そうだ、イシイもこれからどっか行くの？」[l][r]
+コンビニかどこかで会ったのかくらいの気軽さでユーリが言う。ああもう！！[l][r]
 
-"YU....... Yuri......?!" [r]
-
-'Yes, I did. Good - you remembered."[l][r].
-
-What the hell are you ...... doing here?　Why, how, and how did you get here? [l][r]
-
-What?"[l][r]"What?　Usually by plane."[l][r].
-
-No, not that."[r]
-
-Hmm?"　Then what?　Yes, issii going somewhere from now on too?" [l][r]
-
-Yuri says with such casualness that I wonder if we met at a convenience store or somewhere else. Oh God! [l][r]
-
-
-[r]I thought later that I had probably never been so confused in two lifetimes[r].
-
-I had to get to the airport. But no matter how confused we are, we must avoid just missing the plane. [l][r]
-
+[r]私は二度の人生でこれだけ混乱したのは恐らく初めてだったと後になって思っ[r]
+た。しかしどんなに混乱していようと、飛行機に乗り遅れるのだけは避けなくてはならない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Enough! I'm sorry, I'm in a hurry!　Sorry, I'm in a hurry. [r]
-
-We'll talk later!　You, anyway, go to the observation deck just over here!" [l][r]
-
-[l][r]"Yeah, why?" [l][r]
-
-Tito is here."[l][r].
-
-Eh!!!!" [l][r]
-
+「いい。もういい！　すまないが私は急いでいる。[r]
+話はまた今度だ！　君はとにかく、こっちの先の展望デッキに行け！！」[l][r]
+「え、何で？」[l][r]
+「チトがいる」[l][r]
+「えっ！！！」[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r][r]Yuri's azure eyes flashed the same glint I saw when I told him there were two potatoes in the meal. [l][r]
-
-Hurry!" I shout. [l][r]
-
+[r]食事のイモが２つだよと言ったときに見たのと同じ輝きを、ユーリの碧い目が放った。[l][r]
+「急げ！」私は叫ぶ。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="dash-in-room1.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="ap2.jpg"  ]
 [tb_start_text mode=3 ]
-Roger!" Yuri running. [l][r]
-
+「了解！」駆けるユーリ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-A few seconds after I saw his back off, I realized [r].
-
-The first time I saw it, it was on a sign. On the signboard to the place where you should go. [l][r]
-
-I run as fast as I can. [l][r]
-
-[r]Eventually the procedure is completed successfully with paper-thin timing and I am on the plane. [l][r]
-
+その背を見送った数秒後、私は気付い[r]
+た。向かうべき場所への案内表示板に。[l][r]
+私も全速力で走る。[l][r]
+[r]やがて手続きは紙一重のタイミングで無事終わり、私は機上の人となる。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="airport-apron-1.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="ap5.jpg"  ]
 [tb_start_text mode=3 ]
-I sincerely cursed the timing of the business trip, but then I reconsidered, well, that's okay. It's called being in the water. [l][l]Oh, is that a word only used for married couples or parents and children? [l][r]
-
-Either way, this airport will now be filled with smiles and tears from the two happiest people in the world. [l][r]
-
-Just imagining it, I felt my heart warm like the spring sun [r].
-
- [l][r]
-
+私はこのタイミングでの出張を心底呪ったが、まあそれもいいかと考え直した。水入らずって奴だ。[l]あ、それは夫婦や親子の場合にしか使わない言葉だっけ？[l][r]
+どちらにせよ、今この空港は世界一幸せな二人の笑顔と涙とで満たされているだろう。[l][r]
+それを想像するだけで、私は胸の中が春の日なたのように暖かくなるのを感じ[r]
+る。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="fgd.png"  ]
 [tb_start_text mode=3 ]
-"Welcome Back ...... Yuri" [l][r].
-
-I closed my eyes and muttered to myself, and decided to hold my eyes with a handkerchief beforehand so I wouldn't have to fix my makeup anymore. [l][r]
-
+「おかえり……ユーリ」[l][r]
+私は眼を閉じてそう呟くと、もう化粧を直さなくて済むように、あらかじめハンカチで目頭を押さえておくことにした。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="black.png"  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-...... In addition, the plane flew safely. Rest assured. [l][r]
-
+……なお、飛行機は無事に飛んだ。安心してくれ。[l][r]
 [_tb_end_text]
 
 [cm  ]

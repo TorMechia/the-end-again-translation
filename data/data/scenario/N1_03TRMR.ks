@@ -8,116 +8,76 @@
 [bg  time="2000"  method="crossfade"  storage="sleepy.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-How long have I been sitting in the chair? [l][r]
-
-I stared at Yoo for a long time. She still has beautiful hair, slender limbs, and clear eyes. [l][r]
-
-[r]. None of the diminishing words I've heard so many times, none of the ephemeral statements, none of the songs with unfamiliar lyrics. [r]
-
-All that was exhaled from its mouth was really only faint, feeble breathing. [l][r]
-
+椅子に座って、どれくらいの時間が経っただろう。[l][r]
+私はずっとユーを見つめていた。相変わらずきれいな髪の毛で、手足はすらりと長くて、透き通るような瞳をしている。[l][r]
+[r]なのに。幾度となく聞かされた減らず口も、刹那主義な発言も、よくわからない歌詞の歌も、何ひとつ出てこない。[r]
+その口から吐き出されるのは、本当に微かな、弱々しい呼吸だけだった。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="knock01.ogg"  ]
 [tb_start_text mode=3 ]
-A small knock sounded through the curtain dividing the room. I rub my eyes with my arm and answer, "Come in. [l][r]
-
+小さなノックの音が、部屋を仕切るカーテン越しに響いた。私は腕で目元をこすって、どうぞと答える。[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hospital.jpg"  ]
 [tb_start_text mode=3 ]
-[r]ishii and a woman I didn't know came in [r].
-
-I was in the middle of a room with a man who was a man who was a man who was a man. [I looked into her eyes and immediately recognized her as Yuri's mother. This person was Yuri's mother in this world. [l][r]
-
-[r]"Tito, this is Yuri's mother."[r]
-
-Ishii stands between me and Yuri's mother and we exchange greetings. Then, in a voice a little like Yoo's, [l][r].
-
-He said to me, "You're a little girl, aren't you?" [r]
-
-......Why my, what do you call that? [l][r]
-
+[r]イシイと、見知らない女性が入って来[r]
+た。[l]その人の目元を見てすぐに判った。この人がユーリの、こっちの世界でのお母さんだと。[l][r]
+[r]「チト、ユーリのお母さんだ」[r]
+イシイが間に立ってくれて、ユーリのお母さんと挨拶を交わす。すると少しユーに似た声で、[l][r]
+「あなたがちーちゃん、ですね」と言われた。[r]
+……何で私の、その呼び方を？[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="diary.jpg"  ]
 [tb_start_text mode=3 ]
-As I was pouting, a notebook was handed to me. [l][r]
-
-Yuri," Yuri's mother continued, "wanted to see you. [l][r]
-
-'Tito, you should read that first. It's ......, but I want you to be prepared before you read it. [r]
-
-You have the right to read those notes. [r]
-
-No, it might be closer to saying it's an obligation. ......"[l][r].
-
-[r]et's talk about the details afterwards. With that, Ishii and Yuri's mother leave the hospital room. [l][r]
-
+ぽかんとしている私に、１冊のノートが渡された。[l][r]
+「ユーリは、あなたに会いたがってました」と、ユーリのお母さんは続けた。[l][r]
+「チト、まずはそれを読むといい。……だけど、覚悟をしてから読んで欲しい。[r]
+君にはそのノートを読む権利がある。[r]
+いや、義務と言った方が近いかもしれない……」[l][r]
+[r]詳しい話は、その後にしよう。そう言って、イシイとユーリのお母さんは病室から出ていく。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I stare at the notebook in my hand. A notebook with no title or name written on it. [l][r]
-
-As soon as I opened it, I knew. ...... Yuri's handwriting. I must have never seen decent handwriting written by that guy before, but my heart jumped when I figured it out. [l][r]
-
-Yoo's, Diary. ....... Pulse speeds up. Breathing becomes restless. My head is going to spin. I feel like if I open this, something is going to flood my emotions all at once. [l][r]
-
-But I want to know. What happened after we broke up that time? Why didn't Yu come to see me right away? [l][r]
-
-[r]When I was ready, I started reading the diary from the very first page. [l][r]
-
+私は手の中にあるノートを見つめる。タイトルも名前も書かれていないノート。[l][r]
+それを開くと、すぐにわかった。……ユーリの文字。あいつが書いたまともな字なんて初めて見たはずなのに、私の胸はそれを理解して、飛び跳ねた。[l][r]
+ユーの、日記……。脈拍が早くなる。呼吸が落ち着かなくなる。頭がぐるぐるしそうだ。これを開けたら、なにか感情が一気に溢れ出てしまいそうな気がする。[l][r]
+でも私は知りたい。あの時別れてから、何が起きたのか。ユーはなぜ、すぐに私に会いに来なかったのか。[l][r]
+[r]私は覚悟すると、一番最初のページから日記を読み始めた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="white.png"  ]
 [tb_start_text mode=3 ]
-'________ [r]'.
-
-Remembering the other side of the world (with the note "the other side of the world" erased in a messy way) [r].
-
-It's been that long since I came to this world. [l][r]
-
-I still can't touch the gun and I'm still restless. [r]
-
-I went to several hospitals, but they said they don't know what caused it. [l][r]
-
-If I may say so, it's a mental illness or something."[l][r].
-
-[R]"But I think I know what caused it. When I fired the gun at myself to come to this world, it was so dark that I was surprised. [l][r]
-
-No, that's what happens when you're dead, but you still have to go to ......"[l][r].
-
+『○月×日[r]
+向こうの世界のことを思い出し（という書き出しが雑に消されて）[r]
+こっちの世界に来てからそこそこ時間がたった。[l][r]
+相変わらず銃に触れないし、落ち着かない。[r]
+いくつか病院にもいったけど、原因は分からないって言われた。[l][r]
+しいて言うなら、心の病気だとかなんとか』[l][r]
+[r]『でも原因は何となくわかる気がする。こっちの世界に来るために自分に向けて銃を撃ったとき、ビックリするくらい真っ暗だった。[l][r]
+いや、死んじゃったらそうなるのは当たり前だけど、でも……』[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-No, my hands are shaking. Let's get back to the story. At any rate, I can't see Chi-chan like this. [l][r]
+『だめだ、手が震えている。話をもどそうかな。とりあえず、こんなんじゃちーちゃんに会えない。[l][r]
+会ったら心配するし、絶対自分のせいだって言って落ち込ませちゃう。[l][r]
+だから、もとの自分に戻すために、メモ代わりに日記をつけることにした。[l][r]
+おー、ちーちゃんっぽいことしてる。でも続けられるかな。もう書くのめんどくなってきた。あとは簡単に書いちゃお[r]
+う』[l][r]
+[r]『えーっと、とりあえず自分の病気[r]
+（？）は原因不明だから、本を買ってきた。[l][r]
+入門編心因性なんたらかんたらとか、とりあえず三冊くらい。[r]
+これ難しすぎない？　でも頑張ろう』[l][r]
 
-When I see him, I worry about him and I definitely tell him it's his fault and I make him depressed. [l][r]
-
-So I decided to keep a diary instead of notes to get back to my original self. [l][r]
-
-Oh, I'm doing something chi-chi. But I wonder if I can continue. I'm already getting tired of writing. Let's just write the rest simply [r].
-
-U" [l][r].
-
-[r]"Let's see, anyway, my disease [r].
-
-(?) is unexplained, so I bought a book. [l][r]
-
-Introductory psychogenic nonsense, or at least three books. [r]
-
-Isn't this too difficult?　But let's do our best."[l][r].
-
-
-[cm] Underneath these scribbles, there were a number of keywords, like keywords from books that Yoo had probably read. [l][r]
-
+[cm]こんな走り書きの下に、恐らくユーの読んだであろう本のキーワードみたいなものがいくつか並べられていた。[l][r]
 
 
 
@@ -125,75 +85,50 @@ Isn't this too difficult?　But let's do our best."[l][r].
 
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
-[r]I continue and open the page. The date is immediately skipped. Still, there are notes scribbled here and there. [l][r]
+[r]私は続けてページを開く。早速日付が飛んでる。それでもってあちこちにメモが書きなぐられている。[l][r]
+見る分に、気になった単語をメモして、自分で考えを作り出して、どんな場合にどう対応するかを考えているのだと解った。[l][r]
+[_tb_end_text]
 
-The minute I saw it, I realized that I had to write down the words that caught my attention, create my own thoughts, and think about how to respond in any given case. [l][r]
+[cm  ]
+[tb_start_text mode=3 ]
+『○月△日　だめだ、全然よくならな[r]
+い。一回家にあるモデルガン触ろうとしたけど、また吐きそうになった。[l][r]
+少し横になるくらいで落ち着いたけど、これじゃ本当にまずいかも』[l][r]
+[r]『えー、ちーちゃんならどうするんだろう。[l]ちーちゃんは頭いいから、助けてくれそうな気がする。でも聞いたら迷惑かな。[l][r]
+いや、聞いちゃったらちーちゃんが悲しんじゃう。そんなの嫌だ。となると、自分で頑張るしかない』[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-No, it's not getting any better [r].
+『○月○日　今日は向こうの世界のことを少し思い出そうと思う。[r]
+私がユーリで、あっちがちーちゃん。二人合わせて……よしよし、調子いい。[l][r]
+向こうではおじいさんと住んでいた。[r]
+ご飯もっと食べたいって思ってた気がする』[l][r]
+[r]『旅に出てから、色々な人にも会った。カメラくれたカナガワ、あれ？[r]
+カナザワだっけ？　あと飛行機を作ったイシイ』[l][r]
+[r]『白い猫みたいなヌコ。そういえばあいつ、結局猫じゃなかったなー。でも柔らかかったからまた触りたい』[l][r]
 
-I was so sick I wanted to throw up again. I tried to touch a model gun at home once, but I almost threw up again. [l][r]
-
-I've calmed down enough to lie down a little bit, but this could be really bad."[l][r].
-
-[r]‖[r]ee, I wonder what Chi-chan would do. [l]Chi-chan is smart, so I think she would help me. But I wonder if she would be annoyed if I asked her. [l][r]
-
-No, if I ask, Chi-chan will be sad. I don't want that. Then, I'll have to do it by myself."[l][r].
-
-
+[cm]『×月○日　お母さんがカウンセリングを受けなさいと言ってくれた。[r]
+原因もよく分からないのに、すごく助けてくれる。[l][r]
+お父さんも、一回だけ何かあったのかって聞いてきたけど、それ以降は聞いてこない。察してるのかな、私だけにしか理解できないってことが』[l][r]
+[r]『私のお父さんとお母さん、すごくいい人でよかった。早く元気になって安心させて、ちーちゃんにも紹介したいな』[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'____ Today I'm going to try to remember a few things about the world over there. [r]
-
-I'm Yuri and that's Chi Chi. The two of us together are ...... okay, okay, we're in good shape. [l][r]
-
-I lived with my grandfather over there. [r]
-
-I feel like I wanted to eat more rice."[l][r].
-
-[r]"Since I've been traveling, I've met a lot of people. Kanagawa, who gave me a camera, that? [r].
-
-Kanazawa, right?　And Ishii, who made the airplane" [l][r].
-
-[r]"A nookie that looks like a white cat. Come to think of it, that guy wasn't a cat after all. But it was soft, so I want to touch it again."[l][r]"I want to touch it again."[l][r]"I want to touch it again.
-
-
-[cm]"X month X day, your mother told you to go to counseling. [r]
-
-They help me so much, even though I don't really know the cause. [l][r]
-
-Dad even asked me once if something was wrong, but he never asked me again. I wonder if he's sensing that I'm the only one who understands."[l][r].
-
-[r]"My father and mother are very nice people, thank goodness. I can't wait to get well and reassure them and introduce them to Chi-chan."[l][r]
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-X days have passed since my counseling session. Today I was able to hold a model gun. I did it, I took a step forward. [l][r]
-
-I thought so, but when I pulled the trigger, my eyes went round and I realized I was throwing up. I was so close."[l][r].
-
-[r]There is one wet spot on the page. Gently touch it there. [r]
-
-Yeah, I know, u...... you were desperate. [l][r]
-
+『×月□日　カウンセリングを受けて何日かたった。今日はモデルガンを持つことができた。やった、一歩進めた。[l][r]
+そう思ったのに、引き金を引いたら目がぐるぐるして気づいたら吐いていた。あとちょっとなのに』[l][r]
+[r]そのページには濡れた後が一ヶ所。そこにそっと触れる。[r]
+ああ、わかるよユー……お前は、必死だったんだよな。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-I was told to take a break from rehabilitation for a while. I told them I didn't want to, but they said I was too preoccupied and it would have the opposite effect. [l][r]
-
-Yes, I guess I need a little rest. I want to eat fish."[l][r].
-
-[r]"...... Chi-chan and I want to eat."[l][r][l][r][r].
-
+『□月○日　リハビリをしばらく休もうって言われた。嫌だって言ったけど、気負いすぎて逆効果になるって言われた。[l][r]
+たしかに、ちょっとは休むことも必要かな。お魚が食べたい』[l][r]
+[r]『……ちーちゃんと、食べたいな』[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -201,142 +136,92 @@ Yes, I guess I need a little rest. I want to eat fish."[l][r].
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Wet marks, two. [l][r]
-
-[r][l][r] After that, the date disappeared from Yoo's diary, [l][r][l][r].
-
-[r]"I couldn't even hold a gun today. I read a book, but I can't even get my head around rehab. I feel like something is chasing me and I'm scared."[l][r].
-
+濡れた痕が、ふたつ。[l][r]
+[r]その後、ユーの日記から日付が消え、[l][r]
+[r]『今日は銃も持てなかった。本を読んでも、リハビリも頭に入ってこない。なにかが追いかけてくる感じがして怖い』[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Sentences are shortened, [l][r].
-
-[r]"Just looking at the gun today made me want to throw up. I can't let Chi-chan see me like this."[l][r]
-
-[r] Instead of [l][r].
-
-[r]"But I want to see you. I want to see you, Chi-chan."[l][r][l][r].
-
-[cm]My name is [l][r].
-
-[r]"Chi-chan, what are you doing now?"[l][r].
-
+[r]文章が短くなり、[l][r]
+[r]『今日は銃を見ただけで吐きそうになった。こんな私をちーちゃんに見せられないよ』[l][r]
+[r]代わりに、[l][r]
+[r]『でも、会いたい。会いたいよちーちゃん』[l][r]
+[cm]私の名前が、[l][r]
+[r]『ちーちゃん、今何してるのかな』[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]u's, tear marks [l][r].
-
-[r]"No. ...... I shouldn't cry, but I can't stop. I'm going to wet my notebook."[l][r][l][r].
-
-[r][r]Increasing. [l][r]
-
-[r]"Why, why?"[l][r].
-
-[r] "Chi-chan. Chi-chan. [r]
-
-Chi-chan." [l][r]
-
-[r]"uch ......yu, ugh" [l][r].
-
+[r]ユーの、涙の痕が[l][r]
+[r]『ダメだよ……泣いちゃダメなのに、止まらない。ノートが濡れちゃう』[l][r]
+[r]増えていく。[l][r]
+[r]『なんで、なんで』[l][r]
+[r]『ちーちゃん。ちーちゃん。[r]
+ちーちゃん。』[l][r]
+[r]「っ……ゆ、ぅ」[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-A notebook wrinkled with tears. Yuri's letters trembling along with it. [l]A mournful cry calling out to me. Did he live ...... such ...... taut days? [l][r]
-
+涙でしわしわになったノート。それに合わせて震えていくユーリの文字。[l]私を呼ぶ悲痛な叫び。あいつは……こんな……張り裂けそうな毎日を送ってたのか。[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
-[r][r]Suddenly, a diary with a solid writing style appeared. [l][r]
-
+[r]突然、しっかりとした文体での日記が現れた。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m0_piano.ogg"  ]
 [tb_start_text mode=3 ]
-I had a dream. I dreamt that I was coming here. I had that dream when I shot myself. [l]Then I understood everything. I did indeed shoot at myself."[l][r].
-
-'But it's' [l][r].
-
-'It was with shooting 'chi-chan' who was with me all the time."[l][r].
-
-'So I didn't kill me.'[l][r].
-
-[r]"I killed Chi-chan."[l][r]"I killed Chi-chan."[l][r]"I killed Chi-chan."[l][r]"I killed Chi-chan.
-
-'I'm sorry, Chi-chan. ...... even though Chi-chan told me. [l]I thought we'd grown apart, but you've been with Chi-chan for a long, long time."[l][r].
-
+『△月○日　夢を見た。自分が、こっちに来るときの夢。自分を撃ったときのあの夢が。[l]それで、全部わかった。私は、たしかに自分に向けて銃を撃った』[l][r]
+『でも、それは』[l][r]
+『私とずっといた「ちーちゃん」を撃つことと、一緒だったんだ』[l][r]
+『だから、私は私を殺したんじゃない』[l][r]
+[r]『ちーちゃんを殺したんだ』[l][r]
+『ごめんね、ちーちゃん……ちーちゃんが言ってくれてたのに。[l]私たち、離ればなれになったと思ってたけど、ずっとずっと、ちーちゃんと一緒にいたんだね』[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
-'I killed Chi-chan. ...... I killed her. ......' [l][r].
-
-The end of it was filled with many tear marks. The lines of writing were extending in strange directions, as if he was no longer able to write. [l][r]
-
- [l][r]
-
-Tears overflowing from my eyes pour down there. It overlaps with the tear marks of Yoo. [r]
-
-'Sorry ......' [r].
-
-And on that last line, in one tremulous letter. [l][r]
-
-[r]"Chi-chan" [l][r].
-
-It was marginal. [l][r]
-
+『私、ちーちゃんを殺しちゃった……殺しちゃったよ……』[l][r]
+その先はたくさんの涙の痕で満たされていた。文字を書くこともできなくなったのか、書きかけの文字の線が、変な方向に延びていた。[l][r]
+「ゆー……！」[l][r]
+そこに私の目から溢れた涙が降り注ぐ。ユーの涙の痕と重なる。[r]
+『ごめんね……』[r]
+そして、その最後の行に、ひとつだけ、震えた文字で。[l][r]
+[r]『ちーちゃん』[l][r]
+限界だった。[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="paper-take2.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-Yoooooooooo!!!" [l][r]
-
-I hang on to the precious person in front of me who is no longer moving. [l][r]
-
-[r]Sorry. I'm sorry. I'm sorry! [l][r]
-
-I was helpless. I couldn't do anything. [l][r]
-
-You were alone, and you've been fighting this battle alone for a long, long time. [l]I never realized. [l][r]
-
-'I'm sorry, Higg, I'm sorry, [r].
-
-Yuri ...... Yurii ......!  [l][r]
-
-There is no mistake. I, I, I misjudged something fatal. [l][r]
-
+「ユーーーーっ！！」[l][r]
+私は目の前の、もう動かなくなってしまった大切な人にすがり付く。[l][r]
+[r]ごめん。ごめんね、ごめんね！[l][r]
+私は無力だ。なにもできなかった。[l][r]
+お前は一人で、ずっとずっと一人で戦い続けていたのに。[l]私は気づけなかった。[l][r]
+「ごめんっ、ひっぐ、ごめんね、[r]
+ユーリ……ユーリぃ……！[l]　ぁああぁあああ！！」[l][r]
+間違いない。私は、私は、致命的な何かを誤ったんだ。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-That's why Yuri is in this state. [l][r]
+だからユーリはこんな状態になってしまった。[l][r]
+でも、何を？[l][r]
+私は、何を間違ったの？　それが分からない。[l]私を撃った？　殺した？　どういうことなんだ？[l][r]
+ユー、お前の中にはいったい何があったんだ？[l]　私たちは、ひとつの生き物のようになれたはずだった。なのに、何も分からないんだ！[l][r]
+[r]何も分からない。[r]
+分からない自分がどうしようもなく無力で、憎くてたまらない。[l][r]
+やり場のない後悔と、見えない過ちがぐるぐるしている。それは涙となって私の顔を埋めつくし、グシャグシャになっていく。[l][r]
 
-But what? [l][r]
-
-What did I do wrong?　I don't know that. Did you [l]shoot me?　Killed you?　What do you mean? [l][r]
-
-Yu, what the hell was in you? [l] We could have been like one living thing. And yet, I don't understand anything! [l][r]
-
-[r]I don't know anything. [r]
-
-I am helpless and hate myself for not understanding. [l][r]
-
-Undoable regrets and invisible mistakes are circling around me. It fills my face with tears and makes me squishy. [l][r]
-
-
-[cm]Sorry, u[l][r].
-
-[r]...... sorry. [l][r]
-
-[r]Sorry. ....... [l][r]
-
+[cm]ごめん、ユー[l][r]
+[r]……ごめん。[l][r]
+[r]ごめんね……。[l][r]
 [_tb_end_text]
 
 [cm  ]

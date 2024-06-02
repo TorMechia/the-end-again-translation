@@ -8,74 +8,56 @@
 [bg  time="2000"  method="crossfade"  storage="fgd.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I am happy. [l][r]
-
-My parents are a little nagging but kind, and school is a little boring but not uncomfortable. [l][r]
-
-I think the activities of the library committee are suited to me, and I enjoy talking with my book-loving friends. [l][r]
-
+私はしあわせだ。[l][r]
+両親は少し口うるさいけど優しくて、学校も少し退屈だけど居心地は悪くない。[l][r]
+図書委員の活動は自分に向いていると思うし、本好きの友達との会話は楽しい。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-
-
-No fear of collapsing buildings, no shivering in the cold waiting for morning. [l][r]
-
+[r]毎日の食事に困ることもなく、雪を溶かして飲む必要もなく、[l][r]
+建物の倒壊に怯えることもなく、寒さに震えながら朝を待つこともない。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-
-
-You must miss ....... [l][r]
-
+[r]何てしあわせで、何て恵まれていて、何でこんなに、[l][r]
+……寂しいんだろう。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Even .........[l][r].
-
+……だって…[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[R]eally, I know. I don't need to think about this stuff. [l][r]
-
+[r]分かってる。こんなことを考える必要なんかないと。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]...... but...[l][r].
-
+[r]……でも…[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Something inside me is crying out. [l][r]
-
+[r]私の中で、何かが泣き声をあげている。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-That "misty" something, light gray in color, appears before my eyes, sometimes periodically, sometimes unexpectedly. [l][r]
-
-When it gets so big that I can no longer ignore it, I reach for it, wanting to stop thinking about unnecessary things. [l][r]
-
-[r]It's okay. [r]
-
-I know. [r]
-
-Don't cry. [l][r]
-
+薄灰色をしたその「もや」のような何かは、あるときは周期的に、あるときは不意に私の目の前に現れる。[l][r]
+私はそれが無視できなくなる程に大きくなると、余計なことを考えるのをやめたくて、それに手を伸ばしてしまう。[l][r]
+[r]大丈夫だよ。[r]
+分かってるよ。[r]
+泣かないで。[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-[r]Hold Moya's head and stroke it. [l][r]
-
-The haze thickens, changes shape, and eventually becomes clearly visible. [l][r]
-
+[r]もやの頭を抱いて、撫でてやる。[l][r]
+もやは濃くなり、形を変えて、やがてはっきりと姿を現す。[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -83,58 +65,38 @@ The haze thickens, changes shape, and eventually becomes clearly visible. [l][r]
 [bg  time="2500"  method="crossfade"  storage="zetu1.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-A small child. [r]
-
-I was a little ...... girl in that world, dressed in dingy clothes that looked like they were just rags. [l][r]
-
+小さな子どもの姿。[r]
+ぼろ布を纏っただけのような薄汚れた服を着た、あの世界での、小さい頃の……わたし。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-What's wrong?" I ask. [l][r]
-
-'I'll miss you ......,' I reply. [l][r]
-
-'It's all right,' I comfort. [l][r]
-
-I'm not fine. ......] [l][r]
-
-But, you know, I don't have a choice."[l][r].
-
-"No. ......" [l][r].
-
-[r]I will not [r]listen to my words.
-
-He does not cry, nor does he try to hold back his tears. [l][r]
-
+「どうしたの？」私は聞く。[l][r]
+「さみしいの……」わたしが答える。[l][r]
+「大丈夫だよ」私は慰める。[l][r]
+「だいじょうぶじゃない……」わたしは駄々をこねる。[l][r]
+「でもね、仕方ないんだよ」[l][r]
+「いやだ……」[l][r]
+[r]わたしは私の言葉を聞き入れようとせ[r]
+ず、泣くのを堪えようともしない。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [quake  time="600"  count="10"  hmax="3"  wait="false"  ]
 [tb_start_text mode=3 ]
-Aiitai ......Aiitai yo! ......[r]
-
-You. ...... you! [r]
-
-...... Where are you? ...... Where are you!　 [l][r]
-
-I try to cover my ears as I hold my head. [l][r]
-
-Still my voice crying out unreservedly [r].
-
-shakes my eardrums and makes me tremble. [l][r]
-
+「あいたい……あいたいよぉ！……[r]
+ユー……ユー！[r]
+……どこ？……どこにいるの！？　わあああぁああぁあぁ！！！」[l][r]
+私はわたしの頭を抱き抱えながら、自分の耳を塞ごうとする。[l][r]
+それでも無遠慮に泣き叫ぶわたしの声[r]
+が、鼓膜を震わせて、私を震わせる。[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I'm going to crack my head open. [l][r]
-
-It's going to rip my heart out. [l][r]
-
-Stop screaming. Stop crying. [l][r]
-
-I continue to hold me as if in prayer, wishing only for that. [l][r]
-
+[r]頭が割れてしまいそうだ。[l][r]
+心が裂けてしまいそうだ。[l][r]
+叫ぶのをやめて。泣くのをやめて。[l][r]
+私はただそれだけを願いながら、祈るようにわたしを抱きしめ続ける。[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -142,18 +104,15 @@ I continue to hold me as if in prayer, wishing only for that. [l][r]
 [bg  time="2000"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Eventually, perhaps tired of crying, my figure fizzles out, returning to its original "moya". [l][r]
-
+やがて泣き疲れたのか、わたしの姿は元の「もや」へと戻って、霧散していく。[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-...... How many times has this happened? [l][r]
-
-Swearing that nothing had to come out late at night before a test, I shook my heavy head and began the futile effort to get back to sleep. [l][r]
-
+……これで何度目だろう。[l][r]
+何もテスト前の深夜に出て来なくてもいいのにと私は悪態をつきながら、重い頭を振って、再び眠りに就くための無駄な努力を開始した。[l][r]
 [_tb_end_text]
 
 [cm  ]
