@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/black.png"  ]
+[preload  storage="./data/bgimage/isilast.jpg"  ]
+[preload  storage="./data/bgimage/isiroom_1.jpg"  ]
+[preload  storage="./data/bgimage/town.jpg"  ]
+[preload  storage="./data/bgimage/stitele.jpg"  ]
+[return]
