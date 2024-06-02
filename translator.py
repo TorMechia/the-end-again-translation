@@ -8,8 +8,8 @@ import logging
 logging.basicConfig(level=logging.DEBUG, format="%(levelname)s:\t %(message)s")
 
 # CURRENT_TRANSLATOR = GoogleTranslator(source="ja", target="en")
-# CURRENT_TRANSLATOR = ChatGptTranslator(api_key=input("ChatGPT API Key: "), target='english')
-CURRENT_TRANSLATOR = DeeplTranslator(api_key=input("Deepl API Key: "), source="ja", target="en", use_free_api=True)
+CURRENT_TRANSLATOR = ChatGptTranslator(api_key=input("ChatGPT API Key: "), target='english')
+# CURRENT_TRANSLATOR = DeeplTranslator(api_key=input("Deepl API Key: "), source="ja", target="en", use_free_api=True)
 
 
 def translate_ks(relative_directory="data/data/scenario/"):
