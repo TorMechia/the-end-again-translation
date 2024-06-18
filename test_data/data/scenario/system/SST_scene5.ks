@@ -1,8 +1,0 @@
-[preload  storage="./data/bgimage/black.png"  ]
-[preload  storage="./data/bgimage/st_s2_4.jpg"  ]
-[preload  storage="./data/bgimage/sinen.png"  ]
-[preload  storage="./data/bgimage/fact2.jpg"  ]
-[preload  storage="./data/bgimage/fact.jpg"  ]
-[preload  storage="./data/bgimage/fgd.png"  ]
-[preload  storage="./data/bgimage/white.png"  ]
-[return]

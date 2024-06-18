@@ -1,7 +1,0 @@
-[preload  storage="./data/bgimage/black.png"  ]
-[preload  storage="./data/bgimage/st_s2_2.jpg"  ]
-[preload  storage="./data/bgimage/kanaroom.jpg"  ]
-[preload  storage="./data/bgimage/chirashi2.jpg"  ]
-[preload  storage="./data/bgimage/chirashi.jpg"  ]
-[preload  storage="./data/bgimage/white.png"  ]
-[return]

@@ -1,6 +1,0 @@
-[preload  storage="./data/bgimage/st_sB_B3.jpg"  ]
-[preload  storage="./data/bgimage/rf2.jpg"  ]
-[preload  storage="./data/bgimage/ap1.jpg"  ]
-[preload  storage="./data/bgimage/blue2.jpg"  ]
-[preload  storage="./data/bgimage/white.png"  ]
-[return]
