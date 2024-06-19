@@ -1,0 +1,62 @@
+[_tb_system_call storage=system/SN1_07TRMR.ks]
+
+[cm  ]
+[tb_show_message_window  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="train-station-wickets-1.ogg"  ]
+[bg  time="1000"  method="crossfade"  storage="stationjpg.jpg"  ]
+[tb_start_text mode=3 ]
+It was a hot day that day.[l][r]
+The sun was shining down on the concrete, warming it, and the high humidity made it feel as hot as being inside a steamer.[l][r]
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+[r]In a train station in the middle of such a city, a woman with black hair in two ponytails was standing alone with a sullen expression on her face. [l][r]
+It seemed like he was waiting for someone, and he kept looking at his smartphone screen, sighing, crossing his arms and tapping his fingers, wiping the sweat that was seeping out with a handkerchief. [l][r]
+
+[r]By the way, it's been almost 30 minutes since she last did this. The person she was waiting for was late. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+She would be angry if she had to wait 30 minutes in this heat. If this continued, her temper would reach its boiling point and she would surely vent her anger.[l][r]
+[r]The woman turned her head to the side. It seemed as if someone was calling her. From the crowd ahead, a blonde woman came running up to her, waving her hand. It seemed that she was someone she was waiting for, and she was late. [l][r]
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+[r]A dark-haired woman with a frown on her face complaining at length. [l][r]
+The woman who was late on the other hand apologized with a weak smile and folded her hands together. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Eventually, it seems, I was forgiven.
+[l][r]
+The black-haired woman smiled and said: [l][r]
+[r] "It's late." [l][r]
+[r]The blonde woman replied: [l][r]
+[r]"Sorry to keep you waiting" [l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+And so, the two of them disappear into the crowd together.[l][r]
+[r]Holding their hands tightly so they wouldn't let go. [l][r]
+[_tb_end_text]
+
+[cm  ]
+[hidemenubutton]
+
+[bg  time="3000"  method="crossfade"  storage="black.png"  ]
+[tb_hide_message_window  ]
+[bg  time="1000"  method="crossfade"  storage="seeyou.png"  ]
+[tb_eval  exp="sf.ED_N=1"  name="ED_N"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
+[tb_start_text mode=3 ]
+[l][r]
+[_tb_end_text]
+
+[jump  storage="title_screen.ks"  target="*titele_0"  ]
+[s  ]
+[cm  ]
+[cm  ]
+[cm  ]
+[cm  ]

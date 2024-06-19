@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/st_s3_1.jpg"  ]
+[preload  storage="./data/bgimage/tenji.jpg"  ]
+[preload  storage="./data/bgimage/chitdown.jpg"  ]
+[preload  storage="./data/bgimage/chitdown2.jpg"  ]
+[return]

@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/Chitroom.jpg"  ]
+[preload  storage="./data/bgimage/sinen.png"  ]
+[preload  storage="./data/bgimage/moya50.jpg"  ]
+[preload  storage="./data/bgimage/moya120.jpg"  ]
+[return]
