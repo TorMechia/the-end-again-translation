@@ -1,0 +1,62 @@
+[_tb_system_call storage=system/SN1_07TRMR.ks]
+
+[cm  ]
+[tb_show_message_window  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="train-station-wickets-1.ogg"  ]
+[bg  time="1000"  method="crossfade"  storage="stationjpg.jpg"  ]
+[tb_start_text mode=3 ]
+It was a hot day.[l][r]
+The sun beat down steadily on the concrete, and the high humidity made it feel as if we were in a steam cooker.[l][r]
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+[r]In such a stifling station, a woman with black hair tied in two ponytails stood alone with a sullen expression.[l][r]
+Apparently, she was waiting for someone. She kept glancing at her phone, sighing, crossing her arms, tapping her fingers, and wiping the sweat from her face with a handkerchief.[l][r]
+
+[r]She had been repeating this cycle for almost 30 minutes. The person she was waiting for was late.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Being made to wait in this heat for 30 minutes would make anyone angry. It seemed like it wouldn't be long before she hit her boiling point and her frustration boiled over.[l][r]
+[r]Just then, she turned her head. It seemed someone had called out to her. From amidst the crowd, a blonde woman waved and hurried over. It looked like the person who was late had finally arrived.[l][r]
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+[r]The woman with black hair frowned and began to complain.[l][r]
+The blonde woman who was late smiled apologetically, clasping her hands in front of her and bowing repeatedly.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Eventually, it seemed she was forgiven.[l][r]
+The woman with black hair smiled and said,[l][r]
+[r]"You're late."[l][r]
+The blonde woman replied,[l][r]
+[r]"Sorry to keep you waiting."[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+And so, the two of them disappeared into the crowd together.[l][r]
+[r]Holding hands tightly, so they wouldn't be separated.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[hidemenubutton]
+
+[bg  time="3000"  method="crossfade"  storage="black.png"  ]
+[tb_hide_message_window  ]
+[bg  time="1000"  method="crossfade"  storage="seeyou.png"  ]
+[tb_eval  exp="sf.ED_N=1"  name="ED_N"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
+[tb_start_text mode=3 ]
+[l][r]
+[_tb_end_text]
+
+[jump  storage="title_screen.ks"  target="*title_0"  ]
+[s  ]
+[cm  ]
+[cm  ]
+[cm  ]
+[cm  ]
+

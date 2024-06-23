@@ -1,0 +1,147 @@
+[_tb_system_call storage=system/SB1_02CRCS.ks]
+
+[stopbgm  time="1500"  fadeout="true"  ]
+[cm  ]
+[tb_hide_message_window  ]
+[bg  time="2000"  method="crossfade"  storage="st_sB_2.jpg"  ]
+[wait  time="2000"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="m2_piano.ogg"  ]
+[bg  time="1500"  method="crossfade"  storage="isiroom_2.jpg"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=3 ]
+"...Are you okay?"[l][r]
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+"Well, I'm not sick or anything. I'm just sleeping soundly right now."[l][r]
+"I'm not talking about Chito. I'm talking about you, Yuuri."[l][r]
+"Me?"[l][r]
+
+[r] The voice on the other end of the phone sounded surprised. There's nothing particularly strange about the voice, but the hesitation before responding makes it seem like my concern isn't completely misplaced.[l][r]
+"Yes, I think you should worry a bit about yourself too."[r]
+"Do you really think so?"[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Worrying unusually about Chito while she's asleep, Yuuri responds in a soft, uncertain tone. I can't see her face, but I can imagine her tilting her head, her blue eyes darting around.[l][r]
+[r]"You might not notice since you're always together, but I can tell since I only see you occasionally. Since the incident with the Kettenkrad, Chito has been slowly changing. But you..."[l][r]
+"I'm fine. Nothing's changed with me."[r]
+"That's exactly why I'm worried," I say with a small sigh.[l][r]
+"Huh?"[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"How many years do you think have passed since then? Two years? Three? For someone your age, it's natural to change a lot during that time. But you haven't changed. It even looks like you're refusing to change."[r]
+I spoke from my heart.[l][r]
+"Chito and you never talk about what you discussed or did 'in the other world'... I can only guess."[l][r]
+[_tb_end_text]
+
+[tb_start_text mode=3 ]
+"We've said it was nothing. I just died from lack of food over there and safely arrived here, that's all."[l][r]
+"Sorry... it's not that I don't believe you."[l][r]
+[cm] "It's okay. I'm sorry too... Ishii, you're really kind."[l][r]
+"..."[l][r]
+
+[r]I think I understand. I know who is truly kind.[l][r]
+
+[r]Yuuri's story about her 'end in the other world' is obviously a lie. Both Kanazawa and I know that.[l][r]
+Even if we don't know exactly what Chito said and what Yuuri chose, we can imagine. And we do.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+...Yuuri chose to come see Chito, even at that cost to herself.[l][r]
+
+[r]And she keeps smiling without any change.[l][r]
+Even I, who lived with them for only a short while, feel my chest tighten when I think of Yuuri's courage and kindness.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+Then, what about Chito?[l][r]
+What does Chito, who made such a choice, intend by keeping Yuuri by her side?[l][r]
+
+In truth... No, nobody can decide what people should be like, but if I had to say,[l] it wouldn't be strange for Chito to be at Yuuri's side to heal her wounded heart. Yet, in reality, it's the opposite.[l][r]
+[r]The one who seems more hurt is Chito, and Yuuri is desperately trying to comfort her.[l][r]
+[r]It's like...[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"Ishii, are you listening?"[l][r]
+Yuuri's absent-minded voice brought my consciousness back to the call.[l][r]
+
+[r]"Ah, sorry. What did you say?"[r]
+"Kanazawa hasn't been in contact lately. Do you know anything?"[l][r]
+"Oh, it's probably just temporary. Don't worry about it."[l][r]
+"Really?"[r]
+"Yes."[l][r]
+
+[r]That was true. It's a somewhat delicate matter, though.[l][r]
+It seems Kanazawa's wife is pregnant. Since it's not stable yet, he's asked me to keep it a secret from them for a while.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"...I may feel like I know you both better than Kanazawa, but for matters of a relationship, he and his wife are better advisors than me, who's been single for a long time."[l][r]
+"Yeah, you're right... but we're not a couple!"[l][r]
+Yuuri denies it, unusually embarrassed. Well, her reaction is cute.[l][r]
+
+[r]"When I can get in touch with Kanazawa again, I'll tell him to contact you."[l][r]
+"Thanks."[l][r]
+Yuuri says this genuinely. Though I'm not guilty for keeping the truth from her, it still hurts a little.[l][r]
+
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+"...There's only one thing I can say. Yuuri, please don't overdo it."[l][r]
+"Overdo it?"[r]
+"Yes, if you ever feel like you can't handle it... it's okay to walk away. If you ever feel like Chito is too much for you to handle..."[l][r]
+
+[_tb_end_text]
+
+[cm  ]
+[stopbgm  time="1000"  ]
+[tb_start_text mode=3 ]
+"Wait"[l][r]
+With a single word from Yuuri, she sharply cut off my words. I couldn't continue.[l][r]
+I felt as if a gun was pointed at me, her blue eyes staring through the phone. However[l][r]
+
+[r]"Wait... sorry. It looks like Chito woke up. I'll call you back later."[l][r]
+But her voice was calm. It was warm. Even while warning me 'don't say another word', it was compassionate.[l][r]
+
+[r]"...Alright, got it. Talk to you later."[l][r]
+[_tb_end_text]
+
+[playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  ]
+[tb_start_text mode=3 ]
+With that, I ended the call.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+I felt strange.[l][r]
+Scary, yet warm. Lovely, yet... sad.[l][r]
+As these indescribable feelings settled, the image of Yuuri in my mind lowered the gun and smiled faintly.[l][r]
+
+[r]I started seeking the words that had crossed my mind earlier. Yes, those kids...[l][r]
+[_tb_end_text]
+
+[cm  ]
+[bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
+[tb_start_text mode=3 ]
+...they're like holding onto a plane with broken wings.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[bg  time="2000"  method="crossfade"  storage="black.png"  ]
+[tb_hide_message_window  ]
+[jump  storage="B1_03CRCS.ks"  target=""  ]
+[s  ]
+[cm  ]
+[cm  ]
+[cm  ]
+[cm  ]
