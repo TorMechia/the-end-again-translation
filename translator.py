@@ -12,7 +12,7 @@ CURRENT_TRANSLATOR = ChatGptTranslator(api_key=input("ChatGPT API Key: "), targe
 # CURRENT_TRANSLATOR = DeeplTranslator(api_key=input("Deepl API Key: "), source="ja", target="en", use_free_api=True)
 
 
-def translate_ks(relative_directory="data/data/scenario/"):
+def translate_ks(relative_directory="test_data/data/scenario/"):
     ks_files = get_ks_file_queue(relative_directory)
     while not ks_files.empty():
         current_file = ks_files.get()

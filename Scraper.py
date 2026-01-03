@@ -6,7 +6,7 @@ from urllib.error import HTTPError
 
 
 class Scraper:
-    def __init__(self, root_web_url='https://rimsx.sakura.ne.jp/onemore/', data_directory_path='data/'):
+    def __init__(self, root_web_url='https://rimsx.sakura.ne.jp/onemore/', data_directory_path='test_data/'):
         self.root_web_url = root_web_url
         self.directory_path = data_directory_path
         self.failed_downloads = []
@@ -15,7 +15,7 @@ class Scraper:
         # special case download base html file as index.html
         # web_response = urllib.request.urlopen(self.root_web_url)
         # content = web_response.read().decode()
-        # file = open(file="data/index.html", mode='w', encoding='utf-8')
+        # file = open(file="test_data/index.html", mode='w', encoding='utf-8')
         # file.write(content)
 
         unscraped_pages = Queue()
@@ -88,7 +88,7 @@ class Scraper:
         except HTTPError:
             self.failed_downloads.append(self.root_web_url + relative_url)
 
-    def har_download(self, har_filepath="data/" + "rimsx.sakura.ne.jp.har"):
+    def har_download(self, har_filepath="test_data/" + "rimsx.sakura.ne.jp.har"):
         undownloaded_pages = Queue()
         downloaded_pages = []
         with open(har_filepath, 'r', encoding='utf-8') as file:
